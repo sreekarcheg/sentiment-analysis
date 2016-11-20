@@ -118,7 +118,7 @@ Epoch 10/10
 avg / total       1.00      0.89      0.94      2028
 
 ## Code   
-The individual bunch of features can be seen above. All of these features have been put together in mpqa.py. 
+The code for extracting features can be seen above. All of these features have been put together in mpqa.py. 
 The code for training and evaluation of models is in run.py
 The dataset parser of MPQA has been taken from @msr8  
 
