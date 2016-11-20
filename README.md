@@ -18,7 +18,7 @@ To trains models and generate results:
   
 ##Results: 
   
-**STATS of SVC:---------------- * *
+**STATS of SVC:----------------**    
 Accuracy on training set:  
 0.896449704142  
   
@@ -41,7 +41,7 @@ Confusion Matrix:
  [   0  202    0]]  
 
   
-**STATS of Adaboost------------  **
+**STATS of Adaboost------------**    
 Accuracy on training set:  
 0.861604207758  
   
@@ -63,7 +63,7 @@ Confusion Matrix:
  [   0  191   11]]  
 
   
-**STATS of Random Classifier---  **
+**STATS of Random Classifier---**  
 Accuracy on training set:  
 0.977317554241  
   
@@ -85,7 +85,7 @@ Confusion Matrix:
  [   0  201    1]]  
 
 
-**Neural network  **
+**Neural network**  
 Epoch 1/10  
 6084/6084 [==============================] - 1s - loss: 0.6291 - acc: 0.8891        
 Epoch 2/10  
@@ -107,7 +107,7 @@ Epoch 9/10
 Epoch 10/10  
 6084/6084 [==============================] - 1s - loss: 0.3408 - acc: 0.8964     
 
-**STATS of NEURAL NETWORK:**
+**STATS of NEURAL NETWORK:**  
 
              precision    recall  f1-score   support
 
