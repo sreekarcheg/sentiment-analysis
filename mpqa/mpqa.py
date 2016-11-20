@@ -47,6 +47,230 @@ def pos_map(k):
 def voc_map(k):
     pack_map(k)
 
+def keyurFeatures(rawSentence):
+	# TODO get a proper lexicon of intensifiers
+	intensifiers = set([])
+	with open('dataset/lexicon/intensifiers.txt','r') as intfile:
+		for line in intfile:
+			for word in line.split():
+				intensifiers.add(word)
+	rawSentence = nltk.word_tokenize(rawSentence)
+	sentence = []
+	for token in rawSentence:
+		match = re.search(r'^[.,?!-()";:\']+$',token)
+		if match==None:
+			sentence.append(token)
+	sentence = nltk.pos_tag(sentence)
+	stemmer = SnowballStemmer("english")
+	features = []
+	lexicon = loadLexicon('dataset/lexicon/subjclueslen1-HLTEMNLP05.tff')
+	for i in range(len(sentence)):
+		feature = []
+		# the word token and part of speech
+		feature.append(stemmer.stem(sentence[i][0]))
+		feature.append(sentence[i][1])
+		# word context: before, this, after
+		if i>0:
+			feature.append(sentence[i-1][0])
+		else:
+			feature.append('')
+		feature.append(sentence[i][0])
+		if i<len(sentence)-1:
+			feature.append(sentence[i+1][0])
+		else:
+			feature.append('')
+		try:
+			feature.append(lexicon[sentence[i][0]]['priorpolarity'])
+		except KeyError:
+			feature.append('none')
+		try:
+			feature.append(lexicon[sentence[i][0]]['type'])
+		except KeyError:
+			feature.append('none')
+		if i>0:
+			prevTag = sentence[i-1][1]
+			# preceded by adjective
+			if prevTag[0]=='J' and prevTag[1]=='J':
+				feature.append(True)
+			else:
+				feature.append(False)
+			# preceded by adverb other than not
+			if prevTag[0]=='R' and prevTag[1]=='B' and sentence[i-1][0].lower()!='not':
+				feature.append(True)
+			else:
+				feature.append(False)
+			# preceded by intensifier
+			if sentence[i-1][0].lower() in intensifiers:
+				feature.append(True)
+			else:
+				feature.append(False)
+		else:
+			feature.append(False);feature.append(False);feature.append(False)
+		# is intensifier
+		if sentence[i][0].lower() in intensifiers:
+			feature.append(True)
+		else:
+			feature.append(False)
+		features.append(feature)
+return features
+
+def pos_tagger(sentence):
+    filename = open("stored/ubt_tagger.classifier")
+    words = nltk.word_tokenize(sentence)
+    ubt_tagger = pickle.load(filename)
+    return ubt_tagger.tag(words)
+
+def numAdj(rawSentence):
+    pos = pos_tagger(rawSentence)
+    count = 0
+    for tag in pos:
+        if tag[1]=='JJ':
+            count += 1
+    return count
+
+def numAdv_without_NOT(rawSentence):
+    pos = pos_tagger(rawSentence)
+    count = 0
+    for tag in pos:
+        if tag[1]=='RB':
+            count += 1
+    return count
+
+def existsCardinal(rawSentence):
+    pos = pos_tagger(rawSentence)
+    for tag in pos:
+        if tag[1] =='CD':
+            return True
+    return False
+
+def existsPronoun(rawSentence):
+    pos = pos_tagger(rawSentence)
+    for tag in pos:
+        if tag[1] =='PRP':
+            return True
+    return False    
+
+def modalInSentence(rawSentence):
+    '''Indicates if a modal other than will is present'''
+    modals = ['may', 'might', 'must', 'can', 'could', 'shall', 'should', 'would']
+    if any(modal in rawSentence for modal in modals):
+        return True
+    return False
+
+def modifies_strongsubj(word, idx, rawSentence, dep):
+    #If you find a way of not constructing the node tree over and over that would be great. Maybe pass dep as a parameter.
+    dep = dep_parser.raw_parse(rawSentence).next()
+    flag1, flag2 = False, False
+
+    node = dep.get_by_address(idx)
+    parent_address = node['head']
+    parent_node = dep.get_by_address(parent_address)
+    parent_word = parent_node['word']
+    d = lexicon.get(parent_word)
+    if d is not None:
+        if d['type'] == 'strongsubj':
+            flag1 = True
+
+    parent_relationship = node['rel'] 
+    if parent_relationship in ['JJ', 'adjmod', 'advmod', 'vmod']:
+        flag2 = True
+    return falg1 and flag2
+
+def modifies_weaksubj(word, idx, rawSentence):
+    #If you find a way of not constructing the node tree over and over that would be great. Maybe pass dep as a parameter.
+    dep = dep_parser.raw_parse(rawSentence).next()
+    flag1, flag2 = False, False
+
+    node = dep.get_by_address(idx)
+    parent_address = node['head']
+    parent_node = dep.get_by_address(parent_address)
+    parent_word = parent_node['word']
+    d = lexicon.get(parent_word)
+    if d is not None:
+        if d['type'] == 'weaksubj':
+            flag1 = True
+
+    parent_relationship = node['rel'] 
+    if parent_relationship in ['JJ', 'adjmod', 'advmod', 'vmod']:
+        flag2 = True
+    return falg1 and flag2
+
+def modifiedBy_strongsubj(word, idx, rawSentence):
+    #If you find a way of not constructing the node tree over and over that would be great. Maybe pass dep as a parameter.
+    dep = dep_parser.raw_parse(rawSentence).next()
+    flag1, flag2 = False, False
+
+    node = dep.get_by_address(idx)
+    parent_address = node['head']
+    parent_node = dep.get_by_address(parent_address)
+    parent_word = parent_node['word']
+    d = lexicon.get(word)
+    if d is not None:
+        if d['type'] == 'strongsubj':
+            flag1 = True
+
+    children = node['deps'] 
+    if children in ['JJ', 'adjmod', 'advmod', 'vmod']:
+        flag2 = True
+    return falg1 and flag2
+
+def modifiedBy_weaksubj(word, idx, rawSentence):
+    #If you find a way of not constructing the node tree over and over that would be great. Maybe pass dep as a parameter.
+    dep = dep_parser.raw_parse(rawSentence).next()
+    flag1, flag2 = False, False
+
+    node = dep.get_by_address(idx)
+    parent_address = node['head']
+    parent_node = dep.get_by_address(parent_address)
+    parent_word = parent_node['word']
+    d = lexicon.get(word)
+    if d is not None:
+        if d['type'] == 'weaksubj':
+            flag1 = True
+
+    children = node['deps'] 
+    if children in ['JJ', 'adjmod', 'advmod', 'vmod']:
+        flag2 = True
+return falg1 and flag2
+
+def subjClues(sentence):
+	'''Gets all subjectivity clues in a sentence.'''
+	clues = getPolarityClues(sentence)
+	strong = 0
+	weak = 0
+	for clue in clues:
+		for w in clue:
+			d = lexicon.get(w)
+			if d is not None:
+				if d['type'] == 'strongsubj':
+					#print "Strong: %s"%w
+					strong += 1
+				elif d['type'] == 'weaksubj':
+					#print "Weak: %s"%w
+					weak += 1
+	return strong, weak
+
+def get_paths_bfs(dep):
+	'''Returns the edge labels on the path from root to every node.'''
+	start_node_addr = dep.get_by_address(0)['deps']['root'][0]
+	q = [start_node_addr]
+	paths = dict()
+	paths[start_node_addr] = []
+	while q:
+		addr = q.pop(0)
+		curr_path = paths[addr]
+		node = dep.get_by_address(addr)
+		edges = node['deps']
+		
+		for label in edges:
+			edgelist = edges[label]
+			for n in edgelist:
+				if n in paths:
+					raise Exception('Cycle in Dependency Tree!')
+				paths[n] = curr_path + [label]
+				q.append(n)
+return paths
+
 COL_MAP = OrderedDict([
     ('word', ColFlags('data', 'pack', voc_map)),
     # the subj. clue word (id)
