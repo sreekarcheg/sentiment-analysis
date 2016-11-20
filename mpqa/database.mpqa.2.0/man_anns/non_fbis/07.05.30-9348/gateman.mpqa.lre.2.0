@@ -1,0 +1,81 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/07.05.30-9348/07.05.30-9348.jw.attitudes.xml
+#  on Wed Feb  8 16:16:37 EST 2006
+#  by twilson
+75	264,482	string	GATE_inside	 nested-source="w"
+74	39,156	string	GATE_inside	 nested-source="w"
+73	30,33	string	GATE_split	
+72	530,543	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a4" insubstantial="c2" nested-source="w,US,US" intensity="low" polarity="positive"
+71	530,543	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-pos" intensity="low-medium" id="a4"
+70	780,782	string	GATE_target	 id="t10"
+69	784,811	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" intensity="medium" id="a11"
+68	33,39	string	GATE_split	
+67	707,771	string	GATE_target	 id="t8"
+66	707,709	string	GATE_agent	 nested-source="w, Bush"
+65	160,260	string	GATE_inside	 nested-source="w"
+64	710,718	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-neg" intensity="medium-high" id="a9"
+63	656,812	string	GATE_inside	 nested-source="w"
+62	652,656	string	GATE_split	
+61	695,701	string	GATE_attitude	 target-link="t8, t6" attitude-type="sentiment-neg" intensity="high" id="a8"
+60	671,771	string	GATE_attitude	 target-link="t6" attitude-type="arguing-pos" intensity="low" id="a6"
+59	656,656	string	GATE_direct-subjective	 attitude-link="a6" subjective-uncertain="somewhat-uncertain" intensity="medium" nested-source="w" implicit="true"
+58	522,526	string	GATE_objective-speech-event	 nested-source="w, US"
+57	482,486	string	GATE_split	
+56	259,260	string	GATE_split	
+55	264,264	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+54	595,600	string	GATE_agent	 id="Japan" nested-source="w, Japan"
+53	381,397	string	GATE_target	 id="t2"
+52	464,473	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,plan" polarity="negative"
+51	671,677	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+50	0,0	string	GATE_agent	 id="w"
+49	452,463	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, plan" polarity="neutral"
+48	481,482	string	GATE_split	
+47	595,595	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+46	260,264	string	GATE_split	
+45	773,779	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a10, a11" intensity="medium" nested-source="w, Bush"
+44	784,792	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, Bush" polarity="negative"
+43	486,486	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	812,816	string	GATE_split	
+41	595,652	string	GATE_inside	 nested-source="w"
+40	0,0	string	GATE_agent	 id="implicit"
+39	710,718	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a9" intensity="medium" nested-source="w, Bush" polarity="negative"
+38	784,811	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-neg" intensity="medium" id="a10"
+37	323,344	string	GATE_agent	 id="Bush"
+36	615,632	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a5" intensity="medium" nested-source="w, Japan, Japan" polarity="neutral"
+35	165,174	string	GATE_objective-speech-event	 nested-source="w, representatives"
+34	156,160	string	GATE_split	
+33	656,670	string	GATE_target	 id="t6"
+32	368,481	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="medium" id="a2"
+31	160,164	string	GATE_agent	 nested-source="w, representatives"
+30	681,694	string	GATE_agent	 id="int" nested-source="w,int"
+29	695,701	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a8" intensity="high" nested-source="w,int" polarity="negative"
+28	356,367	string	GATE_agent	 id="plan" nested-source="w, plan"
+27	368,379	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="low-medium" id="a1"
+26	601,605	string	GATE_objective-speech-event	 nested-source="w, Japan"
+25	486,590	string	GATE_inside	 nested-source="w"
+24	626,651	string	GATE_target	 id="t5"
+23	590,594	string	GATE_split	
+22	606,608	string	GATE_agent	 nested-source="w, Japan, Japan"
+21	519,521	string	GATE_agent	 id="US" nested-source="w, US"
+20	811,812	string	GATE_split	
+19	160,160	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	39,39	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	609,614	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,Japan" polarity="neutral"
+16	527,529	string	GATE_agent	 nested-source="w,US,US"
+15	545,589	string	GATE_target	 id="t4"
+14	651,652	string	GATE_split	
+13	381,390	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, plan" polarity="positive"
+12	39,87	string	GATE_agent	 id="representatives"
+11	780,782	string	GATE_agent	
+10	368,379	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1, a2" intensity="medium" nested-source="w, plan" polarity="positive"
+9	877,879	string	GATE_split	
+8	381,481	string	GATE_target	 id="t1"
+7	720,771	string	GATE_target	 id="t9"
+6	4,30	string	GATE_inside	 nested-source="w"
+5	859,862	string	GATE_split	
+4	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	720,743	string	GATE_agent	 id="kyoto"
+2	615,625	string	GATE_attitude	 target-link="t5" attitude-type="intention-pos" intensity="low" id="a5"
+1	589,590	string	GATE_split	
+0	155,156	string	GATE_split	

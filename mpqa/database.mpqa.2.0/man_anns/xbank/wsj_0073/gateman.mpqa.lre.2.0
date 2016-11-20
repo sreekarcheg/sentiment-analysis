@@ -1,0 +1,46 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0073/wsj_0073.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+326	212,298	string	GATE_inside	 nested-source="w"
+305	582,592	string	GATE_direct-subjective	 expression-intensity="low" intensity="medium" attitude-link="agreement" nested-source="w,hw"
+315	477,508	string	GATE_inside	 nested-source="w"
+304	562,581	string	GATE_agent	 nested-source="w,integra,hw" id="hw"
+336	593,659	string	GATE_target	 id="exercise"
+327	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+310	0,0	string	GATE_direct-subjective	
+299	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+318	507,508	string	GATE_split	
+335	511,551	string	GATE_agent	 nested-source="w,integra"
+313	661,724	string	GATE_inside	 nested-source="w"
+298	0,0	string	GATE_agent	 id="w"
+317	511,511	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+329	443,443	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+324	208,209	string	GATE_split	
+334	42,46	string	GATE_objective-speech-event	 nested-source="w,integra"
+297	0,0	string	GATE_agent	 id="implicit"
+307	101,113	string	GATE_objective-speech-event	 nested-source="w,integra,implicit"
+321	210,212	string	GATE_split	
+316	511,581	string	GATE_inside	 nested-source="w"
+308	51,58	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="plan" nested-source="w,integra,integra"
+337	582,592	string	GATE_attitude	 target-link="exercise" intensity="low-medium" id="agreement" attitude-type="agree-pos"
+322	297,298	string	GATE_split	
+309	9,41	string	GATE_agent	 nested-source="w,integra" id="integra"
+332	299,442	string	GATE_inside	 nested-source="w"
+300	1,6	string	GATE_inside	 nested-source="w"
+319	509,511	string	GATE_split	
+314	661,661	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+331	299,299	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+306	552,556	string	GATE_objective-speech-event	 nested-source="w,integra"
+330	443,472	string	GATE_inside	 nested-source="w"
+323	7,9	string	GATE_split	
+303	659,660	string	GATE_split	
+311	0,0	string	GATE_expressive-subjectivity	
+328	9,209	string	GATE_inside	 nested-source="w"
+302	723,724	string	GATE_split	
+312	582,660	string	GATE_inside	 nested-source="w"
+325	212,212	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+301	725,727	string	GATE_split	
+320	441,442	string	GATE_split	
+333	59,74	string	GATE_target	 id="offering"

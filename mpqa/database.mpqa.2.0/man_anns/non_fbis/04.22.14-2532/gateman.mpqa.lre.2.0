@@ -1,0 +1,101 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/04.22.14-2532/04.22.14-2532.jw.attitudes.xml
+#  on Wed Feb  8 16:05:11 EST 2006
+#  by twilson
+95	679,686	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a7" intensity="high" nested-source="w,report" polarity="negative"
+94	946,951	string	GATE_target	 id="t8"
+93	453,484	string	GATE_agent	 id="xinhua" nested-source="w,xinhua"
+92	255,259	string	GATE_split	
+91	946,951	string	GATE_agent	
+90	148,158	string	GATE_target	 id="t2"
+89	1199,1239	string	GATE_attitude	 target-link="t11" attitude-type="arguing-pos" intensity="medium-high" id="a11"
+88	18,40	string	GATE_target	 id="t1"
+87	510,520	string	GATE_target	 id="t5"
+86	494,496	string	GATE_agent	 nested-source="w,xinhua,report"
+85	1255,1275	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,report" polarity="negative"
+84	654,658	string	GATE_objective-speech-event	 nested-source="w,xinhua"
+83	1064,1094	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,report" polarity="negative"
+82	974,1008	string	GATE_inside	 nested-source="w"
+81	1199,1206	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a11, a12" intensity="medium" nested-source="w,report,us" polarity="negative"
+80	510,520	string	GATE_agent	
+79	489,490	string	GATE_split	
+78	49,49	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+77	1028,1041	string	GATE_agent	 nested-source="w,report,us"
+76	227,242	string	GATE_target	 id="t4"
+75	1339,1343	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a10, a13, a100" nested-source="w,report" intensity="high"
+74	254,255	string	GATE_split	
+73	227,242	string	GATE_agent	 id="other"
+72	525,544	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,xinhua,report" polarity="negative"
+71	1385,1389	string	GATE_split	
+70	59,64	string	GATE_agent	 id="china" nested-source="w,china"
+69	494,494	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+68	1013,1023	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,report" polarity="neutral"
+67	490,494	string	GATE_split	
+66	1013,1193	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-neg" intensity="high-extreme" id="a10"
+65	259,259	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+64	502,645	string	GATE_attitude	 target-link="t5" attitude-type="sentiment-neg" intensity="high" id="a5"
+63	215,226	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" intensity="medium" nested-source="w,china,us" polarity="negative"
+62	659,663	string	GATE_split	
+61	336,342	string	GATE_objective-speech-event	 nested-source="w,xinhua,report"
+60	139,254	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="medium-high" id="a2"
+59	1208,1212	string	GATE_agent	
+58	1008,1012	string	GATE_split	
+57	18,40	string	GATE_agent	
+56	806,973	string	GATE_inside	 nested-source="w"
+55	801,802	string	GATE_split	
+54	0,0	string	GATE_agent	 id="w"
+53	1043,1060	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,report" polarity="neutral"
+52	1199,1239	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-neg" intensity="medium-high" id="a12"
+51	502,645	string	GATE_attitude	 target-link="t5" attitude-type="arguing-pos" intensity="high" id="a6"
+50	485,489	string	GATE_objective-speech-event	 nested-source="w,xinhua"
+49	663,802	string	GATE_inside	 nested-source="w"
+48	1344,1348	string	GATE_split	
+47	858,921	string	GATE_agent	 id="usreport"
+46	259,269	string	GATE_agent	 nested-source="w,xinhua,report"
+45	1,1	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	802,806	string	GATE_split	
+43	938,972	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-neg" intensity="medium-high" id="a8"
+42	259,490	string	GATE_inside	 nested-source="w"
+41	1007,1008	string	GATE_split	
+40	1208,1212	string	GATE_target	 id="t11"
+39	1099,1108	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,report" polarity="negative"
+38	148,158	string	GATE_agent	
+37	1099,1239	string	GATE_attitude	 target-link="t100" attitude-type="arguing-neg" intensity="medium" id="a100"
+36	806,806	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	938,945	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a8, a9" intensity="medium" nested-source="w,usreport" polarity="negative"
+34	72,127	string	GATE_agent	 id="report"
+33	663,663	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	114,127	string	GATE_agent	 id="us"
+31	923,928	string	GATE_agent	 nested-source="w,usreport"
+30	0,0	string	GATE_agent	 id="implicit"
+29	972,973	string	GATE_split	
+28	7,17	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-neg" intensity="medium" id="a1"
+27	502,509	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a5, a6" intensity="high" nested-source="w,xinhua,report" polarity="negative"
+26	162,182	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,china" polarity="negative"
+25	1,6	string	GATE_agent	 nested-source="w,china"
+24	1343,1344	string	GATE_split	
+23	139,254	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-neg" intensity="high" id="a3"
+22	1241,1254	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,report" polarity="neutral"
+21	40,43	string	GATE_split	
+20	139,147	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2, a3" intensity="medium" nested-source="w,china" polarity="negative"
+19	647,653	string	GATE_agent	 nested-source="w,xinhua"
+18	679,686	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-neg" intensity="high" id="a7"
+17	938,972	string	GATE_attitude	 target-link="t8" attitude-type="arguing-pos" intensity="medium-high" id="a9"
+16	494,659	string	GATE_inside	 nested-source="w"
+15	663,673	string	GATE_agent	 nested-source="w,report"
+14	215,226	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-neg" intensity="medium" id="a4"
+13	1012,1344	string	GATE_inside	 nested-source="w"
+12	1024,1041	string	GATE_target	 id="t10"
+11	687,732	string	GATE_agent	 id="bushadm"
+10	974,974	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+9	43,49	string	GATE_split	
+8	49,255	string	GATE_inside	 nested-source="w"
+7	7,17	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1" intensity="medium" nested-source="w,china" polarity="negative"
+6	1241,1316	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-neg" intensity="medium-high" id="a13"
+5	1012,1012	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	1216,1239	string	GATE_target	 id="t100"
+3	1,40	string	GATE_inside	 nested-source="w"
+2	1319,1338	string	GATE_agent	 nested-source="w,report"
+1	687,732	string	GATE_target	 id="t7"
+0	658,659	string	GATE_split	

@@ -1,0 +1,16 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/66.ves.annotated
+#  on Thu Sep 09 14:17:04 EDT 2004
+#  by ves
+
+2300	3215,3243	string	answer	annotator="ves" confidence="2" confidencecomment="western gov'ts, not US and GB" questionnumber="1" topic="mugabe"
+2296	3527,3609	string	answer	annotator="ves" confidence="4" partial="true" questionnumber="1" topic="mugabe"
+2379	3874,3958	string	answer	annotator="ves" confidence="4" partial="true" questionnumber="1" topic="mugabe"
+2373	4025,4084	string	answer	annotator="ves" confidence="4" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+2256	3739,3791	string	answer	annotator="ves" confidence="5" partial="true" questionnumber="1" topic="mugabe"
+2244	3285,3315	string	answer	annotator="ves" confidence="3" confidencecomment="western gov'ts, not US an GB" questionnumber="1" topic="mugabe"
+2390	3794,3872	string	answer	annotator="ves" confidence="5" partial="true" questionnumber="1" topic="mugabe"
+2328	42,53	string	answer	annotator="ves" confidence="3" confidencecomment="west, not UK and GB" questionnumber="1" topic="mugabe"
+2284	3611,3669	string	answer	annotator="ves" confidence="3" partial="true" confidencecomment="indirect" questionnumber="1" topic="mugabe"
+2336	359,371	string	answer	annotator="ves" confidence="3" confidencecomment="west, not US and GB" questionnumber="1" topic="mugabe"

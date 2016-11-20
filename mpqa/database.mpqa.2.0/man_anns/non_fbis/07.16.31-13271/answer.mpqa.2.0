@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/49.ctc.annotated
+#  on Thu Sep 09 14:16:56 EDT 2004
+#  by ves
+
+912	476,517	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="partial? only US reaction" questionnumber="1" topic="mugabe"
+914	537,657	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="pretty far from the mention of sanctions; western nations equals? US/EU" questionnumber="6" topic="mugabe"
+948	428,441	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="'int'l observers' equals? am/brit" questionnumber="1" topic="mugabe"
+913	1119,1182	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+878	1451,1477	string	answer	annotator="ctc" questionnumber="4" confidence="5" topic="mugabe"

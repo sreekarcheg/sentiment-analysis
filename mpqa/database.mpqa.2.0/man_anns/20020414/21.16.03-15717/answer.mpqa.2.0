@@ -1,0 +1,8 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/29.ves.annotated
+#  on Thu Sep 09 14:16:49 EDT 2004
+#  by ves
+
+894	887,907	string	answer	annotator="ves" confidence="3" confidencecomment="not claer whether oil policy should be considered foreign policy" questionnumber="7" topic="venezuela"
+950	1025,1054	string	answer	annotator="ves" confidence="3" confidencecomment="not claer whether oil policy should be considered foreign policy" questionnumber="7" topic="venezuela"

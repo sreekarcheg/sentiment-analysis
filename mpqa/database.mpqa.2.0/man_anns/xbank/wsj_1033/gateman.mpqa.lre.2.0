@@ -1,0 +1,63 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_1033/wsj_1033.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+486	282,378	string	GATE_inside	 nested-source="w"
+469	824,860	string	GATE_agent	 nested-source="w,usunit"
+491	0,0	string	GATE_expressive-subjectivity	
+496	381,445	string	GATE_agent	 nested-source="w,committee" id="committee"
+497	861,869	string	GATE_objective-speech-event	 nested-source="w,esselte"
+470	485,490	string	GATE_attitude	 target-link="respond" intensity="low" id="ask" attitude-type="sentiment-pos"
+502	1008,1008	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+508	7,9	string	GATE_split	
+507	164,166	string	GATE_split	
+480	166,279	string	GATE_inside	 nested-source="w"
+475	517,517	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+481	166,166	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+501	497,504	string	GATE_objective-speech-event	 nested-source="w,child" insubstantial="c1"
+506	162,163	string	GATE_split	
+482	0,0	string	GATE_agent	 id="w"
+465	559,583	string	GATE_target	 id="transaction"
+487	73,81	string	GATE_attitude	 target-link="acquire" intensity="low-medium" id="proposal" attitude-type="intention-pos"
+520	682,683	string	GATE_split	
+466	534,558	string	GATE_attitude	 target-link="transaction" intensity="low" id="assurance" attitude-type="other-attitude"
+503	824,1007	string	GATE_inside	 nested-source="w"
+519	820,821	string	GATE_split	
+484	1,6	string	GATE_inside	 nested-source="w"
+514	583,584	string	GATE_split	
+485	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+504	824,824	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+479	282,282	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+468	534,558	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" intensity="low" nested-source="w,usunit,usunit" attitude-link="assurance"
+478	684,821	string	GATE_inside	 nested-source="w"
+510	377,378	string	GATE_split	
+517	1006,1007	string	GATE_split	
+516	515,516	string	GATE_split	
+505	517,584	string	GATE_inside	 nested-source="w"
+483	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+477	381,381	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+494	0,0	string	GATE_direct-subjective	
+515	585,587	string	GATE_split	
+489	485,490	string	GATE_direct-subjective	 attitude-link="ask" nested-source="w,esselte"
+488	82,163	string	GATE_target	 id="acquire"
+499	474,484	string	GATE_agent	 nested-source="w,esselte"
+467	491,516	string	GATE_target	 id="respond"
+472	587,683	string	GATE_inside	 nested-source="w"
+500	491,493	string	GATE_agent	 nested-source="w,esselte,committee"
+518	822,824	string	GATE_split	
+474	9,163	string	GATE_inside	 nested-source="w"
+495	517,525	string	GATE_agent	 nested-source="w,usunit" id="usunit"
+473	587,587	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+490	9,59	string	GATE_agent	 nested-source="w,esselte" id="esselte"
+521	1061,1063	string	GATE_split	
+509	1008,1060	string	GATE_inside	 nested-source="w"
+498	526,530	string	GATE_objective-speech-event	 nested-source="w,usunit"
+513	280,282	string	GATE_split	
+471	684,684	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+476	381,512	string	GATE_inside	 nested-source="w"
+522	1059,1060	string	GATE_split	
+493	73,81	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="proposal" nested-source="w,esselte"
+512	278,279	string	GATE_split	
+492	0,0	string	GATE_agent	 id="implicit"
+511	379,381	string	GATE_split	

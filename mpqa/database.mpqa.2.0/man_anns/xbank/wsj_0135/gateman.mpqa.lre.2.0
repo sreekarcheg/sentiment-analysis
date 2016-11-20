@@ -1,0 +1,46 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0135/wsj_0135.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+254	0,0	string	GATE_direct-subjective	
+277	205,212	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expectsales" nested-source="w,elko,elko"
+262	315,315	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+272	38,45	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expectfall" nested-source="w,elko"
+246	1,6	string	GATE_inside	 nested-source="w"
+263	407,466	string	GATE_inside	 nested-source="w"
+278	213,313	string	GATE_target	 id="sales"
+251	467,548	string	GATE_inside	 nested-source="w"
+271	30,34	string	GATE_objective-speech-event	 nested-source="w,elko"
+244	465,466	string	GATE_split	
+252	151,153	string	GATE_split	
+275	38,45	string	GATE_attitude	 target-link="fall" intensity="low" inferred="" id="expectfall" attitude-type="other-attitude"
+260	407,407	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+270	9,29	string	GATE_agent	 nested-source="w,elko" id="elko"
+280	153,191	string	GATE_agent	 nested-source="w,elko" id=""
+243	547,548	string	GATE_split	
+265	153,153	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+253	149,150	string	GATE_split	
+257	0,0	string	GATE_agent	 id="w"
+283	205,212	string	GATE_attitude	 target-link="sales" intensity="low" id="expectsales" attitude-type="other-attitude"
+268	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+273	46,149	string	GATE_target	 target-uncertain="" id="fall"
+258	7,9	string	GATE_split	
+250	467,467	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+282	327,331	string	GATE_objective-speech-event	 nested-source="w,elko"
+255	0,0	string	GATE_expressive-subjectivity	
+267	549,551	string	GATE_agent	
+274	35,37	string	GATE_agent	 nested-source="w,elko,elko"
+245	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+281	315,326	string	GATE_agent	 nested-source="w,elko"
+259	315,404	string	GATE_inside	 nested-source="w"
+279	202,204	string	GATE_agent	 nested-source="w,elko,elko" id=""
+264	9,29	string	GATE_inside	 nested-source="w"
+266	173,314	string	GATE_inside	 nested-source="w"
+256	0,0	string	GATE_agent	 id="implicit"
+248	405,407	string	GATE_split	
+261	153,171	string	GATE_inside	 nested-source="w"
+276	197,201	string	GATE_objective-speech-event	 nested-source="w,elko"
+269	30,150	string	GATE_inside	 nested-source="w"
+247	313,314	string	GATE_split	
+249	403,404	string	GATE_split	

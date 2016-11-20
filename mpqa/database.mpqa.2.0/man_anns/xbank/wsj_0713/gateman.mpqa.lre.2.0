@@ -1,0 +1,45 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0713/wsj_0713.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+341	168,169	string	GATE_split	
+305	170,172	string	GATE_split	
+326	438,438	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+315	9,169	string	GATE_inside	 nested-source="w"
+304	715,717	string	GATE_split	
+336	172,191	string	GATE_target	 id="approval"
+310	301,302	string	GATE_split	
+327	0,0	string	GATE_direct-subjective	
+342	305,437	string	GATE_inside	 nested-source="w"
+318	305,305	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+335	172,172	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+313	690,714	string	GATE_inside	 nested-source="w"
+339	452,456	string	GATE_objective-speech-event	 nested-source="w,db"
+317	9,43	string	GATE_agent	 nested-source="w,db,gfa" id="gfa"
+329	584,584	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+324	584,681	string	GATE_inside	 nested-source="w"
+334	0,0	string	GATE_agent	 id="w"
+307	690,690	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+321	44,56	string	GATE_attitude	 target-link="to" intensity="low" id="clearance" attitude-type="agree-pos"
+316	1,6	string	GATE_inside	 nested-source="w"
+308	172,302	string	GATE_inside	 nested-source="w"
+337	164,168	string	GATE_objective-speech-event	 nested-source="w,db"
+309	192,209	string	GATE_attitude	 target-link="approval" intensity="low" inferred="" id="expapp" attitude-type="other-attitude"
+322	150,163	string	GATE_agent	 nested-source="w,db" id="db"
+332	680,681	string	GATE_split	
+319	172,184	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c2" intensity="low" nested-source="w,implicit" attitude-link=""
+314	7,9	string	GATE_split	
+338	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+331	0,0	string	GATE_expressive-subjectivity	
+306	57,148	string	GATE_target	 id="to"
+330	438,579	string	GATE_inside	 nested-source="w"
+323	192,209	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,implicit" attitude-link="expapp"
+303	438,451	string	GATE_agent	 nested-source="w,db"
+311	436,437	string	GATE_split	
+328	303,305	string	GATE_split	
+312	44,56	string	GATE_direct-subjective	 intensity="low" nested-source="w,db,gfa" target-speech-link="to" attitude-link="clearance"
+325	713,714	string	GATE_split	
+320	0,0	string	GATE_agent	 id="implicit"
+340	582,583	string	GATE_split	
+333	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

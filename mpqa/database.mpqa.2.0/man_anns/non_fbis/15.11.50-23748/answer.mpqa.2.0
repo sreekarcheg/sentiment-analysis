@@ -1,0 +1,13 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/67.ctc.annotated
+#  on Thu Sep 09 14:17:04 EDT 2004
+#  by ves
+
+1331	789,887	string	answer	annotator="ctc" confidence="4" confidencecomment="'partial' since evidence that some were in favor (earlier in doc) and some not in favor" questionnumber="4" topic="venezuela"
+1348	357,408	string	answer	annotator="ctc" confidence="3" confidencecomment="mentions surprise, but not w.r.t. what happened after/when chavez regained power" questionnumber="3" topic="venezuela"
+1291	1209,1250	string	answer	annotator="ctc" questionnumber="5" topic="venezuela" confidence="5"
+1296	1498,1515	string	answer	annotator="ctc" questionnumber="8" topic="venezuela" confidence="5"
+1284	679,689	string	answer	annotator="ctc" confidence="2" confidencecomment="enough protesters to count as 'most Venezuelans'?" questionnumber="4" topic="venezuela"
+1334	2710,2772	string	answer	annotator="ctc" questionnumber="6" topic="venezuela" confidence="5"
+1275	1898,1914	string	answer	annotator="ctc" questionnumber="8" topic="venezuela" confidence="5"

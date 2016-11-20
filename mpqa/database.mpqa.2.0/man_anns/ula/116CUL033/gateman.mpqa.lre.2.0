@@ -1,0 +1,86 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/116CUL033/116CUL033.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+935	712,719	string	GATE_attitude	 target-link="enc" attitude-uncertain="somewhat-uncertain" intensity="low" id="purpofmccoy" attitude-type="intention-pos"
+908	1775,1776	string	GATE_split	
+871	299,338	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,w" polarity="positive" attitude-link="whatiwantyoutodo"
+928	1919,1928	string	GATE_attitude	 target-link="" intensity="low" id="sincerely" attitude-type="sentiment-pos"
+886	505,707	string	GATE_inside	 nested-source="w"
+865	1648,1652	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,w" polarity="positive" attitude-link="hopeob" subjective-uncertain=""
+896	258,259	string	GATE_split	
+891	1569,1704	string	GATE_inside	 nested-source="w"
+876	78,82	string	GATE_target	 id="you"
+864	1571,1580	string	GATE_expressive-subjectivity	 nested-source="w"
+907	260,498	string	GATE_inside	 nested-source="w"
+927	723,862	string	GATE_target	 id="enc"
+863	1267,1388	string	GATE_target	 id="myhope"
+938	299,338	string	GATE_attitude	 target-link="helpyp" intensity="medium" id="whatiwantyoutodo" attitude-type="sentiment-pos"
+926	1073,1077	string	GATE_attitude	 target-link="whatwewant" intensity="low-medium" id="rgoal" attitude-type="sentiment-pos"
+910	1777,1912	string	GATE_inside	 nested-source="w"
+866	1073,1077	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,mccoy" polarity="positive" attitude-link="rgoal"
+937	712,719	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,mccoy" attitude-link="purpofmccoy" target-speech-link=""
+924	1648,1652	string	GATE_attitude	 target-link="hopescope" intensity="medium" id="hopeob" attitude-type="sentiment-pos"
+905	497,498	string	GATE_split	
+881	0,0	string	GATE_agent	 id="w"
+913	1249,1389	string	GATE_inside	 nested-source="w"
+882	706,707	string	GATE_split	
+867	1069,1072	string	GATE_agent	 nested-source="w,mccoy"
+914	1703,1704	string	GATE_split	
+903	1919,1919	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" attitude-link="sincerely"
+859	1777,1792	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+872	297,298	string	GATE_agent	 nested-source="w,w" id="w"
+887	7,19	string	GATE_split	
+915	1,7	string	GATE_split	
+904	1241,1242	string	GATE_split	
+933	120,123	string	GATE_agent	 nested-source="w,usall" id="usall"
+884	1705,1705	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+869	1251,1261	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,w" polarity="positive" attitude-link="amhopeful"
+925	1251,1261	string	GATE_attitude	 target-link="myhope" intensity="low-medium" id="amhopeful" attitude-type="sentiment-pos"
+920	1767,1775	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1" intensity="medium" nested-source="w,you" polarity="positive"
+870	124,140	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="ourthoughts" nested-source="w,usall"
+934	141,258	string	GATE_target	 id="whatwethinkabout"
+885	1705,1776	string	GATE_inside	 nested-source="w"
+898	1390,1562	string	GATE_inside	 nested-source="w"
+861	1653,1703	string	GATE_target	 id="hopescope"
+909	1777,1777	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" polarity="" attitude-link="please"
+918	708,863	string	GATE_inside	 nested-source="w"
+929	1936,1948	string	GATE_agent	 nested-source="w" id=""
+899	1390,1390	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+868	1078,1241	string	GATE_target	 id="whatwewant"
+883	1561,1562	string	GATE_split	
+932	339,497	string	GATE_target	 id="helpyp"
+900	19,259	string	GATE_inside	 nested-source="w"
+919	1587,1591	string	GATE_objective-speech-event	 nested-source="w,w" insubstantial="c1"
+921	1569,1586	string	GATE_attitude	 target-link="tell" intensity="low-medium" id="obv" attitude-type="arguing-neg"
+888	1967,1975	string	GATE_split	
+874	0,0	string	GATE_direct-subjective	
+916	1061,1062	string	GATE_split	
+889	864,1062	string	GATE_inside	 nested-source="w"
+862	1249,1250	string	GATE_agent	 nested-source="w,w" id=""
+902	1919,1967	string	GATE_inside	 nested-source="w"
+930	1919,1928	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="positive" nested-source-uncertain="" es-uncertain=""
+873	384,403	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+923	1753,1757	string	GATE_agent	 nested-source="w,you"
+860	1799,1911	string	GATE_target	 id="foryoutoconsider"
+897	505,505	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+931	1777,1792	string	GATE_attitude	 target-link="foryoutoconsider" intensity="medium" id="please" attitude-type="sentiment-pos"
+922	1587,1635	string	GATE_target	 id="tell"
+912	1249,1249	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+858	1646,1647	string	GATE_agent	 nested-source="w"
+890	864,864	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+895	1911,1912	string	GATE_split	
+880	0,0	string	GATE_agent	 id="implicit"
+936	708,711	string	GATE_agent	 nested-source="w,mccoy"
+875	0,0	string	GATE_expressive-subjectivity	
+906	260,260	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+911	514,515	string	GATE_split	
+901	19,19	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+879	1063,1242	string	GATE_inside	 nested-source="w"
+894	862,863	string	GATE_split	
+877	73,77	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+917	708,708	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+878	1063,1063	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+892	1569,1569	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" attitude-link="obv"
+893	1388,1389	string	GATE_split	

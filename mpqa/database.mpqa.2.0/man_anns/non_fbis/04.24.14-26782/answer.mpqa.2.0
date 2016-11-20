@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/35.ctc.annotated
+#  on Thu Sep 09 14:16:50 EDT 2004
+#  by ves
+
+1334	892,960	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="5"
+1382	1751,1755	string	answer	annotator="ctc" confidence="5" confidencecomment="" questionnumber="2" topic="kyoto"
+1379	1155,1256	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="future tense" questionnumber="6" topic="kyoto"
+1430	1155,1256	string	answer	annotator="ctc" confidence="3" partial="false" confidencecomment="future tense" questionnumber="7" topic="kyoto"
+1380	1154,1256	string	answer	annotator="ctc" confidence="3" confidencecomment="future tense" questionnumber="8" topic="kyoto"
+1402	410,424	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="5"

@@ -1,0 +1,116 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010916/21.24.32-9824/21.24.32-9824.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+109	1066,1067	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+107	3275,3398	string	GATE_attitude	 attitude-uncertain="very-uncertain" target-link="t2" attitude-type="arguing-pos" id="a2" intensity="low-medium"
+105	3250,3251	string	GATE_split	
+103	2,257	string	GATE_inside	 nested-source="w"
+101	991,992	string	GATE_split	
+99	1202,1245	string	GATE_inside	 nested-source="w"
+97	3258,3274	string	GATE_target	 id="t2"
+95	1066,1201	string	GATE_inside	 nested-source="w"
+93	2842,2848	string	GATE_objective-speech-event	 nested-source="w,defmin"
+91	1404,1415	string	GATE_agent	 nested-source="w,kar"
+89	697,698	string	GATE_split	
+87	1366,1374	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w,kar" polarity="neutral"
+85	264,485	string	GATE_inside	 nested-source="w"
+83	1244,1245	string	GATE_split	
+81	3398,3399	string	GATE_split	
+79	869,870	string	GATE_split	
+77	1922,2160	string	GATE_inside	 nested-source="w"
+75	2427,2428	string	GATE_split	
+73	827,836	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w,kar" polarity="neutral"
+71	1200,1201	string	GATE_split	
+69	492,494	string	GATE_agent	 nested-source="w,kar"
+67	3400,3400	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+65	1482,1484	string	GATE_target	 id="t1"
+63	2515,2516	string	GATE_split	
+61	1838,1849	string	GATE_agent	 nested-source="w,kar"
+59	3275,3291	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-neg" intensity="medium" id="a3"
+57	492,492	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+55	0,0	string	GATE_agent	 id="w"
+53	3258,3399	string	GATE_inside	 nested-source="w"
+51	1700,1700	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+49	987,991	string	GATE_objective-speech-event	 nested-source="w,kar"
+47	1634,1634	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	652,652	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+43	3087,3088	string	GATE_split	
+41	2891,2892	string	GATE_split	
+39	2523,2523	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	1473,1481	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w,navy" polarity="neutral"
+35	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	2523,2688	string	GATE_inside	 nested-source="w"
+31	480,484	string	GATE_objective-speech-event	 nested-source="w,kar"
+29	865,869	string	GATE_objective-speech-event	 nested-source="w,kar" objective-uncertain="somewhat-uncertain"
+27	2246,2247	string	GATE_split	
+25	3484,3487	string	GATE_split	
+23	1862,1915	string	GATE_inside	 nested-source="w"
+21	2899,3088	string	GATE_inside	 nested-source="w"
+19	1634,1693	string	GATE_inside	 nested-source="w"
+17	1252,1252	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	795,808	string	GATE_objective-speech-event	 nested-source="w,kar,navy"
+13	993,994	string	GATE_objective-speech-event	 nested-source="w,kar" implicit="true"
+11	2824,2828	string	GATE_objective-speech-event	 nested-source="w,defmin"
+9	3400,3477	string	GATE_inside	 nested-source="w"
+7	975,986	string	GATE_agent	 nested-source="w,kar"
+5	1069,1073	string	GATE_objective-speech-event	 nested-source="w,kar"
+3	877,992	string	GATE_inside	 nested-source="w"
+1	1914,1915	string	GATE_split	
+110	3095,3251	string	GATE_inside	 nested-source="w"
+108	786,794	string	GATE_agent	 id="navy" nested-source="w,kar,navy"
+106	1428,1582	string	GATE_inside	 nested-source="w"
+104	0,0	string	GATE_agent	 id="implicit"
+102	663,686	string	GATE_objective-speech-event	 nested-source="w,implicit" insubstantial="c2"
+100	252,256	string	GATE_objective-speech-event	 nested-source="w,defmin"
+98	3476,3477	string	GATE_split	
+96	705,705	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+94	2167,2167	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+92	1416,1420	string	GATE_objective-speech-event	 nested-source="w,kar"
+90	1252,1421	string	GATE_inside	 nested-source="w"
+88	1589,1633	string	GATE_inside	 nested-source="w"
+86	1420,1421	string	GATE_split	
+84	3275,3291	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2, a3" intensity="medium" nested-source="w,implicit" polarity="negative"
+82	442,479	string	GATE_agent	 id="kar" nested-source="w,kar"
+80	484,485	string	GATE_split	
+78	1862,1862	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+76	2899,2899	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+74	1700,1855	string	GATE_inside	 nested-source="w"
+72	1581,1582	string	GATE_split	
+70	2159,2160	string	GATE_split	
+68	1066,1068	string	GATE_agent	 nested-source="w,kar"
+66	2254,2428	string	GATE_inside	 nested-source="w"
+64	993,993	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+62	2695,2892	string	GATE_inside	 nested-source="w"
+60	492,651	string	GATE_inside	 nested-source="w"
+58	576,583	string	GATE_objective-speech-event	 nested-source="w,kar,implicit"
+56	3258,3258	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+54	2435,2516	string	GATE_inside	 nested-source="w"
+52	3095,3095	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+50	2803,2823	string	GATE_agent	 nested-source="w,defmin"
+48	2687,2688	string	GATE_split	
+46	1632,1633	string	GATE_split	
+44	1922,1922	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	705,870	string	GATE_inside	 nested-source="w"
+40	231,251	string	GATE_agent	 id="defmin" nested-source="w,defmin"
+38	1202,1202	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	2167,2247	string	GATE_inside	 nested-source="w"
+34	1473,1500	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t1" attitude-type="arguing-pos" id="a1" intensity="low"
+32	1428,1428	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	853,864	string	GATE_agent	 nested-source="w,kar"
+28	1854,1855	string	GATE_split	
+26	264,264	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	2435,2435	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	2254,2254	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	1692,1693	string	GATE_split	
+18	877,877	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	652,698	string	GATE_inside	 nested-source="w"
+14	2695,2695	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	993,1059	string	GATE_inside	 nested-source="w"
+10	1850,1854	string	GATE_objective-speech-event	 nested-source="w,kar"
+8	650,651	string	GATE_split	
+6	1589,1589	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	3342,3366	string	GATE_target	 id="t3"
+2	256,257	string	GATE_split	
+0	495,499	string	GATE_objective-speech-event	 nested-source="w,kar"

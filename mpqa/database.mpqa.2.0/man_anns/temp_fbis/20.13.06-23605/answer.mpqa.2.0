@@ -1,0 +1,7 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/74.ves.annotated
+#  on Thu Sep 09 14:17:07 EDT 2004
+#  by ves
+
+448	1111,1207	string	answer	annotator="ves" questionnumber="2" confidence="2" topic="kyoto"

@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/16.ctc.annotated
+#  on Thu Sep 09 14:16:46 EDT 2004
+#  by ves
+
+3013	6302,6317	string	answer	annotator="ctc" questionnumber="7" topic="venezuela" confidence="3"
+2994	3158,3203	string	answer	annotator="ctc" confidence="1" confidencecomment="indirect" questionnumber="7" topic="venezuela"
+3311	246,296	string	answer	annotator="ctc" confidence="5" confidencecomment="" questionnumber="7" topic="venezuela"
+3148	2921,2964	string	answer	annotator="ctc" confidence="1" confidencecomment="indirect" questionnumber="7" topic="venezuela"
+3320	564,607	string	answer	annotator="ctc" questionnumber="7" topic="venezuela" confidence="5"

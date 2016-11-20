@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/76.ctc.annotated
+#  on Thu Sep 09 14:17:08 EDT 2004
+#  by ves
+
+2413	1172,1222	string	answer	annotator="ctc" confidence="4" confidencecomment="indirect" questionnumber="1" topic="kyoto"
+2386	2268,2272	string	answer	annotator="ctc" questionnumber="2" topic="kyoto" confidence="5"
+2441	2691,2756	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="5"
+2541	3523,3628	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="focuses only on what the KP is 'about' for Japan" questionnumber="1" topic="kyoto"
+2307	1133,1137	string	answer	annotator="ctc" questionnumber="2" topic="kyoto" confidence="5"
+2398	2306,2387	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="5"

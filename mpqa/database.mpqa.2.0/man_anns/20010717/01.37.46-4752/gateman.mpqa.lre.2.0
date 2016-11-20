@@ -1,0 +1,57 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010717/01.37.46-4752/01.37.46-4752.jw.attitudes.xml
+#  on Wed Feb  8 16:05:11 EST 2006
+#  by twilson
+51	337,338	string	GATE_split	
+50	921,932	string	GATE_attitude	 target-link="t16" attitude-type="intention-pos" intensity="medium" id="a16"
+49	659,665	string	GATE_agent	 id="russia" nested-source="w,russmin,russia"
+48	166,194	string	GATE_agent	 id="russmin" nested-source="w,russmin"
+47	659,659	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+46	657,658	string	GATE_split	
+45	848,866	string	GATE_target	 id="t15"
+44	1155,1156	string	GATE_split	
+43	2,8	string	GATE_agent	 nested-source="w,russia"
+42	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	502,540	string	GATE_target	 id="t12"
+40	339,367	string	GATE_agent	 nested-source="w,russmin"
+39	2,78	string	GATE_inside	 nested-source="w"
+38	1137,1149	string	GATE_agent	 nested-source="w,russmin"
+37	339,339	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	914,920	string	GATE_agent	 id="us" nested-source="w,russmin,us"
+35	834,847	string	GATE_attitude	 target-link="t15" attitude-type="agree-pos" intensity="medium" id="a15"
+34	1150,1155	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a18, a19" intensity="medium" nested-source="w,russmin"
+33	659,912	string	GATE_inside	 nested-source="w"
+32	906,911	string	GATE_objective-speech-event	 nested-source="w,russmin"
+31	149,338	string	GATE_inside	 nested-source="w"
+30	195,209	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-pos" intensity="medium" id="a11"
+29	0,0	string	GATE_agent	 id="w"
+28	805,816	string	GATE_agent	 id="sig" nested-source="w,russmin,russia,sig"
+27	1019,1029	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,russmin" polarity="negative"
+26	17,78	string	GATE_target	 id="t10"
+25	914,1018	string	GATE_target	 id="t17"
+24	542,656	string	GATE_attitude	 target-link="t12" attitude-type="arguing-pos" intensity="medium" id="a12"
+23	149,150	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	666,683	string	GATE_attitude	 target-link="t13" attitude-type="sentiment-pos" intensity="medium" id="a13"
+21	9,16	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10" nested-source="w,russia" intensity="medium" polarity="positive"
+20	921,929	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a16" subjective-uncertain="somewhat-uncertain" annotation-uncertain="somewhat-uncertain" intensity="medium" nested-source="w,russmin,us" polarity="neutral"
+19	913,1156	string	GATE_inside	 nested-source="w"
+18	684,743	string	GATE_target	 id="t13"
+17	211,337	string	GATE_target	 id="t11"
+16	9,16	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" intensity="low-medium" id="a10"
+15	693,743	string	GATE_target	 id="t14"
+14	1163,1166	string	GATE_split	
+13	913,913	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	751,889	string	GATE_attitude	 target-link="t14" attitude-type="arguing-pos" intensity="medium" id="a14"
+11	195,209	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a11" subjective-uncertain="somewhat-uncertain" nested-source="w,russmin" intensity="low" polarity="positive"
+10	933,1018	string	GATE_target	 id="t16"
+9	666,680	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a13, a14" nested-source="w,russmin,russia" intensity="medium" polarity="positive"
+8	545,564	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,russmin" polarity="neutral"
+7	820,844	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a15" annotation-uncertain="somewhat-uncertain" insubstantial="c2" nested-source="w,russmin,russia,sig" intensity="low" polarity="neutral"
+6	0,0	string	GATE_agent	 id="implicit"
+5	491,496	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a12" intensity="medium" nested-source="w,russmin"
+4	1019,1134	string	GATE_attitude	 target-link="t17" attitude-type="sentiment-neg" intensity="medium" id="a19"
+3	892,905	string	GATE_agent	 nested-source="w,russmin"
+2	1019,1134	string	GATE_attitude	 target-link="t17" attitude-type="arguing-pos" intensity="medium" id="a18"
+1	911,912	string	GATE_split	
+0	339,658	string	GATE_inside	 nested-source="w"

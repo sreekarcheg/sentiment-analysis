@@ -1,0 +1,14 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/63.ctc.annotated
+#  on Thu Sep 09 14:17:03 EDT 2004
+#  by ves
+
+2936	1613,1619	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="1" topic="mugabe"
+3137	424,432	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="4" topic="mugabe"
+3019	1943,1963	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="British reaction" questionnumber="1" topic="mugabe"
+3152	1443,1460	string	answer	annotator="ctc" confidence="5" partial="false" confidencecomment="'West' includes Britain" questionnumber="1" topic="mugabe"
+2850	1495,1539	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="only American opinion" questionnumber="1" topic="mugabe"
+3004	1706,1727	string	answer	annotator="ctc" confidence="3" partial="false" confidencecomment="basis for adversarial action?" questionnumber="6" topic="mugabe"
+3101	1545,1589	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="only American opinion" questionnumber="1" topic="mugabe"
+3008	1798,1822	string	answer	annotator="ctc" confidence="4" partial="true" confidencecomment="possible action from US" questionnumber="1" topic="mugabe"

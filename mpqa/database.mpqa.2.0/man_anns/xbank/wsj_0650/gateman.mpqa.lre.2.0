@@ -1,0 +1,15 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0650/wsj_0650.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+2	192,387	string	GATE_inside	 nested-source="w"
+4	50,59	string	GATE_objective-speech-event	 nested-source="w,sun"
+9	388,388	string	GATE_objective-speech-event	 annotation-uncertain="" implicit="true" nested-source="w"
+8	191,191	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+6	192,203	string	GATE_agent	 nested-source="w,sun"
+1	390,447	string	GATE_inside	 nested-source="w"
+3	9,189	string	GATE_inside	 nested-source="w"
+7	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+5	204,208	string	GATE_objective-speech-event	 nested-source="w,sun"
+0	9,30	string	GATE_agent	 nested-source="w,sun" id="sun"

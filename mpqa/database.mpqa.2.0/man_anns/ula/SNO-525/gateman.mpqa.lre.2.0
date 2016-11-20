@@ -1,0 +1,229 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/SNO-525/SNO-525.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+1561	1608,1608	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1614	2082,2152	string	GATE_inside	 nested-source="w"
+1617	2375,2375	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1562	967,971	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,bill,enron" polarity="positive" attitude-link="wewant"
+1483	1471,1472	string	GATE_split	
+1563	231,236	string	GATE_agent	 nested-source="w,bill,enron" id="enron"
+1525	2038,2039	string	GATE_split	
+1627	1315,1315	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1624	1390,1402	string	GATE_inside	 nested-source="w"
+1560	1608,1624	string	GATE_inside	 nested-source="w"
+1526	2327,2328	string	GATE_split	
+1613	2557,2582	string	GATE_inside	 nested-source="w"
+1486	473,482	string	GATE_inside	 nested-source="w"
+1463	627,627	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1565	0,0	string	GATE_direct-subjective	
+1558	0,0	string	GATE_agent	 id="w"
+1506	519,519	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1485	1386,1388	string	GATE_split	
+1524	2077,2078	string	GATE_split	
+1620	2433,2450	string	GATE_inside	 nested-source="w"
+1631	195,195	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1457	2552,2553	string	GATE_split	
+1570	1261,1261	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1564	0,0	string	GATE_expressive-subjectivity	
+1458	796,891	string	GATE_inside	 nested-source="w"
+1618	2332,2371	string	GATE_inside	 nested-source="w"
+1554	1628,1725	string	GATE_inside	 nested-source="w"
+1559	0,0	string	GATE_agent	 id="implicit"
+1550	1583,1605	string	GATE_inside	 nested-source="w"
+1481	2506,2507	string	GATE_split	
+1553	1767,1767	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1551	1583,1583	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1571	1261,1279	string	GATE_inside	 nested-source="w"
+1574	1311,1311	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1635	12,12	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1488	486,518	string	GATE_inside	 nested-source="w"
+1552	1767,1799	string	GATE_inside	 nested-source="w"
+1461	783,783	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1573	1282,1301	string	GATE_inside	 nested-source="w"
+1636	195,211	string	GATE_inside	 nested-source="w"
+1622	1405,1472	string	GATE_inside	 nested-source="w"
+1632	558,559	string	GATE_split	
+1572	1282,1282	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1462	627,638	string	GATE_inside	 nested-source="w"
+1507	519,559	string	GATE_inside	 nested-source="w"
+1549	1728,1738	string	GATE_inside	 nested-source="w"
+1505	724,779	string	GATE_inside	 nested-source="w"
+1621	2433,2433	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1610	2455,2455	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1508	563,563	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1484	1401,1402	string	GATE_split	
+1611	2455,2507	string	GATE_inside	 nested-source="w"
+1630	481,482	string	GATE_split	
+1668	1267,1273	string	GATE_target	 id="sumstuff"
+1612	2557,2557	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1479	254,254	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1609	2508,2518	string	GATE_inside	 nested-source="w"
+1482	1564,1565	string	GATE_split	
+1623	1405,1405	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1582	1204,1209	string	GATE_inside	 nested-source="w"
+1480	254,279	string	GATE_inside	 nested-source="w"
+1453	642,642	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1579	1128,1188	string	GATE_inside	 nested-source="w"
+1531	1737,1738	string	GATE_split	
+1467	308,308	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1643	598,599	string	GATE_split	
+1638	722,723	string	GATE_split	
+1520	1301,1303	string	GATE_split	
+1644	664,665	string	GATE_split	
+1580	1192,1192	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1581	1192,1203	string	GATE_inside	 nested-source="w"
+1633	517,518	string	GATE_split	
+1468	308,320	string	GATE_inside	 nested-source="w"
+1575	1311,1314	string	GATE_inside	 nested-source="w"
+1634	212,237	string	GATE_inside	 nested-source="w"
+1519	1278,1279	string	GATE_split	
+1521	1313,1314	string	GATE_split	
+1518	1256,1257	string	GATE_split	
+1576	1086,1086	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1522	2023,2024	string	GATE_split	
+1454	8,11	string	GATE_inside	 nested-source="w"
+1537	2028,2039	string	GATE_inside	 nested-source="w"
+1523	1992,1993	string	GATE_split	
+1459	796,796	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1528	2390,2391	string	GATE_split	
+1464	600,623	string	GATE_inside	 nested-source="w"
+1615	2082,2082	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1616	2375,2391	string	GATE_inside	 nested-source="w"
+1534	1880,1880	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1555	1628,1628	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1619	2332,2332	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1450	666,698	string	GATE_inside	 nested-source="w"
+1660	278,279	string	GATE_split	
+1533	1798,1799	string	GATE_split	
+1532	1831,1832	string	GATE_split	
+1657	330,331	string	GATE_split	
+1673	972,1005	string	GATE_target	 id="getcreative"
+1527	2151,2152	string	GATE_split	
+1578	1128,1128	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1639	697,698	string	GATE_split	
+1538	1925,1925	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1452	642,665	string	GATE_inside	 nested-source="w"
+1637	212,212	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1460	783,792	string	GATE_inside	 nested-source="w"
+1556	1568,1580	string	GATE_inside	 nested-source="w"
+1557	1568,1568	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1539	1925,1975	string	GATE_inside	 nested-source="w"
+1530	1762,1763	string	GATE_split	
+1456	2581,2582	string	GATE_split	
+1599	2519,2553	string	GATE_inside	 nested-source="w"
+1600	2638,2638	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1455	8,8	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1577	1086,1127	string	GATE_inside	 nested-source="w"
+1529	2370,2371	string	GATE_split	
+1640	791,792	string	GATE_split	
+1653	1068,1069	string	GATE_split	
+1597	2040,2040	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1473	282,282	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1495	1623,1624	string	GATE_split	
+1536	2028,2028	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1658	236,237	string	GATE_split	
+1472	123,192	string	GATE_inside	 nested-source="w"
+1496	1604,1605	string	GATE_split	
+1595	1979,1979	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1515	1903,1904	string	GATE_split	
+1451	666,666	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1659	210,211	string	GATE_split	
+1470	12,80	string	GATE_inside	 nested-source="w"
+1514	1878,1879	string	GATE_split	
+1469	240,240	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1476	2449,2450	string	GATE_split	
+1649	80,82	string	GATE_split	
+1516	1923,1924	string	GATE_split	
+1598	2519,2519	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1662	1105,1109	string	GATE_attitude	 target-link="tudu" intensity="low-medium" id="cogenwant" attitude-type="sentiment-pos"
+1535	1880,1904	string	GATE_inside	 nested-source="w"
+1663	162,177	string	GATE_agent	 id="cogen"
+1664	1101,1104	string	GATE_agent	 nested-source="w,bill,cogen" id=""
+1494	1724,1725	string	GATE_split	
+1591	1073,1073	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1512	334,334	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1661	250,251	string	GATE_split	
+1517	1974,1975	string	GATE_split	
+1594	1979,1993	string	GATE_inside	 nested-source="w"
+1478	240,251	string	GATE_inside	 nested-source="w"
+1475	2428,2429	string	GATE_split	
+1596	2040,2078	string	GATE_inside	 nested-source="w"
+1593	1997,1997	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1642	622,623	string	GATE_split	
+1513	334,350	string	GATE_inside	 nested-source="w"
+1654	319,320	string	GATE_split	
+1583	1204,1204	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1474	2517,2518	string	GATE_split	
+1477	2636,2637	string	GATE_split	
+1471	123,123	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1510	321,321	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1466	282,305	string	GATE_inside	 nested-source="w"
+1584	895,948	string	GATE_inside	 nested-source="w"
+1540	1836,1836	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1656	349,350	string	GATE_split	
+1465	600,600	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1641	778,779	string	GATE_split	
+1511	321,331	string	GATE_inside	 nested-source="w"
+1655	304,305	string	GATE_split	
+1607	2395,2429	string	GATE_inside	 nested-source="w"
+1670	1032,1068	string	GATE_target	 id="godown"
+1543	1739,1763	string	GATE_inside	 nested-source="w"
+1509	563,599	string	GATE_inside	 nested-source="w"
+1542	1739,1739	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1669	1274,1278	string	GATE_expressive-subjectivity	 nested-source="w,bill" polarity="positive" intensity="low"
+1588	1024,1069	string	GATE_inside	 nested-source="w"
+1672	964,966	string	GATE_agent	 nested-source="w,bill,enron"
+1541	1836,1879	string	GATE_inside	 nested-source="w"
+1602	2586,2586	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1601	2638,2655	string	GATE_inside	 nested-source="w"
+1608	2508,2508	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1544	1908,1908	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1501	387,469	string	GATE_inside	 nested-source="w"
+1586	952,1020	string	GATE_inside	 nested-source="w"
+1490	1208,1209	string	GATE_split	
+1491	1202,1203	string	GATE_split	
+1629	2156,2156	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1585	895,895	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1647	10,11	string	GATE_split	
+1547	1803,1832	string	GATE_inside	 nested-source="w"
+1492	1187,1188	string	GATE_split	
+1603	2586,2637	string	GATE_inside	 nested-source="w"
+1648	191,192	string	GATE_split	
+1548	1728,1728	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1592	1997,2024	string	GATE_inside	 nested-source="w"
+1487	473,473	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1604	382,383	string	GATE_split	
+1489	486,486	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1671	967,971	string	GATE_attitude	 target-link="getcreative,godown" intensity="medium" id="wewant" attitude-type="sentiment-pos"
+1606	2395,2395	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1625	1390,1390	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1646	1081,1082	string	GATE_split	
+1504	724,724	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1605	468,469	string	GATE_split	
+1626	1315,1386	string	GATE_inside	 nested-source="w"
+1589	1024,1024	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1503	702,723	string	GATE_inside	 nested-source="w"
+1493	1126,1127	string	GATE_split	
+1498	351,351	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1587	952,952	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1666	1274,1278	string	GATE_attitude	 target-link="sumstuff" intensity="low" id="gudness" attitude-type="sentiment-pos"
+1651	947,948	string	GATE_split	
+1568	1210,1210	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1650	890,891	string	GATE_split	
+1645	637,638	string	GATE_split	
+1569	1210,1257	string	GATE_inside	 nested-source="w"
+1665	1110,1115	string	GATE_target	 id="tudu"
+1500	387,387	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1546	1803,1803	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1590	1073,1082	string	GATE_inside	 nested-source="w"
+1499	351,383	string	GATE_inside	 nested-source="w"
+1566	1475,1475	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1667	1105,1109	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c2" intensity="medium" nested-source="w,bill,cogen" polarity="positive" attitude-link="yousewant"
+1652	1019,1020	string	GATE_split	
+1567	1475,1565	string	GATE_inside	 nested-source="w"
+1502	702,702	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1545	1908,1924	string	GATE_inside	 nested-source="w"
+1628	2156,2328	string	GATE_inside	 nested-source="w"
+1497	1579,1580	string	GATE_split	

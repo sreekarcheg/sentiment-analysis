@@ -1,0 +1,55 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0332/wsj_0332.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+427	723,723	string	GATE_objective-speech-event	 implicit="true" nested-source="w,orkem"
+400	0,0	string	GATE_agent	 id="w"
+415	881,970	string	GATE_inside	 nested-source="w"
+414	881,881	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+399	660,664	string	GATE_objective-speech-event	 nested-source="w,orkem"
+413	879,880	string	GATE_split	
+425	541,549	string	GATE_target	 id="merger"
+398	529,540	string	GATE_attitude	 target-link="merger" intensity="low" id="consider" attitude-type="other-attitude"
+396	529,540	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="consider" nested-source="w,two,two"
+411	723,723	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+416	7,9	string	GATE_split	
+385	243,243	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+401	0,0	string	GATE_agent	 id="implicit"
+418	612,614	string	GATE_split	
+386	9,240	string	GATE_inside	 nested-source="w"
+387	403,403	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+402	0,0	string	GATE_expressive-subjectivity	
+412	401,402	string	GATE_split	
+392	304,329	string	GATE_attitude	 target-link="offer" intensity="low" id="accept" attitude-type="agree-pos"
+407	330,373	string	GATE_agent	 nested-source="w,execshare" id="execshare"
+397	541,549	string	GATE_target	 id="merger"
+428	881,886	string	GATE_agent	 nested-source="w,orkem" id=""
+421	1,6	string	GATE_inside	 nested-source="w"
+405	221,234	string	GATE_agent	 nested-source="w,two" id="two"
+422	472,474	string	GATE_split	
+390	474,474	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+406	304,329	string	GATE_direct-subjective	 attitude-link="accept" expression-intensity="low" intensity="low"
+419	239,240	string	GATE_split	
+382	403,471	string	GATE_inside	 nested-source="w"
+391	971,973	string	GATE_split	
+393	243,252	string	GATE_target	 id="offer"
+403	0,0	string	GATE_direct-subjective	
+388	243,402	string	GATE_inside	 nested-source="w"
+424	887,891	string	GATE_objective-speech-event	 nested-source="w,orkem"
+381	241,243	string	GATE_split	
+417	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+408	723,880	string	GATE_inside	 nested-source="w"
+395	474,490	string	GATE_agent	 nested-source="w,two"
+410	969,970	string	GATE_split	
+383	614,722	string	GATE_inside	 nested-source="w"
+409	721,722	string	GATE_split	
+426	516,523	string	GATE_agent	 nested-source="w,two,two" id=""
+394	491,495	string	GATE_objective-speech-event	 nested-source="w,two"
+423	470,471	string	GATE_split	
+430	614,658	string	GATE_agent	 nested-source="w,orkem" id=""
+420	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+429	9,19	string	GATE_agent	 id="orkem"
+389	474,611	string	GATE_inside	 nested-source="w"
+404	235,239	string	GATE_objective-speech-event	 nested-source="w,two"
+384	614,614	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

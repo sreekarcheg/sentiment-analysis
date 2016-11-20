@@ -1,0 +1,182 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/15.36.10-18917/15.36.10-18917.jw.attitudes.xml
+#  on Wed Feb  8 16:30:07 EST 2006
+#  by twilson
+127	2686,2687	string	GATE_split	
+125	1137,1146	string	GATE_attitude	 target-link="none" attitude-type="intention-pos" intensity="low" id="a13"
+123	2595,2652	string	GATE_attitude	 target-link="t55" attitude-type="sentiment-pos" intensity="medium" id="a55"
+121	1043,1050	string	GATE_objective-speech-event	 nested-source="w,chavez"
+119	2846,2847	string	GATE_split	
+117	332,332	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+115	1499,1532	string	GATE_agent	 id="iran"
+113	1614,1823	string	GATE_inside	 nested-source="w"
+111	1754,1784	string	GATE_target	 id="t21"
+109	2323,2584	string	GATE_inside	 nested-source="w"
+107	1537,1555	string	GATE_agent	 id="prez" nested-source="w,prez"
+105	1922,1928	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a24, a25, a240" intensity="medium" nested-source="w,iran"
+103	1870,1897	string	GATE_attitude	 target-link="t23" attitude-type="arguing-pos" intensity="medium" id="a23"
+101	2588,2594	string	GATE_agent	 nested-source="w,chavez"
+99	1222,1404	string	GATE_attitude	 target-link="t14" attitude-type="arguing-pos" intensity="low-medium" id="a14"
+97	1614,1618	string	GATE_agent	 nested-source="w,iran"
+95	12,25	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1" intensity="medium" nested-source="w,khatami" polarity="positive"
+93	2429,2525	string	GATE_attitude	 target-link="t53" attitude-type="sentiment-neg" intensity="medium" id="a52"
+91	2687,2691	string	GATE_split	
+89	0,0	string	GATE_agent	 id="implicit"
+87	2436,2439	string	GATE_agent	
+85	97,123	string	GATE_agent	 nested-source="w,khatami"
+83	1976,1993	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,iran" polarity="negative"
+81	1827,1827	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+79	1222,1232	string	GATE_attitude	 target-link="t15" attitude-type="sentiment-pos" intensity="medium" id="a15"
+77	750,973	string	GATE_inside	 nested-source="w"
+75	71,328	string	GATE_inside	 nested-source="w"
+73	551,551	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+71	2588,2687	string	GATE_inside	 nested-source="w"
+69	1556,1584	string	GATE_attitude	 target-link="t19" attitude-type="sentiment-pos" intensity="medium" id="a19"
+67	26,43	string	GATE_agent	 id="venezuela"
+65	1813,1822	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w,iran" intensity="medium" polarity="positive"
+63	1499,1532	string	GATE_target	 id="t18"
+61	1035,1041	string	GATE_agent	 nested-source="w,chavez"
+59	865,940	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-pos" intensity="high" id="a11"
+57	1426,1433	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a17" intensity="medium" nested-source="w,chavez" polarity="positive"
+55	1898,1920	string	GATE_target	 id="t23"
+53	4,62	string	GATE_inside	 nested-source="w"
+51	1480,1498	string	GATE_attitude	 target-link="t18" attitude-type="sentiment-pos" intensity="medium" id="a18"
+49	1116,1120	string	GATE_split	
+176	1662,1671	string	GATE_agent	
+47	445,508	string	GATE_target	 id="t4"
+174	2654,2686	string	GATE_target	 id="t55"
+45	332,547	string	GATE_inside	 nested-source="w"
+172	1532,1533	string	GATE_split	
+43	1409,1425	string	GATE_agent	 nested-source="w,chavez"
+170	1839,1841	string	GATE_agent	 nested-source="w,iran"
+41	2595,2620	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a54, a55" intensity="high" nested-source="w,chavez" polarity="positive"
+168	2857,2859	string	GATE_split	
+39	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+166	383,387	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a4, a5, a50" intensity="high" nested-source="w,khatami"
+37	973,977	string	GATE_split	
+164	199,281	string	GATE_target	 id="t2"
+35	745,746	string	GATE_split	
+162	2052,2074	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,iran" polarity="negative"
+33	260,281	string	GATE_agent	 id="chavez"
+160	1973,2033	string	GATE_attitude	 target-link="t24" attitude-type="arguing-neg" intensity="medium-high" id="a24"
+31	328,332	string	GATE_split	
+158	2621,2640	string	GATE_target	 id="t54"
+29	977,1116	string	GATE_inside	 nested-source="w"
+156	977,977	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	1233,1324	string	GATE_target	 id="t15"
+154	1931,1972	string	GATE_target	 id="t24"
+25	245,281	string	GATE_target	 id="t3"
+152	2038,2048	string	GATE_target	 id="t240"
+23	546,547	string	GATE_split	
+150	327,328	string	GATE_split	
+21	551,746	string	GATE_inside	 nested-source="w"
+148	1827,2112	string	GATE_inside	 nested-source="w"
+19	1537,1537	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+146	2049,2110	string	GATE_attitude	 target-link="t240" attitude-type="arguing-neg" intensity="medium-high" id="a240"
+17	4,11	string	GATE_agent	 id="khatami" nested-source="w,khatami"
+144	1609,1610	string	GATE_split	
+15	2588,2588	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+142	723,730	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-pos" intensity="medium" id="a8"
+13	703,713	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a7" insubstantial="c1,c2" nested-source="w,khatami,vengov" intensity="medium" polarity="neutral"
+140	1150,1203	string	GATE_agent	 id="those"
+11	1434,1451	string	GATE_target	 id="t17"
+138	578,596	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6, a51" intensity="high" nested-source="w,khatami" polarity="positive"
+9	1426,1475	string	GATE_attitude	 target-link="t17, t170" attitude-type="sentiment-pos" intensity="medium" id="a17"
+136	65,71	string	GATE_split	
+7	143,156	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2, a3" intensity="medium" nested-source="w,khatami" polarity="positive"
+134	703,713	string	GATE_target	 id="t51"
+5	0,0	string	GATE_agent	 id="w"
+132	1822,1823	string	GATE_split	
+3	2398,2424	string	GATE_agent	 id="forces" nested-source="w,forces"
+130	1643,1658	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" intensity="medium" id="a20"
+1	1585,1609	string	GATE_target	 id="t19"
+128	2429,2525	string	GATE_attitude	 target-link="t53" attitude-type="arguing-pos" intensity="medium" id="a53"
+126	2584,2588	string	GATE_split	
+124	2691,2691	string	GATE_direct-subjective	 attitude-link="a56" intensity="medium" nested-source="w" implicit="true"
+122	2319,2323	string	GATE_split	
+120	1120,1120	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+118	2691,2693	string	GATE_target	 id="t56"
+116	1456,1475	string	GATE_target	 id="t170"
+114	1133,1149	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a13" insubstantial="c1" nested-source="w,chavez,those" intensity="medium" polarity="neutral"
+112	475,499	string	GATE_target	 id="t50"
+110	602,745	string	GATE_target	 id="t6"
+108	2116,2319	string	GATE_inside	 nested-source="w"
+106	1823,1827	string	GATE_split	
+104	639,664	string	GATE_agent	 id="vengov" nested-source="w,khatami,vengov"
+102	12,47	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="medium" id="a1"
+100	1610,1614	string	GATE_split	
+98	916,972	string	GATE_attitude	 target-link="t12" attitude-type="arguing-pos" intensity="medium-high" id="a12"
+96	2112,2116	string	GATE_split	
+94	234,244	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,khatami" polarity="positive"
+92	1434,1451	string	GATE_agent	
+90	2706,2716	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="uncertain-positive"
+88	865,915	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="high" id="a9"
+86	1120,1132	string	GATE_objective-speech-event	 nested-source="w,chavez"
+84	464,474	string	GATE_attitude	 target-link="t50" attitude-type="arguing-pos" intensity="medium" id="a50"
+82	365,382	string	GATE_agent	 nested-source="w,khatami"
+80	1614,1614	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+78	1212,1216	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a14" subjective-uncertain="somewhat-uncertain" intensity="medium" nested-source="w,chavez"
+76	695,702	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,khatami" polarity="positive"
+74	48,62	string	GATE_target	 id="t1"
+72	234,244	string	GATE_attitude	 target-link="t3" attitude-type="arguing-pos" intensity="medium" id="a3"
+70	972,973	string	GATE_split	
+68	2583,2584	string	GATE_split	
+66	1931,1943	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,iran" polarity="negative"
+64	2323,2323	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+62	2318,2319	string	GATE_split	
+60	2116,2116	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+58	1856,1920	string	GATE_target	 id="t22"
+56	2429,2435	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a53, a52" intensity="medium" nested-source="w,forces" polarity="negative"
+54	62,65	string	GATE_split	
+52	1687,1822	string	GATE_target	 id="t20"
+50	695,702	string	GATE_attitude	 target-link="t51, t8" attitude-type="sentiment-pos" intensity="medium-high" id="a51"
+48	703,713	string	GATE_attitude	 target-link="none" attitude-type="intention-pos" intensity="low" id="a7"
+175	509,546	string	GATE_attitude	 target-link="t4" attitude-type="arguing-pos" intensity="medium-high" id="a4"
+46	1205,1211	string	GATE_agent	 nested-source="w,chavez"
+173	639,664	string	GATE_target	 id="t8"
+44	1687,1753	string	GATE_attitude	 target-link="t21" attitude-type="arguing-pos" intensity="medium" id="a21"
+171	865,881	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w,chavez" intensity="medium" polarity="negative"
+42	719,733	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a8" insubstantial="c2" nested-source="w,khatami,venpeople" intensity="medium" polarity="positive"
+169	734,745	string	GATE_agent	 id="venpeople" nested-source="w,khatami,venpeople"
+40	1405,1409	string	GATE_split	
+167	1404,1405	string	GATE_split	
+38	1931,2110	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="high" id="a25"
+165	1842,1851	string	GATE_attitude	 target-link="t22" attitude-type="sentiment-neg" intensity="high" id="a22"
+36	1222,1229	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a15, a16" intensity="medium" nested-source="w,chavez,those" polarity="positive"
+163	1556,1581	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a19" intensity="medium" nested-source="w,prez" polarity="positive"
+34	1217,1221	string	GATE_target	 id="t14"
+161	1409,1409	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	1217,1221	string	GATE_agent	 nested-source="w,chavez,those"
+159	1120,1405	string	GATE_inside	 nested-source="w"
+30	1537,1610	string	GATE_inside	 nested-source="w"
+157	838,854	string	GATE_agent	 nested-source="w,chavez"
+28	750,750	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+155	746,750	string	GATE_split	
+26	1842,1851	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a22, a23" intensity="high" nested-source="w,iran" polarity="negative"
+153	2598,2620	string	GATE_attitude	 target-link="t54" attitude-type="sentiment-pos" intensity="medium-high" id="a54"
+24	71,71	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+151	894,900	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,chavez" polarity="negative"
+22	941,972	string	GATE_target	 id="t11"
+149	509,546	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-pos" intensity="high" id="a5"
+20	464,474	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,khatami" polarity="positive"
+147	143,197	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-pos" intensity="medium" id="a2"
+18	1409,1533	string	GATE_inside	 nested-source="w"
+145	933,957	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,chavez" polarity="positive"
+16	2694,2736	string	GATE_attitude	 target-link="t56" attitude-type="sentiment-pos" intensity="low" id="a56"
+143	2436,2439	string	GATE_target	 id="t53"
+14	855,859	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a11, a12, a9" intensity="high" nested-source="w,chavez"
+141	1222,1262	string	GATE_attitude	 target-link="t16" attitude-type="sentiment-neg" id="a16" inferred="yes" intensity="medium"
+12	1263,1324	string	GATE_target	 id="t16"
+139	1638,1658	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a20, a21" intensity="medium" nested-source="w,iran" polarity="positive"
+10	157,193	string	GATE_agent	
+137	2691,2847	string	GATE_inside	 nested-source="w"
+8	551,572	string	GATE_agent	 nested-source="w,khatami"
+135	1115,1116	string	GATE_split	
+6	592,596	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-pos" intensity="medium" id="a6"
+133	1378,1387	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,chavez" polarity="negative"
+4	516,546	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,khatami" polarity="positive"
+131	1533,1537	string	GATE_split	
+2	865,915	string	GATE_target	 id="t12"
+129	547,551	string	GATE_split	
+0	1480,1494	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a18" intensity="medium" nested-source="w,chavez" polarity="positive"

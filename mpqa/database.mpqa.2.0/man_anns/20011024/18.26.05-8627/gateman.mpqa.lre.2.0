@@ -1,0 +1,41 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011024/18.26.05-8627/18.26.05-8627.tw.attitudes.xml
+#  on Thu Nov 13 11:27:32 EST 2008
+#  by twilson
+35	648,660	string	GATE_objective-speech-event	 nested-source="w,pakgovoffs,aziz"
+34	300,300	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	606,606	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	744,849	string	GATE_inside	 nested-source="w"
+31	848,849	string	GATE_split	
+30	643,647	string	GATE_agent	 nested-source="w,pakgovoffs,aziz"
+29	606,737	string	GATE_inside	 nested-source="w"
+28	598,599	string	GATE_split	
+27	794,811	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w,implicit,mush" polarity="positive"
+26	248,278	string	GATE_agent	 id="pakgovoffs" nested-source="w,pakgovoffs"
+25	433,434	string	GATE_split	
+24	0,0	string	GATE_agent	 id="w"
+23	300,434	string	GATE_inside	 nested-source="w"
+22	727,731	string	GATE_agent	 nested-source="w,pakgovoffs"
+21	744,744	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	441,441	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	569,593	string	GATE_agent	 nested-source="w,pakgovoffs"
+18	97,97	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	747,758	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" nested-source="w,implicit" intensity="low" polarity="neutral"
+16	594,598	string	GATE_objective-speech-event	 nested-source="w,pakgovoffs"
+15	441,599	string	GATE_inside	 nested-source="w"
+14	220,246	string	GATE_agent	 id="mush"
+13	736,737	string	GATE_split	
+12	116,155	string	GATE_agent	 id="aziz"
+11	0,0	string	GATE_agent	 id="implicit"
+10	732,736	string	GATE_objective-speech-event	 nested-source="w,pakgovoffs"
+9	95,96	string	GATE_split	
+8	279,283	string	GATE_objective-speech-event	 nested-source="w,pakgovoffs"
+7	97,293	string	GATE_inside	 nested-source="w"
+6	775,793	string	GATE_agent	 nested-source="w,implicit,mush" agent-uncertain="somewhat-uncertain"
+5	850,853	string	GATE_split	
+4	292,293	string	GATE_split	
+3	794,815	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="low"
+2	816,848	string	GATE_target	 id="t10"
+1	744,746	string	GATE_target	 id="t20"
+0	747,848	string	GATE_attitude	 target-link="t20" attitude-type="other-attitude" id="a20" intensity="low"

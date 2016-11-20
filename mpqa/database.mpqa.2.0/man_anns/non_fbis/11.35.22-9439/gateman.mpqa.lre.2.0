@@ -1,0 +1,70 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/11.35.22-9439/11.35.22-9439.tw.attitudes.xml
+#  on Tue Aug  1 21:31:06 EDT 2006
+#  by twilson
+64	1326,1330	string	GATE_split	
+63	875,876	string	GATE_split	
+62	0,0	string	GATE_agent	 id="w"
+61	1061,1061	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+60	5,71	string	GATE_inside	 nested-source="w"
+59	499,499	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+58	687,781	string	GATE_inside	 nested-source="w"
+57	645,646	string	GATE_split	
+56	1288,1289	string	GATE_split	
+55	720,730	string	GATE_agent	 nested-source="w, Frank"
+54	880,1057	string	GATE_inside	 nested-source="w"
+53	782,782	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+52	1170,1171	string	GATE_split	
+51	5,5	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+50	683,687	string	GATE_split	
+49	1294,1326	string	GATE_inside	 nested-source="w"
+48	689,691	string	GATE_agent	 id="we" nested-source="w, Frank, we"
+47	782,784	string	GATE_agent	 nested-source="w, Frank"
+46	1294,1294	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	926,936	string	GATE_agent	 nested-source="w, Frank"
+44	497,498	string	GATE_split	
+43	1172,1172	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	271,271	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	74,80	string	GATE_split	
+40	1061,1171	string	GATE_inside	 nested-source="w"
+39	880,880	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	687,687	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	392,396	string	GATE_split	
+36	780,781	string	GATE_split	
+35	731,738	string	GATE_objective-speech-event	 nested-source="w, Frank"
+34	0,0	string	GATE_agent	 id="implicit"
+33	1357,1359	string	GATE_split	
+32	396,396	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	267,271	string	GATE_split	
+30	71,74	string	GATE_split	
+29	271,392	string	GATE_inside	 nested-source="w"
+28	266,267	string	GATE_split	
+27	576,578	string	GATE_agent	 nested-source="w, Frank, Frank"
+26	1289,1293	string	GATE_split	
+25	80,267	string	GATE_inside	 nested-source="w"
+24	499,646	string	GATE_inside	 nested-source="w"
+23	396,436	string	GATE_agent	 id="Frank" nested-source="w, Frank"
+22	571,575	string	GATE_objective-speech-event	 nested-source="w, Frank"
+21	651,651	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	540,570	string	GATE_agent	 nested-source="w, Frank"
+19	391,392	string	GATE_split	
+18	682,683	string	GATE_split	
+17	80,80	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	988,997	string	GATE_objective-speech-event	 nested-source="w, Frank"
+15	1057,1061	string	GATE_split	
+14	1172,1289	string	GATE_inside	 nested-source="w"
+13	396,498	string	GATE_inside	 nested-source="w"
+12	441,456	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10" nested-source="w, Frank" intensity="medium" polarity="positive"
+11	876,880	string	GATE_split	
+10	782,876	string	GATE_inside	 nested-source="w"
+9	646,650	string	GATE_split	
+8	651,683	string	GATE_inside	 nested-source="w"
+7	1325,1326	string	GATE_split	
+6	437,456	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="medium"
+5	457,482	string	GATE_target	 id="t10"
+4	579,608	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a20" nested-source="w, Frank, Frank" intensity="high" polarity="negative"
+3	579,608	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" id="a20" intensity="high"
+2	695,703	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a30" nested-source="w, Frank, we" intensity="medium" polarity="uncertain-positive"
+1	704,716	string	GATE_target	 id="t30"
+0	695,703	string	GATE_attitude	 target-link="t30" attitude-uncertain="somewhat-uncertain" attitude-type="sentiment-pos" id="a30" intensity="medium"

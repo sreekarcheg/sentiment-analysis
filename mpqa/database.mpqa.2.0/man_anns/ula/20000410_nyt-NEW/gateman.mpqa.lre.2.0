@@ -1,0 +1,73 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/20000410_nyt-NEW/20000410_nyt-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+607	0,0	string	GATE_agent	 id="implicit"
+620	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+588	716,717	string	GATE_split	
+581	171,177	string	GATE_attitude	 target-link="crisis" intensity="medium" id="assessment" attitude-type="other-attitude"
+571	814,853	string	GATE_agent	 nested-source="w,whoreport" id="whoreport"
+576	113,167	string	GATE_target	 id="letvisit"
+608	0,0	string	GATE_expressive-subjectivity	
+609	0,0	string	GATE_direct-subjective	
+601	443,461	string	GATE_attitude	 target-link="whyineff" intensity="low" id="seekunder" attitude-type="other-attitude"
+569	871,876	string	GATE_objective-speech-event	 nested-source="w,who"
+610	1344,1345	string	GATE_split	
+625	952,1060	string	GATE_inside	 nested-source="w"
+598	1309,1345	string	GATE_inside	 nested-source="w"
+619	56,272	string	GATE_inside	 nested-source="w"
+587	545,550	string	GATE_split	
+582	178,244	string	GATE_target	 id="crisis"
+592	271,272	string	GATE_split	
+575	102,112	string	GATE_attitude	 target-link="letvisit" intensity="low" id="agreeal" attitude-type="agree-pos"
+596	1192,1308	string	GATE_inside	 nested-source="w"
+603	81,101	string	GATE_agent	 nested-source="w,ig" id="ig"
+613	1389,1390	string	GATE_split	
+631	1395,1424	string	GATE_inside	 nested-source="w"
+626	855,855	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+594	544,545	string	GATE_split	
+616	277,545	string	GATE_inside	 nested-source="w"
+572	799,811	string	GATE_objective-speech-event	 nested-source="w,whoreport"
+611	1307,1308	string	GATE_split	
+605	120,139	string	GATE_agent	 nested-source="w,hoffice,ig,hall" id="hall"
+615	550,550	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+578	260,264	string	GATE_objective-speech-event	 nested-source="w,hoffice"
+566	171,177	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="low" insubstantial="c1" intensity="low" nested-source="w,hoffice,ig,hall" attitude-link="assessment"
+630	1395,1395	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+591	54,56	string	GATE_split	
+614	550,717	string	GATE_inside	 nested-source="w"
+629	722,854	string	GATE_inside	 nested-source="w"
+628	722,722	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+568	1033,1045	string	GATE_objective-speech-event	 nested-source="w,hoffice"
+632	1346,1346	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+627	855,947	string	GATE_inside	 nested-source="w"
+600	443,461	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" intensity="low" nested-source="w,hall" attitude-link="seekunder"
+612	1390,1395	string	GATE_split	
+580	621,624	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" attitude-link="havethwarted" nested-source="w,some"
+617	277,277	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+589	717,722	string	GATE_split	
+599	277,296	string	GATE_agent	 nested-source="w,hall" id=""
+579	616,620	string	GATE_agent	 nested-source="w,some" id="some"
+618	56,56	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+633	1346,1390	string	GATE_inside	 nested-source="w"
+590	853,854	string	GATE_split	
+593	272,277	string	GATE_split	
+606	0,0	string	GATE_agent	 id="w"
+570	863,870	string	GATE_agent	 nested-source="w,who" id="who"
+624	952,952	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+595	1192,1192	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+585	1059,1060	string	GATE_split	
+621	0,54	string	GATE_inside	 nested-source="w"
+567	1046,1059	string	GATE_agent	 nested-source="w,hoffice"
+604	246,259	string	GATE_agent	 nested-source="w,hoffice" id="hoffice"
+584	947,952	string	GATE_split	
+577	102,112	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,hoffice,ig" polarity="positive" attitude-link="agreeal"
+573	625,716	string	GATE_attitude	 target-link="sanctions" intensity="low-medium" id="havethwarted" attitude-type="arguing-pos"
+586	1188,1189	string	GATE_split	
+622	1061,1061	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+583	944,947	string	GATE_split	
+602	462,544	string	GATE_target	 id="whyineff"
+623	1061,1189	string	GATE_inside	 nested-source="w"
+574	610,615	string	GATE_target	 id="sanctions"
+597	1309,1309	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

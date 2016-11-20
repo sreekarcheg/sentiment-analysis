@@ -1,0 +1,85 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/113CWL017/113CWL017.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+871	925,925	string	GATE_direct-subjective	 implicit="true" attitude-link="wonderful" polarity="positive" nested-source="w"
+886	1386,1386	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+865	1642,1725	string	GATE_inside	 nested-source="w"
+854	493,493	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+832	0,0	string	GATE_direct-subjective	
+844	1551,1641	string	GATE_inside	 nested-source="w"
+876	7,19	string	GATE_split	
+864	1642,1642	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+812	1551,1560	string	GATE_attitude	 id="sincere" attitude-type="sentiment-pos" intensity="medium"
+827	507,516	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w, youre" polarity="positive" attitude-link="committed"
+863	1234,1379	string	GATE_inside	 nested-source="w"
+843	1551,1551	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="sincere"
+857	1035,1075	string	GATE_inside	 nested-source="w"
+825	517,603	string	GATE_target	 id="ensuring"
+810	1568,1585	string	GATE_agent	 nested-source="w, w" id="w"
+866	316,479	string	GATE_inside	 nested-source="w"
+881	1425,1426	string	GATE_split	
+838	777,777	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="important"
+882	478,479	string	GATE_split	
+850	19,136	string	GATE_inside	 nested-source="w"
+828	372,478	string	GATE_target	 id="camp"
+867	1640,1641	string	GATE_split	
+818	807,828	string	GATE_attitude	 target-link="skills" intensity="medium-high" id="important" attitude-type="other-attitude"
+859	137,242	string	GATE_inside	 nested-source="w"
+887	1,7	string	GATE_split	
+872	1027,1028	string	GATE_split	
+816	1268,1277	string	GATE_attitude	 target-link="children" intensity="medium" id="deserving" attitude-type="sentiment-pos"
+811	1585,1585	string	GATE_split	
+848	1543,1544	string	GATE_split	
+831	352,368	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+884	1724,1725	string	GATE_split	
+869	316,316	string	GATE_direct-subjective	 intensity="medium" implicit="true" attitude-link="funAnd" nested-source="w"
+847	681,682	string	GATE_split	
+815	1551,1560	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+834	0,0	string	GATE_agent	 id="implicit"
+821	807,816	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+870	603,604	string	GATE_split	
+885	1386,1426	string	GATE_inside	 nested-source="w"
+861	1378,1379	string	GATE_split	
+822	507,516	string	GATE_attitude	 target-link="ensuring" intensity="medium" id="committed" attitude-type="other-attitude"
+835	0,0	string	GATE_expressive-subjectivity	
+845	689,689	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+855	493,604	string	GATE_inside	 nested-source="w"
+836	1074,1075	string	GATE_split	
+883	923,924	string	GATE_split	
+868	925,1028	string	GATE_inside	 nested-source="w"
+819	993,1002	string	GATE_attitude	 target-link="super" intensity="medium-high" id="wonderful" attitude-type="sentiment-pos"
+824	500,506	string	GATE_agent	 nested-source="w, youre" id="youre"
+888	1427,1427	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+874	605,682	string	GATE_inside	 nested-source="w"
+889	1427,1544	string	GATE_inside	 nested-source="w"
+852	1226,1227	string	GATE_split	
+862	1234,1234	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="deserving"
+849	19,19	string	GATE_direct-subjective	 intensity="medium" implicit="true" attitude-link="friend" nested-source="w"
+817	993,1002	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+841	479,493	string	GATE_split	
+873	1725,1737	string	GATE_split	
+846	689,776	string	GATE_inside	 nested-source="w"
+860	308,309	string	GATE_split	
+839	1737,1741	string	GATE_split	
+833	77,83	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w" nested-source-uncertain=""
+813	1278,1299	string	GATE_target	 id="children"
+840	777,924	string	GATE_inside	 nested-source="w"
+823	843,923	string	GATE_target	 id="skills"
+851	775,776	string	GATE_split	
+858	137,137	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+880	243,243	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+875	605,605	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+826	342,347	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" implicit="" nested-source="w, implicit" polarity="positive"
+856	1035,1035	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+837	0,0	string	GATE_agent	 id="w"
+879	243,309	string	GATE_inside	 nested-source="w"
+830	77,83	string	GATE_attitude	 id="friend" attitude-type="sentiment-pos" intensity="medium"
+842	135,136	string	GATE_split	
+820	1003,1027	string	GATE_target	 id="super"
+877	1076,1227	string	GATE_inside	 nested-source="w"
+853	241,242	string	GATE_split	
+829	352,368	string	GATE_attitude	 target-link="camp" intensity="medium" id="funAnd" attitude-type="sentiment-pos"
+814	1268,1277	string	GATE_expressive-subjectivity	 nested-source="w" polarity="neutral" intensity="medium"
+878	1076,1076	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

@@ -1,0 +1,46 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0907/wsj_0907.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+277	40,47	string	GATE_attitude	 target-link="income" intensity="low" id="expect1" attitude-type="other-attitude"
+305	521,521	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+294	376,378	string	GATE_agent	 nested-source="w,legere,legere" id=""
+272	668,669	string	GATE_split	
+287	0,0	string	GATE_expressive-subjectivity	
+304	521,524	string	GATE_inside	 nested-source="w"
+310	7,9	string	GATE_split	
+299	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+278	532,542	string	GATE_objective-speech-event	 nested-source="w,legere"
+271	519,521	string	GATE_split	
+286	0,0	string	GATE_direct-subjective	
+291	40,47	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expect1" nested-source="w,chandler,chandler"
+298	9,131	string	GATE_inside	 nested-source="w"
+296	134,298	string	GATE_inside	 nested-source="w"
+285	0,0	string	GATE_agent	 id="w"
+297	134,134	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+275	48,109	string	GATE_target	 id="income"
+307	445,445	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+270	517,518	string	GATE_split	
+280	443,444	string	GATE_split	
+289	32,36	string	GATE_objective-speech-event	 nested-source="w,chandler"
+288	9,31	string	GATE_agent	 nested-source="w,chandler" id="chandler"
+308	299,444	string	GATE_inside	 nested-source="w"
+309	299,299	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+283	130,131	string	GATE_split	
+300	1,6	string	GATE_inside	 nested-source="w"
+273	379,386	string	GATE_attitude	 target-link="total" intensity="low" id="expect2" attitude-type="other-attitude"
+290	51,57	string	GATE_objective-speech-event	 nested-source="w,chandler,chandler,chandler" insubstantial="c1"
+295	379,386	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expect2" nested-source="w,legere,legere"
+282	132,134	string	GATE_split	
+306	445,518	string	GATE_inside	 nested-source="w"
+303	525,669	string	GATE_inside	 nested-source="w"
+274	387,443	string	GATE_target	 id="total"
+281	297,298	string	GATE_objective-speech-event	 nested-source="w,chandler,chandler"
+279	521,531	string	GATE_agent	 nested-source="w,legere"
+302	670,672	string	GATE_split	
+292	316,369	string	GATE_agent	 nested-source="w,legere" id="legere"
+293	371,375	string	GATE_objective-speech-event	 nested-source="w, legere"
+284	0,0	string	GATE_agent	 id="implicit"
+301	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+276	37,39	string	GATE_agent	 nested-source="w,chandler,chandler"

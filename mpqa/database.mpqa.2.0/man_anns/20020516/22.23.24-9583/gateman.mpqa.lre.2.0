@@ -1,0 +1,58 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020516/22.23.24-9583/22.23.24-9583.jlw.attitudes.xml
+#  on Wed Jun 14 16:20:39 EDT 2006
+#  by twilson
+52	667,668	string	GATE_split	
+51	663,667	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" intensity="medium" nested-source="w, vadim"
+50	352,353	string	GATE_split	
+49	222,226	string	GATE_objective-speech-event	 nested-source="w, vadim"
+48	583,668	string	GATE_inside	 nested-source="w"
+47	410,411	string	GATE_objective-speech-event	 nested-source="w, vadim" implicit="true"
+46	500,509	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w,vadim" intensity="low" polarity="neutral"
+45	756,758	string	GATE_split	
+44	754,755	string	GATE_split	
+43	583,597	string	GATE_target	 id="t1"
+42	684,691	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,vadim" polarity="negative"
+41	680,744	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-neg" intensity="high" id="a3"
+40	74,76	string	GATE_split	
+39	660,662	string	GATE_agent	 nested-source="w, vadim"
+38	388,390	string	GATE_agent	 nested-source="w, vadim"
+37	84,86	string	GATE_split	
+36	86,272	string	GATE_inside	 nested-source="w"
+35	701,706	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, vadim" polarity="neutral"
+34	581,582	string	GATE_split	
+33	397,408	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w,vadim" intensity="low" polarity="neutral"
+32	574,576	string	GATE_agent	 nested-source="w, vadim"
+31	747,749	string	GATE_agent	 nested-source="w, vadim"
+30	348,352	string	GATE_objective-speech-event	 nested-source="w, vadim"
+29	750,754	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a2, a3" intensity="medium" nested-source="w, vadim"
+28	457,457	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	669,755	string	GATE_inside	 nested-source="w"
+26	701,744	string	GATE_attitude	 target-link="t2" attitude-type="speculation" intensity="low-medium" id="a2"
+25	0,0	string	GATE_agent	 id="w"
+24	94,94	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	338,347	string	GATE_agent	 nested-source="w, vadim"
+22	273,273	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+21	457,582	string	GATE_inside	 nested-source="w"
+20	455,456	string	GATE_split	
+19	273,353	string	GATE_inside	 nested-source="w"
+18	354,396	string	GATE_inside	 nested-source="w"
+17	680,700	string	GATE_target	 id="t2"
+16	669,678	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, vadim" polarity="neutral"
+15	669,669	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	354,354	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	92,93	string	GATE_split	
+12	271,272	string	GATE_split	
+11	397,456	string	GATE_inside	 nested-source="w"
+10	598,658	string	GATE_attitude	 target-link="t1" attitude-type="arguing-pos" intensity="medium" id="a1"
+9	577,581	string	GATE_objective-speech-event	 nested-source="w, vadim"
+8	718,744	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, vadim" polarity="negative"
+7	598,625	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, vadim" polarity="positive"
+6	395,396	string	GATE_split	
+5	0,0	string	GATE_agent	 id="implicit"
+4	692,700	string	GATE_target	 id="t3"
+3	583,583	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+2	397,397	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+1	177,221	string	GATE_agent	 id="vadim" nested-source="w, vadim"
+0	391,395	string	GATE_objective-speech-event	 nested-source="w, vadim"

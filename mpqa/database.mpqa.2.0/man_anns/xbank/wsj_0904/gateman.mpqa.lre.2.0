@@ -1,0 +1,70 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0904/wsj_0904.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+735	9,30	string	GATE_agent	 nested-source="w,compaq" id="compaq"
+763	834,834	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+781	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+748	784,833	string	GATE_inside	 nested-source="w"
+768	9,30	string	GATE_inside	 nested-source="w"
+780	1,6	string	GATE_inside	 nested-source="w"
+758	572,661	string	GATE_inside	 nested-source="w"
+737	0,0	string	GATE_agent	 id="implicit"
+736	392,393	string	GATE_split	
+743	218,236	string	GATE_agent	 nested-source="w,compaq"
+738	0,0	string	GATE_agent	 id="w"
+779	1779,1780	string	GATE_split	
+753	664,783	string	GATE_inside	 nested-source="w"
+785	1228,1374	string	GATE_inside	 nested-source="w"
+782	1375,1377	string	GATE_split	
+747	664,664	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+762	980,1224	string	GATE_inside	 nested-source="w"
+777	832,833	string	GATE_split	
+775	1561,1561	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+796	1267,1283	string	GATE_attitude	 target-link="see" id="notsurprised" attitude-type="speculation"
+786	1223,1224	string	GATE_split	
+759	7,9	string	GATE_split	
+744	237,241	string	GATE_objective-speech-event	 nested-source="w,compaq"
+739	1267,1283	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="notsurprised" nested-source="w,ms,compaq"
+776	1684,1686	string	GATE_split	
+754	214,215	string	GATE_split	
+787	978,980	string	GATE_split	
+733	0,0	string	GATE_expressive-subjectivity	
+792	1682,1683	string	GATE_split	
+742	1258,1260	string	GATE_agent	 nested-source="w,ms,compaq"
+757	394,394	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+756	337,338	string	GATE_split	
+770	339,393	string	GATE_inside	 nested-source="w"
+741	1284,1363	string	GATE_target	 id="see"
+755	216,218	string	GATE_split	
+740	1366,1368	string	GATE_agent	 nested-source="w,ms"
+790	782,783	string	GATE_split	
+771	218,218	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+791	662,664	string	GATE_split	
+772	218,338	string	GATE_inside	 nested-source="w"
+745	980,1042	string	GATE_agent	 nested-source="w,ms" id="ms"
+788	660,661	string	GATE_split	
+746	1043,1053	string	GATE_objective-speech-event	 nested-source="w,ms"
+793	1559,1560	string	GATE_split	
+761	980,980	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+734	31,35	string	GATE_objective-speech-event	 nested-source="w,compaq"
+774	1686,1780	string	GATE_inside	 nested-source="w"
+760	1561,1683	string	GATE_inside	 nested-source="w"
+767	1228,1228	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+752	31,215	string	GATE_inside	 nested-source="w"
+795	1561,1572	string	GATE_agent	 nested-source="w,ms"
+749	784,784	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+769	339,339	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+784	976,977	string	GATE_split	
+764	834,977	string	GATE_inside	 nested-source="w"
+732	0,0	string	GATE_direct-subjective	
+750	394,571	string	GATE_inside	 nested-source="w"
+794	1573,1577	string	GATE_objective-speech-event	
+765	1377,1377	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+773	1686,1686	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+783	1373,1374	string	GATE_split	
+778	1781,1783	string	GATE_split	
+766	1377,1560	string	GATE_inside	 nested-source="w"
+789	1225,1227	string	GATE_split	
+751	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

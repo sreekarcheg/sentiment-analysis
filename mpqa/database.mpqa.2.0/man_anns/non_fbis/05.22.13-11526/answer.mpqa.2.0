@@ -1,0 +1,8 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/39.ctc.annotated
+#  on Thu Sep 09 14:16:52 EDT 2004
+#  by ves
+
+1482	791,1001	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="indirect" questionnumber="6" topic="mugabe"
+1659	1609,1681	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="mentions Britain, but not US; also indirect" questionnumber="6" topic="mugabe"

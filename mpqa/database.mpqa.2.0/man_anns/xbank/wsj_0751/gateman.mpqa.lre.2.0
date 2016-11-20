@@ -1,0 +1,47 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0751/wsj_0751.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+232	283,290	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,fdic" attitude-link="cm" target-speech-link=""
+227	186,194	string	GATE_attitude	 target-link="tp" intensity="low" id="appro" attitude-type="agree-pos"
+222	7,9	string	GATE_split	
+215	154,158	string	GATE_objective-speech-event	 nested-source="w,banks"
+200	160,162	string	GATE_split	
+235	58,89	string	GATE_agent	 nested-source="w,fdic" id="fdic"
+207	274,380	string	GATE_inside	 nested-source="w"
+214	186,194	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="appro" nested-source="w,starhol"
+199	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+223	272,273	string	GATE_split	
+198	1,6	string	GATE_inside	 nested-source="w"
+213	162,185	string	GATE_agent	 nested-source="w,starhol" id="starhol"
+230	195,203	string	GATE_target	 id="tp"
+208	162,273	string	GATE_inside	 nested-source="w"
+225	158,159	string	GATE_split	
+224	379,380	string	GATE_split	
+233	90,136	string	GATE_target	 id="acq"
+201	274,274	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+206	381,381	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+221	413,460	string	GATE_inside	 nested-source="w"
+211	413,424	string	GATE_agent	 nested-source="w,banks" id=""
+216	0,0	string	GATE_direct-subjective	
+234	291,299	string	GATE_target	 id="move"
+210	90,159	string	GATE_inside	 nested-source="w"
+231	274,282	string	GATE_agent	 nested-source="w,fdic" id=""
+203	411,412	string	GATE_split	
+218	0,0	string	GATE_agent	 id="implicit"
+209	162,162	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+226	425,431	string	GATE_attitude	 target-link="transaction" intensity="low" sarcastic="" id="agree" attitude-type="agree-pos"
+219	0,0	string	GATE_agent	 id="w"
+236	39,50	string	GATE_attitude	 target-link="acq" intensity="low" id="clearance" attitude-type="agree-pos"
+204	9,89	string	GATE_inside	 nested-source="w"
+237	144,153	string	GATE_agent	 nested-source="w,banks" id="banks"
+205	381,412	string	GATE_inside	 nested-source="w"
+212	425,431	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agree" nested-source="w,banks"
+229	283,290	string	GATE_attitude	 target-link="move" intensity="low" id="cm" attitude-type="agree-pos"
+197	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+220	413,413	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+238	39,50	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" implicit="" nested-source="w,fdic" attitude-link="clearance"
+228	432,450	string	GATE_target	 id="trans"
+202	461,463	string	GATE_split	
+217	0,0	string	GATE_expressive-subjectivity	

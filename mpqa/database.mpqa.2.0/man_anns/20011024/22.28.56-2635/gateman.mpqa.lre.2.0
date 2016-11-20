@@ -1,0 +1,37 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011024/22.28.56-2635/22.28.56-2635.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+31	170,173	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	742,948	string	GATE_inside	 nested-source="w"
+29	170,365	string	GATE_inside	 nested-source="w"
+28	630,630	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	740,741	string	GATE_split	
+26	799,824	string	GATE_agent	 id="harun" nested-source="w, harun"
+25	826,830	string	GATE_objective-speech-event	 nested-source="w, harun"
+24	742,742	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	366,366	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	947,948	string	GATE_split	
+21	628,629	string	GATE_split	
+20	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	909,928	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" insubstantial="c1" nested-source="w, harun, meeting" intensity="low" polarity="neutral"
+18	1093,1096	string	GATE_split	
+17	949,1092	string	GATE_inside	 nested-source="w"
+16	0,0	string	GATE_agent	 id="w"
+15	630,646	string	GATE_agent	 nested-source="w, salih"
+14	2,80	string	GATE_inside	 nested-source="w"
+13	630,741	string	GATE_inside	 nested-source="w"
+12	952,961	string	GATE_objective-speech-event	 nested-source="w, harun"
+11	467,486	string	GATE_objective-speech-event	 nested-source="w, salih"
+10	366,466	string	GATE_agent	 id="salih" nested-source="w, salih"
+9	366,629	string	GATE_inside	 nested-source="w"
+8	949,951	string	GATE_agent	 nested-source="w, harun"
+7	841,905	string	GATE_agent	 id="meeting" nested-source="w, harun, meeting"
+6	364,365	string	GATE_split	
+5	1091,1092	string	GATE_split	
+4	932,947	string	GATE_target	 id="t1"
+3	0,0	string	GATE_agent	 id="implicit"
+2	647,652	string	GATE_objective-speech-event	 nested-source="w, salih"
+1	909,931	string	GATE_attitude	 target-link="t1" attitude-type="other-attitude" intensity="low" id="a1"
+0	949,949	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

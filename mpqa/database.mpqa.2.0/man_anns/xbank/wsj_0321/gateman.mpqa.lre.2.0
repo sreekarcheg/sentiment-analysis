@@ -1,0 +1,67 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0321/wsj_0321.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+369	9,44	string	GATE_inside	 nested-source="w"
+400	322,322	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+358	322,332	string	GATE_agent	 nested-source="w,swa"
+351	665,675	string	GATE_agent	 nested-source="w,swa"
+368	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+363	782,858	string	GATE_inside	 nested-source="w"
+374	614,614	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+399	248,321	string	GATE_inside	 nested-source="w"
+398	248,248	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+380	484,612	string	GATE_target	 id="acqme"
+396	859,861	string	GATE_split	
+353	367,371	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="maypur" nested-source="w,swa"
+385	67,72	string	GATE_attitude	 target-link="bm" intensity="low" id="off" attitude-type="intention-pos"
+379	471,483	string	GATE_attitude	 target-link="acqme" intensity="low" sarcastic="" id="ahadpro" attitude-type="other-attitude"
+347	628,640	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="" intensity="medium" nested-source="w,ma" attitude-link="areject"
+352	106,135	string	GATE_agent	 nested-source="w,swa,ma"
+354	136,150	string	GATE_objective-speech-event	 nested-source="w,swa,ma" insubstantial="c1"
+373	719,781	string	GATE_inside	 nested-source="w"
+378	234,244	string	GATE_objective-speech-event	 nested-source="w,swa,ma" insubstantial="c1"
+401	322,457	string	GATE_inside	 nested-source="w"
+386	73,97	string	GATE_target	 id="bm"
+359	375,378	string	GATE_expressive-subjectivity	 nested-source="w,swa"
+387	246,248	string	GATE_split	
+402	7,9	string	GATE_split	
+375	614,716	string	GATE_inside	 nested-source="w"
+356	471,483	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="ahadpro" nested-source="w,swa"
+392	456,457	string	GATE_split	
+397	857,858	string	GATE_split	
+376	154,157	string	GATE_agent	 nested-source="w,swa,swa"
+357	460,470	string	GATE_agent	 nested-source="w,swa"
+405	244,245	string	GATE_split	
+390	612,613	string	GATE_split	
+355	84,97	string	GATE_agent	 id="ma"
+377	158,163	string	GATE_direct-subjective	 expression-intensity="low" intensity="" insubstantial="c2" nested-source="w,swa,swa"
+350	651,659	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="aproposal" nested-source="w,swa"
+382	375,456	string	GATE_attitude	 target-link="itself" intensity="low" id="maypur" attitude-type="speculation"
+391	715,716	string	GATE_split	
+360	0,0	string	GATE_agent	 id="implicit"
+393	458,460	string	GATE_split	
+371	1,6	string	GATE_inside	 nested-source="w"
+403	780,781	string	GATE_split	
+388	320,321	string	GATE_split	
+361	0,0	string	GATE_agent	 id="w"
+349	676,703	string	GATE_target	 id="tocom"
+381	372,374	string	GATE_target	 id="itself"
+344	641,715	string	GATE_target	 id="pro"
+372	719,719	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+364	46,50	string	GATE_objective-speech-event	 nested-source="w,swa"
+395	460,613	string	GATE_inside	 nested-source="w"
+346	623,627	string	GATE_agent	 nested-source="w,ma"
+383	63,66	string	GATE_agent	 nested-source="w,swa,swa"
+370	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+394	460,460	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+367	0,0	string	GATE_expressive-subjectivity	
+345	628,640	string	GATE_attitude	 target-link="pro" intensity="medium" id="areject" attitude-type="agree-neg"
+362	782,782	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+366	0,0	string	GATE_direct-subjective	
+348	651,659	string	GATE_attitude	 target-link="tocom" intensity="low" id="aproposal" attitude-type="other-attitude"
+389	46,245	string	GATE_inside	 nested-source="w"
+404	717,719	string	GATE_split	
+384	67,72	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="low" intensity="low" nested-source="w,swa,swa" attitude-link="off"
+365	9,28	string	GATE_agent	 nested-source="w,swa" id="swa"

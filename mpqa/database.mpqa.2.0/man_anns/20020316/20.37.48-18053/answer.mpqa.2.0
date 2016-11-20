@@ -1,0 +1,7 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/24.ctc.annotated
+#  on Thu Sep 09 14:16:48 EDT 2004
+#  by ves
+
+1257	693,778	string	answer	annotator="ctc" confidence="3" confidencecomment="indirect" questionnumber="4" topic="mugabe"

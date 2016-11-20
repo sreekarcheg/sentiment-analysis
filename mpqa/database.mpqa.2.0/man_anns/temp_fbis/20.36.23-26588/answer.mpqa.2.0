@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/78.ctc.annotated
+#  on Thu Sep 09 14:17:09 EDT 2004
+#  by ves
+
+750	612,627	string	answer	annotator="ctc" questionnumber="1" confidence="5" topic="kyoto"
+796	1344,1370	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="discusses ratification plans" questionnumber="2" topic="kyoto"
+726	400,414	string	answer	annotator="ctc" confidence="5" confidencecomment="" questionnumber="1" topic="kyoto"
+764	492,499	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="discusses ratification not adoption" questionnumber="2" topic="kyoto"
+730	1293,1326	string	answer	annotator="ctc" confidence="1" partial="true" confidencecomment="vague; discusses general time scale for ratificaton" questionnumber="2" topic="kyoto"

@@ -1,0 +1,7 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/73.ctc.annotated
+#  on Thu Sep 09 14:17:06 EDT 2004
+#  by ves
+
+299	576,588	string	answer	annotator="ctc" questionnumber="2" topic="venezuela" confidence="5"

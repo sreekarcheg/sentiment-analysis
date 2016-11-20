@@ -1,0 +1,50 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0706/wsj_0706.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+341	549,553	string	GATE_objective-speech-event	 nested-source="w,spc"
+326	9,31	string	GATE_inside	 nested-source="w"
+315	346,449	string	GATE_inside	 nested-source="w"
+351	102,103	string	GATE_split	
+336	466,554	string	GATE_inside	 nested-source="w"
+327	51,102	string	GATE_target	 id="buy"
+355	555,557	string	GATE_split	
+342	188,242	string	GATE_target	 id="pay15"
+318	725,727	string	GATE_split	
+350	123,148	string	GATE_attitude	 target-link="pur" intensity="low" id="int" attitude-type="intention-pos"
+313	244,343	string	GATE_inside	 nested-source="w"
+335	346,346	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+339	32,103	string	GATE_inside	 nested-source="w"
+317	115,119	string	GATE_objective-speech-event	 nested-source="w,spc"
+324	9,31	string	GATE_agent	 nested-source="w,spc" id="spc"
+329	104,106	string	GATE_split	
+349	0,0	string	GATE_agent	 id="implicit"
+334	106,106	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+353	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+321	244,244	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+316	106,114	string	GATE_agent	 nested-source="w,spc"
+344	120,122	string	GATE_agent	 nested-source="w,spc,spc"
+352	0,0	string	GATE_expressive-subjectivity	
+347	106,243	string	GATE_inside	 nested-source="w"
+354	149,177	string	GATE_target	 id="pur"
+337	123,148	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="int" nested-source="w,spc,spc"
+322	557,557	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+332	450,461	string	GATE_inside	 nested-source="w"
+346	32,50	string	GATE_attitude	 target-link="buy" intensity="low-medium" sarcastic="" id="sights" attitude-type="intention-pos"
+319	242,243	string	GATE_split	
+314	342,343	string	GATE_split	
+338	450,450	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+331	1,6	string	GATE_inside	 nested-source="w"
+345	553,554	string	GATE_split	
+323	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+330	557,724	string	GATE_inside	 nested-source="w"
+343	32,50	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="" intensity="medium" attitude-link="sights" nested-source="w,spc"
+311	179,187	string	GATE_direct-subjective	 annotation-uncertain="agr" expression-intensity="low" intensity="low" nested-source="w,spc,spc"
+328	344,346	string	GATE_split	
+312	0,0	string	GATE_direct-subjective	
+348	448,449	string	GATE_split	
+325	179,187	string	GATE_attitude	 target-link="pay15" intensity="low" id="agr" attitude-type="agree-pos"
+320	0,0	string	GATE_agent	 id="w"
+340	723,724	string	GATE_split	
+333	532,548	string	GATE_agent	 nested-source="w,spc"

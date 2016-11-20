@@ -1,0 +1,75 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020306/15.04.33-20423/15.04.33-20423.jlw.attitudes.xml
+#  on Thu Jun  8 15:39:28 EDT 2006
+#  by twilson
+69	862,869	string	GATE_attitude	 target-link="t4, t5" attitude-type="sentiment-pos" intensity="medium" id="a4"
+68	1549,1569	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-pos" intensity="medium-high" id="a8"
+67	398,405	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a1" nested-source="w, participants" intensity="high" polarity="positive"
+66	1025,1037	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, parvin" polarity="positive"
+65	862,869	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" nested-source="w, parvin" intensity="medium" polarity="positive"
+64	1089,1095	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a7" intensity="medium" nested-source="w, parvin" polarity="positive"
+63	0,0	string	GATE_agent	 id="implicit"
+62	470,470	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	1692,1697	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a9" intensity="medium" nested-source="w, parvin" polarity="positive"
+60	756,767	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a3" intensity="medium" nested-source="w, parvin"
+59	1773,1774	string	GATE_split	
+58	0,0	string	GATE_agent	 id="w"
+57	1542,1544	string	GATE_target	 id="t8"
+56	898,925	string	GATE_target	 id="t5"
+55	470,749	string	GATE_inside	 nested-source="w"
+54	462,463	string	GATE_split	
+53	756,997	string	GATE_inside	 nested-source="w"
+52	1725,1730	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, parvin" polarity="neutral"
+51	2000,2003	string	GATE_split	
+50	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+49	1471,1478	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, parvin" polarity="neutral"
+48	768,782	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, parvin" polarity="neutral"
+47	1998,1999	string	GATE_split	
+46	1459,1465	string	GATE_agent	 nested-source="w, parvin"
+45	850,856	string	GATE_agent	 nested-source="w, parvin"
+44	1059,1070	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, parvin" polarity="positive"
+43	1021,1055	string	GATE_target	 id="t6"
+42	488,660	string	GATE_agent	 id="parvin"
+41	1595,1595	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	870,996	string	GATE_target	 id="t4"
+39	1276,1588	string	GATE_inside	 nested-source="w"
+38	406,462	string	GATE_target	 id="t1"
+37	1276,1276	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	1004,1004	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	406,462	string	GATE_agent	 id="companies"
+34	1603,1616	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w, parvin"
+33	1012,1020	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a6" intensity="medium" nested-source="w, parvin" polarity="neutral"
+32	398,405	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="medium-high" id="a1"
+31	1703,1773	string	GATE_target	 id="t9"
+30	1781,1999	string	GATE_inside	 nested-source="w"
+29	786,803	string	GATE_target	 id="t3"
+28	381,397	string	GATE_agent	 id="participants" nested-source="w, participants"
+27	1101,1268	string	GATE_target	 id="t7"
+26	748,749	string	GATE_split	
+25	193,463	string	GATE_inside	 nested-source="w"
+24	996,997	string	GATE_split	
+23	756,848	string	GATE_attitude	 target-link="t3" attitude-type="arguing-pos" intensity="medium" id="a3"
+22	2,186	string	GATE_inside	 nested-source="w"
+21	1075,1087	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, parvin" polarity="positive"
+20	1466,1470	string	GATE_objective-speech-event	 nested-source="w, parvin" objective-uncertain="somewhat-uncertain"
+19	1132,1140	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, parvin" polarity="neutral"
+18	185,186	string	GATE_split	
+17	1012,1087	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-pos" intensity="low-medium" id="a6"
+16	1595,1774	string	GATE_inside	 nested-source="w"
+15	166,185	string	GATE_objective-speech-event	 nested-source="w, proffice"
+14	1004,1269	string	GATE_inside	 nested-source="w"
+13	756,756	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	1573,1587	string	GATE_agent	 id="manycompanies" nested-source="w, parvin, manycompanies"
+11	1089,1095	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-pos" intensity="medium" id="a7"
+10	1276,1287	string	GATE_objective-speech-event	 nested-source="w, parvin"
+9	1692,1697	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-pos" intensity="medium" id="a9"
+8	1595,1597	string	GATE_agent	 nested-source="w, parvin"
+7	1587,1588	string	GATE_split	
+6	193,193	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	898,996	string	GATE_agent	 id="partcompanies"
+4	1268,1269	string	GATE_split	
+3	1549,1569	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a8" intensity="high" nested-source="w, parvin, manycompanies" polarity="positive"
+2	1781,1781	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+1	125,165	string	GATE_agent	 id="proffice" nested-source="w, proffice"
+0	1004,1006	string	GATE_agent	 nested-source="w, parvin"

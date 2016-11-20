@@ -1,0 +1,35 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011017/22.36.22-2937/22.36.22-2937.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+29	69,70	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	413,420	string	GATE_objective-speech-event	 nested-source="w, kazakh"
+27	220,221	string	GATE_split	
+26	945,946	string	GATE_split	
+25	824,946	string	GATE_inside	 nested-source="w"
+24	465,474	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="low" id="a1"
+23	420,421	string	GATE_split	
+22	465,474	string	GATE_expressive-subjectivity	 es-uncertain="very-uncertain" nested-source="w, kazakh" intensity="low" polarity="positive"
+21	709,823	string	GATE_inside	 nested-source="w"
+20	0,0	string	GATE_agent	 id="w"
+19	422,422	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	569,573	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" subjective-uncertain="very-uncertain" intensity="low" nested-source="w, kazakh"
+17	709,709	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	422,574	string	GATE_inside	 nested-source="w"
+15	1113,1116	string	GATE_split	
+14	707,708	string	GATE_split	
+13	551,568	string	GATE_agent	 nested-source="w, kazakh"
+12	947,947	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	575,708	string	GATE_inside	 nested-source="w"
+10	475,513	string	GATE_target	 id="t1"
+9	69,221	string	GATE_inside	 nested-source="w"
+8	385,412	string	GATE_agent	 id="kazakh" nested-source="w, kazakh"
+7	824,824	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	222,222	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	822,823	string	GATE_split	
+4	0,0	string	GATE_agent	 id="implicit"
+3	573,574	string	GATE_split	
+2	947,1106	string	GATE_inside	 nested-source="w"
+1	222,421	string	GATE_inside	 nested-source="w"
+0	575,575	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

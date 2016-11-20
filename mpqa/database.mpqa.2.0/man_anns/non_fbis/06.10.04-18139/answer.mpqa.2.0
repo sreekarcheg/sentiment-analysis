@@ -1,0 +1,15 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/40.ctc.annotated
+#  on Thu Sep 09 14:16:53 EDT 2004
+#  by ves
+
+850	1879,1934	string	answer	annotator="ctc" confidence="3" confidencecomment="less direct" questionnumber="6" topic="humanrights"
+901	444,451	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+879	1818,1824	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+894	1578,1604	string	answer	annotator="ctc" confidence="3" confidencecomment="weak indicator of disapproval" questionnumber="6" topic="humanrights"
+866	1683,1729	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+849	1963,1985	string	answer	annotator="ctc" confidence="3" confidencecomment="still referring to the report?" questionnumber="6" topic="humanrights"
+900	10,17	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+947	233,253	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+846	179,215	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"

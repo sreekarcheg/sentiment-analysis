@@ -1,0 +1,343 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/AFGP-2002-600045-Trans/AFGP-2002-600045-Trans.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+3669	3558,3565	string	GATE_attitude	 target-link="vt" intensity="low-medium" id="rfw" attitude-type="sentiment-pos"
+3850	757,881	string	GATE_inside	 nested-source="w"
+3892	1414,1454	string	GATE_inside	 nested-source="w"
+3797	2899,2900	string	GATE_split	
+3715	2386,2387	string	GATE_split	
+3849	757,757	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3932	8113,8113	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3779	5344,5346	string	GATE_split	
+3807	6588,6589	string	GATE_split	
+3935	7890,8022	string	GATE_inside	 nested-source="w"
+3894	1460,1607	string	GATE_inside	 nested-source="w"
+3852	888,1025	string	GATE_inside	 nested-source="w"
+3679	1723,1724	string	GATE_split	
+3676	3804,3805	string	GATE_split	
+3788	4699,4701	string	GATE_split	
+3666	3654,3665	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c2,c1" nested-source="w,implicit" polarity="positive" attitude-link=""
+3716	2313,2321	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+3896	3493,3493	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3665	3677,3690	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="cons" nested-source="w,implicit"
+3684	3932,3989	string	GATE_inside	 nested-source="w"
+3672	4530,4535	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1" intensity="medium" nested-source="w,brother" polarity="positive" attitude-link="wl"
+3674	3654,3665	string	GATE_target	 id="dar"
+3893	1460,1460	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3800	428,505	string	GATE_inside	 nested-source="w"
+3957	4866,4866	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3683	1665,1706	string	GATE_inside	 nested-source="w"
+3890	1647,1659	string	GATE_inside	 nested-source="w"
+3856	282,289	string	GATE_inside	 nested-source="w"
+3714	2167,2170	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="low"
+3728	2475,2511	string	GATE_target	 id="talkshop"
+3889	1647,1647	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3778	4860,4861	string	GATE_split	
+3795	3929,3930	string	GATE_split	
+3851	888,888	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3670	4514,4525	string	GATE_agent	 nested-source="w,brother" id="brother"
+3771	6124,6125	string	GATE_split	
+3713	2321,2322	string	GATE_split	
+3777	5057,5058	string	GATE_split	
+3798	2770,2771	string	GATE_split	
+3772	6246,6247	string	GATE_split	
+3805	1125,1125	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3733	1606,1607	string	GATE_split	
+3769	5608,5609	string	GATE_split	
+3687	1725,1725	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="impgoal"
+3806	1125,1241	string	GATE_inside	 nested-source="w"
+3877	3990,4109	string	GATE_inside	 nested-source="w"
+3718	2303,2307	string	GATE_target	 id="yp"
+3799	428,428	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3682	3988,3989	string	GATE_split	
+3919	3037,3037	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="donsteal"
+3855	282,282	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3688	4514,4525	string	GATE_target	 id="lb"
+3895	3493,3553	string	GATE_inside	 nested-source="w"
+3717	2098,2099	string	GATE_split	
+3930	4680,4680	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3854	1028,1123	string	GATE_inside	 nested-source="w"
+3918	2902,3036	string	GATE_inside	 nested-source="w"
+3875	4111,4144	string	GATE_inside	 nested-source="w"
+3673	3251,3252	string	GATE_split	
+3865	3654,3774	string	GATE_inside	 nested-source="w"
+3662	1705,1706	string	GATE_split	
+3780	5472,5473	string	GATE_split	
+3929	4680,4699	string	GATE_inside	 nested-source="w"
+3853	1028,1028	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3917	2902,2902	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" attitude-link="blessings"
+3908	5680,5680	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3876	4111,4111	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3663	3383,3387	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1" intensity="medium" nested-source="w,q" polarity="negative" attitude-link="d4"
+3719	2230,2231	string	GATE_split	
+3675	3677,3690	string	GATE_attitude	 target-link="dar" intensity="low-medium" id="cons" attitude-type="other-attitude"
+3920	3037,3107	string	GATE_inside	 nested-source="w"
+3770	5675,5676	string	GATE_split	
+3931	8113,8243	string	GATE_inside	 nested-source="w"
+3664	0,0	string	GATE_direct-subjective	
+3720	1987,1999	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+3808	6704,6705	string	GATE_split	
+3803	362,362	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3661	3383,3387	string	GATE_attitude	 target-link="tv" intensity="medium" id="d4" attitude-type="agree-neg"
+3721	1408,1409	string	GATE_split	
+3869	1867,1880	string	GATE_inside	 nested-source="w"
+3843	2233,2322	string	GATE_inside	 nested-source="w"
+3804	362,369	string	GATE_inside	 nested-source="w"
+3907	5680,5777	string	GATE_inside	 nested-source="w"
+3690	3221,3230	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+3761	3506,3510	string	GATE_attitude	 target-link="rq" intensity="medium" id="denial" attitude-type="agree-neg"
+3722	2308,2321	string	GATE_attitude	 target-link="yp" attitude-uncertain="somewhat-uncertain" intensity="high" id="inf" attitude-type="sentiment-neg"
+3764	368,369	string	GATE_split	
+3695	1820,1827	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,implicit" polarity="positive" attitude-link="godresp"
+3651	3527,3535	string	GATE_target	 id="vac"
+3868	1665,1665	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3871	4276,4330	string	GATE_inside	 nested-source="w"
+3696	3124,3133	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+3743	1863,1864	string	GATE_split	
+3941	7428,7561	string	GATE_inside	 nested-source="w"
+3916	2773,2900	string	GATE_inside	 nested-source="w"
+3647	6128,6128	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3685	1709,1709	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3724	2468,2474	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+3866	3654,3654	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3689	1728,1760	string	GATE_target	 id="unity"
+3813	507,507	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3812	7230,7231	string	GATE_split	
+3844	2233,2233	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="inf"
+3872	4276,4276	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3842	2327,2327	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3811	7156,7157	string	GATE_split	
+3686	4530,4581	string	GATE_attitude	 target-link="lb" intensity="medium" id="leaver" attitude-type="sentiment-neg"
+3841	2324,2387	string	GATE_inside	 nested-source="w"
+3643	8368,8368	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3622	6504,6504	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3723	1333,1334	string	GATE_split	
+3862	0,135	string	GATE_inside	 nested-source="w"
+3650	218,219	string	GATE_split	
+3667	3570,3585	string	GATE_target	 id="vt"
+3750	883,888	string	GATE_split	
+3867	1725,1864	string	GATE_inside	 nested-source="w"
+3814	507,755	string	GATE_inside	 nested-source="w"
+3906	5779,5779	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3923	3234,3234	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3744	2563,2604	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+3878	3932,3932	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3942	7428,7428	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3649	3515,3522	string	GATE_attitude	 target-link="vac" intensity="low-medium" id="qu" attitude-type="sentiment-pos"
+3905	5779,5814	string	GATE_inside	 nested-source="w"
+3762	269,270	string	GATE_split	
+3933	8024,8110	string	GATE_inside	 nested-source="w"
+3924	3253,3418	string	GATE_inside	 nested-source="w"
+3626	6707,6707	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3860	8619,8620	string	GATE_split	
+3785	4143,4144	string	GATE_split	
+3879	1245,1245	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3859	8794,8797	string	GATE_split	
+3825	5813,5814	string	GATE_split	
+3914	4469,4509	string	GATE_inside	 nested-source="w"
+3623	6412,6502	string	GATE_inside	 nested-source="w"
+3913	4469,4469	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3786	4272,4273	string	GATE_split	
+3861	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3668	3234,3251	string	GATE_inside	 nested-source="w"
+3815	7767,7769	string	GATE_split	
+3646	6249,6410	string	GATE_inside	 nested-source="w"
+3624	6412,6412	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3846	2104,2104	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3671	3777,3805	string	GATE_inside	 nested-source="w"
+3727	2560,2561	string	GATE_split	
+3816	7763,7764	string	GATE_split	
+3767	5110,5111	string	GATE_split	
+3712	2264,2277	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+3845	2101,2231	string	GATE_inside	 nested-source="w"
+3749	2608,2629	string	GATE_target	 id="onlyp"
+3880	1245,1334	string	GATE_inside	 nested-source="w"
+3648	6128,6247	string	GATE_inside	 nested-source="w"
+3858	301,323	string	GATE_inside	 nested-source="w"
+3927	4512,4675	string	GATE_inside	 nested-source="w"
+3790	3775,3777	string	GATE_split	
+3645	6249,6249	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3709	3417,3418	string	GATE_split	
+3789	3773,3774	string	GATE_split	
+3625	6707,6923	string	GATE_inside	 nested-source="w"
+3725	2463,2464	string	GATE_split	
+3847	138,138	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3691	1767,1796	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+3791	3106,3107	string	GATE_split	
+3936	7890,7890	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3726	2525,2532	string	GATE_expressive-subjectivity	 nested-source="w" polarity="neutral" intensity="high"
+3792	3035,3036	string	GATE_split	
+3692	3137,3153	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1,c2" intensity="low" implicit="" nested-source="w,implicit"
+3787	4676,4678	string	GATE_split	
+3763	3511,3522	string	GATE_target	 id="rq"
+3870	1867,1867	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3934	8024,8024	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3915	2773,2773	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3740	2651,2660	string	GATE_attitude	 target-link="doother" intensity="low-medium" id="askment" attitude-type="sentiment-pos"
+3633	7233,7426	string	GATE_inside	 nested-source="w"
+3705	1879,1880	string	GATE_split	
+3757	3493,3500	string	GATE_agent	 nested-source="w,q" id=""
+3885	2563,2563	string	GATE_direct-subjective	 annotation-uncertain="" expression-intensity="neutral" intensity="high" implicit="true" nested-source="w" attitude-link="who2talk2"
+3828	5928,5929	string	GATE_split	
+3818	8365,8366	string	GATE_split	
+3838	242,242	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3759	3506,3510	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1" intensity="medium" nested-source="w,q" polarity="negative" attitude-link="denial"
+3710	2036,2045	string	GATE_attitude	 id="mutag" attitude-type="agree-pos" intensity="low"
+3631	6925,6941	string	GATE_inside	 nested-source="w"
+3925	3422,3422	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3636	7159,7159	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3888	1611,1643	string	GATE_inside	 nested-source="w"
+3839	2389,2464	string	GATE_inside	 nested-source="w"
+3738	2651,2660	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,implicit" polarity="positive" attitude-link="askment"
+3760	288,289	string	GATE_split	
+3922	3109,3231	string	GATE_inside	 nested-source="w"
+3632	6925,6925	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3746	2563,2770	string	GATE_attitude	 target-link="onlyp" intensity="medium-high" id="who2talk2" attitude-type="arguing-pos"
+3711	3490,3491	string	GATE_split	
+3887	1611,1611	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3638	8445,8620	string	GATE_inside	 nested-source="w"
+3766	322,323	string	GATE_split	
+3637	8445,8445	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3939	7562,7764	string	GATE_inside	 nested-source="w"
+3701	2001,2010	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,implicit" polarity="negative" attitude-link="rejdis"
+3765	3515,3522	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" nested-source="w,b" polarity="positive" attitude-link="qu"
+3928	4512,4512	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="leaver"
+3829	8021,8022	string	GATE_split	
+3940	7562,7562	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3640	8622,8793	string	GATE_inside	 nested-source="w"
+3921	3109,3109	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3627	6591,6705	string	GATE_inside	 nested-source="w"
+3768	5224,5225	string	GATE_split	
+3628	6591,6591	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3926	3420,3491	string	GATE_inside	 nested-source="w"
+3884	2466,2561	string	GATE_inside	 nested-source="w"
+3827	6089,6090	string	GATE_split	
+3857	301,301	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3739	754,755	string	GATE_split	
+3644	8368,8443	string	GATE_inside	 nested-source="w"
+3634	7233,7233	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3809	7425,7426	string	GATE_split	
+3826	5776,5777	string	GATE_split	
+3745	1024,1025	string	GATE_split	
+3883	2466,2466	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" implicit="true" nested-source="w" attitude-link="bignono"
+3897	3555,3652	string	GATE_inside	 nested-source="w"
+3943	5346,5346	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3774	5342,5343	string	GATE_split	
+3949	5274,5274	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3641	8245,8245	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3751	3039,3106	string	GATE_attitude	 target-link="safe" intensity="medium" id="dontsteal" attitude-type="sentiment-pos"
+3900	6092,6092	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3639	8622,8622	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3802	373,424	string	GATE_inside	 nested-source="w"
+3831	2079,2099	string	GATE_inside	 nested-source="w"
+3810	7560,7561	string	GATE_split	
+3752	423,424	string	GATE_split	
+3621	6504,6589	string	GATE_inside	 nested-source="w"
+3840	2389,2389	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="keepfit"
+3938	7769,7769	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3776	4329,4330	string	GATE_split	
+3944	5346,5473	string	GATE_inside	 nested-source="w"
+3863	3805,3930	string	GATE_inside	 nested-source="w"
+3830	7887,7888	string	GATE_split	
+3950	5274,5343	string	GATE_inside	 nested-source="w"
+3886	2563,2771	string	GATE_inside	 nested-source="w"
+3837	242,270	string	GATE_inside	 nested-source="w"
+3694	3990,3990	string	GATE_objective-speech-event	 nested-source="w"
+3864	3777,3777	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3630	6944,6944	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3748	880,881	string	GATE_split	
+3652	234,235	string	GATE_split	
+3642	8245,8366	string	GATE_inside	 nested-source="w"
+3801	373,373	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3737	504,505	string	GATE_split	
+3706	2015,2023	string	GATE_target	 id="disp"
+3747	1026,1028	string	GATE_split	
+3832	2079,2079	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3773	5271,5272	string	GATE_split	
+3707	2075,2076	string	GATE_split	
+3834	1882,1882	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3742	2664,2676	string	GATE_target	 id="doother"
+3835	226,235	string	GATE_inside	 nested-source="w"
+3708	2152,2162	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+3898	3558,3558	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3836	226,226	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3629	6944,7157	string	GATE_inside	 nested-source="w"
+3693	1761,1796	string	GATE_attitude	 target-link="unity" intensity="medium" id="impgoal" attitude-type="sentiment-pos"
+3956	4701,4861	string	GATE_inside	 nested-source="w"
+3946	5474,5609	string	GATE_inside	 nested-source="w"
+3823	6501,6502	string	GATE_split	
+3833	1882,2076	string	GATE_inside	 nested-source="w"
+3659	3388,3401	string	GATE_target	 id="tv"
+3700	3017,3030	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+3741	1659,1665	string	GATE_split	
+3660	0,0	string	GATE_agent	 id="implicit"
+3903	5817,5929	string	GATE_inside	 nested-source="w"
+3824	6409,6410	string	GATE_split	
+3654	0,0	string	GATE_agent	 id="w"
+3952	5061,5111	string	GATE_inside	 nested-source="w"
+3775	4467,4468	string	GATE_split	
+3909	5611,5676	string	GATE_inside	 nested-source="w"
+3704	2036,2045	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,implicit" polarity="positive" attitude-link="mutag"
+3782	4508,4509	string	GATE_split	
+3951	5061,5061	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3653	3511,3514	string	GATE_agent	 nested-source="w,b"
+3781	4674,4675	string	GATE_split	
+3794	3230,3231	string	GATE_split	
+3910	5611,5611	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3793	3232,3234	string	GATE_split	
+3911	4332,4332	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3729	1644,1646	string	GATE_split	
+3874	4146,4146	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3655	3422,3432	string	GATE_agent	 id="b"
+3783	3552,3553	string	GATE_split	
+3755	1665,1675	string	GATE_agent	 id="q"
+3937	7769,7888	string	GATE_inside	 nested-source="w"
+3656	134,135	string	GATE_split	
+3954	5119,5225	string	GATE_inside	 nested-source="w"
+3699	1820,1827	string	GATE_attitude	 target-link="dios" intensity="medium" id="godresp" attitude-type="sentiment-pos"
+3784	3651,3652	string	GATE_split	
+3899	6092,6125	string	GATE_inside	 nested-source="w"
+3955	4701,4701	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3756	1122,1123	string	GATE_split	
+3734	2444,2463	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+3912	4332,4468	string	GATE_inside	 nested-source="w"
+3681	1709,1724	string	GATE_inside	 nested-source="w"
+3873	4146,4273	string	GATE_inside	 nested-source="w"
+3698	3017,3030	string	GATE_attitude	 target-link="nim" intensity="medium" id="blessings" attitude-type="sentiment-pos"
+3882	1339,1409	string	GATE_inside	 nested-source="w"
+3658	0,0	string	GATE_expressive-subjectivity	
+3677	4554,4581	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+3697	1828,1831	string	GATE_target	 id="dios"
+3754	370,373	string	GATE_split	
+3953	5119,5119	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3678	4536,4581	string	GATE_target	 id="illeg"
+3732	2392,2464	string	GATE_attitude	 target-link="pe" intensity="medium-high" id="keepfit" attitude-type="sentiment-pos"
+3796	4108,4109	string	GATE_split	
+3703	2001,2010	string	GATE_attitude	 target-link="disp" intensity="medium" id="rejdis" attitude-type="sentiment-neg"
+3958	4866,5058	string	GATE_inside	 nested-source="w"
+3735	1453,1454	string	GATE_split	
+3702	3031,3034	string	GATE_target	 id="nim"
+3902	5931,5931	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3657	3558,3565	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c2" intensity="low" nested-source="w,implicit" polarity="positive" attitude-link="rfv"
+3730	2468,2560	string	GATE_attitude	 target-link="talkshop" intensity="medium-high" id="bignono" attitude-type="sentiment-neg"
+3901	5931,6090	string	GATE_inside	 nested-source="w"
+3753	3039,3106	string	GATE_target	 id="safe"
+3817	8442,8443	string	GATE_split	
+3822	6922,6923	string	GATE_split	
+3904	5817,5817	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3881	1339,1339	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3945	5474,5474	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3736	2392,2443	string	GATE_target	 id="pe"
+3758	1240,1241	string	GATE_split	
+3819	8242,8243	string	GATE_split	
+3731	1642,1643	string	GATE_split	
+3948	5227,5272	string	GATE_inside	 nested-source="w"
+3635	7159,7231	string	GATE_inside	 nested-source="w"
+3891	1414,1414	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3821	6942,6944	string	GATE_split	
+3820	8109,8110	string	GATE_split	
+3947	5227,5227	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+3848	138,219	string	GATE_inside	 nested-source="w"
+3680	4530,4535	string	GATE_attitude	 target-link="illeg" intensity="medium" id="wl" attitude-type="sentiment-pos"

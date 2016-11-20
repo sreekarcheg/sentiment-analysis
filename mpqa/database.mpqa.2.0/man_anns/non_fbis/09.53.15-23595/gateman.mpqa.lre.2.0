@@ -1,0 +1,274 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/09.53.15-23595/09.53.15-23595.jw.attitudes.xml
+#  on Wed Mar  8 12:25:36 EST 2006
+#  by twilson
+254	2242,2257	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="neutral"
+125	767,771	string	GATE_split	
+250	1404,1414	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20, a21" nested-source="w,marchers" intensity="high" polarity="both"
+121	1988,1994	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a25" intensity="medium" nested-source="w, chavez" polarity="positive"
+246	637,638	string	GATE_split	
+117	2337,2399	string	GATE_attitude	 target-link="t300" attitude-type="sentiment-neg" id="a300" inferred="yes" intensity="medium-high"
+242	1794,1800	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,vasquez" polarity="neutral"
+113	1881,1885	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a24" nested-source="w,gomez" intensity="high"
+238	2276,2276	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+109	1032,1045	string	GATE_attitude	 target-link="t17" attitude-type="sentiment-neg" intensity="medium-high" id="a17"
+234	1815,1827	string	GATE_attitude	 target-link="t23" attitude-type="sentiment-neg" intensity="high" id="a23"
+105	66,66	string	GATE_direct-subjective	 attitude-link="a50" intensity="low" nested-source="w" implicit="true"
+230	2562,2609	string	GATE_agent	 id="rincon" nested-source="w,rincon"
+101	3306,3373	string	GATE_attitude	 target-link="t40" attitude-type="arguing-pos" intensity="medium" id="a40"
+226	16,25	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+97	2016,2081	string	GATE_attitude	 target-link="t25" attitude-type="arguing-pos" intensity="medium" id="a25"
+222	823,838	string	GATE_target	 id="t14"
+93	2081,2082	string	GATE_split	
+218	2001,2015	string	GATE_target	 id="t25"
+89	2527,2702	string	GATE_inside	 nested-source="w"
+214	3412,3429	string	GATE_target	 id="t42"
+85	1713,1717	string	GATE_split	
+210	2026,2032	string	GATE_agent	
+81	789,797	string	GATE_objective-speech-event	 nested-source="w,carmona"
+206	3394,3429	string	GATE_attitude	 target-link="t43" attitude-type="sentiment-neg" id="a43" inferred="yes" intensity="medium-high"
+77	684,685	string	GATE_split	
+202	1672,1696	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w" intensity="medium" polarity="negative"
+73	1251,1262	string	GATE_target	 id="t18"
+198	242,298	string	GATE_target	 id="t11"
+69	938,951	string	GATE_attitude	 target-link="t15" attitude-type="sentiment-pos" intensity="medium" id="a15"
+194	1128,1129	string	GATE_split	
+65	242,462	string	GATE_inside	 nested-source="w"
+190	3312,3316	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="both"
+61	2086,2219	string	GATE_inside	 nested-source="w"
+186	2639,2645	string	GATE_objective-speech-event	 nested-source="w,rincon"
+57	3378,3430	string	GATE_inside	 nested-source="w"
+182	1023,1023	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+53	3412,3418	string	GATE_agent	
+178	2276,2401	string	GATE_inside	 nested-source="w"
+49	1936,2082	string	GATE_inside	 nested-source="w"
+174	2131,2165	string	GATE_target	 id="t27"
+45	3381,3429	string	GATE_attitude	 target-link="t41" attitude-type="arguing-pos" intensity="medium" id="a41"
+170	3155,3164	string	GATE_agent	
+41	398,445	string	GATE_agent	 id="carmona"
+166	66,238	string	GATE_inside	 nested-source="w"
+37	2985,3194	string	GATE_inside	 nested-source="w"
+162	2223,2236	string	GATE_target	 id="t30"
+33	3451,3473	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a45" intensity="low" nested-source="w, ledesma, venezuelans" polarity="negative"
+158	62,66	string	GATE_split	
+29	3412,3418	string	GATE_target	 id="t43"
+154	3373,3374	string	GATE_split	
+25	3394,3403	string	GATE_attitude	 target-link="t42" attitude-type="sentiment-pos" intensity="medium" id="a42"
+150	1612,1613	string	GATE_split	
+21	3451,3479	string	GATE_attitude	 attitude-uncertain="very-uncertain" target-link="t45" attitude-type="sentiment-neg" id="a45" intensity="low-medium"
+146	2671,2688	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a34, a35" intensity="medium" nested-source="w,rincon,rincon" polarity="both"
+17	2026,2081	string	GATE_target	 id="t26"
+142	1717,1717	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	3148,3193	string	GATE_target	 id="t37"
+267	3133,3144	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a37, a38" nested-source="w,venezuelans" intensity="medium" polarity="both"
+138	2347,2357	string	GATE_target	 id="t31"
+9	842,852	string	GATE_attitude	 target-link="t14" attitude-type="sentiment-pos" intensity="medium" id="a14"
+263	1811,1828	string	GATE_inside	 nested-source="w"
+134	2183,2217	string	GATE_attitude	 target-link="t27" attitude-type="sentiment-neg" intensity="medium" id="a28"
+5	3239,3253	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="negative"
+259	2347,2357	string	GATE_agent	
+130	1806,1807	string	GATE_split	
+1	3431,3431	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+255	385,393	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+126	3556,3557	string	GATE_split	
+251	1909,1910	string	GATE_split	
+122	3288,3288	string	GATE_direct-subjective	 attitude-link="a40" intensity="medium" nested-source="w" implicit="true"
+247	1251,1262	string	GATE_agent	 nested-source="w,ven"
+118	3288,3374	string	GATE_inside	 nested-source="w"
+243	1959,1973	string	GATE_objective-speech-event	 nested-source="w,chavez"
+114	107,118	string	GATE_attitude	 target-link="t50" attitude-type="arguing-pos" intensity="low" id="a50"
+239	2985,2985	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+110	1886,1909	string	GATE_agent	 id="gomez" nested-source="w,gomez"
+235	2844,2845	string	GATE_split	
+106	1613,1617	string	GATE_split	
+231	2218,2219	string	GATE_split	
+102	1519,1613	string	GATE_inside	 nested-source="w"
+227	3381,3386	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a41" intensity="low" nested-source="w,ledesma,ledesma" polarity="neutral"
+98	1279,1280	string	GATE_split	
+223	1023,1129	string	GATE_inside	 nested-source="w"
+94	3451,3473	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,ledesma" polarity="negative"
+219	1915,1932	string	GATE_inside	 nested-source="w"
+90	938,951	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a15" intensity="medium" nested-source="w, carmona" polarity="both"
+215	3379,3380	string	GATE_agent	 nested-source="w,ledesma,ledesma"
+86	1019,1023	string	GATE_split	
+211	1415,1438	string	GATE_target	 id="t20"
+82	3541,3545	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a44" intensity="medium" nested-source="w,ledesma"
+207	1251,1251	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a18" implicit="true" nested-source="w" intensity="low"
+78	2981,2985	string	GATE_split	
+203	2494,2522	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="neutral"
+74	2405,2523	string	GATE_inside	 nested-source="w"
+199	1133,1133	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+70	2100,2102	string	GATE_agent	 nested-source="w,chavez"
+195	2337,2346	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a31" nested-source="w,officers,officers" intensity="high" polarity="positive"
+66	3557,3560	string	GATE_split	
+191	1819,1827	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w,gomez" polarity="negative"
+62	3133,3193	string	GATE_attitude	 target-link="t38" attitude-type="sentiment-neg" id="a38" inferred="yes" intensity="medium-high"
+187	1141,1157	string	GATE_objective-speech-event	 nested-source="w,carmona" insubstantial="c1"
+58	766,767	string	GATE_split	
+183	2405,2405	string	GATE_direct-subjective	 attitude-link="a33" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w" implicit="true"
+54	1763,1788	string	GATE_agent	 id="boliviagroups"
+179	1717,1807	string	GATE_inside	 nested-source="w"
+50	1404,1414	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" intensity="medium" id="a20"
+175	1811,1812	string	GATE_direct-subjective	 attitude-link="a23" intensity="high" nested-source="w, gomez" implicit="true"
+46	0,0	string	GATE_agent	 id="implicit"
+171	1263,1279	string	GATE_attitude	 target-link="t18" attitude-type="arguing-pos" intensity="low-medium" id="a18"
+42	1263,1279	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="medium" id="a19"
+167	1007,1019	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="none" attitude-type="sentiment-neg" id="a16" intensity="low-medium"
+38	2380,2399	string	GATE_attitude	 target-link="t32" attitude-type="arguing-neg" intensity="medium-high" id="a32"
+163	2367,2379	string	GATE_target	 id="t32"
+34	3198,3214	string	GATE_target	 id="t39"
+159	466,466	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	2451,2459	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+155	2183,2190	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a29" insubstantial="c1, c2" nested-source="w,chavez,tele" intensity="low" polarity="negative"
+26	1829,1841	string	GATE_agent	
+151	1829,1841	string	GATE_target	 id="t24"
+22	842,852	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a14" nested-source="w,carmona,carmona" intensity="medium" polarity="both"
+147	1002,1006	string	GATE_split	
+18	1936,1936	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+143	1023,1031	string	GATE_agent	 nested-source="w,protestors"
+14	1133,1247	string	GATE_inside	 nested-source="w"
+268	3198,3287	string	GATE_inside	 nested-source="w"
+139	2980,2981	string	GATE_split	
+10	2671,2688	string	GATE_attitude	 target-link="t34" attitude-type="sentiment-pos" intensity="medium-high" id="a34"
+264	2706,2845	string	GATE_inside	 nested-source="w"
+135	1811,1811	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	2086,2086	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+260	1388,1392	string	GATE_split	
+131	686,686	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+2	1617,1617	string	GATE_direct-subjective	 attitude-link="a22" subjective-uncertain="somewhat-uncertain" intensity="medium" nested-source="w" implicit="true"
+256	1251,1280	string	GATE_inside	 nested-source="w"
+127	2400,2401	string	GATE_split	
+252	1827,1828	string	GATE_split	
+123	1133,1140	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w" intensity="low" polarity="neutral"
+248	3215,3286	string	GATE_attitude	 target-link="t39" attitude-type="arguing-pos" intensity="low-medium" id="a39"
+119	2274,2275	string	GATE_split	
+244	3394,3403	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a43, a42" nested-source="w,ledesma,ledesma,venezuelans" intensity="high" polarity="both"
+115	1054,1128	string	GATE_target	 id="t17"
+240	638,642	string	GATE_split	
+111	1263,1279	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a19" intensity="high" nested-source="w,ven" polarity="negative"
+236	771,771	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+107	1007,1019	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+232	642,642	string	GATE_objective-speech-event	 objective-uncertain="somewhat-uncertain" nested-source="w" implicit="true"
+103	2327,2330	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a32, a300" intensity="medium" nested-source="w,officers"
+228	771,1002	string	GATE_inside	 nested-source="w"
+99	1032,1045	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a17" annotation-uncertain="somewhat-uncertain" nested-source="w,protestors" intensity="medium" polarity="negative"
+224	2237,2274	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" intensity="low-medium" id="a30"
+95	1617,1713	string	GATE_inside	 nested-source="w"
+220	2183,2195	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,chavez" polarity="negative"
+91	771,774	string	GATE_agent	 nested-source="w,carmona"
+216	3480,3538	string	GATE_target	 id="t45"
+87	1392,1518	string	GATE_inside	 nested-source="w"
+212	1247,1251	string	GATE_split	
+83	1829,1910	string	GATE_inside	 nested-source="w"
+208	2082,2086	string	GATE_split	
+79	3546,3556	string	GATE_agent	 nested-source="w,ledesma"
+204	2845,2849	string	GATE_split	
+75	1395,1403	string	GATE_agent	 id="marchers" nested-source="w,marchers"
+200	1842,1878	string	GATE_attitude	 target-link="t24" attitude-type="sentiment-neg" intensity="high" id="a24"
+71	462,466	string	GATE_split	
+196	3429,3430	string	GATE_split	
+67	2337,2346	string	GATE_attitude	 target-link="t31" attitude-type="sentiment-pos" intensity="medium" id="a31"
+192	2016,2025	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a26" nested-source="w,chavez,chavezgov" intensity="medium" polarity="positive"
+63	466,638	string	GATE_inside	 nested-source="w"
+188	2016,2025	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t26" attitude-type="sentiment-pos" id="a26" intensity="medium"
+59	2702,2706	string	GATE_split	
+184	3435,3473	string	GATE_attitude	 target-link="none" attitude-type="arguing-pos" intensity="low" id="a44"
+55	3374,3378	string	GATE_split	
+180	1949,1958	string	GATE_agent	 nested-source="w,chavez"
+51	2223,2223	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a30" implicit="true" nested-source="w" intensity="medium"
+176	2701,2702	string	GATE_split	
+47	3387,3393	string	GATE_target	 id="t41"
+172	1517,1518	string	GATE_split	
+43	2522,2523	string	GATE_split	
+168	1001,1002	string	GATE_split	
+39	1812,1814	string	GATE_target	 id="t23"
+164	600,628	string	GATE_agent	 id="chavez"
+35	3155,3164	string	GATE_target	 id="t38"
+160	2693,2701	string	GATE_attitude	 target-link="t34" attitude-type="agree-pos" intensity="low-medium" id="a36"
+31	1910,1914	string	GATE_split	
+156	24,27	string	GATE_split	
+27	2331,2335	string	GATE_agent	 nested-source="w,officers,officers"
+152	686,767	string	GATE_inside	 nested-source="w"
+23	1662,1671	string	GATE_target	 id="t22"
+148	447,450	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+19	97,106	string	GATE_target	 id="t50"
+144	358,365	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="positive"
+15	3194,3198	string	GATE_split	
+140	27,33	string	GATE_split	
+11	1007,1007	string	GATE_direct-subjective	 attitude-link="a16" intensity="low" nested-source="w" implicit="true"
+265	3133,3147	string	GATE_attitude	 target-link="t37" attitude-type="sentiment-pos" intensity="medium" id="a37"
+136	0,0	string	GATE_agent	 id="w"
+7	2646,2688	string	GATE_attitude	 target-link="t35" attitude-type="sentiment-neg" id="a35" inferred="yes" intensity="high"
+261	3069,3080	string	GATE_agent	 id="venezuelans"
+132	353,365	string	GATE_attitude	 target-link="none" attitude-type="sentiment-pos" intensity="low-medium" id="a12"
+3	1281,1388	string	GATE_inside	 nested-source="w"
+257	97,118	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+128	2223,2275	string	GATE_inside	 nested-source="w"
+253	2202,2217	string	GATE_target	 id="t29"
+124	1547,1551	string	GATE_objective-speech-event	 nested-source="w,ledesma"
+249	3193,3194	string	GATE_split	
+120	305,352	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-neg" intensity="low-medium" id="a11"
+245	3288,3305	string	GATE_target	 id="t40"
+116	2219,2223	string	GATE_split	
+241	2693,2701	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a36" nested-source="w, implicit" intensity="medium" polarity="uncertain-neutral"
+112	1712,1713	string	GATE_split	
+237	2437,2446	string	GATE_target	 id="t33"
+108	1387,1388	string	GATE_split	
+233	2646,2670	string	GATE_target	 id="t34"
+104	2849,2981	string	GATE_inside	 nested-source="w"
+229	2386,2399	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,officers" polarity="negative"
+100	16,24	string	GATE_attitude	 target-link="none" attitude-type="sentiment-pos" intensity="low-medium" id="a10"
+225	3378,3379	string	GATE_objective-speech-event	 nested-source="w,ledesma" implicit="true"
+96	2183,2201	string	GATE_attitude	 attitude-uncertain="very-uncertain" target-link="t29" attitude-type="sentiment-neg" id="a29" intensity="medium"
+221	3575,3577	string	GATE_split	
+92	1404,1438	string	GATE_attitude	 target-link="t21" attitude-type="sentiment-neg" id="a21" inferred="yes" intensity="medium-high"
+217	3286,3287	string	GATE_split	
+88	1415,1424	string	GATE_agent	
+213	1281,1281	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+84	642,685	string	GATE_inside	 nested-source="w"
+209	675,684	string	GATE_agent	 id="ven"
+80	2118,2120	string	GATE_target	 id="t300"
+205	4,24	string	GATE_inside	 nested-source="w"
+76	1415,1424	string	GATE_target	 id="t21"
+201	839,841	string	GATE_agent	 nested-source="w,carmona,carmona"
+72	2527,2527	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+197	3378,3378	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+68	2401,2405	string	GATE_split	
+193	953,1001	string	GATE_target	 id="t15"
+64	3387,3393	string	GATE_agent	 nested-source="w,ledesma,ledesma,venezuelans"
+189	2001,2015	string	GATE_agent	 id="chavezgov" nested-source="w,chavez,chavezgov"
+60	238,242	string	GATE_split	
+185	2131,2165	string	GATE_agent	 id="tele" nested-source="w,chavez,tele"
+56	953,972	string	GATE_agent	 id="protestors"
+181	2849,2849	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+52	2293,2301	string	GATE_agent	 id="officers" nested-source="w,officers"
+177	2103,2112	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a27, a28" intensity="medium" nested-source="w,chavez"
+48	242,242	string	GATE_direct-subjective	 attitude-link="a11, a12" intensity="medium" nested-source="w" implicit="true"
+173	3198,3198	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a39" implicit="true" nested-source="w" intensity="medium"
+44	1246,1247	string	GATE_split	
+169	309,330	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="negative"
+40	461,462	string	GATE_split	
+165	1007,1019	string	GATE_inside	 nested-source="w"
+36	1932,1936	string	GATE_split	
+161	652,658	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+32	2646,2656	string	GATE_target	 id="t35"
+157	4,4	string	GATE_direct-subjective	 attitude-link="a10" intensity="low" nested-source="w" implicit="true"
+28	482,491	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w" intensity="low" polarity="neutral"
+153	1807,1811	string	GATE_split	
+24	1519,1519	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+149	1915,1915	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	2523,2527	string	GATE_split	
+145	237,238	string	GATE_split	
+16	1735,1757	string	GATE_agent	 id="vasquez" nested-source="w,vasquez"
+141	3431,3557	string	GATE_inside	 nested-source="w"
+12	1392,1392	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+266	1672,1712	string	GATE_attitude	 target-link="t22" attitude-type="sentiment-neg" intensity="medium" id="a22"
+137	1758,1762	string	GATE_objective-speech-event	 nested-source="w,vasquez"
+8	2706,2706	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+262	1829,1829	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+133	2183,2217	string	GATE_attitude	 target-link="t27" attitude-type="arguing-pos" intensity="medium" id="a27"
+4	1129,1133	string	GATE_split	
+258	1859,1870	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,gomez" polarity="negative"
+129	2447,2522	string	GATE_attitude	 target-link="t33" attitude-type="arguing-pos" intensity="low" id="a33"
+0	1519,1546	string	GATE_agent	 id="ledesma" nested-source="w,ledesma"

@@ -1,0 +1,139 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/03.47.06-11142/03.47.06-11142.jlw.attitudes.xml
+#  on Wed Mar 15 14:02:00 EST 2006
+#  by twilson
+127	366,368	string	GATE_target	 id="t6"
+125	391,398	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,Mugabe,Mugabe" polarity="neutral"
+123	1970,1974	string	GATE_split	
+121	24,31	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w,Mugabe" intensity="medium" polarity="positive"
+119	611,620	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a12" intensity="low" nested-source="w, Mugabe, Britwest" polarity="uncertain-negative"
+117	605,629	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-neg" intensity="medium" id="a11"
+115	1080,1081	string	GATE_split	
+113	1936,1940	string	GATE_split	
+111	267,272	string	GATE_objective-speech-event	 nested-source="w, implicit"
+109	1770,1864	string	GATE_attitude	 target-link="t24" attitude-type="sentiment-neg" intensity="medium" id="a23"
+107	276,278	string	GATE_agent	 nested-source="w,implicit,Mugabe"
+105	719,723	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a14" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w, Mugabe"
+103	1718,1769	string	GATE_agent	 id="MDC" nested-source="w, MDC"
+101	933,942	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="low" id="a20"
+99	352,353	string	GATE_agent	 nested-source="w,Mugabe,Mugabe"
+97	529,589	string	GATE_target	 id="t9"
+95	73,107	string	GATE_agent	 id="Mugabe" nested-source="w, Mugabe"
+93	611,620	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Mugabe" polarity="negative"
+91	73,107	string	GATE_target	 id="t3"
+89	1538,1714	string	GATE_inside	 nested-source="w"
+87	640,650	string	GATE_attitude	 target-link="t13" attitude-type="sentiment-neg" intensity="medium" id="a13"
+85	285,291	string	GATE_attitude	 target-link="t4" attitude-type="agree-pos" intensity="low-medium" id="a4"
+83	292,336	string	GATE_target	 id="t4"
+81	757,757	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+79	1854,1864	string	GATE_agent	 id="urban" nested-source="w, implicit, urban"
+77	785,794	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a16, a17" intensity="medium" nested-source="w, EUUS" polarity="negative"
+75	354,365	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" intensity="medium" nested-source="w,Mugabe,Mugabe" polarity="positive"
+73	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+71	1038,1047	string	GATE_attitude	 target-link="t21" attitude-type="other-attitude" intensity="low" id="a21"
+69	928,929	string	GATE_split	
+67	757,763	string	GATE_target	 id="t16"
+65	1092,1112	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a22" intensity="low" nested-source="w, implicit" polarity="neutral"
+63	262,263	string	GATE_split	
+61	1263,1267	string	GATE_split	
+59	1875,1882	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a25" intensity="low" nested-source="w, implicit" polarity="neutral"
+57	11,20	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1, a2" intensity="medium" nested-source="w,Mugabe" polarity="positive"
+55	1267,1425	string	GATE_inside	 nested-source="w"
+53	311,326	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a5" intensity="high" nested-source="w, implicit, implicit" polarity="negative"
+51	635,639	string	GATE_target	 id="t14"
+49	1886,1891	string	GATE_attitude	 target-link="t26" attitude-type="sentiment-pos" intensity="medium" id="a26"
+47	1425,1429	string	GATE_split	
+45	416,420	string	GATE_split	
+43	1713,1714	string	GATE_split	
+41	420,420	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	1081,1085	string	GATE_split	
+37	1886,1891	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a26" intensity="medium" nested-source="w, implicit, urban" polarity="positive"
+35	1038,1044	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a21" intensity="low" nested-source="w,mugabetop" polarity="negative"
+33	507,525	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a9" intensity="medium" nested-source="w, Mugabe" polarity="negative"
+31	1718,1931	string	GATE_inside	 nested-source="w"
+29	1085,1085	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	60,66	string	GATE_split	
+25	1267,1267	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	108,125	string	GATE_attitude	 target-link="t3" attitude-type="arguing-pos" intensity="low-medium" id="a3"
+21	1830,1834	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, MDC" polarity="negative"
+19	1538,1538	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	533,589	string	GATE_agent	 id="Britwest" nested-source="w, Mugabe, Britwest"
+15	1262,1263	string	GATE_split	
+13	629,630	string	GATE_split	
+11	651,676	string	GATE_target	 id="t15"
+9	1839,1849	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, MDC" polarity="negative"
+7	764,928	string	GATE_attitude	 target-link="t16" attitude-type="sentiment-neg" intensity="high" id="a16"
+5	611,620	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t12" attitude-type="sentiment-neg" id="a12" intensity="low-medium"
+132	338,344	string	GATE_agent	 nested-source="w, Mugabe"
+3	11,23	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="medium-high" id="a1"
+130	345,349	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a8" intensity="high" nested-source="w, Mugabe"
+1	933,1081	string	GATE_inside	 nested-source="w"
+128	933,942	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="negative"
+126	1536,1537	string	GATE_split	
+124	66,263	string	GATE_inside	 nested-source="w"
+122	597,599	string	GATE_agent	 nested-source="w, Mugabe"
+120	757,929	string	GATE_inside	 nested-source="w"
+118	0,0	string	GATE_agent	 id="w"
+116	108,117	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a3" nested-source="w,Mugabe" intensity="low" polarity="neutral"
+114	752,753	string	GATE_split	
+112	635,639	string	GATE_agent	 nested-source="w, Mugabe, Britwest"
+110	354,414	string	GATE_attitude	 target-link="t8" attitude-type="arguing-pos" id="a8" intensity="medium-high" repetition="yes"
+108	1892,1930	string	GATE_target	 id="t26"
+106	0,0	string	GATE_agent	 id="implicit"
+104	399,414	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, Mugabe,Mugabe" polarity="positive"
+102	57,60	string	GATE_split	
+100	1913,1930	string	GATE_agent	 id="Tsvangirai"
+98	640,713	string	GATE_attitude	 target-link="t15" attitude-type="sentiment-neg" id="a15" inferred="yes" intensity="medium-high"
+96	370,389	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Mugabe,Mugabe" polarity="neutral"
+94	1930,1931	string	GATE_split	
+92	420,630	string	GATE_inside	 nested-source="w"
+90	1787,1797	string	GATE_target	 id="t24"
+88	753,757	string	GATE_split	
+86	279,291	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a4" insubstantial="c2" nested-source="w,implicit,Mugabe" intensity="low" polarity="uncertain-positive"
+84	1092,1153	string	GATE_attitude	 target-link="t22" attitude-type="other-attitude" intensity="medium" id="a22"
+82	757,763	string	GATE_agent	
+80	621,629	string	GATE_target	 id="t12" target-uncertain="somewhat-uncertain"
+78	655,676	string	GATE_agent	
+76	716,718	string	GATE_agent	 nested-source="w, Mugabe"
+74	634,634	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+72	1085,1091	string	GATE_target	 id="t22"
+70	1004,1028	string	GATE_agent	 id="mugabetop" nested-source="w,mugabetop"
+68	640,713	string	GATE_attitude	 target-link="t14" attitude-type="arguing-pos" intensity="low-medium" id="a14"
+66	66,66	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+64	1802,1824	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, MDC" polarity="negative"
+62	263,267	string	GATE_split	
+60	1085,1263	string	GATE_inside	 nested-source="w"
+58	861,928	string	GATE_attitude	 target-link="t16" attitude-type="arguing-pos" intensity="high" id="a17"
+56	1850,1864	string	GATE_target	 id="t25"
+54	267,416	string	GATE_inside	 nested-source="w"
+52	861,887	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, EUUS" polarity="negative"
+50	630,634	string	GATE_split	
+48	4,10	string	GATE_target	 id="t2"
+46	311,326	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="high" id="a5"
+44	1029,1044	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+42	1718,1718	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	933,933	string	GATE_direct-subjective	 attitude-link="a19, a20" intensity="medium" nested-source="w" implicit="true"
+38	1429,1537	string	GATE_inside	 nested-source="w"
+36	600,604	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a11" intensity="medium" nested-source="w, Mugabe"
+34	1048,1080	string	GATE_target	 id="t21"
+32	4,10	string	GATE_agent	 nested-source="w,Mugabe"
+30	1714,1718	string	GATE_split	
+28	1424,1425	string	GATE_split	
+26	507,528	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-neg" intensity="medium" id="a9"
+24	970,982	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="low" id="a19"
+22	354,365	string	GATE_attitude	 target-link="t6" attitude-type="agree-pos" intensity="low-medium" id="a6"
+20	11,57	string	GATE_attitude	 target-link="none" attitude-type="sentiment-pos" intensity="medium" id="a2"
+18	634,753	string	GATE_inside	 nested-source="w"
+16	1770,1781	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a23" intensity="medium" nested-source="w, MDC" polarity="negative"
+14	4,57	string	GATE_inside	 nested-source="w"
+12	892,904	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, EUUS" polarity="negative"
+10	970,982	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="neutral"
+8	267,267	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	1429,1429	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+133	929,933	string	GATE_split	
+4	651,713	string	GATE_target	 id="t13"
+131	399,400	string	GATE_target	 id="t8"
+2	640,650	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a13, a15" intensity="medium" nested-source="w, Mugabe, Britwest" polarity="negative"
+129	1872,1930	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t25" attitude-type="speculation" id="a25" intensity="low-medium"
+0	819,855	string	GATE_agent	 id="EUUS" nested-source="w, EUUS"

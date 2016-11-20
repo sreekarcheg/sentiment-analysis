@@ -1,0 +1,50 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0167/wsj_0167.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+369	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+358	304,304	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+351	628,636	string	GATE_objective-speech-event	 nested-source="w,rms"
+368	9,31	string	GATE_inside	 nested-source="w"
+363	798,799	string	GATE_split	
+374	166,166	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+342	104,162	string	GATE_target	 id="src"
+355	549,592	string	GATE_inside	 nested-source="w"
+377	754,799	string	GATE_inside	 nested-source="w"
+382	33,163	string	GATE_inside	 nested-source="w"
+350	0,0	string	GATE_direct-subjective	
+360	0,0	string	GATE_agent	 id="implicit"
+371	166,303	string	GATE_inside	 nested-source="w"
+361	0,0	string	GATE_agent	 id="w"
+349	85,89	string	GATE_objective-speech-event	 nested-source="w,rms"
+381	7,9	string	GATE_split	
+380	400,402	string	GATE_split	
+353	402,405	string	GATE_agent	 nested-source="w,rms"
+372	754,754	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+344	406,410	string	GATE_objective-speech-event	 nested-source="w,rms"
+385	164,166	string	GATE_split	
+379	547,548	string	GATE_split	
+352	616,627	string	GATE_agent	 nested-source="w,rms"
+347	178,182	string	GATE_objective-speech-event	 nested-source="w,rms" insubstantial=""
+354	166,177	string	GATE_agent	 nested-source="w,rms" id=""
+364	800,802	string	GATE_split	
+373	304,399	string	GATE_inside	 nested-source="w"
+383	398,399	string	GATE_split	
+378	595,595	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+346	93,103	string	GATE_attitude	 target-link="src" intensity="low-medium" id="seek" attitude-type="sentiment-pos"
+386	162,163	string	GATE_split	
+370	1,6	string	GATE_inside	 nested-source="w"
+359	0,0	string	GATE_expressive-subjectivity	
+367	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+345	93,103	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" implicit="" nested-source="w,rms,rms" attitude-link="seek"
+362	549,549	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+375	595,753	string	GATE_inside	 nested-source="w"
+343	90,92	string	GATE_agent	 nested-source="w,rms,rms"
+356	402,402	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+366	752,753	string	GATE_split	
+376	591,592	string	GATE_split	
+348	9,31	string	GATE_agent	 nested-source="w,rms" id="rms"
+357	402,548	string	GATE_inside	 nested-source="w"
+384	302,303	string	GATE_split	
+365	593,595	string	GATE_split	

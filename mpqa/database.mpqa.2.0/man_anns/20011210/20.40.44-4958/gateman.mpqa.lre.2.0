@@ -1,0 +1,72 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011210/20.40.44-4958/20.40.44-4958.tw.attitudes.xml
+#  on Tue Aug  1 17:46:45 EDT 2006
+#  by twilson
+66	341,342	string	GATE_split	
+65	635,643	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" annotation-uncertain="very-uncertain" nested-source="w,amri,implicit" intensity="low" polarity="neutral"
+64	1692,1822	string	GATE_inside	 nested-source="w"
+63	1989,1992	string	GATE_split	
+62	588,592	string	GATE_objective-speech-event	 nested-source="w,amri" objective-uncertain="somewhat-uncertain"
+61	1086,1086	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+60	585,587	string	GATE_agent	 nested-source="w,amri"
+59	512,522	string	GATE_agent	 nested-source="w,amri"
+58	0,0	string	GATE_agent	 id="w"
+57	1823,1823	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+56	792,804	string	GATE_objective-speech-event	 nested-source="w,amri"
+55	275,342	string	GATE_inside	 nested-source="w"
+54	938,939	string	GATE_split	
+53	1981,1982	string	GATE_split	
+52	940,1079	string	GATE_inside	 nested-source="w"
+51	1455,1456	string	GATE_split	
+50	585,785	string	GATE_inside	 nested-source="w"
+49	821,836	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" annotation-uncertain="somewhat-uncertain" intensity="low" nested-source="w,amri,saudibiz" polarity="positive"
+48	1355,1356	string	GATE_split	
+47	940,940	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+46	1823,1982	string	GATE_inside	 nested-source="w"
+45	275,275	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	805,815	string	GATE_agent	 nested-source="w,amri"
+43	108,120	string	GATE_objective-speech-event	 nested-source="w,amri"
+42	2,268	string	GATE_inside	 nested-source="w"
+41	121,139	string	GATE_agent	 id="amri" nested-source="w,amri"
+40	267,268	string	GATE_split	
+39	1363,1363	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	1086,1096	string	GATE_agent	 nested-source="w,amri"
+37	0,0	string	GATE_agent	 id="implicit"
+36	278,282	string	GATE_objective-speech-event	 nested-source="w,amri"
+35	1078,1079	string	GATE_split	
+34	792,792	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	1086,1356	string	GATE_inside	 nested-source="w"
+32	1097,1101	string	GATE_objective-speech-event	 nested-source="w,amri"
+31	343,578	string	GATE_inside	 nested-source="w"
+30	1363,1456	string	GATE_inside	 nested-source="w"
+29	1173,1191	string	GATE_agent	 nested-source="w,amri,saudibiz"
+28	523,548	string	GATE_objective-speech-event	 nested-source="w,amri"
+27	1690,1691	string	GATE_split	
+26	343,343	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	943,947	string	GATE_objective-speech-event	 nested-source="w,amri"
+24	1692,1692	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	1599,1599	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	1591,1592	string	GATE_split	
+21	275,277	string	GATE_agent	 nested-source="w,amri"
+20	792,939	string	GATE_inside	 nested-source="w"
+19	837,853	string	GATE_agent	 id="saudibiz" nested-source="w,amri,saudibiz"
+18	585,585	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	1821,1822	string	GATE_split	
+16	53,64	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" annotation-uncertain="very-uncertain" intensity="low" nested-source="w,amri,implicit" polarity="neutral"
+15	1457,1457	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	1192,1199	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a40" annotation-uncertain="somewhat-uncertain" nested-source="w,amri,saudibiz" intensity="low" polarity="positive"
+13	1457,1592	string	GATE_inside	 nested-source="w"
+12	940,942	string	GATE_agent	 nested-source="w,amri"
+11	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	784,785	string	GATE_split	
+9	1599,1691	string	GATE_inside	 nested-source="w"
+8	577,578	string	GATE_split	
+7	53,106	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+6	2,52	string	GATE_target	 id="t10"
+5	598,634	string	GATE_target	 id="t20"
+4	635,688	string	GATE_attitude	 target-link="t20" attitude-type="other-attitude" id="a20" intensity="low"
+3	817,864	string	GATE_attitude	 target-link="t30" attitude-uncertain="very-uncertain" attitude-type="sentiment-pos" id="a30" intensity="medium"
+2	868,938	string	GATE_target	 id="t30"
+1	1192,1199	string	GATE_attitude	 target-link="t40" attitude-type="sentiment-pos" id="a40" intensity="low-medium"
+0	1200,1243	string	GATE_target	 id="t40"

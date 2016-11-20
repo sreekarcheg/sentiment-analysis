@@ -1,0 +1,47 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/A1.E2-NEW/A1.E2-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+755	1641,1641	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+740	1641,1661	string	GATE_inside	 nested-source="w"
+728	735,739	string	GATE_objective-speech-event	 nested-source="w,sm"
+735	670,682	string	GATE_agent	 nested-source="w,sm"
+763	645,645	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+748	592,594	string	GATE_agent	 nested-source="w,sm,d" id="d"
+768	852,1135	string	GATE_inside	 nested-source="w"
+758	256,459	string	GATE_inside	 nested-source="w"
+737	877,879	string	GATE_agent	 nested-source="w,sm"
+736	880,884	string	GATE_objective-speech-event	 nested-source="w,sm"
+743	641,642	string	GATE_split	
+745	1134,1135	string	GATE_split	
+738	771,798	string	GATE_expressive-subjectivity	 nested-source="w,sm,sm"
+753	0,0	string	GATE_agent	 id="implicit"
+729	745,747	string	GATE_agent	 nested-source="w,sm,sm"
+746	848,849	string	GATE_split	
+761	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+734	603,640	string	GATE_target	 id="mod"
+747	254,255	string	GATE_split	
+762	645,849	string	GATE_inside	 nested-source="w"
+760	1,255	string	GATE_inside	 nested-source="w"
+767	1139,1139	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+752	0,0	string	GATE_expressive-subjectivity	
+731	755,848	string	GATE_target	 id="become"
+759	256,256	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+744	458,459	string	GATE_split	
+739	748,754	string	GATE_attitude	 target-link="become" intensity="medium" id="minwant" attitude-type="sentiment-pos"
+754	0,0	string	GATE_agent	 id="w"
+749	501,516	string	GATE_agent	 nested-source="w,sm" id="sm"
+769	852,852	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+764	462,642	string	GATE_inside	 nested-source="w"
+732	595,599	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,sm,d" polarity="positive" attitude-link="dwants"
+733	595,599	string	GATE_attitude	 target-link="mod" intensity="medium" id="dwants" attitude-type="intention-pos"
+750	556,560	string	GATE_objective-speech-event	 nested-source="w,sm"
+765	462,462	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+742	1423,1641	string	GATE_inside	 nested-source="w"
+757	1640,1641	string	GATE_split	
+766	1139,1420	string	GATE_inside	 nested-source="w"
+756	1419,1420	string	GATE_split	
+751	0,0	string	GATE_direct-subjective	
+730	748,754	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,sm,sm" polarity="positive" attitude-link="minwant"
+741	1423,1423	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

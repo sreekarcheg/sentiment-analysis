@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/65.ves.annotated
+#  on Thu Sep 09 14:17:03 EDT 2004
+#  by ves
+
+454	580,665	string	answer	annotator="ves" confidence="4" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+458	695,738	string	answer	annotator="ves" confidence="5" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+504	404,566	string	answer	annotator="ves" questionnumber="1" topic="mugabe" confidence="5"
+509	756,892	string	answer	annotator="ves" confidence="3" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+450	123,213	string	answer	annotator="ves" questionnumber="7" topic="mugabe" confidence="5"
+466	11,37	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="1" topic="mugabe"

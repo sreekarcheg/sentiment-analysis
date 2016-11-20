@@ -1,0 +1,10 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/92.ves.annotated
+#  on Thu Sep 09 14:17:14 EDT 2004
+#  by ves
+
+940	95,174	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="4" topic="venezuela"
+887	1164,1263	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="4" topic="venezuela"
+888	701,778	string	answer	annotator="ves" confidence="2" confidencecomment="not clear that foreign policy is concerned" questionnumber="7" topic="venezuela"
+939	1069,1105	string	answer	annotator="ves" confidence="2" confidencecomment="very indirect" questionnumber="4" topic="venezuela"

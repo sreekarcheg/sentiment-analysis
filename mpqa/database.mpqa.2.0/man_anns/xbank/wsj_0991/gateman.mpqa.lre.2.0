@@ -1,0 +1,38 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0991/wsj_0991.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+254	0,0	string	GATE_expressive-subjectivity	
+262	457,459	string	GATE_split	
+246	300,300	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+235	181,185	string	GATE_objective-speech-event	 nested-source="w,matlock"
+263	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+241	9,37	string	GATE_agent	 nested-source="w,matlock,tap" id="tap"
+240	73,80	string	GATE_attitude	 target-link="earnings" intensity="low" id="expectorate" attitude-type="other-attitude"
+251	332,332	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+244	459,562	string	GATE_inside	 nested-source="w"
+252	39,186	string	GATE_inside	 nested-source="w"
+260	330,331	string	GATE_split	
+265	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+243	7,9	string	GATE_split	
+253	0,0	string	GATE_agent	 id="implicit"
+257	298,299	string	GATE_split	
+242	157,180	string	GATE_agent	 nested-source="w,matlock" id="matlock"
+239	81,155	string	GATE_target	 id="earnings"
+258	187,189	string	GATE_split	
+250	189,299	string	GATE_inside	 nested-source="w"
+255	189,189	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+267	9,37	string	GATE_inside	 nested-source="w"
+245	185,186	string	GATE_split	
+236	84,90	string	GATE_objective-speech-event	 nested-source="w,matlock,tap" objective-uncertain=""
+259	455,456	string	GATE_split	
+264	563,565	string	GATE_split	
+266	1,6	string	GATE_inside	 nested-source="w"
+237	73,80	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expectorate" nested-source="w,matlock,tap"
+256	0,0	string	GATE_agent	 id="w"
+248	459,459	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+238	0,0	string	GATE_direct-subjective	
+261	561,562	string	GATE_split	
+247	332,456	string	GATE_inside	 nested-source="w"
+249	300,331	string	GATE_inside	 nested-source="w"

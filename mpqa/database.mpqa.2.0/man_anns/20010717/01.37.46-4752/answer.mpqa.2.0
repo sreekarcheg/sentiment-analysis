@@ -1,0 +1,7 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/1.ctc.annotated
+#  on Thu Sep 09 14:16:45 EDT 2004
+#  by ves
+
+415	1019,1134	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="Is Russia an official US ally? Probably not." questionnumber="7" topic="kyoto"

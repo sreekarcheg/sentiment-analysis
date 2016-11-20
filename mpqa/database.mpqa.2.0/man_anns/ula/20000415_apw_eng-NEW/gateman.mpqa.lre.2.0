@@ -1,0 +1,83 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/20000415_apw_eng-NEW/20000415_apw_eng-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+735	450,455	string	GATE_split	
+684	1010,1014	string	GATE_agent	 nested-source="w,h"
+716	0,0	string	GATE_expressive-subjectivity	
+699	1547,1595	string	GATE_inside	 nested-source="w"
+671	1034,1042	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" intensity="medium" nested-source="w,h,h,h" attitude-link="out"
+726	248,253	string	GATE_split	
+737	1596,1691	string	GATE_inside	 nested-source="w"
+736	636,637	string	GATE_split	
+681	686,692	string	GATE_attitude	 target-link="inv" intensity="medium" id="hw" attitude-type="sentiment-pos"
+672	1031,1192	string	GATE_target	 id="find"
+704	818,818	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+743	1321,1326	string	GATE_split	
+738	1596,1596	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+697	1475,1542	string	GATE_inside	 nested-source="w"
+682	673,677	string	GATE_agent	 nested-source="w,h" id=""
+710	458,471	string	GATE_objective-speech-event	 nested-source="w,h" objective-uncertain="" insubstantial="c1"
+729	253,253	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+670	1034,1042	string	GATE_attitude	 target-link="whatun" intensity="medium" id="out" attitude-type="other-attitude"
+715	570,575	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" attitude-link="suesperanza" nested-source="w,h,h"
+683	683,685	string	GATE_agent	 nested-source="w,h,h"
+720	159,167	string	GATE_attitude	 target-link="look" intensity="low-medium" id="exp" attitude-type="other-attitude"
+731	813,818	string	GATE_split	
+688	835,859	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1" intensity="medium" nested-source="w,h,h" attitude-link="attention"
+744	1473,1474	string	GATE_split	
+703	643,813	string	GATE_inside	 nested-source="w"
+739	1594,1595	string	GATE_split	
+690	821,825	string	GATE_objective-speech-event	 nested-source="w,h"
+722	69,98	string	GATE_agent	 id="h"
+700	455,455	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+733	638,643	string	GATE_split	
+669	1043,1192	string	GATE_target	 id="whatun"
+706	955,955	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+742	1542,1547	string	GATE_split	
+693	1197,1321	string	GATE_inside	 nested-source="w"
+678	696,812	string	GATE_target	 id="inv"
+687	826,828	string	GATE_agent	 nested-source="w,h,h"
+719	0,0	string	GATE_agent	 id="implicit"
+741	1541,1542	string	GATE_split	
+677	721,736	string	GATE_agent	 nested-source="w,h,h,ra" id="ra"
+676	708,715	string	GATE_objective-speech-event	 nested-source="w,h,h,ra"
+708	500,502	string	GATE_agent	 nested-source="w,h"
+740	1690,1691	string	GATE_split	
+728	0,248	string	GATE_inside	 nested-source="w"
+691	818,820	string	GATE_agent	 nested-source="w,h"
+696	1475,1475	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+727	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+673	1024,1030	string	GATE_attitude	 target-link="find" intensity="medium" id="whw" attitude-type="sentiment-pos"
+717	0,0	string	GATE_direct-subjective	
+707	955,1193	string	GATE_inside	 nested-source="w"
+694	1326,1326	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+745	1192,1193	string	GATE_split	
+689	863,953	string	GATE_target	 id="whathappens"
+718	0,0	string	GATE_agent	 id="w"
+674	1021,1023	string	GATE_agent	 nested-source="w,h,h"
+721	171,201	string	GATE_target	 id="look"
+746	1320,1321	string	GATE_split	
+734	812,813	string	GATE_split	
+724	449,450	string	GATE_split	
+698	1547,1547	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+723	159,167	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="exp" nested-source="w,implicit"
+705	818,954	string	GATE_inside	 nested-source="w"
+712	570,575	string	GATE_attitude	 target-link="sephw" intensity="low-medium" id="suesperanza" attitude-type="sentiment-pos"
+675	1024,1030	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,h,h" polarity="positive" attitude-link="whw"
+680	686,692	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,h,h" polarity="positive" attitude-link="hw"
+685	1015,1019	string	GATE_objective-speech-event	 nested-source="w,h"
+695	1326,1474	string	GATE_inside	 nested-source="w"
+713	576,636	string	GATE_target	 id="sephw"
+732	953,954	string	GATE_split	
+711	455,457	string	GATE_agent	 nested-source="w,h"
+701	455,637	string	GATE_inside	 nested-source="w"
+686	835,859	string	GATE_attitude	 target-link="whathappens" intensity="medium" id="attention" attitude-type="other-attitude"
+679	678,682	string	GATE_objective-speech-event	 nested-source="w,h"
+725	247,248	string	GATE_split	
+714	567,569	string	GATE_agent	 nested-source="w,h,h"
+692	1197,1197	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+702	643,643	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+709	503,507	string	GATE_objective-speech-event	 nested-source="w,h"
+730	253,450	string	GATE_inside	 nested-source="w"

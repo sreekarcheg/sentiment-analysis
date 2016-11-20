@@ -1,0 +1,29 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011224/20.59.38-27990/20.59.38-27990.jlw.attitudes.xml
+#  on Thu Jun  8 15:39:28 EDT 2006
+#  by twilson
+23	447,556	string	GATE_inside	 nested-source="w"
+22	557,736	string	GATE_inside	 nested-source="w"
+21	337,338	string	GATE_split	
+20	737,740	string	GATE_split	
+19	447,447	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	555,556	string	GATE_split	
+17	218,219	string	GATE_split	
+16	557,557	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	445,446	string	GATE_split	
+14	339,339	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	62,71	string	GATE_objective-speech-event	 nested-source="w,kurdsat,kurdtel"
+12	220,338	string	GATE_inside	 nested-source="w"
+11	220,220	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	735,736	string	GATE_split	
+9	53,60	string	GATE_agent	 id="kurdtel" nested-source="w,kurdsat,kurdtel"
+8	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	0,0	string	GATE_agent	 id="w"
+6	179,187	string	GATE_objective-speech-event	 nested-source="w,kurdsat"
+5	188,198	string	GATE_agent	 id="kurdsat" nested-source="w,kurdsat"
+4	0,0	string	GATE_agent	 id="implicit"
+3	339,446	string	GATE_inside	 nested-source="w"
+2	339,362	string	GATE_agent	 id="source" nested-source="w,source"
+1	363,367	string	GATE_objective-speech-event	 nested-source="w,source"
+0	2,219	string	GATE_inside	 nested-source="w"

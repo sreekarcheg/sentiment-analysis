@@ -1,0 +1,28 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/38.ctc.annotated
+#  on Thu Sep 09 14:16:51 EDT 2004
+#  by ves
+
+2847	1572,1578	string	answer	annotator="ctc" confidence="4" confidencecomment="indirectly stated factor" questionnumber="5" topic="humanrights"
+2549	1650,1754	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2783	284,326	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2956	153,187	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2543	27,40	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2899	1477,1503	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2725	1773,1805	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2752	785,834	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2812	2053,2072	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2806	1586,1619	string	answer	annotator="ctc" confidence="4" confidencecomment="indirect factor" questionnumber="5" topic="humanrights"
+2894	1799,1805	string	answer	annotator="ctc" confidence="4" confidencecomment="indirect factor" questionnumber="5" topic="humanrights"
+2585	386,429	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2546	1860,1884	string	answer	annotator="ctc" confidence="4" confidencecomment="indirect" questionnumber="5" topic="humanrights"
+2851	1043,1091	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2638	585,608	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2820	423,429	string	answer	annotator="ctc" confidence="4" confidencecomment="indirectly stated factor" questionnumber="5" topic="humanrights"
+2663	1529,1542	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2937	1915,1948	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2922	477,495	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2861	1634,1648	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2730	674,695	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+2844	1850,1869	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"

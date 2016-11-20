@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/96.ves.annotated
+#  on Thu Sep 09 14:17:15 EDT 2004
+#  by ves
+
+1452	1775,1842	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="6" topic="humanrights"
+1548	1549,1626	string	answer	annotator="ves" questionnumber="5" confidence="3" topic="humanrights"
+1550	915,1051	string	answer	annotator="ves" questionnumber="5" confidence="4" topic="humanrights"
+1456	1672,1767	string	answer	annotator="ves" questionnumber="6" confidence="4" topic="humanrights"
+1546	1829,1842	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="5" topic="humanrights"
+1454	789,913	string	answer	annotator="ves" questionnumber="5" confidence="3" topic="humanrights"

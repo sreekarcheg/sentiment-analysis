@@ -1,0 +1,77 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0189/wsj_0189.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+735	157,284	string	GATE_inside	 nested-source="w"
+716	669,877	string	GATE_inside	 nested-source="w"
+748	1686,1688	string	GATE_split	
+699	1489,1496	string	GATE_agent	 id="w,rp"
+758	283,284	string	GATE_split	
+726	1207,1208	string	GATE_split	
+736	157,157	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+737	285,378	string	GATE_inside	 nested-source="w"
+704	381,405	string	GATE_inside	 nested-source="w"
+743	1489,1586	string	GATE_inside	 nested-source="w"
+738	285,285	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+753	1267,1269	string	GATE_split	
+697	1016,1020	string	GATE_objective-speech-event	 nested-source="w,spokesman"
+710	28,36	string	GATE_objective-speech-event	 nested-source="w,rp"
+729	876,877	string	GATE_split	
+747	1684,1685	string	GATE_split	
+715	669,669	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+720	1024,1208	string	GATE_inside	 nested-source="w"
+731	1,6	string	GATE_inside	 nested-source="w"
+759	155,157	string	GATE_split	
+744	1489,1489	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+703	598,598	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+739	1269,1376	string	GATE_inside	 nested-source="w"
+690	1477,1479	string	GATE_agent	 id="w,rp"
+754	1375,1376	string	GATE_split	
+722	1209,1266	string	GATE_inside	 nested-source="w"
+700	506,597	string	GATE_inside	 nested-source="w"
+733	9,154	string	GATE_inside	 nested-source="w"
+706	410,505	string	GATE_inside	 nested-source="w"
+742	1377,1377	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+757	377,378	string	GATE_split	
+693	1249,1260	string	GATE_agent	 nested-source="w,rp" id=""
+756	379,381	string	GATE_split	
+719	1024,1024	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+741	1377,1486	string	GATE_inside	 nested-source="w"
+755	504,505	string	GATE_split	
+708	677,681	string	GATE_objective-speech-event	 nested-source="w,rp"
+740	1269,1269	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+691	1480,1485	string	GATE_objective-speech-event	 nested-source="w,rp"
+728	596,597	string	GATE_split	
+696	1004,1015	string	GATE_agent	 nested-source="w,spokesman" id="spokesman"
+727	665,666	string	GATE_split	
+717	878,878	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+707	669,676	string	GATE_agent	 nested-source="w,rp"
+694	1024,1031	string	GATE_agent	 nested-source="w,rp" id=""
+745	1589,1685	string	GATE_inside	 nested-source="w"
+718	878,1021	string	GATE_inside	 nested-source="w"
+721	1209,1209	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+746	1589,1589	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+761	7,9	string	GATE_split	
+734	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+724	1020,1021	string	GATE_split	
+698	1497,1501	string	GATE_objective-speech-event	 nested-source="w,rp"
+760	153,154	string	GATE_split	
+723	1022,1024	string	GATE_split	
+752	1487,1489	string	GATE_split	
+712	0,0	string	GATE_direct-subjective	
+705	381,381	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+749	1585,1586	string	GATE_split	
+695	1032,1042	string	GATE_objective-speech-event	 nested-source="w,rp"
+713	0,0	string	GATE_agent	 id="w"
+711	0,0	string	GATE_expressive-subjectivity	
+732	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+750	1587,1589	string	GATE_split	
+701	506,506	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+725	1265,1266	string	GATE_split	
+714	0,0	string	GATE_agent	 id="implicit"
+692	1261,1265	string	GATE_objective-speech-event	 nested-source="w,rp"
+751	1485,1486	string	GATE_split	
+702	598,666	string	GATE_inside	 nested-source="w"
+709	9,26	string	GATE_agent	 nested-source="w,rp" id="rp"
+730	667,669	string	GATE_split	

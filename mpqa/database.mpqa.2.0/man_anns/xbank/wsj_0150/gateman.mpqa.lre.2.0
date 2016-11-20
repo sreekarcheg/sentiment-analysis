@@ -1,0 +1,56 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0150/wsj_0150.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+369	556,557	string	GATE_split	
+400	898,900	string	GATE_split	
+363	62,165	string	GATE_inside	 nested-source="w"
+368	398,400	string	GATE_split	
+374	168,168	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+399	764,765	string	GATE_split	
+398	871,872	string	GATE_split	
+380	766,766	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+396	99,120	string	GATE_agent	 nested-source="w,comps,wsh" id="wsh"
+385	322,397	string	GATE_inside	 nested-source="w"
+379	400,557	string	GATE_inside	 nested-source="w"
+373	558,600	string	GATE_inside	 nested-source="w"
+378	400,400	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+401	896,897	string	GATE_split	
+386	682,682	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+359	9,28	string	GATE_inside	 nested-source="w"
+387	682,765	string	GATE_inside	 nested-source="w"
+402	0,0	string	GATE_agent	 id="implicit"
+375	168,321	string	GATE_inside	 nested-source="w"
+392	780,788	string	GATE_attitude	 target-link="acquired" id="expectation" attitude-type="other-attitude"
+407	626,681	string	GATE_inside	 nested-source="w"
+397	121,128	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" implicit="" nested-source="wsh" attitude-link="clearance"
+376	873,873	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+405	0,0	string	GATE_expressive-subjectivity	
+390	160,164	string	GATE_objective-speech-event	 implicit="" nested-source="w,comps"
+377	873,897	string	GATE_inside	 nested-source="w"
+406	7,9	string	GATE_split	
+382	603,603	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+391	146,159	string	GATE_agent	 nested-source="w,comps" id="comps"
+360	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+371	396,397	string	GATE_split	
+393	780,788	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="" polarity="" attitude-link="expectation"
+388	129,144	string	GATE_target	 id="trans"
+403	0,0	string	GATE_agent	 id="w"
+361	1,6	string	GATE_inside	 nested-source="w"
+381	766,872	string	GATE_inside	 nested-source="w"
+372	558,558	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+408	166,168	string	GATE_split	
+364	29,60	string	GATE_inside	 nested-source="w"
+395	790,871	string	GATE_target	
+383	603,624	string	GATE_inside	 nested-source="w"
+370	320,321	string	GATE_split	
+409	164,165	string	GATE_split	
+394	879,896	string	GATE_objective-speech-event	 insubstantial="c1"
+367	601,603	string	GATE_split	
+362	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+366	599,600	string	GATE_split	
+389	121,128	string	GATE_attitude	 target-link="trans" intensity="low" id="clearance" attitude-type="agree-pos"
+404	0,0	string	GATE_direct-subjective	
+384	322,322	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+365	680,681	string	GATE_split	

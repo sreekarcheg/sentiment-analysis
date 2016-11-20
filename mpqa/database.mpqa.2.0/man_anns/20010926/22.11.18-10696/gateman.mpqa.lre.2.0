@@ -1,0 +1,61 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010926/22.11.18-10696/22.11.18-10696.jlw.attitudes.xml
+#  on Wed Jun 14 16:20:39 EDT 2006
+#  by twilson
+55	504,505	string	GATE_split	
+54	583,586	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="low" id="a1"
+53	0,0	string	GATE_agent	 id="w"
+52	1070,1070	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+51	790,790	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+50	512,687	string	GATE_inside	 nested-source="w"
+49	230,230	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+48	686,687	string	GATE_split	
+47	574,578	string	GATE_objective-speech-event	 nested-source="w, businessman"
+46	512,512	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	694,694	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	512,542	string	GATE_agent	 id="arab"
+43	374,404	string	GATE_agent	 nested-source="w, businessman, aides"
+42	360,364	string	GATE_objective-speech-event	 nested-source="w, businessman"
+41	718,729	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2" intensity="medium" nested-source="w, businessman, businessman" polarity="negative"
+40	1007,1069	string	GATE_inside	 nested-source="w"
+39	1007,1008	string	GATE_direct-subjective	 attitude-link="a4" intensity="medium" nested-source="w, businessman" implicit="true"
+38	1008,1034	string	GATE_attitude	 target-link="t4" attitude-type="speculation" intensity="high" id="a4"
+37	715,717	string	GATE_agent	 nested-source="w, businessman, businessman"
+36	730,782	string	GATE_target	 id="t2"
+35	222,223	string	GATE_split	
+34	405,415	string	GATE_objective-speech-event	 nested-source="w, businessman, aides"
+33	790,1000	string	GATE_inside	 nested-source="w"
+32	1008,1031	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, businessman" polarity="neutral"
+31	1007,1007	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	49,56	string	GATE_objective-speech-event	 nested-source="w, businessman" objective-uncertain="very-uncertain"
+29	72,96	string	GATE_agent	 id="aides"
+28	999,1000	string	GATE_split	
+27	790,859	string	GATE_agent	 id="head" nested-source="w, head"
+26	1035,1068	string	GATE_target	 id="t4"
+25	871,875	string	GATE_objective-speech-event	 nested-source="w, head"
+24	230,505	string	GATE_inside	 nested-source="w"
+23	25,48	string	GATE_agent	 id="businessman" nested-source="w, businessman"
+22	718,729	string	GATE_attitude	 target-link="t2" attitude-type="agree-neg" intensity="low" id="a2"
+21	1192,1204	string	GATE_agent	 nested-source="w, businessman"
+20	1204,1205	string	GATE_split	
+19	710,714	string	GATE_objective-speech-event	 nested-source="w, businessman"
+18	694,709	string	GATE_agent	 nested-source="w, businessman"
+17	897,999	string	GATE_target	 id="t3"
+16	876,878	string	GATE_agent	 nested-source="w, head, head"
+15	571,573	string	GATE_agent	 nested-source="w, businessman"
+14	2,223	string	GATE_inside	 nested-source="w"
+13	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	879,896	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a3" intensity="medium" nested-source="w, head, head" polarity="neutral"
+11	251,269	string	GATE_objective-speech-event	 nested-source="w, businessman"
+10	1070,1205	string	GATE_inside	 nested-source="w"
+9	0,0	string	GATE_agent	 id="implicit"
+8	230,245	string	GATE_agent	 nested-source="w, businessman"
+7	1068,1069	string	GATE_split	
+6	694,783	string	GATE_inside	 nested-source="w"
+5	580,586	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w, businessman, arab" polarity="positive"
+4	587,686	string	GATE_target	 id="t1"
+3	1206,1209	string	GATE_split	
+2	1187,1191	string	GATE_objective-speech-event	 nested-source="w, businessman"
+1	879,896	string	GATE_attitude	 target-link="t3" attitude-type="other-attitude" intensity="low" id="a3"
+0	782,783	string	GATE_split	

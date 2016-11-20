@@ -1,0 +1,144 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/Article247_328/Article247_328.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+1417	2373,2374	string	GATE_split	
+1367	1070,1084	string	GATE_agent	 nested-source="w, otherDoubters" agent-uncertain="" id="otherDoubters"
+1431	269,269	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="uncertain-both" attitude-link="shamMarriage, couldExact" subjective-uncertain=""
+1303	1793,1794	string	GATE_agent	 id="hanover"
+1341	1897,2035	string	GATE_inside	 nested-source="w"
+1432	1233,1234	string	GATE_split	
+1368	1127,1142	string	GATE_target	 id="policies"
+1304	1774,1787	string	GATE_target	 id="dynamic"
+1344	3047,3075	string	GATE_inside	 nested-source="w"
+1339	0,0	string	GATE_agent	 id="w"
+1408	57,71	string	GATE_split	
+1403	918,919	string	GATE_split	
+1301	1801,1806	string	GATE_agent	 id="hillary"
+1429	1547,1547	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1419	71,71	string	GATE_direct-subjective	 implicit="true" nested-source="w"
+1397	1384,1385	string	GATE_split	
+1407	3089,3106	string	GATE_split	
+1343	3047,3047	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1306	1780,1787	string	GATE_expressive-subjectivity	 nested-source="w, hanover" polarity="positive" intensity="medium"
+1398	650,650	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1362	920,924	string	GATE_agent	 nested-source="w, many" agent-uncertain="" id="many"
+1313	2926,2963	string	GATE_target	 id="wont"
+1342	9,26	string	GATE_split	
+1357	1738,1763	string	GATE_expressive-subjectivity	 nested-source="w, hanover" polarity="positive" intensity="high"
+1335	3001,3002	string	GATE_split	
+1314	3047,3075	string	GATE_agent	 id="w"
+1363	793,810	string	GATE_expressive-subjectivity	 nested-source="w, Time" polarity="uncertain-neutral" intensity="medium"
+1308	1774,1779	string	GATE_agent	 id="hillary"
+1316	82,102	string	GATE_attitude	 target-link="forNot" intensity="medium" id="feelsDense" attitude-type="sentiment-neg"
+1420	1144,1234	string	GATE_inside	 nested-source="w"
+1340	1897,1897	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1364	819,823	string	GATE_agent	 nested-source="w, Time" id="Time"
+1307	1807,1847	string	GATE_expressive-subjectivity	 nested-source="w, hanover" polarity="positive" intensity="medium"
+1297	1768,1773	string	GATE_attitude	 target-link="dynamic" intensity="medium" id="thinkDynamic" attitude-type="sentiment-pos"
+1393	1895,1896	string	GATE_split	
+1361	938,944	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" nested-source="w, many" polarity="negative" attitude-link="tooVituperative"
+1394	768,768	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1302	1823,1828	string	GATE_agent	 id="hillary"
+1430	1763,1764	string	GATE_split	
+1366	1090,1097	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" nested-source="w, otherDoubters" polarity="negative" attitude-link="hardhearted"
+1320	0,0	string	GATE_direct-subjective	
+1353	1681,1713	string	GATE_target	 id="seat"
+1336	1545,1546	string	GATE_split	
+1317	391,410	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+1400	2711,2712	string	GATE_split	
+1376	39,57	string	GATE_inside	 nested-source="w"
+1375	1869,1869	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1365	768,810	string	GATE_attitude	 id="lookLike" attitude-type="other-attitude" intensity="medium"
+1405	2714,2714	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="wont"
+1377	39,39	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1347	1559,1562	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, hanover" polarity="positive" attitude-link="veryInteresting"
+1379	556,636	string	GATE_inside	 nested-source="w"
+1406	765,766	string	GATE_split	
+1411	1386,1546	string	GATE_inside	 nested-source="w"
+1315	2723,2733	string	GATE_agent	 id="w"
+1399	650,766	string	GATE_inside	 nested-source="w"
+1346	1551,1554	string	GATE_agent	 nested-source="w, hanover" agent-uncertain="" id="hanover"
+1380	1766,1867	string	GATE_inside	 nested-source="w"
+1385	3016,3045	string	GATE_split	
+1412	1386,1386	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1356	1672,1680	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w, hillary" polarity="positive" attitude-link="interestInSeat"
+1374	1869,1896	string	GATE_inside	 nested-source="w"
+1318	103,268	string	GATE_target	 id="forNot"
+1328	397,410	string	GATE_attitude	 target-link="Giuliani" intensity="medium" inferred="yes" id="shamMarriage" attitude-type="sentiment-neg"
+1338	0,0	string	GATE_agent	 id="implicit"
+1433	3002,3016	string	GATE_split	
+1327	288,296	string	GATE_agent	 nested-source="w, ny" id="ny"
+1354	1672,1680	string	GATE_attitude	 target-link="seat" intensity="medium" id="interestInSeat" attitude-type="other-attitude"
+1305	1766,1767	string	GATE_agent	 id="hanover"
+1337	0,0	string	GATE_expressive-subjectivity	
+1416	2034,2035	string	GATE_split	
+1352	1733,1763	string	GATE_attitude	 target-link="mrsClinton" attitude-uncertain="somewhat-uncertain" intensity="medium" id="veryInteresting" attitude-type="sentiment-pos"
+1325	288,296	string	GATE_target	 id="Giuliani"
+1381	1766,1766	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1434	2037,2037	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1414	835,919	string	GATE_inside	 nested-source="w"
+1355	1850,1861	string	GATE_agent	 id="hanover"
+1387	2496,2497	string	GATE_split	
+1345	1159,1161	string	GATE_agent	 id="ny"
+1373	963,1068	string	GATE_attitude	 target-link="theMayor" intensity="high" id="tooVituperative" attitude-type="sentiment-neg"
+1323	413,427	string	GATE_agent	 nested-source="w, hillary" id="hillary"
+1386	833,834	string	GATE_split	
+1378	1866,1867	string	GATE_split	
+1348	1647,1671	string	GATE_agent	 id="hillary"
+1326	413,555	string	GATE_attitude	 target-link="byRunning" intensity="medium" id="couldExact" attitude-type="speculation"
+1421	3106,3111	string	GATE_split	
+1390	1248,1248	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1435	2037,2133	string	GATE_inside	 nested-source="w"
+1396	635,636	string	GATE_split	
+1388	2965,2965	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1329	3075,3089	string	GATE_split	
+1425	2163,2374	string	GATE_inside	 nested-source="w"
+1392	2963,2964	string	GATE_split	
+1415	835,835	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="risky"
+1319	82,87	string	GATE_direct-subjective	 annotation-uncertain="" expression-intensity="medium" intensity="medium" nested-source="w" polarity="negative" attitude-link="feelsDense"
+1330	2499,2499	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1359	853,857	string	GATE_target	 id="thatRisk"
+1391	1248,1385	string	GATE_inside	 nested-source="w"
+1331	2499,2712	string	GATE_inside	 nested-source="w"
+1384	556,556	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1395	768,834	string	GATE_inside	 nested-source="w"
+1312	2916,2925	string	GATE_attitude	 target-link="wont" intensity="medium" id="perplexed" attitude-type="other-attitude"
+1389	554,555	string	GATE_split	
+1333	636,650	string	GATE_split	
+1324	269,296	string	GATE_target	 id="byRunning"
+1424	2163,2163	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1350	1144,1167	string	GATE_attitude	 target-link="attention" intensity="medium" id="lastThing" attitude-type="other-attitude"
+1360	844,919	string	GATE_attitude	 target-link="thatRisk" intensity="medium" id="risky" attitude-type="other-attitude"
+1370	950,959	string	GATE_agent	 id="ny"
+1311	1795,1800	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="" nested-source="w, hanover" polarity="positive" attitude-link="shesSmart"
+1334	1142,1143	string	GATE_split	
+1409	920,1143	string	GATE_inside	 nested-source="w"
+1298	1801,1847	string	GATE_target	 id="smart"
+1426	1547,1764	string	GATE_inside	 nested-source="w"
+1422	267,268	string	GATE_split	
+1322	813,818	string	GATE_direct-subjective	 expression-intensity="high" intensity="medium" nested-source="w, Time" polarity="uncertain-both" attitude-link="lookLike"
+1299	1795,1800	string	GATE_attitude	 target-link="smart" intensity="medium-high" id="shesSmart" attitude-type="sentiment-pos"
+1410	920,920	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1309	1862,1866	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, hanover" polarity="positive" attitude-link="thinkDynamic, shesSmart"
+1321	71,81	string	GATE_agent	 nested-source="w, w" id="w"
+1427	2132,2133	string	GATE_split	
+1404	2714,2964	string	GATE_inside	 nested-source="w"
+1358	1720,1732	string	GATE_target	 id="mrsClinton"
+1372	950,959	string	GATE_target	 id="theMayor"
+1300	2916,2925	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w" polarity="neutral" attitude-link="perplexed"
+1413	1,9	string	GATE_split	
+1349	1105,1126	string	GATE_attitude	 target-link="policies" intensity="high" id="hardhearted" attitude-type="sentiment-neg"
+1428	269,555	string	GATE_inside	 nested-source="w"
+1332	2133,2147	string	GATE_split	
+1371	963,1068	string	GATE_expressive-subjectivity	 nested-source="w, many" polarity="negative" intensity="high"
+1382	1234,1248	string	GATE_split	
+1402	2375,2497	string	GATE_inside	 nested-source="w"
+1423	1144,1144	string	GATE_direct-subjective	 implicit="true" nested-source="w"
+1351	1168,1233	string	GATE_target	 id="attention"
+1418	71,268	string	GATE_inside	 nested-source="w"
+1383	2965,3002	string	GATE_inside	 nested-source="w"
+1310	1768,1773	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, hanover" polarity="positive" attitude-link="thinkDynamic"
+1401	2375,2375	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1369	1105,1126	string	GATE_expressive-subjectivity	 nested-source="w, otherDoubters" polarity="negative" intensity="high"

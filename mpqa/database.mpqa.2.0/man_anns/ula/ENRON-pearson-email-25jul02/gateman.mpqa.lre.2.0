@@ -1,0 +1,73 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/ENRON-pearson-email-25jul02/ENRON-pearson-email-25jul02.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+496	651,701	string	GATE_inside	 nested-source="w"
+491	563,582	string	GATE_inside	 nested-source="w"
+454	0,0	string	GATE_agent	 id="w"
+469	605,610	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+486	584,584	string	GATE_direct-subjective	 implicit="true" nested-source="w"
+464	651,669	string	GATE_objective-speech-event	 nested-source="w,rpearson"
+497	613,613	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+446	648,649	string	GATE_split	
+502	838,851	string	GATE_inside	 nested-source="w"
+463	911,916	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+441	889,931	string	GATE_attitude	 target-link="t_party" intensity="medium" id="a_going_to_be" attitude-type="speculation"
+470	576,581	string	GATE_attitude	 target-link="t_don.baughman" attitude-uncertain="somewhat-uncertain" intensity="low" inferred="yes" id="a_howdy" attitude-type="sentiment-pos"
+444	917,931	string	GATE_target	 id="t_party"
+508	877,877	string	GATE_direct-subjective	 implicit="true" nested-source="w" attitude-link="a_great"
+457	0,0	string	GATE_direct-subjective	
+507	934,979	string	GATE_inside	 nested-source="w"
+443	801,822	string	GATE_attitude	 target-link="t_me" intensity="medium-high" inferred="yes" id="a_made_offer" attitude-type="sentiment-pos"
+475	784,800	string	GATE_agent	 nested-source="w,oilstates" id="oilstates"
+480	874,875	string	GATE_split	
+460	981,1005	string	GATE_inside	 nested-source="w"
+481	851,853	string	GATE_split	
+501	703,703	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+459	385,386	string	GATE_split	
+442	806,808	string	GATE_target	 id="t_me"
+506	877,932	string	GATE_inside	 nested-source="w"
+447	610,611	string	GATE_split	
+465	613,614	string	GATE_agent	 nested-source="w,rpearson"
+450	850,851	string	GATE_split	
+482	482,482	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+487	388,480	string	GATE_inside	 nested-source="w"
+466	576,581	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+503	934,934	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+461	981,981	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+484	0,386	string	GATE_inside	 nested-source="w"
+485	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+448	582,584	string	GATE_split	
+504	853,875	string	GATE_inside	 nested-source="w"
+468	811,816	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+479	978,979	string	GATE_split	
+478	931,932	string	GATE_split	
+505	838,838	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+455	0,0	string	GATE_agent	 id="implicit"
+494	613,649	string	GATE_inside	 nested-source="w"
+462	615,630	string	GATE_objective-speech-event	 nested-source="w,rpearson" insubstantial="c2"
+477	877,888	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="neutral" intensity="medium" nested-source="w" polarity="neutral" attitude-link="a_going_to_be"
+483	979,981	string	GATE_split	
+488	388,388	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+489	482,560	string	GATE_inside	 nested-source="w"
+499	853,853	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+467	122,144	string	GATE_agent	 nested-source="w,rpearson" id="rpearson"
+452	754,755	string	GATE_split	
+500	757,836	string	GATE_inside	 nested-source="w"
+472	605,610	string	GATE_attitude	 target-link="t_don.baughman" intensity="medium" id="a_amigo" attitude-type="sentiment-pos"
+449	560,562	string	GATE_split	
+474	801,822	string	GATE_direct-subjective	 expression-intensity="high" intensity="high" nested-source="w,oilstates" polarity="positive" attitude-link="a_made_offer"
+495	757,757	string	GATE_direct-subjective	 implicit="true" nested-source="w"
+490	651,651	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+458	479,480	string	GATE_split	
+473	149,171	string	GATE_target	 id="t_don.baughman"
+451	835,836	string	GATE_split	
+498	703,755	string	GATE_inside	 nested-source="w"
+445	911,916	string	GATE_attitude	 target-link="t_party" intensity="high" id="a_great" attitude-type="sentiment-pos"
+471	934,948	string	GATE_objective-speech-event	 nested-source="w,don.baughman" insubstantial="c1,c2"
+476	149,171	string	GATE_agent	 nested-source="w,don.baughman" id="don.baughman"
+493	584,611	string	GATE_inside	 nested-source="w"
+456	0,0	string	GATE_expressive-subjectivity	
+453	700,701	string	GATE_split	
+492	563,563	string	GATE_direct-subjective	 implicit="true" nested-source="w" attitude-link="a_howdy,a_amigo"

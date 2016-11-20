@@ -1,0 +1,83 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010620/13.40.05-15087/13.40.05-15087.jlw.attitudes.xml
+#  on Mon Jul 31 14:50:21 EDT 2006
+#  by twilson
+77	109,110	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+76	109,226	string	GATE_inside	 nested-source="w"
+75	718,748	string	GATE_expressive-subjectivity	 nested-source="w, saeed" intensity="medium" polarity="neutral"
+74	1171,1185	string	GATE_objective-speech-event	 objective-uncertain="somewhat-uncertain" annotation-uncertain="somewhat-uncertain" nested-source="w, patient" insubstantial="c1"
+73	1167,1170	string	GATE_agent	 nested-source="w, patient"
+72	0,0	string	GATE_agent	 id="implicit"
+71	0,0	string	GATE_agent	 id="w"
+70	580,581	string	GATE_split	
+69	1243,1244	string	GATE_split	
+68	514,514	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+67	514,581	string	GATE_inside	 nested-source="w"
+66	1154,1154	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+65	1154,1244	string	GATE_inside	 nested-source="w"
+64	506,507	string	GATE_split	
+63	1146,1147	string	GATE_split	
+62	233,233	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	233,507	string	GATE_inside	 nested-source="w"
+60	1052,1052	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+59	1052,1147	string	GATE_inside	 nested-source="w"
+58	225,226	string	GATE_split	
+57	1044,1045	string	GATE_split	
+56	940,940	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+55	940,1045	string	GATE_inside	 nested-source="w"
+54	932,933	string	GATE_split	
+53	1869,1872	string	GATE_split	
+52	891,891	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+51	891,933	string	GATE_inside	 nested-source="w"
+50	883,884	string	GATE_split	
+49	1811,1812	string	GATE_split	
+48	793,793	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+47	793,884	string	GATE_inside	 nested-source="w"
+46	1667,1667	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	1667,1812	string	GATE_inside	 nested-source="w"
+44	785,786	string	GATE_split	
+43	1659,1660	string	GATE_split	
+42	756,756	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	756,786	string	GATE_inside	 nested-source="w"
+40	1546,1546	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	1546,1660	string	GATE_inside	 nested-source="w"
+38	748,749	string	GATE_split	
+37	1538,1539	string	GATE_split	
+36	656,656	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	656,749	string	GATE_inside	 nested-source="w"
+34	1436,1436	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	1436,1539	string	GATE_inside	 nested-source="w"
+32	654,655	string	GATE_split	
+31	1428,1429	string	GATE_split	
+30	588,588	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	588,655	string	GATE_inside	 nested-source="w"
+28	1251,1251	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	1251,1429	string	GATE_inside	 nested-source="w"
+26	109,142	string	GATE_agent	 id="hospital" nested-source="w, hospital"
+25	143,147	string	GATE_objective-speech-event	 nested-source="w, hospital"
+24	151,170	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" subjective-uncertain="somewhat-uncertain" annotation-uncertain="somewhat-uncertain" insubstantial="c2" nested-source="w, hospital, hospital" intensity="low" polarity="neutral"
+23	233,271	string	GATE_agent	 id="saeed" nested-source="w, saeed"
+22	272,276	string	GATE_objective-speech-event	 nested-source="w, saeed"
+21	588,593	string	GATE_agent	 nested-source="w, saeed"
+20	594,598	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a2" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w, saeed"
+19	633,654	string	GATE_expressive-subjectivity	 nested-source="w, saeed" intensity="medium" polarity="neutral"
+18	656,658	string	GATE_agent	 nested-source="w, saeed"
+17	659,663	string	GATE_objective-speech-event	 nested-source="w, saeed"
+16	671,682	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a3" intensity="medium" nested-source="w, saeed, saeed" polarity="neutral"
+15	850,861	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" nested-source="w, patient" intensity="medium" polarity="negative"
+14	793,802	string	GATE_agent	 nested-source="w, patient"
+13	190,209	string	GATE_agent	 id="patient"
+12	940,951	string	GATE_agent	 nested-source="w, patient"
+11	952,956	string	GATE_objective-speech-event	 nested-source="w, patient"
+10	1291,1303	string	GATE_objective-speech-event	 nested-source="w, implicit"
+9	1377,1389	string	GATE_objective-speech-event	 nested-source="w, institutestats"
+8	1390,1428	string	GATE_agent	 id="institutestats" nested-source="w, institutestats"
+7	151,170	string	GATE_attitude	 target-link="t1" attitude-type="other-attitude" id="a1" intensity="low"
+6	182,225	string	GATE_target	 id="t1"
+5	633,654	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" id="a2" intensity="low"
+4	621,632	string	GATE_target	 id="t2"
+3	671,748	string	GATE_attitude	 target-link="t3" attitude-type="arguing-pos" id="a3" intensity="low"
+2	688,710	string	GATE_target	 id="t3"
+1	850,864	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-neg" id="a4" intensity="low-medium"
+0	865,883	string	GATE_target	 id="t4"

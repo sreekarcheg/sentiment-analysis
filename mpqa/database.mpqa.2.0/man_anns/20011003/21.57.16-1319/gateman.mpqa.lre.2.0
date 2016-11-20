@@ -1,0 +1,68 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011003/21.57.16-1319/21.57.16-1319.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+62	1611,1612	string	GATE_split	
+61	117,117	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+60	1451,1557	string	GATE_inside	 nested-source="w"
+59	1924,1927	string	GATE_split	
+58	988,1138	string	GATE_inside	 nested-source="w"
+57	295,301	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" subjective-uncertain="very-uncertain" nested-source="w, nippon" intensity="low" polarity="negative"
+56	1475,1480	string	GATE_objective-speech-event	 nested-source="w, w"
+55	988,988	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+54	1834,1842	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, implicit" polarity="neutral"
+53	909,987	string	GATE_inside	 nested-source="w"
+52	1300,1301	string	GATE_split	
+51	2,116	string	GATE_inside	 nested-source="w"
+50	413,425	string	GATE_objective-speech-event	 nested-source="w, imb"
+49	0,0	string	GATE_agent	 id="w"
+48	986,987	string	GATE_split	
+47	1783,1917	string	GATE_inside	 nested-source="w"
+46	413,413	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	426,459	string	GATE_agent	 id="imb" nested-source="w, imb"
+44	405,406	string	GATE_split	
+43	1302,1302	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	117,270	string	GATE_inside	 nested-source="w"
+41	1443,1444	string	GATE_split	
+40	1491,1504	string	GATE_objective-speech-event	 nested-source="w, implicit"
+39	845,845	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	1451,1451	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	1613,1782	string	GATE_inside	 nested-source="w"
+35	1145,1145	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	24,32	string	GATE_objective-speech-event	 nested-source="w, nippon"
+33	2,23	string	GATE_agent	 id="nippon" nested-source="w, nippon"
+32	909,909	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	715,838	string	GATE_inside	 nested-source="w"
+30	271,406	string	GATE_inside	 nested-source="w"
+29	269,270	string	GATE_split	
+28	1785,1800	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a2" intensity="low" nested-source="w, yy, implicit" polarity="neutral"
+27	1302,1444	string	GATE_inside	 nested-source="w"
+26	713,714	string	GATE_split	
+25	489,496	string	GATE_objective-speech-event	 insubstantial="c2" nested-source="w, imb, implicit"
+24	413,714	string	GATE_inside	 nested-source="w"
+23	1558,1612	string	GATE_inside	 nested-source="w"
+22	1809,1829	string	GATE_target	 id="t2"
+21	837,838	string	GATE_split	
+20	0,0	string	GATE_agent	 id="implicit"
+19	845,908	string	GATE_inside	 nested-source="w"
+18	1137,1138	string	GATE_split	
+17	271,271	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	1785,1915	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="low-medium" id="a2"
+15	798,811	string	GATE_objective-speech-event	 nested-source="w, implicit"
+14	1558,1558	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	907,908	string	GATE_split	
+12	715,715	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	1783,1783	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	307,405	string	GATE_target	 id="t1"
+9	1613,1613	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	115,116	string	GATE_split	
+7	280,294	string	GATE_agent	 nested-source="w, nippon"
+6	295,301	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-neg" intensity="medium" id="a1"
+5	1781,1782	string	GATE_split	
+4	1916,1917	string	GATE_objective-speech-event	 nested-source="w, yy" implicit="true"
+3	1556,1557	string	GATE_split	
+2	1707,1711	string	GATE_objective-speech-event	 nested-source="w, yy"
+1	1145,1301	string	GATE_inside	 nested-source="w"
+0	1613,1629	string	GATE_agent	 id="yy" nested-source="w, yy"

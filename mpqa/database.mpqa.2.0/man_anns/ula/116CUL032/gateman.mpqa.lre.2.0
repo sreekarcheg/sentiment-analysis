@@ -1,0 +1,104 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/116CUL032/116CUL032.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+1152	1470,1481	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+1161	537,538	string	GATE_split	
+1141	318,330	string	GATE_agent	 nested-source="w, init" id="init"
+1213	1982,2055	string	GATE_inside	 nested-source="w"
+1176	310,311	string	GATE_split	
+1162	1598,1599	string	GATE_split	
+1175	1431,1432	string	GATE_split	
+1195	1891,1892	string	GATE_split	
+1163	1893,1893	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1151	870,900	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, adultsYouth" polarity="neutral" attitude-link="sameConclusion"
+1142	399,404	string	GATE_attitude	 target-link="theGoals" intensity="medium" id="goals" attitude-type="sentiment-pos"
+1173	96,126	string	GATE_inside	 nested-source="w"
+1202	2488,2496	string	GATE_split	
+1192	2433,2433	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w, w " polarity="positive" attitude-link=""
+1138	434,537	string	GATE_expressive-subjectivity	 nested-source="w, init" polarity="positive" intensity="medium"
+1174	125,126	string	GATE_split	
+1201	2323,2323	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1137	188,310	string	GATE_attitude	 target-link="twoEfforts" intensity="medium-high" id="developWell" attitude-type="sentiment-pos"
+1164	1893,1916	string	GATE_inside	 nested-source="w"
+1184	19,95	string	GATE_inside	 nested-source="w"
+1120	1704,1712	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+1149	932,942	string	GATE_expressive-subjectivity	 nested-source="w, adultsYouth" polarity="neutral" intensity="medium"
+1144	376,386	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, init" polarity="neutral" attitude-link="goals"
+1187	318,318	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1150	565,600	string	GATE_agent	 id="participants"
+1155	1438,1444	string	GATE_agent	 nested-source="w, indygo" id="indygo"
+1143	434,537	string	GATE_target	 id="theGoals"
+1121	1941,1949	string	GATE_attitude	 target-link="year" intensity="medium-high" id="exciting" attitude-type="sentiment-pos"
+1123	1970,1981	string	GATE_agent	 id="mccoy"
+1206	769,770	string	GATE_split	
+1119	1470,1481	string	GATE_attitude	 target-link="policy" attitude-uncertain="" intensity="high" id="muchNeeded" attitude-type="sentiment-pos"
+1183	1141,1212	string	GATE_inside	 nested-source="w"
+1132	188,197	string	GATE_expressive-subjectivity	 nested-source="w, mccoy" polarity="positive" intensity="medium"
+1205	1600,1752	string	GATE_inside	 nested-source="w"
+1129	0,0	string	GATE_agent	 id="implicit"
+1156	1180,1187	string	GATE_target	 id="valEfforts"
+1181	2204,2322	string	GATE_inside	 nested-source="w"
+1117	1704,1730	string	GATE_attitude	 target-link="posYouProg" intensity="medium" id="posProg" attitude-type="sentiment-pos"
+1209	1600,1600	string	GATE_direct-subjective	 implicit="true" attitude-link="posProg" polarity="positive" nested-source="w"
+1124	1926,1954	string	GATE_expressive-subjectivity	 nested-source="w, mccoy" polarity="positive" intensity="medium"
+1182	2204,2204	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1118	1704,1730	string	GATE_target	 id="posYouProg"
+1210	777,1089	string	GATE_inside	 nested-source="w"
+1197	154,311	string	GATE_inside	 nested-source="w"
+1130	0,0	string	GATE_agent	 id="w"
+1177	2321,2322	string	GATE_split	
+1125	0,0	string	GATE_direct-subjective	
+1185	19,19	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1131	136,153	string	GATE_agent	 id="mccoy"
+1160	2425,2426	string	GATE_split	
+1178	1753,1892	string	GATE_inside	 nested-source="w"
+1158	1129,1140	string	GATE_agent	 id="mccoy"
+1165	1433,1433	string	GATE_direct-subjective	 intensity="medium" implicit="true" attitude-link="muchNeeded" nested-source="w"
+1212	127,127	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1180	1915,1916	string	GATE_split	
+1140	710,769	string	GATE_target	 id="toDo"
+1186	2433,2488	string	GATE_inside	 nested-source="w"
+1188	318,538	string	GATE_inside	 nested-source="w"
+1134	76,80	string	GATE_attitude	 target-link="difference" intensity="medium" id="goal" attitude-type="intention-pos"
+1198	1096,1096	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1122	1950,1954	string	GATE_target	 id="year"
+1135	176,178	string	GATE_agent	 nested-source="" id="mccoy"
+1159	1171,1179	string	GATE_expressive-subjectivity	 nested-source="w, mccoy" polarity="positive" intensity="medium"
+1169	1923,1923	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="exciting"
+1136	179,186	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w, mccoy" polarity="positive" attitude-link="developWell"
+1191	1,7	string	GATE_split	
+1211	2054,2055	string	GATE_split	
+1179	1753,1753	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1133	115,125	string	GATE_expressive-subjectivity	 nested-source="w, mccoy" polarity="positive" intensity="medium"
+1189	2202,2203	string	GATE_split	
+1203	7,19	string	GATE_split	
+1208	127,153	string	GATE_inside	 nested-source="w"
+1194	2056,2203	string	GATE_inside	 nested-source="w"
+1139	158,169	string	GATE_target	 id="twoEfforts"
+1170	539,770	string	GATE_inside	 nested-source="w"
+1207	777,777	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1153	1482,1488	string	GATE_target	 id="policy"
+1196	1211,1212	string	GATE_split	
+1168	1213,1432	string	GATE_inside	 nested-source="w"
+1204	1751,1752	string	GATE_split	
+1172	539,539	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1148	777,819	string	GATE_agent	 nested-source="w, adultsYouth" id="adultsYouth"
+1116	2450,2465	string	GATE_agent	 nested-source="w, w" id="w"
+1193	2056,2056	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1157	1171,1187	string	GATE_attitude	 target-link="valEfforts" intensity="medium" id="valuableEfforts" attitude-type="sentiment-pos"
+1126	0,0	string	GATE_expressive-subjectivity	
+1145	667,708	string	GATE_attitude	 target-link="toDo" intensity="medium" inferred="yes" id="growUp" attitude-type="other-attitude"
+1166	1433,1599	string	GATE_inside	 nested-source="w"
+1171	1213,1213	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1154	1152,1159	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, mccoy" polarity="neutral" attitude-link="valuableEfforts"
+1146	870,900	string	GATE_attitude	 target-link="stillHasMuch" intensity="medium" id="sameConclusion" attitude-type="other-attitude"
+1167	1923,1981	string	GATE_inside	 nested-source="w"
+1128	84,95	string	GATE_agent	 nested-source="w, mccoy" id="mccoy"
+1199	1096,1140	string	GATE_inside	 nested-source="w"
+1147	902,942	string	GATE_target	 id="stillHasMuch"
+1115	2433,2442	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w" nested-source-uncertain=""
+1127	108,125	string	GATE_target	 id="difference"
+1200	2323,2426	string	GATE_inside	 nested-source="w"
+1190	1088,1089	string	GATE_split	

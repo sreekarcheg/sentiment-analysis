@@ -1,0 +1,52 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020410/22.24.21-25298/22.24.21-25298.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+46	776,785	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a4" nested-source="w, world-leaders" intensity="medium" polarity="neutral"
+45	666,758	string	GATE_target	 id="t3"
+44	942,970	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-pos" intensity="medium" id="a6"
+43	1109,1112	string	GATE_split	
+42	2,67	string	GATE_inside	 nested-source="w"
+41	261,296	string	GATE_agent	 id="Francce" nested-source="w, France"
+40	121,122	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	891,903	string	GATE_target	 id="t7"
+38	9,13	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" intensity="medium" nested-source="w, France"
+37	832,866	string	GATE_agent	 id="Powell"
+36	998,1025	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a7" nested-source="w, Rivasseau" intensity="high"
+35	890,1102	string	GATE_inside	 nested-source="w"
+34	2,8	string	GATE_agent	 id="France" nested-source="w, France"
+33	686,697	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, world-leaders" polarity="neutral"
+32	423,889	string	GATE_inside	 nested-source="w"
+31	14,31	string	GATE_attitude	 target-link="t1" attitude-type="arguing-pos" intensity="low-medium" id="a1"
+30	139,258	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="low-medium" id="a2"
+29	244,258	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, France" polarity="positive"
+28	121,422	string	GATE_inside	 nested-source="w"
+27	890,890	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+26	423,423	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	14,27	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, France" polarity="neutral"
+24	1101,1102	string	GATE_split	
+23	656,665	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a3" nested-source="w, world-leaders" intensity="medium" polarity="neutral"
+22	0,0	string	GATE_agent	 id="w"
+21	297,301	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a2" intensity="medium" nested-source="w, France"
+20	0,0	string	GATE_agent	 id="implicit"
+19	1029,1101	string	GATE_agent	 id="Rivasseau" nested-source="w, Rivasseau"
+18	904,940	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-pos" intensity="medium-high" id="a7"
+17	792,804	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" nested-source="w, world-leaders, world-leaders" intensity="high" polarity="positive"
+16	656,665	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-pos" intensity="low-medium" id="a3"
+15	763,807	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-pos" intensity="medium-high" id="a4"
+14	786,791	string	GATE_agent	 nested-source="w, world-leaders, world-leaders"
+13	896,903	string	GATE_attitude	 target-link="none" attitude-type="sentiment-pos" intensity="medium" id="a5"
+12	896,903	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a5" insubstantial="c1" nested-source="w, Rivasseau, world-leaders" intensity="high" polarity="positive"
+11	925,940	string	GATE_agent	
+10	953,970	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" nested-source="w, Rivasseau, France" intensity="high" polarity="positive"
+9	423,641	string	GATE_agent	 id="world-leaders" nested-source="w, world-leaders"
+8	808,888	string	GATE_target	 id="t4"
+7	978,987	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, Rivasseau" polarity="negative"
+6	175,215	string	GATE_target	 id="t2"
+5	888,889	string	GATE_split	
+4	925,940	string	GATE_target	 id="t6"
+3	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+2	32,67	string	GATE_target	 id="t1"
+1	904,920	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, Rivasseau" polarity="positive"
+0	421,422	string	GATE_split	

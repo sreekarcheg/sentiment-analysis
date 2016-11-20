@@ -1,0 +1,56 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/15.08.17-13301/15.08.17-13301.tw.attitudes.xml
+#  on Tue Aug  1 21:31:06 EDT 2006
+#  by twilson
+50	432,442	string	GATE_target	 id="t50"
+49	421,431	string	GATE_attitude	 target-link="t50" attitude-type="sentiment-pos" id="a50" intensity="low-medium"
+48	421,431	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a50" insubstantial="c2,c3" nested-source="w, yuri, someone" intensity="medium" polarity="positive"
+47	409,416	string	GATE_agent	 id="someone" nested-source="w, yuri, someone"
+46	40,43	string	GATE_agent	 id="you" nested-source="w, you"
+45	336,336	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	448,456	string	GATE_objective-speech-event	 nested-source="w, yuri"
+43	559,698	string	GATE_inside	 nested-source="w"
+42	1,28	string	GATE_inside	 nested-source="w"
+41	28,31	string	GATE_split	
+40	121,143	string	GATE_expressive-subjectivity	 nested-source="w" intensity="low" polarity="positive"
+39	698,702	string	GATE_split	
+38	461,558	string	GATE_inside	 nested-source="w"
+37	31,37	string	GATE_split	
+36	1045,1046	string	GATE_split	
+35	1046,1048	string	GATE_split	
+34	559,559	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	8,13	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, russia" intensity="low" polarity="neutral"
+32	843,844	string	GATE_split	
+31	702,702	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	456,457	string	GATE_split	
+29	143,144	string	GATE_split	
+28	44,48	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" insubstantial="c2, c3" intensity="low" nested-source="w, you" polarity="positive"
+27	0,0	string	GATE_agent	 id="w"
+26	1,1	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	810,813	string	GATE_split	
+24	144,148	string	GATE_split	
+23	557,558	string	GATE_split	
+22	935,936	string	GATE_split	
+21	445,447	string	GATE_agent	 nested-source="w, yuri"
+20	461,461	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	37,37	string	GATE_direct-subjective	 attitude-link="a30" intensity="low" nested-source="w" implicit="true"
+18	457,461	string	GATE_split	
+17	223,232	string	GATE_objective-speech-event	 nested-source="w, yuri"
+16	148,335	string	GATE_inside	 nested-source="w"
+15	791,792	string	GATE_split	
+14	336,457	string	GATE_inside	 nested-source="w"
+13	37,39	string	GATE_expressive-subjectivity	 nested-source="w" intensity="low" polarity="neutral"
+12	37,144	string	GATE_inside	 nested-source="w"
+11	148,159	string	GATE_agent	 id="yuri" nested-source="w, yuri"
+10	148,148	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+9	702,792	string	GATE_inside	 nested-source="w"
+8	792,796	string	GATE_split	
+7	1,7	string	GATE_agent	 id="russia" nested-source="w, russia"
+6	697,698	string	GATE_split	
+5	0,0	string	GATE_agent	 id="implicit"
+4	8,13	string	GATE_attitude	 target-link="t10" attitude-uncertain="very-uncertain" attitude-type="sentiment-pos" id="a10" intensity="medium"
+3	14,28	string	GATE_target	 id="t10"
+2	44,48	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" id="a20" intensity="medium"
+1	49,67	string	GATE_target	 id="t20"
+0	121,143	string	GATE_attitude	 target-link="t20" attitude-uncertain="somewhat-uncertain" attitude-type="sentiment-pos" id="a30" intensity="medium-high"

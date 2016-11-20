@@ -1,0 +1,44 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010828/00.59.03-19180/00.59.03-19180.tw.attitudes.xml
+#  on Tue Aug  1 21:31:06 EDT 2006
+#  by twilson
+38	726,729	string	GATE_split	
+37	724,725	string	GATE_split	
+36	160,164	string	GATE_objective-speech-event	 nested-source="w, coastwatch"
+35	487,598	string	GATE_inside	 nested-source="w"
+34	0,0	string	GATE_agent	 id="w"
+33	2,138	string	GATE_inside	 nested-source="w"
+32	302,311	string	GATE_agent	 id="indo" nested-source="w, indo"
+31	294,295	string	GATE_split	
+30	0,0	string	GATE_agent	 id="implicit"
+29	139,159	string	GATE_agent	 id="coastwatch"
+28	398,398	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	312,324	string	GATE_objective-speech-event	 nested-source="w, indo"
+26	376,381	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" annotation-uncertain="somewhat-uncertain" insubstantial="c2" intensity="low" nested-source="w, indo, boat" polarity="neutral"
+25	302,302	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	139,139	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	487,487	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	487,543	string	GATE_agent	 id="ruddock" nested-source="w, ruddock"
+21	599,599	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	396,397	string	GATE_split	
+19	35,42	string	GATE_objective-speech-event	 nested-source="w, implicit"
+18	599,725	string	GATE_inside	 nested-source="w"
+17	545,549	string	GATE_objective-speech-event	 nested-source="w, ruddock"
+16	137,138	string	GATE_split	
+15	479,480	string	GATE_split	
+14	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	553,565	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" nested-source="w, ruddock, implicit" intensity="low" polarity="neutral"
+12	139,295	string	GATE_inside	 nested-source="w"
+11	302,397	string	GATE_inside	 nested-source="w"
+10	398,480	string	GATE_inside	 nested-source="w"
+9	597,598	string	GATE_split	
+8	75,83	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, implicit" intensity="low" polarity="neutral"
+7	413,434	string	GATE_objective-speech-event	 nested-source="w, implicit" objective-uncertain="somewhat-uncertain"
+6	371,375	string	GATE_agent	 id="boat" nested-source="w, indo, boat"
+5	62,74	string	GATE_target	 id="t10"
+4	75,137	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" id="a10" intensity="low-medium"
+3	376,381	string	GATE_attitude	 target-link="t20" attitude-uncertain="somewhat-uncertain" attitude-type="other-attitude" id="a20" intensity="low-medium"
+2	382,396	string	GATE_target	 id="t20"
+1	550,597	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" id="a30" intensity="low-medium"
+0	566,574	string	GATE_target	 id="t30"

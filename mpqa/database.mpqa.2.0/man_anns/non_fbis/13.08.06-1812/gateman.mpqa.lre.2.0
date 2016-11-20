@@ -1,0 +1,111 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/13.08.06-1812/13.08.06-1812.tw.attitudes.xml
+#  on Tue Aug  1 20:23:44 EDT 2006
+#  by twilson
+105	1605,1607	string	GATE_agent	 nested-source="w, walz"
+103	351,351	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+101	0,0	string	GATE_agent	 id="w"
+99	2129,2130	string	GATE_split	
+97	2335,2429	string	GATE_inside	 nested-source="w"
+95	1897,1897	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+93	351,360	string	GATE_agent	 id="engineers" nested-source="w, engineers"
+91	305,305	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+89	1567,1619	string	GATE_inside	 nested-source="w"
+87	1620,1750	string	GATE_inside	 nested-source="w"
+85	1754,1754	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+83	1897,1992	string	GATE_inside	 nested-source="w"
+81	361,368	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" nested-source="w, engineers" intensity="low" polarity="neutral"
+79	305,347	string	GATE_inside	 nested-source="w"
+77	1188,1197	string	GATE_agent	 id="walz"
+75	787,787	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+73	1754,1893	string	GATE_inside	 nested-source="w"
+71	1367,1368	string	GATE_split	
+69	1864,1875	string	GATE_agent	 id="ben" nested-source="w, ben"
+67	1450,1450	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+65	648,648	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+63	2134,2186	string	GATE_inside	 nested-source="w"
+61	2185,2186	string	GATE_split	
+59	1274,1368	string	GATE_inside	 nested-source="w"
+57	317,328	string	GATE_target	 id="t10"
+55	1764,1808	string	GATE_target	 id="t30"
+53	1897,1982	string	GATE_attitude	 target-link="t50" attitude-type="speculation" id="a50" intensity="low"
+51	1042,1043	string	GATE_split	
+49	1567,1567	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+47	1620,1620	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	1565,1566	string	GATE_split	
+43	1164,1273	string	GATE_inside	 nested-source="w"
+41	1369,1446	string	GATE_inside	 nested-source="w"
+39	1987,1991	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a50" intensity="low" nested-source="w, ben"
+37	347,351	string	GATE_split	
+35	4,46	string	GATE_inside	 nested-source="w"
+33	1446,1450	string	GATE_split	
+31	2333,2334	string	GATE_split	
+29	1892,1893	string	GATE_split	
+27	2117,2124	string	GATE_agent	 nested-source="w, ben"
+25	2429,2431	string	GATE_split	
+23	49,55	string	GATE_split	
+21	2187,2187	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	1749,1750	string	GATE_split	
+17	310,316	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10" intensity="medium" nested-source="w, nasa" polarity="negative"
+15	300,304	string	GATE_split	
+13	0,0	string	GATE_agent	 id="implicit"
+11	787,918	string	GATE_inside	 nested-source="w"
+9	2335,2335	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	55,55	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	310,346	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" id="a10" intensity="low-medium"
+3	1758,1855	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" id="a30" intensity="low-medium"
+1	1907,1910	string	GATE_expressive-subjectivity	 nested-source="w, ben" intensity="low" polarity="neutral"
+104	1984,1986	string	GATE_agent	 nested-source="w, ben"
+102	1043,1047	string	GATE_split	
+100	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+98	1160,1164	string	GATE_split	
+96	1949,1982	string	GATE_expressive-subjectivity	 nested-source="w, ben" intensity="low" polarity="negative"
+94	1750,1754	string	GATE_split	
+92	1758,1763	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" intensity="low" nested-source="w, ben, ben" polarity="neutral"
+90	551,551	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+88	1991,1992	string	GATE_split	
+86	919,1043	string	GATE_inside	 nested-source="w"
+84	782,783	string	GATE_split	
+82	917,918	string	GATE_split	
+80	1769,1771	string	GATE_agent	 id="we" nested-source="w, ben, ben, we"
+78	551,647	string	GATE_inside	 nested-source="w"
+76	1159,1160	string	GATE_split	
+74	2130,2134	string	GATE_split	
+72	1272,1273	string	GATE_split	
+70	2428,2429	string	GATE_split	
+68	2125,2129	string	GATE_objective-speech-event	 nested-source="w, ben"
+66	46,49	string	GATE_split	
+64	1445,1446	string	GATE_split	
+62	2187,2334	string	GATE_inside	 nested-source="w"
+60	783,787	string	GATE_split	
+58	305,309	string	GATE_agent	 id="nasa" nested-source="w, nasa"
+56	369,384	string	GATE_target	 id="t20"
+54	1812,1854	string	GATE_target	 id="t40"
+52	1756,1757	string	GATE_agent	 nested-source="w, ben, ben"
+50	1450,1566	string	GATE_inside	 nested-source="w"
+48	648,783	string	GATE_inside	 nested-source="w"
+46	919,919	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	1618,1619	string	GATE_split	
+42	55,300	string	GATE_inside	 nested-source="w"
+40	1608,1618	string	GATE_objective-speech-event	 nested-source="w, walz"
+38	351,547	string	GATE_inside	 nested-source="w"
+36	1993,1993	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	547,551	string	GATE_split	
+32	1047,1047	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	299,300	string	GATE_split	
+28	1859,1863	string	GATE_objective-speech-event	 nested-source="w, ben"
+26	346,347	string	GATE_split	
+24	1993,2130	string	GATE_inside	 nested-source="w"
+22	2134,2134	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	1047,1160	string	GATE_inside	 nested-source="w"
+18	1274,1274	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	1775,1786	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a40" annotation-uncertain="somewhat-uncertain" intensity="low" nested-source="w, ben, ben, we" polarity="neutral"
+14	1893,1897	string	GATE_split	
+12	546,547	string	GATE_split	
+10	646,647	string	GATE_split	
+8	1164,1164	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	1369,1369	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	361,423	string	GATE_attitude	 target-link="t20" attitude-type="arguing-pos" id="a20" intensity="low"
+2	1775,1786	string	GATE_attitude	 target-link="t40" attitude-type="other-attitude" id="a40" intensity="low"
+0	1952,1954	string	GATE_target	 id="t50" target-uncertain="very-uncertain"

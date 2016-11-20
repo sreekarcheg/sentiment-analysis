@@ -1,0 +1,49 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_1039/wsj_1039.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+341	435,435	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+326	749,750	string	GATE_split	
+315	383,383	string	GATE_direct-subjective	 implicit="true" nested-source="w" attitude-link="beworse"
+351	405,433	string	GATE_attitude	 target-link="results" intensity="low" id="beworse" attitude-type="sentiment-neg"
+336	0,0	string	GATE_expressive-subjectivity	
+310	325,380	string	GATE_inside	 nested-source="w"
+327	433,434	string	GATE_split	
+342	0,0	string	GATE_agent	 id="w"
+318	526,698	string	GATE_inside	 nested-source="w"
+350	383,399	string	GATE_target	 id="results"
+335	494,574	string	GATE_attitude	 target-link="thecomp" intensity="low" id="expectation" attitude-type="other-attitude"
+313	23,198	string	GATE_inside	 nested-source="w"
+339	55,63	string	GATE_objective-speech-event	 nested-source="w,a"
+317	700,750	string	GATE_inside	 nested-source="w"
+324	1,6	string	GATE_inside	 nested-source="w"
+329	379,380	string	GATE_split	
+349	405,419	string	GATE_expressive-subjectivity	 nested-source="w"
+334	503,533	string	GATE_target	 id="thecomp"
+321	323,324	string	GATE_split	
+316	383,434	string	GATE_inside	 nested-source="w"
+344	435,446	string	GATE_agent	 nested-source="w,js" id="js"
+308	201,324	string	GATE_inside	 nested-source="w"
+347	494,502	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,js,js" attitude-link="expectation" target-speech-link=""
+337	0,0	string	GATE_direct-subjective	
+309	325,325	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+322	199,201	string	GATE_split	
+332	494,502	string	GATE_direct-subjective	
+346	491,493	string	GATE_agent	 nested-source="w,js,js"
+319	7,9	string	GATE_split	
+314	751,753	string	GATE_split	
+338	9,21	string	GATE_agent	 nested-source="w,a" id="a"
+331	579,655	string	GATE_attitude	 target-link="wp" intensity="low" contrast="" id="beresult" attitude-type="arguing-pos"
+345	486,490	string	GATE_objective-speech-event	 nested-source="w,js"
+323	197,198	string	GATE_split	
+330	584,608	string	GATE_target	 id="wp"
+343	0,0	string	GATE_agent	 id="implicit"
+311	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+328	381,383	string	GATE_split	
+312	9,21	string	GATE_inside	 nested-source="w"
+348	117,123	string	GATE_objective-speech-event	 nested-source="w,a"
+325	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+320	201,201	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+340	435,524	string	GATE_inside	 nested-source="w"
+333	579,583	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="beresult" nested-source="w,js,js"

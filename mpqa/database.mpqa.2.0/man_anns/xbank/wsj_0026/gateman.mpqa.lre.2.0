@@ -1,0 +1,74 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0026/wsj_0026.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+543	452,452	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+588	25,29	string	GATE_objective-speech-event	 nested-source="w,wh"
+581	1023,1025	string	GATE_split	
+556	1338,1350	string	GATE_objective-speech-event	 nested-source="w,aide"
+571	450,452	string	GATE_split	
+544	452,571	string	GATE_inside	 nested-source="w"
+576	1137,1138	string	GATE_split	
+553	1351,1399	string	GATE_agent	 nested-source="w,aide"
+569	729,758	string	GATE_attitude	 target-link="matinj" intensity="medium" id="risk" attitude-type="sentiment-neg"
+554	291,384	string	GATE_target	 id="changes"
+598	602,609	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="decision" nested-source="w,wh,pb"
+587	45,57	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="approval" polarity="positive" nested-source="w,wh,pb"
+542	229,290	string	GATE_inside	 nested-source="w"
+582	1021,1022	string	GATE_split	
+555	1046,1050	string	GATE_objective-speech-event	 nested-source="w,usoff"
+592	280,290	string	GATE_agent	 nested-source="w,tx" id="tx"
+560	610,653	string	GATE_target	 id="grant18"
+596	588,592	string	GATE_objective-speech-event	 nested-source="w,wh"
+575	1139,1141	string	GATE_split	
+549	1025,1025	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+594	30,44	string	GATE_agent	 nested-source="w,wh,pb" id="pb"
+540	291,385	string	GATE_inside	 nested-source="w"
+572	225,226	string	GATE_split	
+562	58,117	string	GATE_target	 id="certain"
+541	229,229	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+578	1399,1400	string	GATE_split	
+566	659,670	string	GATE_attitude	 target-link="othertypes" intensity="low" id="turndown" attitude-type="agree-neg"
+591	9,24	string	GATE_agent	 nested-source="w,wh" id="wh"
+559	262,270	string	GATE_attitude	 target-link="changes" attitude-uncertain="somewhat-uncertain" intensity="low-medium" id="petition" attitude-type="arguing-pos"
+565	729,758	string	GATE_expressive-subjectivity	 nested-source="w,pb" polarity="negative" intensity="medium"
+550	1025,1138	string	GATE_inside	 nested-source="w"
+536	572,821	string	GATE_inside	 nested-source="w"
+568	743,758	string	GATE_target	 id="matinj"
+600	659,670	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="turndown" nested-source="w,wh,pb"
+580	820,821	string	GATE_split	
+589	262,270	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="petition" nested-source="w,tx"
+548	1141,1400	string	GATE_inside	 nested-source="w"
+563	45,57	string	GATE_attitude	 target-link="certain" intensity="low-medium" id="approval" attitude-type="agree-pos"
+535	825,825	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+599	1025,1045	string	GATE_agent	 nested-source="w,usoff" id="usoff"
+545	384,385	string	GATE_split	
+579	823,825	string	GATE_split	
+590	458,471	string	GATE_direct-subjective	 nested-source="w,tx" intensity=""
+547	1141,1141	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+537	572,572	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+593	452,457	string	GATE_agent	 nested-source="w,tx"
+561	602,618	string	GATE_attitude	 target-link="grant18" intensity="low-medium" id="decision" attitude-type="agree-pos"
+546	448,449	string	GATE_split	
+534	825,1022	string	GATE_inside	 nested-source="w"
+570	570,571	string	GATE_split	
+532	386,449	string	GATE_inside	 nested-source="w"
+564	713,714	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w,pb" attitude-link="risk"
+539	1,6	string	GATE_inside	 nested-source="w"
+595	572,587	string	GATE_agent	 nested-source="w,wh" id=""
+585	0,0	string	GATE_direct-subjective	
+557	472,570	string	GATE_target	 id="dutyfree"
+552	9,226	string	GATE_inside	 nested-source="w"
+567	671,712	string	GATE_target	 id="othertypes"
+584	0,0	string	GATE_agent	 id="implicit"
+577	1401,1403	string	GATE_split	
+573	7,9	string	GATE_split	
+586	0,0	string	GATE_expressive-subjectivity	
+558	458,471	string	GATE_attitude	 target-link="dutyfree" intensity="low-medium" id="request" attitude-type="sentiment-pos"
+583	0,0	string	GATE_agent	 id="w"
+551	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+574	227,229	string	GATE_split	
+538	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+533	386,386	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+597	593,601	string	GATE_agent	 nested-source="w,wh,pb"

@@ -1,0 +1,70 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/08.06.09-13335/08.06.09-13335.jlw.attitudes.xml
+#  on Sun Dec 10 07:48:07 EST 2006
+#  by twilson
+64	668,691	string	GATE_agent	 id="bushadmin"
+63	408,412	string	GATE_agent	 id="bush"
+62	61,64	string	GATE_split	
+61	403,404	string	GATE_split	
+60	664,668	string	GATE_split	
+59	1010,1012	string	GATE_split	
+58	408,408	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+57	408,558	string	GATE_inside	 nested-source="w"
+56	890,897	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a8" intensity="medium" nested-source="w,bushadmin" polarity="negative"
+55	721,730	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4, a5" intensity="medium" nested-source="w,int" polarity="negative"
+54	581,591	string	GATE_objective-speech-event	 nested-source="w,implicit"
+53	513,523	string	GATE_objective-speech-event	 nested-source="w,implicit"
+52	809,817	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a7" annotation-uncertain="somewhat-uncertain" nested-source="w,int" intensity="low" polarity="neutral"
+51	795,808	string	GATE_agent	 nested-source="w,int"
+50	785,793	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" annotation-uncertain="somewhat-uncertain" intensity="medium" nested-source="w,bushadmin" polarity="neutral"
+49	437,446	string	GATE_agent	 id="detainees"
+48	524,545	string	GATE_objective-speech-event	 objective-uncertain="somewhat-uncertain" nested-source="w,implicit,detainees" insubstantial="c1"
+47	413,423	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2, a3" intensity="medium" nested-source="w,implicit" polarity="negative"
+46	299,305	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1" intensity="medium" nested-source="w,milsource" polarity="neutral"
+45	98,110	string	GATE_objective-speech-event	 nested-source="w,milsource"
+44	0,0	string	GATE_agent	 id="implicit"
+43	0,0	string	GATE_agent	 id="w"
+42	283,287	string	GATE_split	
+41	663,664	string	GATE_split	
+40	951,955	string	GATE_split	
+39	287,287	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	287,404	string	GATE_inside	 nested-source="w"
+37	773,773	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	773,951	string	GATE_inside	 nested-source="w"
+35	282,283	string	GATE_split	
+34	557,558	string	GATE_split	
+33	950,951	string	GATE_split	
+32	70,70	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	70,283	string	GATE_inside	 nested-source="w"
+30	668,668	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	668,772	string	GATE_inside	 nested-source="w"
+28	64,70	string	GATE_split	
+27	404,408	string	GATE_split	
+26	771,772	string	GATE_split	
+25	1,1	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	1,61	string	GATE_inside	 nested-source="w"
+23	559,559	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	559,664	string	GATE_inside	 nested-source="w"
+21	111,145	string	GATE_agent	 id="milsource" nested-source="w,milsource"
+20	287,298	string	GATE_agent	 nested-source="w,milsource"
+19	447,457	string	GATE_expressive-subjectivity	 nested-source="w,implicit" intensity="medium" polarity="negative"
+18	500,512	string	GATE_agent	 nested-source="w,implicit,detainees"
+17	707,720	string	GATE_agent	 id="int" nested-source="w,int"
+16	773,775	string	GATE_agent	 nested-source="w,bushadmin"
+15	299,349	string	GATE_attitude	 target-link="t1" attitude-type="arguing-pos" intensity="low-medium" id="a1"
+14	311,313	string	GATE_target	 id="t1"
+13	413,457	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-neg" intensity="medium-high" id="a2"
+12	408,412	string	GATE_target	 id="t2"
+11	721,771	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-neg" intensity="medium-high" id="a4"
+10	668,691	string	GATE_target	 id="t4"
+9	721,735	string	GATE_attitude	 target-link="t5, t4" attitude-type="sentiment-neg" intensity="medium" id="a5"
+8	736,771	string	GATE_target	 id="t5"
+7	413,427	string	GATE_attitude	 target-link="t2, t3" attitude-type="sentiment-neg" intensity="medium" id="a3"
+6	428,457	string	GATE_target	 id="t3"
+5	785,793	string	GATE_attitude	 target-link="t6" attitude-uncertain="very-uncertain" attitude-type="agree-pos" intensity="low" id="a6"
+4	795,879	string	GATE_target	 id="t6"
+3	809,817	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-pos" intensity="medium" id="a7"
+2	773,879	string	GATE_target	 id="t7"
+1	890,900	string	GATE_attitude	 target-link="t8" attitude-type="agree-neg" intensity="medium-high" id="a8"
+0	901,950	string	GATE_target	 id="t8"

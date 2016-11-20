@@ -1,0 +1,28 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020220/20.57.00-17276/20.57.00-17276.tw.attitudes.xml
+#  on Tue Aug  1 15:10:15 EDT 2006
+#  by twilson
+22	446,474	string	GATE_agent	 id="sezer" nested-source="w,sezer"
+21	0,0	string	GATE_agent	 id="implicit"
+20	0,0	string	GATE_agent	 id="w"
+19	608,609	string	GATE_split	
+18	415,415	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	415,609	string	GATE_inside	 nested-source="w"
+16	95,96	string	GATE_split	
+15	103,103	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	103,299	string	GATE_inside	 nested-source="w"
+13	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	2,96	string	GATE_inside	 nested-source="w"
+11	306,306	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	306,408	string	GATE_inside	 nested-source="w"
+9	616,619	string	GATE_split	
+8	407,408	string	GATE_split	
+7	298,299	string	GATE_split	
+6	209,217	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, group" intensity="low" polarity="uncertain-positive"
+5	103,208	string	GATE_agent	 id="group" nested-source="w, group"
+4	426,442	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" insubstantial="c2" nested-source="w, sezer" intensity="low" polarity="uncertain-positive"
+3	209,217	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="low-medium"
+2	218,269	string	GATE_target	 id="t10"
+1	415,421	string	GATE_target	 id="t20"
+0	426,445	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" id="a20" intensity="low-medium"

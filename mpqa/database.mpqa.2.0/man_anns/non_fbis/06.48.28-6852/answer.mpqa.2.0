@@ -1,0 +1,9 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/45.ctc.annotated
+#  on Thu Sep 09 14:16:55 EDT 2004
+#  by ves
+
+1318	338,390	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="venezuela"
+1428	2273,2305	string	answer	annotator="ctc" confidence="4" confidencecomment="indirect" questionnumber="7" topic="venezuela"
+1406	2449,2478	string	answer	annotator="ctc" confidence="3" confidencecomment="American opinion because American newspaper?" questionnumber="7" topic="venezuela"

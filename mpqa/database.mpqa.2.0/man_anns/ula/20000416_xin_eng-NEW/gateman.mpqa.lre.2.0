@@ -1,0 +1,77 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/20000416_xin_eng-NEW/20000416_xin_eng-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+1069	0,0	string	GATE_expressive-subjectivity	
+1014	0,228	string	GATE_inside	 nested-source="w"
+1019	228,230	string	GATE_split	
+1033	2360,2536	string	GATE_inside	 nested-source="w"
+1034	2009,2010	string	GATE_split	
+1049	2012,2012	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1048	1688,1830	string	GATE_inside	 nested-source="w"
+1035	1547,1548	string	GATE_split	
+1060	959,961	string	GATE_agent	 nested-source="w,h"
+1050	1833,2010	string	GATE_inside	 nested-source="w"
+1032	2164,2165	string	GATE_split	
+1067	424,428	string	GATE_agent	 nested-source="w,h" id=""
+1047	1833,1833	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1057	1377,1377	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1024	1374,1375	string	GATE_split	
+1037	2010,2012	string	GATE_split	
+1030	2167,2167	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1045	1688,1688	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1052	2012,2165	string	GATE_inside	 nested-source="w"
+1070	0,0	string	GATE_agent	 id="implicit"
+1015	2535,2536	string	GATE_split	
+1058	1114,1375	string	GATE_inside	 nested-source="w"
+1064	453,459	string	GATE_objective-speech-event	 nested-source="w,h"
+1012	678,879	string	GATE_inside	 nested-source="w"
+1074	678,680	string	GATE_agent	 nested-source="w,h"
+1051	882,882	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1013	678,678	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="neutral" intensity="high" implicit="true" nested-source="w" attitude-link="crip"
+1046	1550,1687	string	GATE_inside	 nested-source="w"
+1063	962,967	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" attitude-link="thisis" nested-source="w,h"
+1073	784,793	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="high"
+1041	1686,1687	string	GATE_split	
+1031	1831,1833	string	GATE_split	
+1036	1829,1830	string	GATE_split	
+1056	970,1112	string	GATE_inside	 nested-source="w"
+1077	676,678	string	GATE_split	
+1066	429,451	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" insubstantial="c2" nested-source="w,h"
+1080	1112,1114	string	GATE_split	
+1061	918,923	string	GATE_expressive-subjectivity	 nested-source="w,h" polarity="positive" intensity="low"
+1022	2358,2360	string	GATE_split	
+1011	386,386	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1016	2165,2167	string	GATE_split	
+1017	2357,2358	string	GATE_split	
+1079	1111,1112	string	GATE_split	
+1027	2167,2358	string	GATE_inside	 nested-source="w"
+1042	230,230	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1040	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1055	1114,1114	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1059	892,956	string	GATE_attitude	 target-link="myvisit" intensity="medium" id="thisis" attitude-type="arguing-pos"
+1078	878,879	string	GATE_split	
+1068	0,0	string	GATE_direct-subjective	
+1065	101,127	string	GATE_agent	 nested-source="w,h" id="h"
+1062	882,898	string	GATE_expressive-subjectivity	 nested-source="w,h" polarity="negative" intensity="low"
+1023	1375,1377	string	GATE_split	
+1038	1548,1550	string	GATE_split	
+1053	970,970	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1025	227,228	string	GATE_split	
+1081	879,881	string	GATE_split	
+1076	784,808	string	GATE_attitude	 target-link="unsa" intensity="high" id="crip" attitude-type="sentiment-neg"
+1018	386,676	string	GATE_inside	 nested-source="w"
+1044	0,0	string	GATE_agent	 id="w"
+1029	1377,1548	string	GATE_inside	 nested-source="w"
+1043	1550,1550	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1071	686,690	string	GATE_objective-speech-event	 nested-source="w,h"
+1026	383,384	string	GATE_split	
+1054	882,968	string	GATE_inside	 nested-source="w"
+1082	967,968	string	GATE_split	
+1075	794,808	string	GATE_target	 id="unsa"
+1028	2360,2360	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1039	230,384	string	GATE_inside	 nested-source="w"
+1021	384,386	string	GATE_split	
+1072	882,891	string	GATE_target	 id="myvisit"
+1020	675,676	string	GATE_split	

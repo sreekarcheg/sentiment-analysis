@@ -1,0 +1,10 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/54.ves.annotated
+#  on Thu Sep 09 14:16:59 EDT 2004
+#  by ves
+
+1351	2180,2283	string	answer	annotator="ves" confidence="5" partial="true" questionnumber="6" topic="mugabe"
+1236	750,816	string	answer	annotator="ves" questionnumber="2" topic="mugabe" confidence="5"
+1299	1877,1934	string	answer	annotator="ves" confidence="3" partial="true" confidencecomment="" questionnumber="6" topic="mugabe"
+1290	649,708	string	answer	annotator="ves" questionnumber="4" topic="mugabe" confidence="5"

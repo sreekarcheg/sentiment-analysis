@@ -1,0 +1,49 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020211/20.26.52-10078/20.26.52-10078.tw.attitudes.xml
+#  on Thu Nov 13 11:17:52 EST 2008
+#  by twilson
+43	971,971	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	221,296	string	GATE_agent	 id="NIEHS" nested-source="w, NIEHS"
+41	1284,1284	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	208,208	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	663,663	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	473,480	string	GATE_objective-speech-event	 nested-source="w, NIEHS, scientists" insubstantial="c2"
+37	971,1170	string	GATE_inside	 nested-source="w"
+36	828,839	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" intensity="low" nested-source="w, implicit" polarity="neutral"
+35	14,14	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	1441,1442	string	GATE_split	
+33	669,673	string	GATE_objective-speech-event	 nested-source="w, scientists"
+32	324,334	string	GATE_agent	 id="scientists" nested-source="w, NIEHS, scientists"
+31	208,535	string	GATE_inside	 nested-source="w"
+30	1284,1442	string	GATE_inside	 nested-source="w"
+29	663,668	string	GATE_agent	 nested-source="w, NIEHS"
+28	195,196	string	GATE_split	
+27	823,824	string	GATE_split	
+26	0,0	string	GATE_agent	 id="implicit"
+25	208,220	string	GATE_objective-speech-event	 nested-source="w, NIEHS"
+24	1580,1583	string	GATE_split	
+23	663,824	string	GATE_inside	 nested-source="w"
+22	1443,1443	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+21	971,983	string	GATE_objective-speech-event	 nested-source="w, reports" objective-uncertain="somewhat-uncertain"
+20	825,825	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	1276,1277	string	GATE_split	
+18	1171,1171	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	1578,1579	string	GATE_split	
+16	963,964	string	GATE_split	
+15	1169,1170	string	GATE_split	
+14	1171,1277	string	GATE_inside	 nested-source="w"
+13	536,536	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	200,201	string	GATE_split	
+11	0,0	string	GATE_agent	 id="w"
+10	534,535	string	GATE_split	
+9	984,1002	string	GATE_agent	 id="reports" nested-source="w, reports"
+8	536,656	string	GATE_inside	 nested-source="w"
+7	825,964	string	GATE_inside	 nested-source="w"
+6	359,393	string	GATE_objective-speech-event	 annotation-uncertain="somewhat-uncertain" nested-source="w, NIEHS, scientists" insubstantial="c2"
+5	12,13	string	GATE_split	
+4	655,656	string	GATE_split	
+3	1443,1579	string	GATE_inside	 nested-source="w"
+2	2,201	string	GATE_inside	 nested-source="w"
+1	828,963	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+0	825,827	string	GATE_target	 id="t10"

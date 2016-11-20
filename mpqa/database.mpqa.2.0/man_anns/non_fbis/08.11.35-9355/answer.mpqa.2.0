@@ -1,0 +1,10 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/52.ves.annotated
+#  on Thu Sep 09 14:16:58 EDT 2004
+#  by ves
+
+1416	1499,1560	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="5" topic="venezuela"
+1465	1977,2045	string	answer	annotator="ves" confidence="3" confidencecomment="not clear that it expresses the opinion of 'most venezuelans'" questionnumber="4" topic="venezuela"
+1365	2810,2826	string	answer	annotator="ves" questionnumber="8" confidence="5" topic="venezuela"
+1316	2290,2359	string	answer	annotator="ves" confidence="3" confidencecomment="not clear that it expresses the opinion of 'most venezuelans'" questionnumber="4" topic="venezuela"

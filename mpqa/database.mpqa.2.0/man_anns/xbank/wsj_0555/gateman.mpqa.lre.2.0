@@ -1,0 +1,37 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0555/wsj_0555.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+200	333,335	string	GATE_split	
+190	407,409	string	GATE_split	
+207	211,249	string	GATE_inside	 nested-source="w"
+182	1,6	string	GATE_inside	 nested-source="w"
+199	252,332	string	GATE_inside	 nested-source="w"
+198	331,332	string	GATE_split	
+208	37,120	string	GATE_agent	 nested-source="w,holders" id="holders"
+187	211,211	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+180	264,268	string	GATE_objective-speech-event	 nested-source="w,wi"
+193	207,208	string	GATE_split	
+188	335,335	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+201	142,154	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,wi,holders" attitude-link="ele"
+206	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+179	142,154	string	GATE_attitude	 target-link="convert" intensity="low-medium" id="ele" attitude-type="intention-pos"
+189	155,207	string	GATE_target	 id="convert"
+196	405,406	string	GATE_split	
+210	250,252	string	GATE_split	
+195	252,252	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+183	0,0	string	GATE_direct-subjective	
+186	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+203	7,9	string	GATE_split	
+209	9,31	string	GATE_agent	 nested-source="w,wi" id="wi"
+194	9,31	string	GATE_inside	 nested-source="w"
+181	335,406	string	GATE_inside	 nested-source="w"
+204	248,249	string	GATE_split	
+191	252,263	string	GATE_agent	 nested-source="w,wi" id=""
+205	0,0	string	GATE_agent	 id="implicit"
+197	32,36	string	GATE_objective-speech-event	 nested-source="w,wi"
+192	0,0	string	GATE_agent	 id="w"
+184	32,208	string	GATE_inside	 nested-source="w"
+185	0,0	string	GATE_expressive-subjectivity	
+202	209,211	string	GATE_split	

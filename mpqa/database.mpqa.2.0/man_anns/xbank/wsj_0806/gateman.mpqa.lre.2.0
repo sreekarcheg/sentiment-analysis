@@ -1,0 +1,45 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0806/wsj_0806.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+326	202,203	string	GATE_split	
+294	0,0	string	GATE_expressive-subjectivity	
+305	9,24	string	GATE_agent	 nested-source="w,hd" id="hd"
+315	26,86	string	GATE_inside	 nested-source="w"
+304	364,375	string	GATE_agent	 nested-source="w,hd"
+327	794,796	string	GATE_split	
+310	792,793	string	GATE_split	
+299	437,437	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+318	204,363	string	GATE_inside	 nested-source="w"
+313	9,24	string	GATE_inside	 nested-source="w"
+291	457,464	string	GATE_direct-subjective	 nested-source="w,hd,hd" attitude-link="expectation" intensity="low"
+298	682,793	string	GATE_inside	 nested-source="w"
+296	0,0	string	GATE_agent	 id="w"
+317	88,203	string	GATE_inside	 nested-source="w"
+324	435,436	string	GATE_split	
+297	620,620	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+307	0,0	string	GATE_direct-subjective	
+321	437,619	string	GATE_inside	 nested-source="w"
+316	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+289	457,546	string	GATE_attitude	 target-link="proceeds" intensity="low" inferred="" id="expectation" attitude-type="other-attitude"
+288	472,484	string	GATE_target	 id="proceeds"
+308	35,39	string	GATE_objective-speech-event	 nested-source="w,hd"
+322	364,364	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+309	680,681	string	GATE_split	
+300	620,681	string	GATE_inside	 nested-source="w"
+290	454,456	string	GATE_agent	
+319	364,436	string	GATE_inside	 nested-source="w"
+314	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+295	682,682	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+306	246,250	string	GATE_objective-speech-event	 nested-source="w,hd"
+323	7,9	string	GATE_split	
+303	204,245	string	GATE_agent	 nested-source="w,hd" id=""
+311	1,6	string	GATE_inside	 nested-source="w"
+302	376,385	string	GATE_objective-speech-event	 nested-source="w,hd"
+292	449,453	string	GATE_objective-speech-event	
+293	0,0	string	GATE_agent	 id="implicit"
+312	618,619	string	GATE_split	
+325	362,363	string	GATE_split	
+320	204,204	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+301	437,448	string	GATE_agent	 nested-source="w,hd"

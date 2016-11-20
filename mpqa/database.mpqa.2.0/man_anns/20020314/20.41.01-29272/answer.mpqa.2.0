@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/20.ves.annotated
+#  on Thu Sep 09 14:16:47 EDT 2004
+#  by ves
+
+1790	3102,3166	string	answer	annotator="ves" confidence="2" partial="true" confidencecomment="not clear whether answers the question" questionnumber="1" topic="mugabe"
+1796	2897,3015	string	answer	annotator="ves" confidence="5" partial="true" questionnumber="1" topic="mugabe"
+1885	2715,2721	string	answer	annotator="ves" confidence="5" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+1746	3049,3055	string	answer	annotator="ves" confidence="5" partial="true" questionnumber="1" topic="mugabe"
+1723	2569,2604	string	answer	annotator="ves" confidence="3" confidencecomment="could or could not include US and GB" questionnumber="1" topic="mugabe"
+1850	164,199	string	answer	annotator="ves" confidence="1" confidencecomment="could or could not include US and Britain" questionnumber="1" topic="mugabe"

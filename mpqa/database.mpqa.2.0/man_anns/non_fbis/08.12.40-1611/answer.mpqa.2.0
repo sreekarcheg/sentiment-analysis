@@ -1,0 +1,16 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/53.ctc.annotated
+#  on Thu Sep 09 14:16:58 EDT 2004
+#  by ves
+
+398	363,379	string	answer	annotator="ctc" confidence="4" partial="true" confidencecomment="indirect link to reasons for adversarial action; 'other countries' equals? EU" questionnumber="6" topic="mugabe"
+395	680,697	string	answer	annotator="ctc" confidence="4" partial="true" confidencecomment="possible action still counts as a 'reaction'" questionnumber="1" topic="mugabe"
+373	813,884	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="possible action" questionnumber="1" topic="mugabe"
+410	93,194	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="only American opinion" questionnumber="1" topic="mugabe"
+420	390,421	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+383	297,381	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="American opinion only" questionnumber="1" topic="mugabe"
+378	6,26	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="only American opinion" questionnumber="1" topic="mugabe"
+407	735,754	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="" questionnumber="6" topic="mugabe"
+394	494,506	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="1" topic="mugabe"
+419	510,636	string	answer	annotator="ctc" confidence="3" partial="true" questionnumber="6" topic="mugabe"

@@ -1,0 +1,104 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020508/21.54.31-15463/21.54.31-15463.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+97	1530,1817	string	GATE_inside	 nested-source="w"
+95	1824,1824	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+93	802,903	string	GATE_inside	 nested-source="w"
+91	2963,2963	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+89	2909,2910	string	GATE_split	
+87	436,455	string	GATE_agent	 id="militants" nested-source="w, militants"
+85	3089,3090	string	GATE_split	
+83	1339,1340	string	GATE_split	
+81	2963,3090	string	GATE_inside	 nested-source="w"
+79	2056,2056	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+77	0,0	string	GATE_agent	 id="w"
+75	436,557	string	GATE_inside	 nested-source="w"
+73	1114,1224	string	GATE_inside	 nested-source="w"
+71	699,700	string	GATE_split	
+69	2773,2774	string	GATE_split	
+67	3003,3011	string	GATE_target	 id="t3"
+65	564,564	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+63	707,707	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	299,300	string	GATE_split	
+59	2993,3002	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t3" attitude-type="sentiment-neg" id="a3" intensity="low-medium"
+57	2993,3002	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a3" annotation-uncertain="very-uncertain" nested-source="w, implicit" intensity="low" polarity="negative"
+55	1347,1487	string	GATE_inside	 nested-source="w"
+53	3091,3256	string	GATE_inside	 nested-source="w"
+51	1824,1826	string	GATE_agent	 nested-source="w, gupta"
+49	2313,2313	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+47	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	456,472	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2" annotation-uncertain="somewhat-uncertain" nested-source="w, militants" intensity="medium" polarity="positive"
+43	2620,2621	string	GATE_split	
+41	921,928	string	GATE_objective-speech-event	 nested-source="w, police"
+39	1522,1523	string	GATE_split	
+37	1465,1481	string	GATE_agent	 id="sources" nested-source="w, sources"
+35	2622,2622	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	800,801	string	GATE_split	
+31	902,903	string	GATE_split	
+29	307,307	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	3257,3260	string	GATE_split	
+25	2513,2513	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	707,801	string	GATE_inside	 nested-source="w"
+21	2311,2312	string	GATE_split	
+19	436,436	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	2911,2911	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	1482,1486	string	GATE_objective-speech-event	 nested-source="w, sources"
+13	1223,1224	string	GATE_split	
+11	556,557	string	GATE_split	
+9	223,232	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" annotation-uncertain="somewhat-uncertain" nested-source="w, implicit" intensity="low" polarity="negative"
+7	2781,2910	string	GATE_inside	 nested-source="w"
+5	1225,1225	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	456,475	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-pos" intensity="medium" id="a2"
+1	2911,2956	string	GATE_inside	 nested-source="w"
+98	1812,1816	string	GATE_objective-speech-event	 nested-source="w, gupta"
+96	1133,1137	string	GATE_objective-speech-event	 nested-source="w, reports"
+94	2192,2312	string	GATE_inside	 nested-source="w"
+92	2345,2346	string	GATE_split	
+90	1486,1487	string	GATE_split	
+88	646,658	string	GATE_objective-speech-event	 nested-source="w, implicit"
+86	2926,2939	string	GATE_objective-speech-event	 insubstantial="c2" nested-source="w, implicit"
+84	1347,1347	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+82	2781,2781	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+80	3232,3236	string	GATE_objective-speech-event	 nested-source="w, spokesman"
+78	2955,2956	string	GATE_split	
+76	2313,2346	string	GATE_inside	 nested-source="w"
+74	2192,2192	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+72	434,435	string	GATE_split	
+70	2622,2774	string	GATE_inside	 nested-source="w"
+68	1114,1114	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+66	2048,2049	string	GATE_split	
+64	2184,2185	string	GATE_split	
+62	1114,1132	string	GATE_agent	 id="reports" nested-source="w, reports"
+60	910,910	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+58	802,802	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+56	714,718	string	GATE_objective-speech-event	 nested-source="w, police"
+54	564,700	string	GATE_inside	 nested-source="w"
+52	1816,1817	string	GATE_split	
+50	1225,1340	string	GATE_inside	 nested-source="w"
+48	1824,2049	string	GATE_inside	 nested-source="w"
+46	3091,3091	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	910,1107	string	GATE_inside	 nested-source="w"
+42	2,300	string	GATE_inside	 nested-source="w"
+40	1106,1107	string	GATE_split	
+38	1488,1488	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	223,232	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t1" attitude-type="sentiment-neg" id="a1" intensity="low-medium"
+34	1530,1530	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	1488,1523	string	GATE_inside	 nested-source="w"
+30	2353,2506	string	GATE_inside	 nested-source="w"
+28	2513,2621	string	GATE_inside	 nested-source="w"
+26	233,241	string	GATE_target	 id="t1"
+24	1760,1811	string	GATE_agent	 id="gupta" nested-source="w, gupta"
+22	2056,2185	string	GATE_inside	 nested-source="w"
+20	1248,1259	string	GATE_objective-speech-event	 nested-source="w, implicit" insubstantial="c1"
+18	1827,1831	string	GATE_objective-speech-event	 nested-source="w, gupta"
+16	3237,3255	string	GATE_agent	 id="spokesman" nested-source="w, spokesman"
+14	307,435	string	GATE_inside	 nested-source="w"
+12	707,713	string	GATE_agent	 id="police" nested-source="w, police"
+10	3255,3256	string	GATE_split	
+8	476,491	string	GATE_target	 id="t2"
+6	2505,2506	string	GATE_split	
+4	0,0	string	GATE_agent	 id="implicit"
+2	2353,2353	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+0	910,920	string	GATE_agent	 nested-source="w, police"

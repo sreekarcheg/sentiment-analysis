@@ -1,0 +1,20 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020221/21.07.05-24942/21.07.05-24942.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+14	348,352	string	GATE_objective-speech-event	 nested-source="w, yuri"
+13	375,378	string	GATE_split	
+12	198,374	string	GATE_inside	 nested-source="w"
+11	0,0	string	GATE_agent	 id="implicit"
+10	306,347	string	GATE_agent	 id="yuri" nested-source="w, yuri"
+9	10,191	string	GATE_inside	 nested-source="w"
+8	373,374	string	GATE_split	
+7	0,0	string	GATE_agent	 id="w"
+6	199,241	string	GATE_agent	 id="bob" nested-source="w, yuri, bob"
+5	190,191	string	GATE_split	
+4	10,10	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	242,249	string	GATE_objective-speech-event	 annotation-uncertain="very-uncertain" nested-source="w, yuri, bob"
+2	198,198	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+1	8,9	string	GATE_split	
+0	75,81	string	GATE_objective-speech-event	 nested-source="w, implicit"

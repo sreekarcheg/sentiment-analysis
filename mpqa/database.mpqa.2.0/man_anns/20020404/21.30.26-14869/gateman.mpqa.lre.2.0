@@ -1,0 +1,65 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020404/21.30.26-14869/21.30.26-14869.tw.attitudes.xml
+#  on Mon Jul 31 20:19:25 EDT 2006
+#  by twilson
+59	541,549	string	GATE_agent	 nested-source="w, rush"
+58	462,463	string	GATE_split	
+57	230,230	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+56	458,462	string	GATE_objective-speech-event	 nested-source="w, rush"
+55	222,223	string	GATE_split	
+54	839,882	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, rush" polarity="neutral"
+53	7,8	string	GATE_split	
+52	931,931	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+51	470,676	string	GATE_inside	 nested-source="w"
+50	333,463	string	GATE_inside	 nested-source="w"
+49	675,676	string	GATE_split	
+48	550,554	string	GATE_objective-speech-event	 nested-source="w, rush"
+47	939,970	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, rush" polarity="neutral"
+46	263,271	string	GATE_objective-speech-event	 nested-source="w, interfax" insubstantial="c1"
+45	2,223	string	GATE_inside	 nested-source="w"
+44	572,580	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" subjective-uncertain="somewhat-uncertain" insubstantial="c1" intensity="low" nested-source="w, rush, russia" polarity="neutral"
+43	810,811	string	GATE_split	
+42	9,9	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	455,457	string	GATE_agent	 nested-source="w, rush"
+40	230,332	string	GATE_inside	 nested-source="w"
+39	560,571	string	GATE_agent	 id="russia" nested-source="w, rush, russia"
+38	691,692	string	GATE_split	
+37	693,693	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	693,811	string	GATE_inside	 nested-source="w"
+35	803,805	string	GATE_agent	 nested-source="w, rush"
+34	124,176	string	GATE_agent	 id="rush" nested-source="w, rush"
+33	677,677	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	818,930	string	GATE_inside	 nested-source="w"
+31	806,810	string	GATE_objective-speech-event	 nested-source="w, rush"
+30	177,181	string	GATE_objective-speech-event	 nested-source="w, rush"
+29	678,680	string	GATE_agent	 nested-source="w, rush, russia"
+28	230,232	string	GATE_agent	 nested-source="w, rush"
+27	931,1018	string	GATE_inside	 nested-source="w"
+26	819,826	string	GATE_direct-subjective	 attitude-link="a30" intensity="medium" nested-source="w, rush" implicit="true"
+25	1019,1022	string	GATE_split	
+24	470,470	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	1013,1017	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a40" nested-source="w, rush" intensity="medium"
+22	254,262	string	GATE_agent	 id="interfax" nested-source="w, interfax"
+21	818,818	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	929,930	string	GATE_split	
+19	678,680	string	GATE_objective-speech-event	 nested-source="w, rush" implicit="true"
+18	677,692	string	GATE_inside	 nested-source="w"
+17	0,0	string	GATE_agent	 id="w"
+16	233,237	string	GATE_objective-speech-event	 nested-source="w, rush"
+15	0,0	string	GATE_agent	 id="implicit"
+14	1017,1018	string	GATE_split	
+13	681,688	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" insubstantial="c1" nested-source="w, rush, russia" intensity="low" polarity="positive"
+12	1004,1012	string	GATE_agent	 nested-source="w, rush"
+11	333,334	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	681,688	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" id="a20" intensity="medium"
+9	689,691	string	GATE_target	 id="t20"
+8	572,583	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+7	584,661	string	GATE_target	 id="t10"
+6	662,675	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a15" intensity="low" nested-source="w, rush, implicit" polarity="neutral"
+5	662,675	string	GATE_attitude	 target-link="t15" attitude-type="other-attitude" id="a15" intensity="low"
+4	560,661	string	GATE_target	 id="t15"
+3	828,838	string	GATE_target	 id="t30"
+2	839,929	string	GATE_attitude	 target-link="t30" attitude-type="arguing-neg" id="a30" intensity="medium"
+1	931,935	string	GATE_target	 id="t40"
+0	936,1001	string	GATE_attitude	 target-link="t40" attitude-type="arguing-pos" id="a40" intensity="medium-high"

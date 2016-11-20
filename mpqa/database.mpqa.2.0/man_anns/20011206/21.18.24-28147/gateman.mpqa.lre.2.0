@@ -1,0 +1,48 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011206/21.18.24-28147/21.18.24-28147.tw.attitudes.xml
+#  on Mon Jul 31 22:37:51 EDT 2006
+#  by twilson
+42	802,803	string	GATE_split	
+41	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	1206,1430	string	GATE_inside	 nested-source="w"
+39	1605,1680	string	GATE_inside	 nested-source="w"
+38	1603,1604	string	GATE_split	
+37	294,515	string	GATE_inside	 nested-source="w"
+36	1605,1605	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	983,984	string	GATE_split	
+34	329,338	string	GATE_objective-speech-event	 nested-source="w, cay"
+33	810,810	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	0,0	string	GATE_agent	 id="w"
+31	1521,1521	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	1431,1431	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	248,263	string	GATE_agent	 id="authorities" nested-source="w, authorities"
+28	294,328	string	GATE_agent	 id="cay" nested-source="w, cay"
+27	2,287	string	GATE_inside	 nested-source="w"
+26	1014,1021	string	GATE_agent	 id="fbi" nested-source="w, narvaez, fbi"
+25	286,287	string	GATE_split	
+24	1431,1514	string	GATE_inside	 nested-source="w"
+23	1513,1514	string	GATE_split	
+22	514,515	string	GATE_split	
+21	264,272	string	GATE_objective-speech-event	 nested-source="w, authorities"
+20	991,1199	string	GATE_inside	 nested-source="w"
+19	294,294	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	991,998	string	GATE_agent	 id="narvaez" nested-source="w, narvaez"
+17	522,803	string	GATE_inside	 nested-source="w"
+16	71,80	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" annotation-uncertain="somewhat-uncertain" intensity="low" nested-source="w, authorities, implicit" polarity="negative"
+15	1198,1199	string	GATE_split	
+14	1429,1430	string	GATE_split	
+13	0,0	string	GATE_agent	 id="implicit"
+12	1022,1035	string	GATE_objective-speech-event	 nested-source="w, narvaez, fbi"
+11	1206,1206	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	793,802	string	GATE_objective-speech-event	 nested-source="w, police"
+9	1679,1680	string	GATE_split	
+8	1521,1604	string	GATE_inside	 nested-source="w"
+7	1681,1684	string	GATE_split	
+6	991,991	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	810,984	string	GATE_inside	 nested-source="w"
+4	746,791	string	GATE_agent	 id="police" nested-source="w, police"
+3	999,1008	string	GATE_objective-speech-event	 nested-source="w, narvaez"
+2	522,522	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+1	71,174	string	GATE_attitude	 target-link="t10" attitude-type="speculation" id="a10" intensity="low"
+0	39,48	string	GATE_target	 id="t10"

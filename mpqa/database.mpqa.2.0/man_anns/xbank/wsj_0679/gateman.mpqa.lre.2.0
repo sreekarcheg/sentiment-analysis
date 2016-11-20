@@ -1,0 +1,77 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0679/wsj_0679.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+469	564,569	string	GATE_agent	 nested-source="w,octel"
+454	575,587	string	GATE_target	 id="purc"
+486	176,191	string	GATE_objective-speech-event	 nested-source="w,hp"
+491	724,725	string	GATE_split	
+496	327,329	string	GATE_split	
+464	1120,1122	string	GATE_split	
+497	325,326	string	GATE_split	
+502	128,128	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+470	57,83	string	GATE_agent	 id="octel"
+463	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+508	367,560	string	GATE_inside	 nested-source="w"
+457	588,600	string	GATE_attitude	 target-link="purc" intensity="low-medium" id="exppur" attitude-type="other-attitude"
+507	564,564	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+475	887,897	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="callfor" nested-source="w,accord"
+480	728,740	string	GATE_objective-speech-event	 nested-source="w,filing"
+460	868,869	string	GATE_split	
+481	630,642	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="noplan" nested-source="w,hp,hp"
+501	128,282	string	GATE_inside	 nested-source="w"
+459	870,881	string	GATE_agent	 nested-source="w,accord" id="accord"
+506	286,293	string	GATE_inside	 nested-source="w"
+465	1118,1119	string	GATE_split	
+450	859,868	string	GATE_attitude	 target-link="sp" intensity="low-medium" id="spa" attitude-type="agree-pos"
+482	413,415	string	GATE_attitude	 target-link="devmain" intensity="low-medium" id="todevmaint" attitude-type="intention-pos"
+487	29,33	string	GATE_objective-speech-event	 nested-source="w,hp" insubstantial=""
+520	126,128	string	GATE_split	
+466	977,978	string	GATE_split	
+503	84,125	string	GATE_inside	 nested-source="w"
+519	870,978	string	GATE_inside	 nested-source="w"
+461	726,728	string	GATE_split	
+484	570,574	string	GATE_objective-speech-event	 nested-source="w,octel"
+514	691,725	string	GATE_inside	 nested-source="w"
+485	416,460	string	GATE_target	 id="devmain"
+504	329,329	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+468	329,344	string	GATE_agent	 nested-source="w,hp"
+479	602,617	string	GATE_agent	 nested-source="w,hp" id=""
+510	602,689	string	GATE_inside	 nested-source="w"
+478	627,629	string	GATE_agent	 nested-source="w,hp,hp"
+517	844,869	string	GATE_inside	 nested-source="w"
+516	728,833	string	GATE_inside	 nested-source="w"
+505	297,326	string	GATE_inside	 nested-source="w"
+455	630,642	string	GATE_attitude	 target-link="obtain" intensity="low" id="noplan" attitude-type="intention-neg"
+462	0,0	string	GATE_agent	 id="w"
+477	859,868	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="spa" nested-source="w,filiing,implicit"
+483	412,413	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="todevmaint" nested-source="w,hp"
+494	559,560	string	GATE_split	
+515	870,870	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+488	385,389	string	GATE_objective-speech-event	 nested-source="w,hp"
+489	133,174	string	GATE_agent	 id="filing"
+499	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+467	192,196	string	GATE_agent	 nested-source="w,hp"
+452	643,669	string	GATE_target	 id="obtain"
+500	1,6	string	GATE_inside	 nested-source="w"
+472	0,0	string	GATE_expressive-subjectivity	
+518	979,979	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+474	9,28	string	GATE_agent	 nested-source="w,hp" id="hp"
+495	562,564	string	GATE_split	
+473	0,0	string	GATE_direct-subjective	
+458	887,897	string	GATE_attitude	 target-link="hpbuy" intensity="low-medium" id="callfor" attitude-type="sentiment-pos"
+490	124,125	string	GATE_split	
+521	979,1119	string	GATE_inside	 nested-source="w"
+509	329,365	string	GATE_inside	 nested-source="w"
+451	898,977	string	GATE_target	 id="hpbuy"
+498	9,83	string	GATE_inside	 nested-source="w"
+513	602,602	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+471	0,0	string	GATE_agent	 id="implicit"
+476	741,751	string	GATE_agent	 nested-source="w,filing"
+456	588,600	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="exppur" nested-source="w,octel,implicit"
+493	600,601	string	GATE_split	
+512	564,601	string	GATE_inside	 nested-source="w"
+453	844,858	string	GATE_target	 id="sp"
+492	7,9	string	GATE_split	
+511	728,728	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

@@ -1,0 +1,248 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0768/wsj_0768.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+2018	534,538	string	GATE_objective-speech-event	 nested-source="w,dfs"
+2138	3250,3256	string	GATE_inside	 nested-source="w"
+2066	1156,1160	string	GATE_direct-subjective	 nested-source="w,kb"
+1998	766,767	string	GATE_split	
+2037	166,181	string	GATE_expressive-subjectivity	 nested-source="w"
+2065	1109,1110	string	GATE_agent	 nested-source="w,kb,peep,peep" id=""
+1997	1236,1238	string	GATE_split	
+2068	4571,4576	string	GATE_target	 id="fundz"
+2147	4314,4316	string	GATE_split	
+2137	3102,3102	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2017	0,0	string	GATE_expressive-subjectivity	
+2177	1930,1932	string	GATE_split	
+2070	4902,4934	string	GATE_attitude	 target-link="ineff" intensity="high-extreme" inferred="" id="tb" attitude-type="sentiment-neg"
+2198	3791,3793	string	GATE_split	
+2152	4772,4774	string	GATE_split	
+2192	2718,2719	string	GATE_split	
+2069	4895,4899	string	GATE_target	 id="ineff"
+2064	1057,1095	string	GATE_expressive-subjectivity	 polarity="negative" nested-source="w,kb"
+2197	3912,3913	string	GATE_split	
+2134	2863,2863	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2015	277,289	string	GATE_objective-speech-event	 nested-source="w,dfs"
+2133	3102,3246	string	GATE_inside	 nested-source="w"
+1999	908,909	string	GATE_split	
+2074	4774,4778	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" nested-source="w,mh" polarity="" attitude-link="tb"
+2019	912,930	string	GATE_agent	 nested-source="w,sfm" id="sfm"
+2145	4312,4313	string	GATE_split	
+2060	1655,1667	string	GATE_agent	 nested-source="w,lh" id="lh"
+2139	3376,3376	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2188	3100,3102	string	GATE_split	
+2140	166,333	string	GATE_inside	 nested-source="w"
+2061	1111,1132	string	GATE_attitude	 target-link="dasit" intensity="high" id="kenneytake" attitude-type="sentiment-neg"
+2000	359,361	string	GATE_split	
+2073	4577,4582	string	GATE_expressive-subjectivity	 nested-source="w"
+2020	303,333	string	GATE_agent	 nested-source="w,dfs" id="dfs"
+2184	2041,2042	string	GATE_split	
+1995	1030,1031	string	GATE_split	
+2206	4077,4083	string	GATE_target	 id="thatthere"
+2063	1100,1106	string	GATE_objective-speech-event	 nested-source="w,kb,peep"
+2021	527,533	string	GATE_agent	 nested-source="w,dfs" id=""
+1994	910,912	string	GATE_split	
+2071	4779,4793	string	GATE_agent	 nested-source="w,mh" id="mh"
+2160	1462,1576	string	GATE_inside	 nested-source="w"
+1993	3793,3913	string	GATE_inside	 nested-source="w"
+2148	4075,4076	string	GATE_split	
+1996	1234,1235	string	GATE_split	
+2205	4316,4371	string	GATE_attitude	 target-link="folks" intensity="low" id="posshit" attitude-type="speculation"
+2126	912,1031	string	GATE_inside	 nested-source="w"
+2146	4161,4163	string	GATE_split	
+2062	1122,1124	string	GATE_target	 id="dasit"
+2072	4902,4934	string	GATE_expressive-subjectivity	 polarity="negative" nested-source="w,mh"
+2111	2540,2555	string	GATE_inside	 nested-source="w"
+2033	4571,4694	string	GATE_inside	 nested-source="w"
+2149	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2043	1936,1943	string	GATE_target	 id="tremors"
+2112	2426,2426	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" attitude-link="slwa"
+2132	2993,2993	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2083	3730,3749	string	GATE_expressive-subjectivity	 nested-source="w,sn"
+1992	3700,3700	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2042	1932,1935	string	GATE_expressive-subjectivity	 nested-source="w"
+2155	4937,4939	string	GATE_split	
+2135	2993,3098	string	GATE_inside	 nested-source="w"
+2110	2315,2315	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2044	1650,1654	string	GATE_objective-speech-event	 nested-source="w,lh"
+2207	4076,4077	string	GATE_direct-subjective	 intensity="medium" implicit="true" attitude-link="evle" nested-source="w"
+2086	3339,3343	string	GATE_direct-subjective	 nested-source="w,bm"
+2214	1462,1474	string	GATE_target	 id="selling"
+2084	3752,3756	string	GATE_direct-subjective	 nested-source="w,sn"
+2208	4731,4736	string	GATE_expressive-subjectivity	 nested-source="w"
+2153	4567,4568	string	GATE_split	
+2032	4163,4163	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2154	4770,4771	string	GATE_split	
+2090	2916,2972	string	GATE_expressive-subjectivity	 nested-source="w,nl" polarity="positive" intensity=""
+2136	3257,3375	string	GATE_inside	 nested-source="w"
+2031	4228,4313	string	GATE_inside	 nested-source="w"
+2109	2426,2539	string	GATE_inside	 nested-source="w"
+2131	2723,2862	string	GATE_inside	 nested-source="w"
+2087	3344,3356	string	GATE_agent	 nested-source="w,bm" id="bm"
+2106	2178,2178	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2186	2424,2425	string	GATE_split	
+2040	757,766	string	GATE_target	 id="trend"
+2050	1846,1852	string	GATE_target	 id="impact"
+2130	2556,2556	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2187	2313,2315	string	GATE_split	
+2045	931,934	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="exa" nested-source="w,sfm"
+2156	4569,4571	string	GATE_split	
+2129	2863,2992	string	GATE_inside	 nested-source="w"
+2151	4934,4935	string	GATE_split	
+2189	3097,3098	string	GATE_split	
+2085	3757,3771	string	GATE_agent	 nested-source="w,sn" id="sn"
+2150	1,6	string	GATE_inside	 nested-source="w"
+2204	4695,4770	string	GATE_attitude	 target-link="assval" intensity="low" id="kutplunge" attitude-type="speculation"
+2034	4413,4413	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2105	2263,2312	string	GATE_inside	 nested-source="w"
+2049	1839,1928	string	GATE_attitude	 target-link="impact" intensity="low-medium" id="prosli" attitude-type="arguing-pos"
+2035	4413,4568	string	GATE_inside	 nested-source="w"
+2191	2720,2722	string	GATE_split	
+2041	1932,2041	string	GATE_attitude	 target-link="tremors" intensity="low-medium" id="lik" attitude-type="arguing-pos"
+2036	4316,4316	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2088	2916,2972	string	GATE_attitude	 target-link="fundus" intensity="medium-high" inferred="yes" attitude-type="sentiment-pos"
+2107	2315,2425	string	GATE_inside	 nested-source="w"
+2051	958,969	string	GATE_expressive-subjectivity	 polarity="negative" nested-source="w,sfm"
+2052	935,953	string	GATE_target	 id="np"
+2038	749,756	string	GATE_expressive-subjectivity	 nested-source="w"
+2108	2263,2263	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2190	3255,3256	string	GATE_split	
+2185	2554,2555	string	GATE_split	
+2039	627,766	string	GATE_attitude	 target-link="trend" intensity="low-medium" id="confirmation" attitude-type="arguing-pos"
+2067	4571,4693	string	GATE_attitude	 target-link="fundz" intensity="low" id="mightforce" attitude-type="speculation"
+2170	1308,1461	string	GATE_inside	 nested-source="w"
+1986	7,9	string	GATE_split	
+2008	1161,1173	string	GATE_agent	 nested-source="w,kb" agent-uncertain="" id="kb"
+2095	2850,2861	string	GATE_agent	 nested-source="w,nl"
+2098	2457,2472	string	GATE_expressive-subjectivity	 nested-source="w"
+2209	4084,4159	string	GATE_attitude	 target-link="thatthere" intensity="medium-high" id="evle" attitude-type="sentiment-neg"
+1981	3914,3926	string	GATE_inside	 nested-source="w"
+2165	1689,1689	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2175	1460,1461	string	GATE_split	
+2048	995,1030	string	GATE_target	 target-uncertain="" id="recdec"
+2176	1306,1307	string	GATE_split	
+2028	4935,4936	string	GATE_inside	 nested-source="w"
+2221	2426,2443	string	GATE_target	 id="60mil"
+2211	2444,2456	string	GATE_expressive-subjectivity	 nested-source="w"
+2093	2975,2986	string	GATE_agent	 nested-source="w,nl"
+2027	4935,4935	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2169	1462,1462	string	GATE_direct-subjective	 intensity="low" implicit="true" attitude-link="posser" nested-source="w"
+1985	4163,4223	string	GATE_inside	 nested-source="w"
+2114	1839,1929	string	GATE_inside	 nested-source="w"
+2120	335,358	string	GATE_inside	 nested-source="w"
+2174	1575,1576	string	GATE_split	
+2113	2556,2719	string	GATE_inside	 nested-source="w"
+1987	3427,3541	string	GATE_inside	 nested-source="w"
+2096	2627,2639	string	GATE_agent	 nested-source="w,nl" id="nl"
+2212	3700,3719	string	GATE_target	 id="lasttwo"
+2171	1308,1308	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2116	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2029	4774,4774	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2203	4705,4730	string	GATE_target	 id="assval"
+2089	2863,2871	string	GATE_target	 id="fundus"
+2172	1689,1838	string	GATE_inside	 nested-source="w"
+2100	1839,1839	string	GATE_direct-subjective	 intensity="low" implicit="true" nested-source="w" polarity="" attitude-link="prosli"
+2047	981,988	string	GATE_attitude	 target-link="recdec" intensity="medium" id="conab" attitude-type="sentiment-neg"
+2173	1577,1579	string	GATE_split	
+2046	958,969	string	GATE_attitude	 target-link="np" intensity="low-medium" id="exa" attitude-type="sentiment-neg"
+1988	3427,3427	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2099	1932,2042	string	GATE_inside	 nested-source="w"
+1982	3914,3914	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2201	3540,3541	string	GATE_split	
+1989	3542,3698	string	GATE_inside	 nested-source="w"
+2167	1579,1579	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2215	2426,2472	string	GATE_attitude	 target-link="60mil" attitude-uncertain="somewhat-uncertain" intensity="low" sarcastic="" id="slwa" attitude-type="other-attitude"
+2030	4316,4412	string	GATE_inside	 nested-source="w"
+2092	2993,2995	string	GATE_agent	 nested-source="w,nl"
+2202	3425,3427	string	GATE_split	
+1990	3542,3542	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2101	2043,2177	string	GATE_inside	 nested-source="w"
+2025	4571,4571	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" attitude-link="mightforce"
+2220	3012,3077	string	GATE_attitude	 target-link="of" intensity="low" inferred="yes" id="possales" attitude-type="sentiment-pos"
+2115	361,539	string	GATE_inside	 nested-source="w"
+2157	1238,1238	string	GATE_direct-subjective	 expression-intensity="neutral" insubstantial="" intensity="medium" implicit="true" nested-source="w" attitude-link="kutspel"
+2213	3720,3749	string	GATE_attitude	 target-link="lasttwo" intensity="low-medium" inferred="yes" id="wbg" attitude-type="arguing-pos"
+2103	2178,2262	string	GATE_inside	 nested-source="w"
+2168	4159,4160	string	GATE_split	
+2104	2043,2043	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2117	9,163	string	GATE_inside	 nested-source="w"
+2094	2845,2849	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="backtonorm" nested-source="w,nl"
+2091	2996,3000	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="possales" nested-source="w,nl"
+2102	1932,1932	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2026	0,0	string	GATE_agent	 id="w"
+2219	3003,3011	string	GATE_target	 id="of"
+1980	3793,3793	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2128	2723,2723	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2119	627,711	string	GATE_inside	 nested-source="w"
+2166	1579,1688	string	GATE_inside	 nested-source="w"
+1991	3700,3790	string	GATE_inside	 nested-source="w"
+1984	4077,4160	string	GATE_inside	 nested-source="w"
+2023	4695,4695	string	GATE_direct-subjective	 expression-intensity="neutral" insubstantial="" intensity="low" implicit="true" nested-source="w" attitude-link="kutplunge"
+1983	3931,4076	string	GATE_inside	 nested-source="w"
+2024	4695,4771	string	GATE_inside	 nested-source="w"
+2216	1475,1480	string	GATE_expressive-subjectivity	 nested-source="w"
+2082	4032,4044	string	GATE_objective-speech-event	 nested-source="w,las"
+2210	3257,3262	string	GATE_expressive-subjectivity	 nested-source="w"
+2159	1031,1031	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2081	4045,4075	string	GATE_agent	 nested-source="w,las" id="las"
+2194	2861,2862	string	GATE_split	
+2022	4774,4935	string	GATE_inside	 nested-source="w"
+2193	2991,2992	string	GATE_split	
+2001	538,539	string	GATE_split	
+2125	627,627	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2196	3697,3698	string	GATE_split	
+2053	1839,1841	string	GATE_expressive-subjectivity	 nested-source="w"
+2181	2311,2312	string	GATE_split	
+2011	1033,1039	string	GATE_agent	 nested-source="w,kb,peep" id="peep"
+2122	749,767	string	GATE_inside	 nested-source="w"
+2158	1033,1235	string	GATE_inside	 nested-source="w"
+2014	0,0	string	GATE_direct-subjective	
+2127	712,745	string	GATE_inside	 nested-source="w"
+2183	2176,2177	string	GATE_split	
+2004	162,163	string	GATE_split	
+2013	1254,1259	string	GATE_expressive-subjectivity	 nested-source="w"
+2054	1905,1913	string	GATE_expressive-subjectivity	 nested-source="w"
+2182	2261,2262	string	GATE_split	
+2079	4084,4093	string	GATE_expressive-subjectivity	 nested-source="w"
+2055	1711,1714	string	GATE_objective-speech-event	 nested-source="w,mfo"
+2080	4228,4234	string	GATE_agent	 nested-source="w,las" id=""
+2118	166,166	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2002	623,624	string	GATE_split	
+2217	1462,1575	string	GATE_attitude	 target-link="selling" intensity="low-medium" id="posser" attitude-type="speculation"
+2059	1948,1954	string	GATE_expressive-subjectivity	 nested-source="w" intensity=""
+2218	2723,2842	string	GATE_attitude	 target-link="nuz" intensity="low" inferred="yes" id="backtonorm" contrast="" attitude-type="arguing-pos"
+2123	540,540	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2009	186,210	string	GATE_expressive-subjectivity	 nested-source="w"
+2162	768,909	string	GATE_inside	 nested-source="w"
+2124	540,624	string	GATE_inside	 nested-source="w"
+2075	4373,4407	string	GATE_agent	 nested-source="w,afs" id="afs"
+2016	0,0	string	GATE_agent	 id="implicit"
+2076	4352,4357	string	GATE_expressive-subjectivity	 nested-source="w,afs"
+2006	357,358	string	GATE_split	
+2179	1837,1838	string	GATE_split	
+2058	1254,1306	string	GATE_attitude	 target-link="dawith" intensity="low-medium" repetition="" id="kutspel" attitude-type="speculation"
+2222	2731,2742	string	GATE_target	 target-uncertain="" id="nuz"
+2178	1928,1929	string	GATE_split	
+2199	3423,3424	string	GATE_split	
+2003	625,627	string	GATE_split	
+2142	3376,3424	string	GATE_inside	 nested-source="w"
+2078	4408,4411	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="posshit" nested-source="w,afs"
+2056	1689,1710	string	GATE_agent	 nested-source="w,mfo" id="mfo"
+2012	970,980	string	GATE_agent	 id="w,sfm,inv"
+2143	4411,4412	string	GATE_split	
+2005	164,166	string	GATE_split	
+2180	1687,1688	string	GATE_split	
+2097	2622,2626	string	GATE_objective-speech-event	 nested-source="w,nl" insubstantial=""
+2161	912,912	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2121	361,361	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2144	4693,4694	string	GATE_split	
+2057	1238,1253	string	GATE_target	 id="dawith"
+2200	3374,3375	string	GATE_split	
+2164	1238,1307	string	GATE_inside	 nested-source="w"
+2007	981,988	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="" intensity="medium" nested-source="w,sfm,inv" polarity="negative" attitude-link="conab"
+2010	1111,1121	string	GATE_direct-subjective	 implicit="" nested-source="w,kb,peep,peep"
+2195	3789,3790	string	GATE_split	
+2141	3257,3257	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+2077	4235,4239	string	GATE_objective-speech-event	 nested-source="w,las"
+2163	768,768	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

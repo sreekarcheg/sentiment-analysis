@@ -1,0 +1,123 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/11.21.37-22256/11.21.37-22256.jw.attitudes-polfixed.xml
+#  on Fri Nov 14 07:48:04 EST 2008
+#  by twilson
+117	1016,1056	string	GATE_attitude	 target-link="t19" attitude-type="arguing-pos" id="a100" intensity="medium"
+115	1468,1501	string	GATE_attitude	 target-link="t28" attitude-type="sentiment-neg" inferred="yes" intensity="medium" id="a28"
+113	867,908	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, arias" polarity="positive"
+111	768,811	string	GATE_attitude	 target-link="t17" attitude-type="sentiment-pos" id="a17" intensity="medium"
+109	1673,1755	string	GATE_inside	 nested-source="w"
+107	1162,1174	string	GATE_attitude	 target-link="t21" attitude-type="sentiment-neg" intensity="medium" id="a21"
+105	1299,1305	string	GATE_target	 id="t23"
+103	1016,1019	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a19,a100" nested-source="w,cc" intensity="medium" polarity="positive"
+101	639,639	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+99	21,59	string	GATE_target	 id="t10"
+97	1673,1673	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+95	99,105	string	GATE_split	
+93	660,696	string	GATE_attitude	 target-link="t16" attitude-type="other" intensity="medium" id="a16"
+91	639,756	string	GATE_inside	 nested-source="w"
+89	760,762	string	GATE_agent	 nested-source="w, arias"
+87	105,105	string	GATE_direct-subjective	 attitude-link="a15" nested-source="w" intensity="high" implicit="true"
+85	1102,1124	string	GATE_expressive-subjectivity	 nested-source="w,castro" intensity="medium" polarity="positive"
+83	660,686	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, arias" polarity="positive"
+81	122,141	string	GATE_agent	 nested-source="w, cubans"
+79	1425,1438	string	GATE_attitude	 target-link="t25" attitude-type="arguing-neg" intensity="low" id="a25"
+77	1035,1056	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, cc" polarity="positive"
+75	976,1057	string	GATE_inside	 nested-source="w"
+73	1061,1067	string	GATE_agent	 nested-source="w, castro"
+71	1162,1174	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a21" intensity="medium" nested-source="w, us" polarity="negative"
+69	1401,1424	string	GATE_agent	 id="admin" nested-source="w, admin"
+67	1671,1672	string	GATE_split	
+65	1203,1224	string	GATE_attitude	 target-link="t22" attitude-type="sentiment-neg" intensity="high" id="a22"
+63	369,369	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	1513,1513	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+59	1016,1056	string	GATE_attitude	 target-link="t19" attitude-type="sentiment-pos" inferred="yes" intensity="medium" id="a19"
+57	755,756	string	GATE_split	
+55	142,152	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a13" nested-source="w, cubans" intensity="high" polarity="positive"
+53	763,767	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a17, a18" nested-source="w, arias" intensity="high"
+51	1465,1467	string	GATE_target	 id="t26"
+49	4,4	string	GATE_direct-subjective	 attitude-link="a12" nested-source="w" intensity="medium" implicit="true"
+47	1057,1061	string	GATE_split	
+45	61,68	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a11" nested-source="w, cubans" intensity="medium" polarity="negative"
+43	981,998	string	GATE_agent	 id="cc" nested-source="w, cc"
+41	853,864	string	GATE_target	 id="t18"
+39	1087,1093	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, castro" polarity="positive"
+37	1465,1467	string	GATE_agent	 nested-source="w, implicit, admin"
+35	1203,1224	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a22" intensity="high" nested-source="w, cuba" polarity="negative"
+33	760,972	string	GATE_inside	 nested-source="w"
+31	0,0	string	GATE_agent	 id="w"
+29	1020,1030	string	GATE_target	 id="t19"
+27	1513,1672	string	GATE_inside	 nested-source="w"
+25	641,659	string	GATE_target	 id="t16"
+23	1056,1057	string	GATE_split	
+21	226,234	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a14" nested-source="w, cubans" intensity="medium" polarity="negative"
+19	1439,1508	string	GATE_attitude	 target-link="t26" attitude-type="arguing-pos" intensity="medium" id="a26"
+17	1198,1198	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	701,705	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a16" nested-source="w, arias" intensity="medium"
+13	1175,1193	string	GATE_agent	 id="us" nested-source="w, us"
+11	760,760	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+9	4,96	string	GATE_inside	 nested-source="w"
+7	1225,1258	string	GATE_target	 id="t22"
+5	4,10	string	GATE_agent	 id="cubans" nested-source="w, cubans"
+3	369,635	string	GATE_inside	 nested-source="w"
+1	153,204	string	GATE_target	 id="t13"
+116	235,250	string	GATE_target	 id="t14"
+114	1397,1401	string	GATE_split	
+112	867,969	string	GATE_attitude	 target-link="t18" attitude-type="sentiment-pos" intensity="high" id="a18"
+110	812,969	string	GATE_target	 id="t17"
+108	105,365	string	GATE_inside	 nested-source="w"
+106	1358,1384	string	GATE_attitude	 target-link="t23" attitude-type="sentiment-pos" intensity="medium-high" id="a23"
+104	1487,1508	string	GATE_target	 id="t27"
+102	1068,1077	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" nested-source="w, castro" intensity="medium" polarity="positive"
+100	706,717	string	GATE_agent	 id="arias" nested-source="w, arias"
+98	1468,1486	string	GATE_attitude	 target-link="t27" attitude-type="sentiment-pos" intensity="medium" id="a27"
+96	484,501	string	GATE_agent	 id="castro" nested-source="w, castro, castro"
+94	1198,1202	string	GATE_agent	 id="cuba" nested-source="w, cuba"
+92	1754,1755	string	GATE_split	
+90	69,76	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-neg" intensity="medium" id="a12"
+88	1061,1194	string	GATE_inside	 nested-source="w"
+86	1198,1397	string	GATE_inside	 nested-source="w"
+84	61,96	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-neg" intensity="medium" id="a11"
+82	1068,1139	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" intensity="medium" id="a20"
+80	1396,1397	string	GATE_split	
+78	1401,1509	string	GATE_inside	 nested-source="w"
+76	1468,1486	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a27, a28" nested-source="w, implicit, admin" intensity="medium" polarity="both"
+74	1078,1084	string	GATE_agent	 id="chavez"
+72	282,292	string	GATE_attitude	 target-link="t15" attitude-type="sentiment-neg" intensity="high" id="a15"
+70	364,365	string	GATE_split	
+68	1385,1396	string	GATE_target	 id="t24"
+66	538,544	string	GATE_objective-speech-event	 nested-source="w, castro"
+64	11,20	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a10" nested-source="w, cubans" intensity="high" polarity="positive"
+62	293,364	string	GATE_target	 id="t15"
+60	226,364	string	GATE_attitude	 target-link="t14" attitude-type="sentiment-neg" intensity="medium" id="a14"
+58	1061,1061	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+56	1502,1508	string	GATE_target	 id="t28"
+54	1078,1084	string	GATE_target	 id="t20"
+52	1194,1198	string	GATE_split	
+50	1509,1513	string	GATE_split	
+48	1425,1438	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a25" nested-source="w, admin" intensity="low" polarity="negative"
+46	142,152	string	GATE_attitude	 target-link="t13" attitude-type="sentiment-pos" intensity="high" id="a13"
+44	1358,1384	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a23, a130" nested-source="w,implicit" intensity="medium" polarity="both"
+42	1508,1509	string	GATE_split	
+40	635,639	string	GATE_split	
+38	11,20	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" intensity="high" id="a10"
+36	976,976	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	779,809	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, arias" polarity="positive"
+32	282,292	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="negative"
+30	96,99	string	GATE_split	
+28	69,76	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="negative"
+26	634,635	string	GATE_split	
+24	1439,1508	string	GATE_target	 id="t25"
+22	0,0	string	GATE_agent	 id="implicit"
+20	502,510	string	GATE_objective-speech-event	 nested-source="w, castro, castro"
+18	1439,1450	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a26" nested-source="w, implicit" intensity="low" polarity="uncertain-negative"
+16	1193,1194	string	GATE_split	
+14	972,976	string	GATE_split	
+12	77,81	string	GATE_target	 id="t11"
+10	756,760	string	GATE_split	
+8	1145,1161	string	GATE_target	 id="t21"
+6	1358,1396	string	GATE_attitude	 target-link="t24" attitude-type="sentiment-pos" inferred="yes" intensity="medium" id="a130"
+4	1755,1757	string	GATE_split	
+2	365,369	string	GATE_split	
+0	1401,1401	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

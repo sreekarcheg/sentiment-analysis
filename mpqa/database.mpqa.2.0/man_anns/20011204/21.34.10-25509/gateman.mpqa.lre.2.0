@@ -1,0 +1,26 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011204/21.34.10-25509/21.34.10-25509.tw.attitudes.xml
+#  on Mon Jul 31 18:44:11 EDT 2006
+#  by twilson
+20	70,98	string	GATE_agent	 id="ivanic"
+19	591,594	string	GATE_split	
+18	520,527	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w,hebei" intensity="low" polarity="positive"
+17	403,404	string	GATE_split	
+16	261,262	string	GATE_split	
+15	269,275	string	GATE_agent	 nested-source="w,ivanic"
+14	471,514	string	GATE_agent	 id="hebei" nested-source="w,hebei"
+13	0,0	string	GATE_agent	 id="w"
+12	411,584	string	GATE_inside	 nested-source="w"
+11	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	338,345	string	GATE_objective-speech-event	 insubstantial="c2" nested-source="w,ivanic"
+9	0,0	string	GATE_agent	 id="implicit"
+8	2,262	string	GATE_inside	 nested-source="w"
+7	269,269	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	411,411	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	269,404	string	GATE_inside	 nested-source="w"
+4	583,584	string	GATE_split	
+3	220,261	string	GATE_agent	 id="bureau" nested-source="w, bureau"
+2	198,214	string	GATE_objective-speech-event	 nested-source="w, bureau"
+1	520,527	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="low"
+0	528,545	string	GATE_target	 id="t10"

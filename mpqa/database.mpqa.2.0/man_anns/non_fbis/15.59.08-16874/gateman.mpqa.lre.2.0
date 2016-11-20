@@ -1,0 +1,51 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/15.59.08-16874/15.59.08-16874.jw.attitudes.xml
+#  on Wed Feb  8 16:30:07 EST 2006
+#  by twilson
+45	376,377	string	GATE_agent	 nested-source="w,cardoso,cardoso"
+44	164,226	string	GATE_target	 id="t3"
+43	69,314	string	GATE_inside	 nested-source="w"
+42	171,182	string	GATE_attitude	 target-link="t4" attitude-type="intention-pos" intensity="medium" id="a4"
+41	383,478	string	GATE_target	 id="t9"
+40	486,493	string	GATE_agent	 nested-source="w,cardoso"
+39	183,226	string	GATE_target	 id="t4"
+38	17,19	string	GATE_agent	 nested-source="w,cardoso,US"
+37	315,315	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	341,350	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,cardoso" polarity="neutral"
+35	376,494	string	GATE_inside	 nested-source="w"
+34	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	60,63	string	GATE_split	
+32	12,16	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" intensity="medium" nested-source="w,cardoso"
+31	376,376	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	315,375	string	GATE_inside	 nested-source="w"
+29	113,149	string	GATE_agent	 id="cardoso" nested-source="w,cardoso"
+28	335,374	string	GATE_attitude	 target-link="t7" attitude-type="arguing-pos" intensity="low-medium" id="a7"
+27	17,48	string	GATE_target	 id="t1"
+26	315,316	string	GATE_direct-subjective	 attitude-link="a7" intensity="medium" nested-source="w,cardoso" implicit="true"
+25	499,501	string	GATE_split	
+24	20,28	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a2" insubstantial="c1" nested-source="w,cardoso,US" intensity="low" polarity="neutral"
+23	63,69	string	GATE_split	
+22	378,382	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a9" intensity="medium" nested-source="w,cardoso,cardoso" polarity="positive"
+21	0,0	string	GATE_agent	 id="implicit"
+20	493,494	string	GATE_split	
+19	316,334	string	GATE_target	 id="t7"
+18	378,382	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-pos" intensity="medium" id="a9"
+17	0,0	string	GATE_agent	 id="w"
+16	4,11	string	GATE_agent	 nested-source="w,cardoso"
+15	20,28	string	GATE_attitude	 target-link="none" attitude-type="other-attitude" intensity="low" id="a2"
+14	272,287	string	GATE_attitude	 target-link="t5" attitude-type="intention-neg" intensity="medium" id="a5"
+13	4,60	string	GATE_inside	 nested-source="w"
+12	313,314	string	GATE_split	
+11	150,158	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a3" nested-source="w,cardoso" intensity="medium"
+10	164,170	string	GATE_agent	 id="US" nested-source="w,cardoso,US"
+9	171,179	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a4" intensity="low" nested-source="w,cardoso,US" polarity="neutral"
+8	69,69	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	272,280	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a5" intensity="low" nested-source="w,cardoso" polarity="neutral"
+6	374,375	string	GATE_split	
+5	49,60	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="medium" id="a1"
+4	227,238	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-pos" intensity="medium" id="a3"
+3	230,238	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,cardoso" polarity="positive"
+2	52,60	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,cardoso" polarity="positive"
+1	288,313	string	GATE_target	 id="t5"
+0	481,485	string	GATE_objective-speech-event	 nested-source="w,cardoso"

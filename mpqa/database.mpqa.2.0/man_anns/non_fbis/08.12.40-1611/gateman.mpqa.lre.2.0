@@ -1,0 +1,72 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/08.12.40-1611/08.12.40-1611.jw.attitudes.xml
+#  on Wed Feb  8 16:16:37 EST 2006
+#  by twilson
+66	786,885	string	GATE_inside	 nested-source="w"
+65	680,781	string	GATE_attitude	 target-link="t15" attitude-type="speculation" intensity="low" id="a15"
+64	385,385	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+63	786,786	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+62	348,379	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,bush" polarity="negative"
+61	333,339	string	GATE_attitude	 target-link="t100" attitude-type="other-attitude" intensity="low" id="a100"
+60	739,754	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,offs" polarity="negative"
+59	189,194	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,bush" polarity="uncertain-neutral"
+58	381,385	string	GATE_split	
+57	44,47	string	GATE_split	
+56	93,238	string	GATE_attitude	 target-link="t51" attitude-type="sentiment-neg" intensity="medium" id="a52"
+55	189,194	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a13" intensity="low" nested-source="w,bush,mugabegov" polarity="neutral"
+54	73,77	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a51, a52" intensity="medium" nested-source="w,bush"
+53	0,0	string	GATE_agent	 id="w"
+52	243,247	string	GATE_agent	 nested-source="w,bush"
+51	0,0	string	GATE_agent	 id="implicit"
+50	224,238	string	GATE_attitude	 target-link="t13" attitude-type="arguing-pos" intensity="medium" id="a13"
+49	481,482	string	GATE_split	
+48	680,683	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,offs" polarity="neutral"
+47	159,170	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a12" insubstantial="c2" nested-source="w, bush, us" intensity="low" polarity="neutral"
+46	93,98	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,bush" polarity="negative"
+45	486,637	string	GATE_inside	 nested-source="w"
+44	794,805	string	GATE_expressive-subjectivity	 nested-source-uncertain="somewhat-uncertain" nested-source="w" intensity="low" polarity="neutral"
+43	6,26	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t10" attitude-type="agree-neg" id="a50" intensity="medium-high"
+42	1,1	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	385,482	string	GATE_inside	 nested-source="w"
+40	884,885	string	GATE_split	
+39	641,641	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	371,379	string	GATE_target	 id="t14"
+37	6,26	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a10, a50" nested-source="w,us" intensity="high" polarity="negative"
+36	782,786	string	GATE_split	
+35	330,339	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a100" insubstantial="c2" nested-source="w,bush,us" intensity="low" polarity="neutral"
+34	47,53	string	GATE_split	
+33	6,26	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-neg" intensity="medium-high" id="a10"
+32	781,782	string	GATE_split	
+31	200,223	string	GATE_target	 id="t13"
+30	885,889	string	GATE_split	
+29	239,243	string	GATE_split	
+28	656,660	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a15" intensity="medium" nested-source="w,offs"
+27	53,239	string	GATE_inside	 nested-source="w"
+26	171,238	string	GATE_target	 id="t12"
+25	238,239	string	GATE_split	
+24	363,369	string	GATE_attitude	 target-link="t14" attitude-type="sentiment-neg" intensity="medium" id="a14"
+23	243,381	string	GATE_inside	 nested-source="w"
+22	248,252	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a14" intensity="medium" nested-source="w,bush"
+21	159,170	string	GATE_attitude	 target-link="t12" attitude-type="other-attitude" intensity="low-medium" id="a12"
+20	93,238	string	GATE_attitude	 target-link="t51" attitude-type="arguing-pos" intensity="medium" id="a51"
+19	482,486	string	GATE_split	
+18	637,641	string	GATE_split	
+17	486,486	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	340,379	string	GATE_target	 id="t100"
+15	102,122	string	GATE_target	 id="t51"
+14	53,72	string	GATE_agent	 id="bush" nested-source="w,bush"
+13	27,44	string	GATE_agent	 id="mugabegov"
+12	171,186	string	GATE_agent	 nested-source="w,bush,mugabegov"
+11	641,782	string	GATE_inside	 nested-source="w"
+10	661,679	string	GATE_target	 id="t15"
+9	276,293	string	GATE_agent	 nested-source="w,bush,us"
+8	136,153	string	GATE_agent	 id="us"
+7	944,948	string	GATE_split	
+6	27,44	string	GATE_target	 id="t10"
+5	243,243	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	1,44	string	GATE_inside	 nested-source="w"
+3	636,637	string	GATE_split	
+2	1,5	string	GATE_agent	 nested-source="w,us"
+1	53,53	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+0	641,655	string	GATE_agent	 id="offs" nested-source="w,offs"

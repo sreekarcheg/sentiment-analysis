@@ -1,0 +1,36 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011203/21.23.57-11596/21.23.57-11596.tw.attitudes.xml
+#  on Mon Jul 31 20:19:25 EDT 2006
+#  by twilson
+30	2,137	string	GATE_inside	 nested-source="w"
+29	549,552	string	GATE_split	
+28	547,548	string	GATE_split	
+27	409,410	string	GATE_split	
+26	417,417	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	417,548	string	GATE_inside	 nested-source="w"
+24	336,337	string	GATE_split	
+23	338,338	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	338,410	string	GATE_inside	 nested-source="w"
+21	266,267	string	GATE_split	
+20	0,0	string	GATE_agent	 id="implicit"
+19	0,0	string	GATE_agent	 id="w"
+18	268,268	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	268,337	string	GATE_inside	 nested-source="w"
+16	136,137	string	GATE_split	
+15	138,138	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	138,267	string	GATE_inside	 nested-source="w"
+13	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	138,155	string	GATE_agent	 id="corres" nested-source="w, corres"
+11	156,160	string	GATE_objective-speech-event	 nested-source="w, corres"
+10	259,266	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" subjective-uncertain="somewhat-uncertain" annotation-uncertain="somewhat-uncertain" intensity="low" nested-source="w, corres, implicit" polarity="neutral"
+9	268,270	string	GATE_agent	 nested-source="w, corres"
+8	271,276	string	GATE_objective-speech-event	 nested-source="w, corres"
+7	436,466	string	GATE_agent	 nested-source="w, corres"
+6	467,471	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a20,a25" intensity="high" nested-source="w, corres"
+5	495,507	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, corres" polarity="uncertain-both"
+4	166,189	string	GATE_target	 id="t10"
+3	249,266	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+2	477,494	string	GATE_target	 id="t20"
+1	495,507	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" id="a20" intensity="medium-high"
+0	495,507	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" id="a25" intensity="high"

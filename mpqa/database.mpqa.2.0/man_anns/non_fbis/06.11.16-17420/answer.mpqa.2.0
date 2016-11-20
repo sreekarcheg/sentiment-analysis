@@ -1,0 +1,17 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/41.ctc.annotated
+#  on Thu Sep 09 14:16:53 EDT 2004
+#  by ves
+
+1207	2288,2302	string	answer	annotator="ctc" confidence="4" partial="true" confidencecomment="indirect reaction to the US decision" questionnumber="7" topic="kyoto"
+1255	89,162	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="weak indication of how Britain looked upon the US decision" questionnumber="7" topic="kyoto"
+1199	911,930	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="8" topic="kyoto"
+1317	111,145	string	answer	annotator="ctc" questionnumber="1" confidence="5" topic="kyoto"
+1235	88,163	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="weak indication of how Britain looked upon the US decision" questionnumber="8" topic="kyoto"
+1196	414,441	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="7" topic="kyoto"
+1222	395,412	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="8" topic="kyoto"
+1175	1037,1106	string	answer	annotator="ctc" questionnumber="1" confidence="5" topic="kyoto"
+1233	414,441	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="8" topic="kyoto"
+1271	911,930	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="7" topic="kyoto"
+1179	395,412	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="7" topic="kyoto"

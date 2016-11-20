@@ -1,0 +1,81 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011016/22.34.35-3190/22.34.35-3190.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+75	529,540	string	GATE_agent	 nested-source="w, Dostum"
+74	1055,1056	string	GATE_split	
+73	1048,1050	string	GATE_agent	 nested-source="w, Dostum"
+72	1160,1200	string	GATE_target	 id="t5"
+71	1148,1149	string	GATE_split	
+70	929,1056	string	GATE_inside	 nested-source="w"
+69	929,929	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+68	1202,1234	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t5" attitude-type="sentiment-pos" id="a6" intensity="low-medium"
+67	873,927	string	GATE_attitude	 target-link="t3" attitude-type="arguing-neg" intensity="low-medium" id="a3"
+66	1057,1057	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+65	870,871	string	GATE_split	
+64	756,762	string	GATE_agent	 nested-source="w, Dostum"
+63	1202,1234	string	GATE_attitude	 target-link="t5" attitude-type="speculation" intensity="low" id="a5"
+62	444,450	string	GATE_agent	 nested-source="w, Dostum"
+61	241,242	string	GATE_split	
+60	1051,1055	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+59	1150,1150	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+58	1202,1210	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Dostum" polarity="neutral"
+57	1178,1200	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, Dostum" polarity="positive"
+56	60,82	string	GATE_agent	 id="Dostum"
+55	1268,1276	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Dostum" polarity="neutral"
+54	529,679	string	GATE_inside	 nested-source="w"
+53	784,791	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a2" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w, Dostum, implicit"
+52	1257,1265	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a7" nested-source="w, Dostum" intensity="medium" polarity="positive"
+51	769,871	string	GATE_inside	 nested-source="w"
+50	872,872	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+49	763,767	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+48	1057,1063	string	GATE_agent	 nested-source="w, Dostum"
+47	777,783	string	GATE_attitude	 target-link="t1" attitude-type="arguing-neg" intensity="medium-high" id="a1"
+46	1064,1068	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+45	243,243	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	451,455	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+43	1069,1071	string	GATE_agent	 nested-source="w, Dostum, Dostum"
+42	680,680	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	1150,1158	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w, Dostum" polarity="neutral"
+40	243,528	string	GATE_inside	 nested-source="w"
+39	872,873	string	GATE_direct-subjective	 attitude-link="a3" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w, Dostum" implicit="true"
+38	149,153	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+37	883,897	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Dostum" polarity="neutral"
+36	680,768	string	GATE_inside	 nested-source="w"
+35	678,679	string	GATE_split	
+34	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	784,870	string	GATE_target	 id="t1"
+32	1340,1343	string	GATE_split	
+31	541,545	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+30	529,529	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	1257,1265	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-pos" intensity="low-medium" id="a7"
+28	1072,1082	string	GATE_attitude	 target-link="t4" attitude-type="intention-pos" intensity="low" id="a4"
+27	1245,1333	string	GATE_inside	 nested-source="w"
+26	886,897	string	GATE_target	 id="t3"
+25	1150,1244	string	GATE_inside	 nested-source="w"
+24	527,528	string	GATE_split	
+23	797,808	string	GATE_target	 id="t2"
+22	1239,1243	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a5, a6" intensity="medium" nested-source="w, Dostum"
+21	1332,1333	string	GATE_split	
+20	0,0	string	GATE_agent	 id="implicit"
+19	1231,1234	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Dostum" polarity="neutral"
+18	2,242	string	GATE_inside	 nested-source="w"
+17	769,769	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	142,148	string	GATE_agent	 nested-source="w, Dostum"
+15	1072,1079	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a4" intensity="low" nested-source="w, Dostum, Dostum" polarity="neutral"
+14	767,768	string	GATE_split	
+13	1243,1244	string	GATE_split	
+12	872,928	string	GATE_inside	 nested-source="w"
+11	1083,1120	string	GATE_target	 id="t4"
+10	155,161	string	GATE_objective-speech-event	 nested-source="w, Dostum"
+9	927,928	string	GATE_split	
+8	1266,1332	string	GATE_target	 id="t7"
+7	769,771	string	GATE_agent	 nested-source="w, Dostum"
+6	1245,1245	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	1057,1149	string	GATE_inside	 nested-source="w"
+4	0,0	string	GATE_agent	 id="w"
+3	777,783	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" intensity="low" nested-source="w, Dostum"
+2	1245,1251	string	GATE_agent	 nested-source="w, Dostum"
+1	1236,1238	string	GATE_agent	 nested-source="w, Dostum"
+0	809,870	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="low" id="a2"

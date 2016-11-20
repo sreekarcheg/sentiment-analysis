@@ -1,0 +1,30 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020315/20.38.49-16233/20.38.49-16233.tw.attitudes.xml
+#  on Tue Aug  1 17:46:45 EDT 2006
+#  by twilson
+24	885,885	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	0,0	string	GATE_agent	 id="w"
+22	317,317	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+21	64,316	string	GATE_inside	 nested-source="w"
+20	768,768	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	1,3	string	GATE_split	
+18	317,328	string	GATE_agent	 id="specialists" nested-source="w, specialists"
+17	885,1006	string	GATE_inside	 nested-source="w"
+16	317,651	string	GATE_inside	 nested-source="w"
+15	766,767	string	GATE_split	
+14	801,821	string	GATE_agent	 id="comm" nested-source="w, comm"
+13	365,369	string	GATE_objective-speech-event	 nested-source="w, specialists"
+12	650,651	string	GATE_split	
+11	1005,1006	string	GATE_split	
+10	315,316	string	GATE_split	
+9	822,842	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" insubstantial="c2" nested-source="w, comm" intensity="low" polarity="neutral"
+8	1007,1010	string	GATE_split	
+7	652,652	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	0,0	string	GATE_agent	 id="implicit"
+5	64,65	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	768,884	string	GATE_inside	 nested-source="w"
+3	883,884	string	GATE_split	
+2	652,767	string	GATE_inside	 nested-source="w"
+1	822,842	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+0	843,883	string	GATE_target	 id="t10"

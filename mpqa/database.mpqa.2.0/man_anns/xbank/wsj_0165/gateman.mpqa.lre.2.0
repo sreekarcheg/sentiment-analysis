@@ -1,0 +1,50 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0165/wsj_0165.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+427	31,93	string	GATE_inside	 nested-source="w"
+415	912,913	string	GATE_split	
+400	57,132	string	GATE_target	 id="buy"
+432	309,515	string	GATE_inside	 nested-source="w"
+422	516,516	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+405	484,504	string	GATE_agent	 nested-source="w,hs" id="hs"
+433	757,757	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+390	94,133	string	GATE_inside	 nested-source="w"
+414	1018,1019	string	GATE_split	
+399	46,48	string	GATE_agent	 nested-source="w,hmc" id=""
+419	516,589	string	GATE_inside	 nested-source="w"
+406	132,133	string	GATE_split	
+391	914,1019	string	GATE_inside	 nested-source="w"
+413	1020,1022	string	GATE_split	
+425	1,6	string	GATE_inside	 nested-source="w"
+398	49,56	string	GATE_attitude	 target-link="buy" intensity="low-medium" id="offer" attitude-type="intention-pos"
+393	9,29	string	GATE_inside	 nested-source="w"
+403	505,514	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="estimation" nested-source="w,hs"
+424	590,592	string	GATE_split	
+396	202,206	string	GATE_objective-speech-event	 nested-source="w,hmc" insubstantial=""
+411	9,29	string	GATE_agent	 nested-source="w,hmc" id="hmc"
+416	7,9	string	GATE_split	
+417	307,308	string	GATE_split	
+408	0,0	string	GATE_agent	 id="implicit"
+395	408,416	string	GATE_target	 id="heri"
+410	0,0	string	GATE_direct-subjective	
+418	134,136	string	GATE_split	
+401	49,56	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,hmc,hmc" polarity="" attitude-link="offer"
+409	0,0	string	GATE_expressive-subjectivity	
+426	514,515	string	GATE_split	
+431	592,592	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+394	136,308	string	GATE_inside	 nested-source="w"
+423	588,589	string	GATE_split	
+402	41,45	string	GATE_objective-speech-event	 nested-source="w,hmc"
+430	757,913	string	GATE_inside	 nested-source="w"
+412	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+420	309,309	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+429	592,756	string	GATE_inside	 nested-source="w"
+392	136,136	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+407	0,0	string	GATE_agent	 id="w"
+428	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+397	136,144	string	GATE_agent	 nested-source="w,hmc"
+421	755,756	string	GATE_split	
+389	914,914	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+404	417,514	string	GATE_attitude	 target-link="heri" attitude-uncertain="somewhat-uncertain" intensity="low" id="estimation" attitude-type="speculation"

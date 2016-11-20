@@ -1,0 +1,37 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0551/wsj_0551.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+163	9,23	string	GATE_inside	 nested-source="w"
+151	191,279	string	GATE_target	 id="buyt"
+168	309,333	string	GATE_target	 id="close"
+158	279,280	string	GATE_split	
+171	297,308	string	GATE_attitude	 target-link="close" intensity="low" id="exp" contrast="" attitude-type="other-attitude"
+182	134,136	string	GATE_split	
+177	132,133	string	GATE_split	
+159	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+176	136,149	string	GATE_inside	 nested-source="w"
+180	0,0	string	GATE_direct-subjective	
+161	297,308	string	GATE_direct-subjective	 nested-source="w,implicit" attitude-link="exp"
+169	0,0	string	GATE_expressive-subjectivity	
+160	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+179	105,133	string	GATE_inside	 nested-source="w"
+152	151,280	string	GATE_inside	 nested-source="w"
+157	7,9	string	GATE_split	
+170	119,127	string	GATE_agent	 nested-source="w,tc"
+178	91,117	string	GATE_agent	 nested-source="" id="sc"
+154	333,334	string	GATE_split	
+175	136,149	string	GATE_target	 target-uncertain="w,sc" id=""
+162	173,179	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,sc" attitude-link="agreeal"
+167	335,337	string	GATE_split	
+155	0,0	string	GATE_agent	 id="implicit"
+172	24,104	string	GATE_inside	 nested-source="w"
+181	9,23	string	GATE_agent	 id="tc"
+166	281,334	string	GATE_inside	 nested-source="w"
+173	136,136	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+156	128,132	string	GATE_objective-speech-event	 nested-source="w,tc"
+165	173,179	string	GATE_attitude	 target-link="buyt" intensity="low" id="agreeal" attitude-type="agree-pos"
+164	1,6	string	GATE_inside	 nested-source="w"
+174	0,0	string	GATE_agent	 id="w"
+153	281,281	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
