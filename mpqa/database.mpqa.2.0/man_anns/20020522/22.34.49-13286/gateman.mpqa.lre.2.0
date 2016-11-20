@@ -1,0 +1,72 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020522/22.34.49-13286/22.34.49-13286.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+66	770,852	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t3" attitude-type="arguing-pos" id="a3" intensity="low-medium"
+65	425,434	string	GATE_objective-speech-event	 nested-source="w, gazprom, meeting"
+64	649,660	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t2" attitude-type="sentiment-pos" id="a2" intensity="low-medium"
+63	1059,1074	string	GATE_target	 id="t8"
+62	74,76	string	GATE_split	
+61	643,644	string	GATE_split	
+60	1050,1058	string	GATE_attitude	 target-link="t8" attitude-type="agree-pos" intensity="low-medium" id="a8"
+59	529,538	string	GATE_objective-speech-event	 nested-source="w, iliye"
+58	924,963	string	GATE_agent	 id="nastase" nested-source="w, iliye, nastase"
+57	387,387	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+56	661,852	string	GATE_target	 id="t2"
+55	0,0	string	GATE_agent	 id="w"
+54	1013,1013	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+53	555,578	string	GATE_agent	 id="romaniangov" nested-source="w, iliye, romaniangov"
+52	877,878	string	GATE_split	
+51	879,1012	string	GATE_inside	 nested-source="w"
+50	384,385	string	GATE_split	
+49	908,966	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-pos" intensity="low-medium" id="a7"
+48	594,606	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, iliye, romaniangov" polarity="positive"
+47	908,918	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a7" intensity="low" nested-source="w, iliye, nastase" polarity="positive"
+46	521,522	string	GATE_split	
+45	1013,1075	string	GATE_inside	 nested-source="w"
+44	139,385	string	GATE_inside	 nested-source="w"
+43	645,647	string	GATE_agent	 nested-source="w, gazprom, iliye"
+42	264,289	string	GATE_agent	 id="miller"
+41	264,347	string	GATE_agent	 id="meeting" nested-source="w, gazprom, meeting"
+40	649,657	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a2" intensity="low" nested-source="w, gazprom, iliye" polarity="neutral"
+39	223,237	string	GATE_objective-speech-event	 nested-source="w, gazprom, meeting"
+38	523,528	string	GATE_agent	 nested-source="w, iliye"
+37	873,877	string	GATE_objective-speech-event	 nested-source="w, gazprom"
+36	523,523	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	770,778	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a3" insubstantial="c2" nested-source="w, gazprom, iliye, gazprom" intensity="low" polarity="neutral"
+34	543,551	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="medium" nested-source="w, iliye, romaniangov" polarity="positive"
+33	645,645	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	147,147	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	1013,1031	string	GATE_agent	 id="press" nested-source="w, press"
+30	1064,1074	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a9" insubstantial="c1" nested-source="w, press, miller, implicit" intensity="low" polarity="positive"
+29	387,396	string	GATE_objective-speech-event	 nested-source="w, gazprom"
+28	397,408	string	GATE_agent	 nested-source="w, gazprom"
+27	410,419	string	GATE_agent	 nested-source="w, gazprom, meeting"
+26	779,791	string	GATE_target	 id="t3"
+25	387,522	string	GATE_inside	 nested-source="w"
+24	1011,1012	string	GATE_split	
+23	135,137	string	GATE_split	
+22	0,0	string	GATE_agent	 id="implicit"
+21	1043,1049	string	GATE_target	 id="t9"
+20	661,668	string	GATE_agent	 nested-source="w, gazprom, iliye, gazprom"
+19	1074,1075	string	GATE_split	
+18	145,146	string	GATE_split	
+17	855,872	string	GATE_agent	 nested-source="w, gazprom"
+16	1043,1049	string	GATE_agent	 nested-source="w, press, miller"
+15	1077,1079	string	GATE_split	
+14	294,347	string	GATE_agent	 id="iliye"
+13	879,879	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	361,365	string	GATE_objective-speech-event	 nested-source="w, gazprom"
+11	879,893	string	GATE_agent	 nested-source="w, iliye"
+10	1050,1058	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a8" intensity="low" nested-source="w, press, miller" polarity="neutral"
+9	523,644	string	GATE_inside	 nested-source="w"
+8	1032,1037	string	GATE_objective-speech-event	 nested-source="w, press"
+7	645,878	string	GATE_inside	 nested-source="w"
+6	349,360	string	GATE_agent	 id="gazprom" nested-source="w, gazprom"
+5	611,630	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, iliye, romaniangov" polarity="positive"
+4	895,904	string	GATE_objective-speech-event	 nested-source="w, iliye"
+3	967,1011	string	GATE_target	 id="t7"
+2	583,643	string	GATE_target	 id="t1"
+1	1064,1074	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-pos" intensity="low-medium" id="a9"
+0	543,581	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="low-medium" id="a1"

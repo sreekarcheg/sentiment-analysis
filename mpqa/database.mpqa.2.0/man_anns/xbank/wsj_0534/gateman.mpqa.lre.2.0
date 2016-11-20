@@ -1,0 +1,37 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0534/wsj_0534.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+254	27,29	string	GATE_agent	 nested-source="w,c,c"
+277	0,0	string	GATE_direct-subjective	
+262	191,212	string	GATE_agent	 nested-source="w,c" id=""
+272	280,499	string	GATE_inside	 nested-source="w"
+263	191,275	string	GATE_inside	 nested-source="w"
+278	22,67	string	GATE_inside	 nested-source="w"
+251	498,499	string	GATE_split	
+271	0,0	string	GATE_agent	 id="w"
+252	70,188	string	GATE_inside	 nested-source="w"
+275	45,105	string	GATE_target	 id="redemption"
+260	1,6	string	GATE_inside	 nested-source="w"
+270	9,21	string	GATE_inside	 nested-source="w"
+280	187,188	string	GATE_split	
+265	0,0	string	GATE_expressive-subjectivity	
+253	278,279	string	GATE_split	
+257	280,280	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+268	191,191	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+273	500,583	string	GATE_inside	 nested-source="w"
+258	584,586	string	GATE_split	
+250	213,217	string	GATE_objective-speech-event	 nested-source="w,c"
+255	22,26	string	GATE_objective-speech-event	 nested-source="w,c"
+267	9,21	string	GATE_agent	 nested-source="w,c" id="c"
+274	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+259	500,500	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+279	582,583	string	GATE_split	
+264	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+266	189,191	string	GATE_split	
+256	30,44	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,c,c" attitude-link="calling"
+261	292,299	string	GATE_agent	 nested-source="w,c"
+276	30,44	string	GATE_attitude	 target-link="redemption" intensity="medium" id="calling" attitude-type="arguing-pos"
+269	0,0	string	GATE_agent	 id="implicit"
+249	300,304	string	GATE_objective-speech-event	 nested-source="w,c"

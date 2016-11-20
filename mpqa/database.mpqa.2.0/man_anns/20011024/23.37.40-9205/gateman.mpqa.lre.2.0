@@ -1,0 +1,42 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011024/23.37.40-9205/23.37.40-9205.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+36	470,477	string	GATE_agent	 nested-source="w,dola"
+35	755,756	string	GATE_split	
+34	444,445	string	GATE_split	
+33	160,160	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	637,637	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	107,110	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	537,538	string	GATE_split	
+29	0,0	string	GATE_agent	 id="w"
+28	2,52	string	GATE_inside	 nested-source="w"
+27	281,403	string	GATE_inside	 nested-source="w"
+26	160,280	string	GATE_inside	 nested-source="w"
+25	645,653	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1" intensity="medium" nested-source="w,dola" polarity="positive"
+24	542,546	string	GATE_objective-speech-event	 nested-source="w,dola"
+23	446,446	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	539,539	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+21	539,636	string	GATE_inside	 nested-source="w"
+20	657,755	string	GATE_target	 id="t1"
+19	158,159	string	GATE_split	
+18	539,541	string	GATE_agent	 nested-source="w,dola"
+17	404,445	string	GATE_inside	 nested-source="w"
+16	281,281	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	404,404	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	402,403	string	GATE_split	
+13	763,766	string	GATE_split	
+12	404,410	string	GATE_objective-speech-event	 nested-source="w,dola"
+11	0,0	string	GATE_agent	 id="implicit"
+10	107,159	string	GATE_inside	 nested-source="w"
+9	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	281,317	string	GATE_agent	 id="dola" nested-source="w,dola"
+7	637,644	string	GATE_agent	 nested-source="w,dola"
+6	645,656	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="low-medium" id="a1"
+5	318,322	string	GATE_objective-speech-event	 nested-source="w,dola"
+4	446,538	string	GATE_inside	 nested-source="w"
+3	279,280	string	GATE_split	
+2	637,756	string	GATE_inside	 nested-source="w"
+1	478,482	string	GATE_objective-speech-event	 nested-source="w,dola"
+0	635,636	string	GATE_split	

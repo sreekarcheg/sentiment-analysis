@@ -1,0 +1,58 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/20000420_xin_eng-NEW/20000420_xin_eng-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+735	1607,1608	string	GATE_split	
+763	897,1052	string	GATE_inside	 nested-source="w"
+748	520,521	string	GATE_split	
+768	292,292	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+726	313,329	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,hall" polarity="negative" attitude-link="regret"
+758	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+737	1275,1276	string	GATE_split	
+736	1759,1760	string	GATE_split	
+743	0,0	string	GATE_expressive-subjectivity	
+738	1501,1502	string	GATE_split	
+753	1610,1610	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+729	939,948	string	GATE_expressive-subjectivity	 nested-source="w,hall,hal" polarity="negative" intensity="high"
+747	399,400	string	GATE_split	
+762	1056,1056	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+720	690,717	string	GATE_agent	 nested-source="w,ina" id="ina"
+731	922,924	string	GATE_agent	 nested-source="w,hall,hall"
+759	1278,1502	string	GATE_inside	 nested-source="w"
+744	0,0	string	GATE_direct-subjective	
+739	894,895	string	GATE_split	
+722	125,168	string	GATE_agent	 id="hall"
+754	1610,1760	string	GATE_inside	 nested-source="w"
+733	897,901	string	GATE_agent	 nested-source="w,hall"
+742	717,718	string	GATE_split	
+757	1056,1276	string	GATE_inside	 nested-source="w"
+756	1278,1278	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+770	402,402	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+719	882,886	string	GATE_objective-speech-event	 nested-source="w,ina"
+741	720,720	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+755	1763,1763	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+740	1051,1052	string	GATE_split	
+728	925,948	string	GATE_attitude	 target-link="humsit" intensity="high" id="reg" attitude-type="sentiment-neg"
+771	292,400	string	GATE_inside	 nested-source="w"
+727	949,979	string	GATE_target	 id="humsit"
+745	0,0	string	GATE_agent	 id="w"
+721	681,689	string	GATE_objective-speech-event	 nested-source="w,ina"
+746	0,0	string	GATE_agent	 id="implicit"
+761	720,895	string	GATE_inside	 nested-source="w"
+734	887,894	string	GATE_agent	 nested-source="w,ina"
+724	335,399	string	GATE_target	 id="negimp"
+760	897,897	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+723	308,312	string	GATE_agent	 nested-source="w,hall"
+767	523,718	string	GATE_inside	 nested-source="w"
+752	1504,1608	string	GATE_inside	 nested-source="w"
+749	1870,1871	string	GATE_split	
+769	0,290	string	GATE_inside	 nested-source="w"
+764	523,523	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+732	902,906	string	GATE_objective-speech-event	 nested-source="w,hall"
+750	289,290	string	GATE_split	
+765	402,521	string	GATE_inside	 nested-source="w"
+725	313,329	string	GATE_attitude	 target-link="negimp" intensity="medium" id="regret" attitude-type="sentiment-neg"
+766	1504,1504	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+751	1763,1871	string	GATE_inside	 nested-source="w"
+730	925,934	string	GATE_direct-subjective	 expression-intensity="high" intensity="medium" nested-source="w,hall,hall" polarity="negative" attitude-link="reg"

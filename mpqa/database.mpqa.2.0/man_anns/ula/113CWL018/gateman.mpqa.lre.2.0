@@ -1,0 +1,121 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/113CWL018/113CWL018.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+735	818,824	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+684	1119,1160	string	GATE_target	 id="t_consider"
+716	1160,1161	string	GATE_split	
+748	541,551	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+671	1024,1026	string	GATE_agent	 nested-source="w,we"
+768	19,153	string	GATE_inside	 nested-source="w"
+726	1364,1371	string	GATE_split	
+758	953,953	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="a_helped"
+681	1108,1111	string	GATE_target	 id="t_you_2"
+736	990,999	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+737	796,807	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+704	1371,1371	string	GATE_direct-subjective	 intensity="medium" implicit="true" polarity="positive" nested-source="w"
+672	1371,1377	string	GATE_attitude	 target-link="t_detach" intensity="medium" id="a_please_3" attitude-type="sentiment-pos"
+738	1168,1174	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+682	1181,1191	string	GATE_attitude	 target-link="t_you_2" intensity="medium" id="a_generously" attitude-type="sentiment-pos"
+670	1206,1218	string	GATE_attitude	 target-link="t_you_3" intensity="medium" id="a_depending" attitude-type="sentiment-pos"
+715	298,307	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" polarity="positive" nested-source="w,bgci"
+747	526,536	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+683	1176,1191	string	GATE_target	 id="t_give"
+759	841,858	string	GATE_inside	 nested-source="w"
+703	289,291	string	GATE_agent	 nested-source="w,bgci"
+690	112,119	string	GATE_target	 id="t_trouble"
+739	1181,1191	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+733	228,288	string	GATE_inside	 nested-source="w"
+706	1371,1377	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+669	1206,1222	string	GATE_target	 id="t_depending"
+757	1230,1364	string	GATE_inside	 nested-source="w"
+693	1193,1201	string	GATE_agent	 nested-source="w,youngsters"
+756	289,403	string	GATE_inside	 nested-source="w"
+770	859,952	string	GATE_inside	 nested-source="w"
+708	1119,1127	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c2" intensity="medium" nested-source="w,you" polarity="positive" attitude-link="a_consider"
+676	1031,1042	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,we" polarity="positive" attitude-link="a_counting_on"
+755	289,289	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+771	859,859	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+673	990,999	string	GATE_attitude	 target-link="t_contribution" intensity="medium" id="a_helped" attitude-type="sentiment-pos"
+717	953,1023	string	GATE_inside	 nested-source="w"
+707	1206,1218	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+772	857,858	string	GATE_split	
+694	1206,1218	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,youngsters" polarity="positive" attitude-link="a_depending"
+745	564,573	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+674	1043,1046	string	GATE_target	 id="t_you"
+718	7,19	string	GATE_split	
+665	1193,1222	string	GATE_attitude	 target-link="t_depending" attitude-uncertain="somewhat-uncertain" intensity="medium" id="a_kids_depending" attitude-type="arguing-pos"
+746	581,590	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+774	287,288	string	GATE_split	
+698	541,551	string	GATE_attitude	 target-link="t_they" intensity="medium-high" repetition="yes" id="a_usefulness" attitude-type="sentiment-pos"
+752	1100,1101	string	GATE_split	
+667	1219,1222	string	GATE_target	 id="t_you_3"
+712	412,416	string	GATE_agent	 nested-source="w,youngsters"
+705	171,194	string	GATE_direct-subjective	 expression-intensity="low" intensity="medium" nested-source="w,youngsters" polarity="negative" attitude-link="a_alone"
+675	1031,1042	string	GATE_attitude	 target-link="t_you" intensity="medium" id="a_counting_on" attitude-type="sentiment-pos"
+680	958,970	string	GATE_target	 id="t_contribution"
+749	1102,1102	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="a_please_1"
+713	429,436	string	GATE_direct-subjective	 expression-intensity="low" intensity="medium" polarity="neutral" nested-source="w,youngsters"
+711	555,560	string	GATE_direct-subjective	 expression-intensity="low" intensity="medium" nested-source="w,youngsters" polarity="positive" attitude-link="a_belonging,a_influence"
+750	1102,1161	string	GATE_inside	 nested-source="w"
+773	590,591	string	GATE_split	
+701	176,186	string	GATE_target	 target-uncertain="very-uncertain" id="t_themselves"
+679	818,824	string	GATE_attitude	 target-link="t_citizens" intensity="medium" id="a_caring" attitude-type="sentiment-pos"
+714	241,279	string	GATE_agent	 nested-source="w,bgci" id="bgci"
+702	154,164	string	GATE_agent	 nested-source="w,youngsters" id="youngsters"
+751	951,952	string	GATE_split	
+709	1108,1111	string	GATE_agent	 nested-source="w,you"
+666	1378,1420	string	GATE_target	 id="t_detach"
+763	1433,1437	string	GATE_split	
+699	526,536	string	GATE_attitude	 target-link="t_they" intensity="medium-high" repetition="yes" id="a_competence" attitude-type="sentiment-pos"
+780	1193,1193	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="a_kids_depending"
+743	72,84	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="high"
+779	1193,1223	string	GATE_inside	 nested-source="w"
+753	598,598	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_kids_need,a_responsible,a_caring"
+697	564,573	string	GATE_attitude	 target-link="t_they" intensity="medium-high" repetition="yes" id="a_belonging" attitude-type="sentiment-pos"
+710	511,516	string	GATE_direct-subjective	 expression-intensity="low" intensity="medium" nested-source="w,youngsters" polarity="positive" attitude-link="a_competence,a_usefulness"
+729	1168,1168	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="a_please_2,a_generously"
+762	841,841	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+777	1420,1421	string	GATE_split	
+775	1,7	string	GATE_split	
+720	402,403	string	GATE_split	
+731	0,0	string	GATE_agent	 id="w"
+688	201,220	string	GATE_attitude	 target-link="t_themselves" attitude-uncertain="very-uncertain" intensity="medium" id="a_alone" attitude-type="other-attitude"
+744	112,119	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+776	152,153	string	GATE_split	
+722	833,834	string	GATE_split	
+754	598,834	string	GATE_inside	 nested-source="w"
+700	492,496	string	GATE_target	 id="t_they"
+668	1168,1174	string	GATE_attitude	 target-link="t_give" intensity="medium" id="a_please_2" attitude-type="sentiment-pos"
+742	201,220	string	GATE_expressive-subjectivity	 nested-source="w,youngsters" polarity="negative" intensity="medium"
+678	796,807	string	GATE_attitude	 target-link="t_citizens" intensity="medium" id="a_responsible" attitude-type="sentiment-pos"
+687	1119,1127	string	GATE_attitude	 target-link="t_gift" intensity="medium" id="a_consider" attitude-type="sentiment-pos"
+719	220,221	string	GATE_split	
+677	825,833	string	GATE_target	 id="t_citizens"
+741	1112,1118	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+691	85,94	string	GATE_target	 id="t_pressures"
+728	1022,1023	string	GATE_split	
+740	1031,1042	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+696	581,590	string	GATE_attitude	 target-link="t_they" intensity="medium-high" repetition="yes" id="a_influence" attitude-type="sentiment-pos"
+727	404,591	string	GATE_inside	 nested-source="w"
+689	112,119	string	GATE_attitude	 target-link="t_trouble" intensity="medium" id="a_trouble" attitude-type="sentiment-neg"
+721	1222,1223	string	GATE_split	
+761	154,221	string	GATE_inside	 nested-source="w"
+734	404,404	string	GATE_direct-subjective	 intensity="medium" implicit="true" polarity="positive" nested-source="w"
+724	0,0	string	GATE_agent	 id="implicit"
+760	1230,1230	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+723	0,0	string	GATE_direct-subjective	
+767	1421,1433	string	GATE_split	
+695	730,758	string	GATE_target	 id="t_staff"
+685	1112,1118	string	GATE_attitude	 target-link="t_consider" intensity="medium" id="a_please_1" attitude-type="sentiment-pos"
+769	19,19	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="a_overwhelming,a_trouble"
+764	154,154	string	GATE_direct-subjective	 intensity="medium" implicit="true" polarity="negative" nested-source="w"
+732	228,228	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+765	1024,1101	string	GATE_inside	 nested-source="w"
+686	1128,1160	string	GATE_target	 id="t_gift"
+725	1371,1421	string	GATE_inside	 nested-source="w"
+778	1191,1192	string	GATE_split	
+766	1024,1024	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+692	72,84	string	GATE_attitude	 target-link="t_pressures" intensity="high" id="a_overwhelming" attitude-type="sentiment-neg"
+730	1168,1192	string	GATE_inside	 nested-source="w"

@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/18.ves.annotated
+#  on Thu Sep 09 14:16:47 EDT 2004
+#  by ves
+
+770	697,711	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="1" topic="kyoto"
+768	1432,1455	string	answer	annotator="ves" confidence="3" confidencecomment="ratification equals adoption???" questionnumber="2" topic="kyoto"
+769	852,919	string	answer	annotator="ves" confidence="2" confidencecomment="it is not clear whether 'ratification' means adoption" questionnumber="2" topic="kyoto"
+771	577,584	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="2" topic="kyoto"
+772	485,499	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="1" topic="kyoto"

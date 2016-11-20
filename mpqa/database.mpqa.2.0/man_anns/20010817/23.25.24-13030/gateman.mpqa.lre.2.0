@@ -1,0 +1,57 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010817/23.25.24-13030/23.25.24-13030.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+51	867,875	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Chang" polarity="neutral"
+50	484,511	string	GATE_target	 id="t3"
+49	1267,1283	string	GATE_agent	 id="asians" nested-source="w, asians"
+48	834,1140	string	GATE_inside	 nested-source="w"
+47	1000,1007	string	GATE_target	 id="t5"
+46	380,590	string	GATE_inside	 nested-source="w"
+45	1111,1139	string	GATE_agent	 id="overseas" nested-source="w, Chang, overseas"
+44	66,79	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="medium" id="a1"
+43	597,597	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	210,211	string	GATE_split	
+41	380,385	string	GATE_agent	 nested-source="w, Chang"
+40	27,65	string	GATE_agent	 id="china" nested-source="w,Chang, china"
+39	1337,1338	string	GATE_split	
+38	218,278	string	GATE_agent	 id="Chang" nested-source="w, Chang"
+37	512,523	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Chang" polarity="neutral"
+36	279,295	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w, Chang"
+35	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	372,373	string	GATE_split	
+33	894,903	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Chang" polarity="negative"
+32	1008,1031	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, Chang" polarity="positive"
+31	0,0	string	GATE_agent	 id="w"
+30	659,664	string	GATE_agent	 nested-source="w, Chang"
+29	834,834	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	1100,1110	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-pos" intensity="medium" id="a2"
+27	867,1139	string	GATE_attitude	 target-link="t5" attitude-type="arguing-pos" intensity="low-medium" id="a5"
+26	1345,1348	string	GATE_split	
+25	826,827	string	GATE_split	
+24	386,390	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a3" intensity="low" nested-source="w, Chang"
+23	380,380	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	1100,1110	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2" insubstantial="c2" nested-source="w, Chang, overseas" intensity="medium" polarity="positive"
+21	597,827	string	GATE_inside	 nested-source="w"
+20	66,79	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w, Chang, china" polarity="positive"
+19	1139,1140	string	GATE_split	
+18	80,169	string	GATE_target	 id="t1"
+17	0,0	string	GATE_agent	 id="implicit"
+16	589,590	string	GATE_split	
+15	1147,1147	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	1111,1139	string	GATE_target	 id="t2"
+13	665,669	string	GATE_objective-speech-event	 nested-source="w, Chang"
+12	199,203	string	GATE_objective-speech-event	 nested-source="w, Chang"
+11	1289,1304	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a6" insubstantial="c1" nested-source="w, asians" intensity="low" polarity="neutral"
+10	218,373	string	GATE_inside	 nested-source="w"
+9	1289,1307	string	GATE_attitude	 target-link="t6" attitude-type="other-attitude" intensity="low" id="a6"
+8	834,846	string	GATE_agent	 nested-source="w, Chang"
+7	1049,1059	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Chang" polarity="neutral"
+6	858,861	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a5" intensity="medium" nested-source="w, Chang"
+5	218,218	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	1147,1338	string	GATE_inside	 nested-source="w"
+3	2,211	string	GATE_inside	 nested-source="w"
+2	1308,1337	string	GATE_target	 id="t6"
+1	512,589	string	GATE_attitude	 target-link="t3" attitude-type="arguing-pos" intensity="low-medium" id="a3"
+0	171,198	string	GATE_agent	 nested-source="w, Chang"

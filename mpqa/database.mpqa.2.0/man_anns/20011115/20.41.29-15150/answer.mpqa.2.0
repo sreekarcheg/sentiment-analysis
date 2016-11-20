@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/9.ves.annotated
+#  on Thu Sep 09 14:17:13 EDT 2004
+#  by ves
+
+1737	281,285	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="2" topic="kyoto"
+1810	431,501	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="1" topic="kyoto"
+1735	3377,3398	string	answer	annotator="ves" confidence="2" confidencecomment="It is not clear whether the author is talking about the Kyoto Protocol" questionnumber="1" topic="kyoto"
+1733	3610,3634	string	answer	annotator="ves" confidence="3" confidencecomment="adopted and in effect may not be the same thing" questionnumber="2" topic="kyoto"
+1808	3820,3834	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="1" topic="kyoto"

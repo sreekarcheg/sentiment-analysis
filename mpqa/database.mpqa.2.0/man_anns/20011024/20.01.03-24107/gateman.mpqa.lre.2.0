@@ -1,0 +1,42 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011024/20.01.03-24107/20.01.03-24107.jw.attitudes.xml
+#  on Wed Feb  8 16:36:14 EST 2006
+#  by twilson
+36	444,445	string	GATE_split	
+35	700,773	string	GATE_target	 id="t12"
+34	825,826	string	GATE_split	
+33	777,798	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a13" insubstantial="c2" nested-source="w, khatami, opec" intensity="medium" polarity="negative"
+32	608,609	string	GATE_split	
+31	0,0	string	GATE_agent	 id="implicit"
+30	191,210	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" intensity="medium" id="a10"
+29	308,324	string	GATE_agent	 id="sources" nested-source="w, sources"
+28	295,445	string	GATE_inside	 nested-source="w"
+27	791,825	string	GATE_target	 id="t13"
+26	700,773	string	GATE_agent	 id="opec" nested-source="w, khatami, opec"
+25	446,609	string	GATE_inside	 nested-source="w"
+24	293,294	string	GATE_split	
+23	399,409	string	GATE_objective-speech-event	 nested-source="w, sources, chavez"
+22	2,161	string	GATE_inside	 nested-source="w"
+21	610,826	string	GATE_inside	 nested-source="w"
+20	700,825	string	GATE_target	 id="t50"
+19	162,294	string	GATE_inside	 nested-source="w"
+18	162,162	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	295,295	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	162,186	string	GATE_target	 id="t10"
+14	295,307	string	GATE_objective-speech-event	 nested-source="w, sources"
+13	610,627	string	GATE_agent	 id="khatami" nested-source="w, khatami"
+12	326,332	string	GATE_agent	 id="chavez" nested-source="w, sources, chavez"
+11	248,293	string	GATE_agent	 id="eshaq" nested-source="w, eshaq"
+10	191,210	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" intensity="low" nested-source="w, eshaq" polarity="neutral"
+9	777,787	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, khatami" polarity="positive"
+8	610,610	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	160,161	string	GATE_split	
+6	690,699	string	GATE_attitude	 target-link="t50" attitude-type="sentiment-pos" intensity="medium" id="a50"
+5	690,699	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a12, a50" intensity="medium" nested-source="w, khatami" polarity="positive"
+4	833,836	string	GATE_split	
+3	0,0	string	GATE_agent	 id="w"
+2	690,825	string	GATE_attitude	 target-link="t12" attitude-type="arguing-pos" intensity="medium" id="a12"
+1	777,790	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t13" attitude-type="intention-pos" id="a13" intensity="low"
+0	446,446	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

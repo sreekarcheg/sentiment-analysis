@@ -1,0 +1,42 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0541/wsj_0541.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+341	404,562	string	GATE_inside	 nested-source="w"
+305	0,0	string	GATE_direct-subjective	
+326	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+315	236,295	string	GATE_inside	 nested-source="w"
+336	720,724	string	GATE_objective-speech-event	 nested-source="w,spoke" insubstantial=""
+310	561,562	string	GATE_split	
+327	149,149	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+318	404,404	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+335	147,149	string	GATE_split	
+313	7,9	string	GATE_split	
+339	708,719	string	GATE_agent	 nested-source="w,spoke" id="spoke"
+317	0,0	string	GATE_agent	 id="implicit"
+324	40,45	string	GATE_attitude	 target-link="redeem" attitude-uncertain="" intensity="low" sarcastic="" id="planr" attitude-type="intention-pos"
+329	726,728	string	GATE_split	
+334	1,6	string	GATE_inside	 nested-source="w"
+307	40,63	string	GATE_inside	 nested-source="w"
+321	234,235	string	GATE_split	
+316	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+308	46,145	string	GATE_target	 id="redeem"
+337	0,0	string	GATE_agent	 id="w"
+309	145,146	string	GATE_split	
+322	9,38	string	GATE_agent	 nested-source="w,adp" id="adp"
+332	236,236	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+319	40,45	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="planr" nested-source="w,adp"
+314	563,565	string	GATE_split	
+338	67,146	string	GATE_inside	 nested-source="w"
+331	565,565	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+306	296,296	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+330	149,235	string	GATE_inside	 nested-source="w"
+323	402,404	string	GATE_split	
+311	296,401	string	GATE_inside	 nested-source="w"
+328	400,401	string	GATE_split	
+312	0,0	string	GATE_expressive-subjectivity	
+325	565,725	string	GATE_inside	 nested-source="w"
+320	9,39	string	GATE_inside	 nested-source="w"
+340	724,725	string	GATE_split	
+333	294,295	string	GATE_split	

@@ -1,0 +1,51 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0316/wsj_0316.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+358	588,588	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+326	124,126	string	GATE_split	
+341	0,0	string	GATE_direct-subjective	
+351	38,56	string	GATE_attitude	 target-link="acq" intensity="low" id="agreement" attitude-type="agree-pos"
+363	0,0	string	GATE_agent	 id="implicit"
+336	687,713	string	GATE_agent	 nested-source="w,fs,sr"
+327	464,465	string	GATE_split	
+355	126,274	string	GATE_inside	 nested-source="w"
+342	0,0	string	GATE_expressive-subjectivity	
+350	30,34	string	GATE_objective-speech-event	 nested-source="w,fs"
+335	7,9	string	GATE_split	
+360	323,323	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+339	588,623	string	GATE_agent	 nested-source="w,fs"
+361	85,123	string	GATE_inside	 nested-source="w"
+329	586,588	string	GATE_split	
+324	319,320	string	GATE_split	
+349	38,56	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreement" nested-source="w,fs,fs"
+334	9,29	string	GATE_inside	 nested-source="w"
+353	466,585	string	GATE_inside	 nested-source="w"
+321	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+344	9,28	string	GATE_agent	 nested-source="w,fs" id="fs"
+352	57,122	string	GATE_target	 id="acq"
+347	714,722	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" insubstantial="c1" nested-source="w,fs,sr"
+364	275,320	string	GATE_inside	 nested-source="w"
+354	466,466	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+322	1,6	string	GATE_inside	 nested-source="w"
+337	733,735	string	GATE_agent	 nested-source="w,fs"
+332	785,786	string	GATE_split	
+346	742,785	string	GATE_target	 id="complete"
+359	323,465	string	GATE_inside	 nested-source="w"
+331	787,789	string	GATE_split	
+338	654,658	string	GATE_objective-speech-event	 nested-source="w,fs" id=""
+330	584,585	string	GATE_split	
+323	273,274	string	GATE_split	
+345	736,741	string	GATE_attitude	 target-link="complete" intensity="medium" id="hope" contrast="" attitude-type="sentiment-pos"
+362	0,0	string	GATE_agent	 id="w"
+343	35,37	string	GATE_agent	 nested-source="w,fs,fs"
+328	321,323	string	GATE_split	
+356	126,126	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+366	30,84	string	GATE_inside	 nested-source="w"
+348	659,672	string	GATE_direct-subjective	 nested-source="w,fs,implicit" expression-intensity="low" insubstantial="c2"
+325	122,123	string	GATE_split	
+357	588,786	string	GATE_inside	 nested-source="w"
+340	736,741	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" implicit="" nested-source="w,fs" polarity="positive" attitude-link="hope"
+365	275,275	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+333	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

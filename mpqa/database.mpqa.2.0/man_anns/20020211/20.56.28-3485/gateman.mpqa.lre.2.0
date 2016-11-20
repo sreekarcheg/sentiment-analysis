@@ -1,0 +1,72 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020211/20.56.28-3485/20.56.28-3485.tw.attitudes.xml
+#  on Tue Aug  1 15:10:15 EDT 2006
+#  by twilson
+66	269,273	string	GATE_objective-speech-event	 nested-source="w,ha"
+65	664,846	string	GATE_inside	 nested-source="w"
+64	1396,1397	string	GATE_split	
+63	250,268	string	GATE_agent	 id="ha" nested-source="w,ha"
+62	557,557	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	845,846	string	GATE_split	
+60	557,663	string	GATE_inside	 nested-source="w"
+59	379,501	string	GATE_inside	 nested-source="w"
+58	1589,1590	string	GATE_split	
+57	151,249	string	GATE_inside	 nested-source="w"
+56	664,664	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+55	392,408	string	GATE_agent	 id="joel" nested-source="w,joel"
+54	1281,1282	string	GATE_split	
+53	50,58	string	GATE_objective-speech-event	 nested-source="w,implicit"
+52	0,0	string	GATE_agent	 id="w"
+51	207,224	string	GATE_objective-speech-event	 nested-source="w,implicit"
+50	502,512	string	GATE_agent	 nested-source="w,joel"
+49	847,972	string	GATE_inside	 nested-source="w"
+48	1175,1176	string	GATE_split	
+47	0,0	string	GATE_agent	 id="implicit"
+46	2,66	string	GATE_inside	 nested-source="w"
+45	410,414	string	GATE_objective-speech-event	 nested-source="w,joel"
+44	377,378	string	GATE_split	
+43	502,502	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	500,501	string	GATE_split	
+41	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	662,663	string	GATE_split	
+39	780,784	string	GATE_objective-speech-event	 nested-source="w,joel"
+38	248,249	string	GATE_split	
+37	1591,1594	string	GATE_split	
+36	250,250	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	1177,1186	string	GATE_agent	 nested-source="w,joel" agent-uncertain="somewhat-uncertain"
+34	555,556	string	GATE_split	
+33	1501,1501	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	1398,1500	string	GATE_inside	 nested-source="w"
+31	1283,1397	string	GATE_inside	 nested-source="w"
+30	664,675	string	GATE_agent	 nested-source="w,joel"
+29	1398,1398	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	379,379	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	1187,1193	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10,a20" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w,joel" polarity="negative"
+26	1283,1283	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	973,973	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	1499,1500	string	GATE_split	
+23	1403,1425	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a40" intensity="low" nested-source="w,implicit" polarity="neutral"
+22	1065,1065	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+21	250,378	string	GATE_inside	 nested-source="w"
+20	1177,1177	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	847,847	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	523,527	string	GATE_objective-speech-event	 nested-source="w,joel"
+17	1501,1590	string	GATE_inside	 nested-source="w"
+16	502,556	string	GATE_inside	 nested-source="w"
+15	1063,1064	string	GATE_split	
+14	1065,1176	string	GATE_inside	 nested-source="w"
+13	971,972	string	GATE_split	
+12	973,1064	string	GATE_inside	 nested-source="w"
+11	1177,1282	string	GATE_inside	 nested-source="w"
+10	538,555	string	GATE_objective-speech-event	 insubstantial="c2" nested-source="w, joel, implicit"
+9	1297,1314	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" nested-source="w,implicit" intensity="low" polarity="neutral"
+8	151,152	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	1187,1193	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-neg" id="a10" intensity="medium"
+6	1210,1281	string	GATE_target	 id="t10"
+5	1187,1281	string	GATE_attitude	 target-link="t20" attitude-type="arguing-pos" id="a20" intensity="medium-high"
+4	1194,1206	string	GATE_target	 id="t20"
+3	1283,1296	string	GATE_target	 id="t30"
+2	1297,1396	string	GATE_attitude	 target-link="t30" attitude-uncertain="very-uncertain" attitude-type="arguing-pos" id="a30" intensity="low"
+1	1398,1402	string	GATE_target	 id="t40"
+0	1403,1499	string	GATE_attitude	 target-link="t40" attitude-uncertain="very-uncertain" attitude-type="arguing-pos" id="a40" intensity="low"

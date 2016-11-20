@@ -1,0 +1,65 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011226/20.47.35-12690/20.47.35-12690.tw.attitudes.xml
+#  on Tue Aug  1 17:46:45 EDT 2006
+#  by twilson
+59	1400,1408	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a40" intensity="low" nested-source="w, shimbun, japgov" polarity="neutral"
+58	929,1108	string	GATE_inside	 nested-source="w"
+57	1237,1241	string	GATE_agent	 nested-source="w, officials"
+56	108,136	string	GATE_agent	 id="authorities" nested-source="w, shimbun, authorities"
+55	0,0	string	GATE_agent	 id="w"
+54	221,233	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w, shimbun, authorities, vessel"
+53	1107,1108	string	GATE_split	
+52	1525,1535	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a50" nested-source="w, shimbun, japgov" intensity="low" polarity="negative"
+51	784,784	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+50	0,0	string	GATE_agent	 id="implicit"
+49	420,636	string	GATE_inside	 nested-source="w"
+48	635,636	string	GATE_split	
+47	137,151	string	GATE_objective-speech-event	 nested-source="w, shimbun, authorities"
+46	1242,1246	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a30" intensity="low" nested-source="w, officials"
+45	420,420	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	1519,1524	string	GATE_agent	 nested-source="w, shimbun, japgov"
+43	508,519	string	GATE_agent	 nested-source="w, authorities, vessel"
+42	1338,1536	string	GATE_inside	 nested-source="w"
+41	929,929	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	1363,1386	string	GATE_agent	 id="japgov" nested-source="w, shimbun, japgov"
+39	178,187	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" intensity="low" nested-source="w, shimbun, implicit" polarity="negative"
+38	1535,1536	string	GATE_split	
+37	420,435	string	GATE_agent	 nested-source="w, authorities"
+36	81,419	string	GATE_inside	 nested-source="w"
+35	784,928	string	GATE_inside	 nested-source="w"
+34	1168,1190	string	GATE_objective-speech-event	 nested-source="w, officials, officials, vnk" insubstantial="c1"
+33	1109,1109	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	1258,1271	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, officials" polarity="neutral"
+31	1149,1164	string	GATE_objective-speech-event	 nested-source="w, officials, officials" insubstantial="c1"
+30	81,82	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	418,419	string	GATE_split	
+28	1338,1351	string	GATE_agent	 nested-source="w, shimbun"
+27	157,167	string	GATE_agent	 id="vessel" nested-source="w, shimbun, authorities, vessel"
+26	637,637	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	366,388	string	GATE_agent	 id="shimbun" nested-source="w, shimbun"
+24	1140,1148	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" intensity="low" nested-source="w, officials" polarity="negative"
+23	1109,1337	string	GATE_inside	 nested-source="w"
+22	1352,1357	string	GATE_objective-speech-event	 nested-source="w, shimbun"
+21	927,928	string	GATE_split	
+20	637,783	string	GATE_inside	 nested-source="w"
+19	389,393	string	GATE_objective-speech-event	 nested-source="w, shimbun"
+18	1199,1235	string	GATE_agent	 id="vnk" nested-source="w, officials, officials, vnk"
+17	1555,1558	string	GATE_split	
+16	782,783	string	GATE_split	
+15	1118,1139	string	GATE_agent	 id="officials" nested-source="w, officials"
+14	436,456	string	GATE_objective-speech-event	 annotation-uncertain="very-uncertain" nested-source="w, authorities"
+13	1338,1339	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	178,220	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" intensity="low" id="a10"
+11	157,167	string	GATE_target	 id="t10"
+10	520,543	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w, authorities, vessel"
+9	520,543	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w, authorities, nk"
+8	544,553	string	GATE_agent	 nested-source="w, authorities, nk"
+7	199,211	string	GATE_agent	 id="nk"
+6	1140,1148	string	GATE_attitude	 target-link="t20" attitude-type="agree-neg" id="a20" intensity="low"
+5	1149,1234	string	GATE_target	 id="t20"
+4	1249,1257	string	GATE_target	 id="t30"
+3	1258,1335	string	GATE_attitude	 target-link="t30" attitude-type="speculation" id="a30" intensity="low"
+2	1394,1480	string	GATE_attitude	 target-link="t40" attitude-type="arguing-pos" id="a40" intensity="low-medium"
+1	1409,1419	string	GATE_target	 id="t40"
+0	1525,1535	string	GATE_attitude	 target-link="t40" attitude-type="arguing-pos" intensity="low" id="a50"

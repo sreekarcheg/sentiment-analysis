@@ -1,0 +1,81 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/13.24.42-23228/13.24.42-23228.jlw.attitudes.xml
+#  on Sun Dec 10 07:48:07 EST 2006
+#  by twilson
+75	1392,1394	string	GATE_split	
+74	431,436	string	GATE_expressive-subjectivity	 nested-source="w, implicit" intensity="low" polarity="negative"
+73	1291,1291	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+72	394,395	string	GATE_split	
+71	894,894	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+70	232,395	string	GATE_inside	 nested-source="w"
+69	281,299	string	GATE_expressive-subjectivity	 nested-source="w, nasa" intensity="medium" polarity="negative"
+68	1286,1287	string	GATE_split	
+67	724,743	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="positive"
+66	1057,1136	string	GATE_inside	 nested-source="w"
+65	763,767	string	GATE_objective-speech-event	 nested-source="w, nasa"
+64	768,794	string	GATE_agent	 id="control"
+63	0,0	string	GATE_agent	 id="implicit"
+62	1291,1361	string	GATE_inside	 nested-source="w"
+61	186,198	string	GATE_expressive-subjectivity	 nested-source="w" intensity="low" polarity="neutral"
+60	521,521	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+59	399,399	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+58	1235,1250	string	GATE_expressive-subjectivity	 nested-source="w, engineers" intensity="low" polarity="neutral"
+57	18,23	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w" polarity="neutral"
+56	1194,1204	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a7" intensity="low" nested-source="w, engineers" polarity="neutral"
+55	71,77	string	GATE_split	
+54	646,647	string	GATE_split	
+53	521,647	string	GATE_inside	 nested-source="w"
+52	228,232	string	GATE_split	
+51	0,0	string	GATE_agent	 id="w"
+50	232,232	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+49	1140,1287	string	GATE_inside	 nested-source="w"
+48	227,228	string	GATE_split	
+47	894,1056	string	GATE_inside	 nested-source="w"
+46	255,268	string	GATE_expressive-subjectivity	 nested-source="w, nasa" intensity="medium" polarity="neutral"
+45	1057,1057	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	1176,1193	string	GATE_agent	 id="engineers" nested-source="w, engineers"
+43	1135,1136	string	GATE_split	
+42	1140,1140	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	649,649	string	GATE_direct-subjective	 attitude-link="a5" nested-source="w" intensity="low" implicit="true"
+40	517,521	string	GATE_split	
+39	399,517	string	GATE_inside	 nested-source="w"
+38	889,890	string	GATE_split	
+37	77,77	string	GATE_direct-subjective	 attitude-link="a2" intensity="low" nested-source="w" implicit="true"
+36	744,748	string	GATE_split	
+35	1287,1291	string	GATE_split	
+34	1361,1365	string	GATE_split	
+33	1360,1361	string	GATE_split	
+32	748,748	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	232,246	string	GATE_agent	 id="nasa" nested-source="w, nasa"
+30	752,756	string	GATE_agent	 nested-source="w, nasa"
+29	649,744	string	GATE_inside	 nested-source="w"
+28	247,251	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a3" nested-source="w, nasa" intensity="medium"
+27	748,890	string	GATE_inside	 nested-source="w"
+26	1136,1140	string	GATE_split	
+25	77,228	string	GATE_inside	 nested-source="w"
+24	5,5	string	GATE_direct-subjective	 attitude-link="a1" nested-source="w" intensity="low" implicit="true"
+23	395,399	string	GATE_split	
+22	399,410	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" intensity="medium" nested-source="w, implicit" polarity="negative"
+21	1055,1056	string	GATE_split	
+20	743,744	string	GATE_split	
+19	831,839	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a6" annotation-uncertain="somewhat-uncertain" nested-source="w, nasa, control" intensity="low" polarity="neutral"
+18	890,894	string	GATE_split	
+17	516,517	string	GATE_split	
+16	5,68	string	GATE_inside	 nested-source="w"
+15	68,71	string	GATE_split	
+14	182,185	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w" polarity="neutral"
+13	5,17	string	GATE_target	 id="t1"
+12	18,68	string	GATE_attitude	 target-link="t1" attitude-type="speculation" intensity="low" id="a1"
+11	105,124	string	GATE_target	 id="t2"
+10	186,227	string	GATE_attitude	 target-link="t2" attitude-type="speculation" intensity="low" id="a2"
+9	252,394	string	GATE_attitude	 target-link="t3" attitude-type="arguing-neg" intensity="low-medium" id="a3"
+8	312,394	string	GATE_target	 id="t3"
+7	399,413	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-neg" intensity="medium" id="a4"
+6	419,516	string	GATE_target	 id="t4"
+5	702,712	string	GATE_target	 id="t5"
+4	714,743	string	GATE_attitude	 target-link="t5" attitude-type="sentiment-pos" intensity="low" id="a5"
+3	831,839	string	GATE_attitude	 target-link="t6" attitude-type="other-attitude" intensity="low" id="a6"
+2	840,889	string	GATE_target	 id="t6"
+1	1194,1286	string	GATE_attitude	 target-link="t7" attitude-uncertain="somewhat-uncertain" attitude-type="arguing-pos" intensity="low" id="a7"
+0	1206,1221	string	GATE_target	 id="t7"

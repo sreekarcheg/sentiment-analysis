@@ -1,0 +1,28 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_1073/wsj_1073.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+146	99,99	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+151	208,208	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+158	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+154	97,99	string	GATE_split	
+143	0,0	string	GATE_expressive-subjectivity	
+150	0,0	string	GATE_agent	 id="w"
+162	95,96	string	GATE_split	
+145	310,322	string	GATE_objective-speech-event	 nested-source="w,amt"
+155	341,343	string	GATE_split	
+140	9,43	string	GATE_agent	 nested-source="w,amt" id="amt"
+159	9,43	string	GATE_inside	 nested-source="w"
+144	323,339	string	GATE_agent	 nested-source="w,amt" id=""
+161	7,9	string	GATE_split	
+148	44,96	string	GATE_inside	 nested-source="w"
+149	0,0	string	GATE_agent	 id="implicit"
+156	339,340	string	GATE_split	
+141	44,48	string	GATE_objective-speech-event	 nested-source="w,amt"
+160	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+147	99,207	string	GATE_inside	 nested-source="w"
+152	208,340	string	GATE_inside	 nested-source="w"
+157	1,6	string	GATE_inside	 nested-source="w"
+153	206,207	string	GATE_split	
+142	0,0	string	GATE_direct-subjective	

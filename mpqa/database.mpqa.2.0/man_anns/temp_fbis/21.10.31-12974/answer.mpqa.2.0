@@ -1,0 +1,19 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/90.ctc.annotated
+#  on Thu Sep 09 14:17:13 EDT 2004
+#  by ves
+
+6797	183,239	string	answer	annotator="ctc" confidence="5" partial="true" questionnumber="1" topic="kyoto"
+7227	13081,13177	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="general requirements of KP?" questionnumber="1" topic="kyoto"
+7034	12365,12427	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="KP stipulations for AUS, Iceland" questionnumber="1" topic="kyoto"
+6867	17032,17067	string	answer	annotator="ctc" confidence="3" confidencecomment="indirect" questionnumber="1" topic="kyoto"
+7429	12603,12729	string	answer	annotator="ctc" confidence="3" partial="true" questionnumber="1" topic="kyoto"
+6858	9031,9095	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="5"
+6802	9100,9143	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="5"
+7001	12243,12359	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="KP stipulations for NZ" questionnumber="1" topic="kyoto"
+6901	8979,8983	string	answer	annotator="ctc" questionnumber="2" topic="kyoto" confidence="5"
+7423	9749,9810	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="Russia equals? US ally" questionnumber="7" topic="kyoto"
+7300	12142,12242	string	answer	annotator="ctc" confidence="3" confidencecomment="KP ramifications for US, Japan, etc." questionnumber="1" topic="kyoto"
+6840	11947,12113	string	answer	annotator="ctc" questionnumber="1" topic="kyoto" confidence="4"
+7364	12429,12495	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="vague out of context" questionnumber="1" topic="kyoto"

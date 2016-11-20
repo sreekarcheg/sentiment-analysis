@@ -1,0 +1,110 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/06.39.11-29583/06.39.11-29583.pja.attitudes.xml
+#  on Mon Feb 20 15:34:33 EST 2006
+#  by twilson
+103	297,297	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+101	292,293	string	GATE_split	
+99	293,297	string	GATE_split	
+97	926,929	string	GATE_agent	 nested-source="w,juneidi,jordan" agent-uncertain="somewhat-uncertain"
+95	1917,1938	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a13" nested-source="w,canadaetc" intensity="medium" polarity="negative"
+93	1565,1565	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+91	1067,1173	string	GATE_target	 id="t6"
+89	472,478	string	GATE_objective-speech-event	 nested-source="w,juneidi"
+87	1610,1622	string	GATE_target	 id="t8"
+85	1879,1916	string	GATE_agent	 id="canadaetc" nested-source="w,canadaetc"
+83	864,870	string	GATE_agent	 id="jordan" nested-source="w,juneidi,jordan"
+81	199,292	string	GATE_agent	 id="juneidi" nested-source="w,juneidi"
+79	1738,1738	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+77	1006,1010	string	GATE_split	
+75	30,33	string	GATE_split	
+73	1460,1466	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a7" nested-source="w,EU" intensity="medium" polarity="uncertain-positive"
+71	1854,1874	string	GATE_target	 id="t12"
+69	931,941	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a5" annotation-uncertain="very-uncertain" nested-source="w,juneidi,jordan" intensity="medium" polarity="positive"
+67	564,772	string	GATE_inside	 nested-source="w"
+65	771,772	string	GATE_split	
+63	1,1	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	1408,1409	string	GATE_split	
+59	1639,1641	string	GATE_target	 id="t9"
+57	1642,1675	string	GATE_attitude	 target-link="t9" attitude-type="arguing-pos" intensity="medium" id="a9"
+55	560,564	string	GATE_split	
+53	916,949	string	GATE_attitude	 target-link="t5" attitude-uncertain="somewhat-uncertain" attitude-type="intention-pos" id="a5" intensity="medium"
+51	1565,1737	string	GATE_inside	 nested-source="w"
+49	1010,1246	string	GATE_inside	 nested-source="w"
+47	1044,1046	string	GATE_agent	 nested-source="w,juneidi"
+45	1250,1409	string	GATE_inside	 nested-source="w"
+43	430,437	string	GATE_agent	 nested-source="w,juneidi"
+41	1879,2119	string	GATE_inside	 nested-source="w"
+39	873,881	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a3" nested-source="w,juneidi,jordan" intensity="low" polarity="neutral"
+37	1976,1982	string	GATE_objective-speech-event	 nested-source="w,canadaetc" objective-uncertain="very-uncertain"
+35	176,184	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" insubstantial="c1" nested-source="w,juneidi,cabinet" intensity="low" polarity="neutral"
+33	1736,1737	string	GATE_split	
+31	186,198	string	GATE_objective-speech-event	 nested-source="w,juneidi"
+29	1560,1561	string	GATE_split	
+27	54,58	string	GATE_objective-speech-event	 nested-source="w,juneidi,jordan"
+25	39,293	string	GATE_inside	 nested-source="w"
+23	1246,1250	string	GATE_split	
+21	33,39	string	GATE_split	
+19	438,442	string	GATE_objective-speech-event	 nested-source="w,juneidi"
+17	1058,1063	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" nested-source="w,juneidi,gcep" intensity="high" polarity="positive"
+15	47,53	string	GATE_agent	 nested-source="w,juneidi,jordan"
+13	1828,1839	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a12" annotation-uncertain="somewhat-uncertain" insubstantial="c2" nested-source="w,us admin" intensity="medium" polarity="positive"
+11	0,0	string	GATE_agent	 id="w"
+9	1001,1005	string	GATE_objective-speech-event	 nested-source="w,juneidi"
+7	564,564	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	1738,1875	string	GATE_inside	 nested-source="w"
+3	1948,1974	string	GATE_target	 id="t13"
+1	772,776	string	GATE_split	
+104	1700,1724	string	GATE_agent	 nested-source="w,EU"
+102	1058,1066	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-pos" intensity="medium" id="a6"
+100	1470,1508	string	GATE_target	 id="t7"
+98	885,903	string	GATE_target	 id="t3"
+96	2119,2121	string	GATE_split	
+94	1413,1561	string	GATE_inside	 nested-source="w"
+92	1679,1687	string	GATE_attitude	 target-link="none" attitude-type="other-attitude" intensity="low" id="a10"
+90	297,560	string	GATE_inside	 nested-source="w"
+88	72,90	string	GATE_agent	 id="kyoto"
+86	1917,1947	string	GATE_attitude	 target-link="t13" attitude-type="sentiment-neg" intensity="low" id="a13"
+84	532,541	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a2" subjective-uncertain="somewhat-uncertain" annotation-uncertain="somewhat-uncertain" insubstantial="c1" nested-source="w,juneidi,implicit" intensity="low" polarity="neutral"
+82	1610,1622	string	GATE_agent	
+80	776,776	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+78	168,175	string	GATE_agent	 id="cabinet" nested-source="w,juneidi,cabinet"
+76	904,925	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" nested-source="w, juneidi, jordan" intensity="medium" polarity="neutral"
+74	532,541	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="none" attitude-type="agree-pos" intensity="low" id="a2"
+72	904,915	string	GATE_attitude	 target-link="t4" attitude-uncertain="very-uncertain" attitude-type="intention-pos" intensity="low-medium" id="a4"
+70	1409,1413	string	GATE_split	
+68	950,990	string	GATE_target	 id="t5"
+66	1245,1246	string	GATE_split	
+64	873,884	string	GATE_attitude	 target-link="t3" attitude-type="intention-pos" intensity="low" id="a3"
+62	993,1000	string	GATE_agent	 nested-source="w,juneidi"
+60	1005,1006	string	GATE_split	
+58	1689,1696	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a11" nested-source="w,EU" intensity="high" polarity="negative"
+56	1602,1609	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-neg" intensity="medium" id="a8"
+54	1424,1459	string	GATE_agent	 id="EU" nested-source="w,EU"
+52	1689,1699	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-neg" id="a11" intensity="high"
+50	1679,1687	string	GATE_target	 id="t11"
+48	1679,1687	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" insubstantial="c1" nested-source="w,EU,us admin" intensity="low" polarity="neutral"
+46	776,1006	string	GATE_inside	 nested-source="w"
+44	1047,1051	string	GATE_objective-speech-event	 nested-source="w,juneidi"
+42	176,184	string	GATE_attitude	 target-link="none" attitude-type="other-attitude" intensity="low" id="a1"
+40	1642,1653	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,us admin" polarity="negative"
+38	39,39	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	0,0	string	GATE_agent	 id="implicit"
+34	1010,1010	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	1875,1879	string	GATE_split	
+30	1250,1250	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	1,30	string	GATE_inside	 nested-source="w"
+26	2118,2119	string	GATE_split	
+24	1053,1057	string	GATE_agent	 id="gcep" nested-source="w,juneidi,gcep"
+22	1828,1853	string	GATE_attitude	 target-link="t12" attitude-type="sentiment-pos" intensity="medium" id="a12"
+20	559,560	string	GATE_split	
+18	1879,1879	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	1627,1633	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a9,a50" nested-source="w,us admin" intensity="medium"
+14	1460,1469	string	GATE_attitude	 target-link="t7" attitude-type="agree-pos" id="a7" intensity="low-medium"
+12	916,990	string	GATE_target	 id="t4"
+10	1561,1565	string	GATE_split	
+8	1602,1609	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a8" nested-source="w,us admin" intensity="medium" polarity="negative"
+6	1413,1413	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	1874,1875	string	GATE_split	
+2	1580,1601	string	GATE_agent	 id="us admin" nested-source="w,us admin"
+0	1642,1675	string	GATE_attitude	 target-link="t9" attitude-type="sentiment-neg" intensity="medium" id="a50"

@@ -1,0 +1,35 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0006/wsj_0006.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+107	57,65	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" attitude-link="approval" nested-source="w,pffc,pffc"
+126	0,0	string	GATE_expressive-subjectivity	
+104	39,43	string	GATE_objective-speech-event	 nested-source="w,pffc"
+112	0,0	string	GATE_direct-subjective	
+123	151,265	string	GATE_inside	 nested-source="w"
+113	178,182	string	GATE_objective-speech-event	 nested-source="w,pffc"
+118	194,264	string	GATE_target	 id="obtreg"
+105	66,114	string	GATE_target	 target-uncertain="" id="acqrt"
+129	264,265	string	GATE_split	
+124	7,9	string	GATE_split	
+117	57,65	string	GATE_attitude	 target-link="acqrt" intensity="medium" id="approval" attitude-type="agree-pos"
+132	1,6	string	GATE_inside	 nested-source="w"
+116	186,193	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="expobt" nested-source="w,pffc,pffc"
+106	151,177	string	GATE_agent	 nested-source="w,pffc" id=""
+125	147,148	string	GATE_split	
+115	186,193	string	GATE_attitude	 target-link="obtreg" intensity="low-medium" id="expobt" attitude-type="other-attitude"
+111	9,38	string	GATE_agent	 nested-source="w,pffc" id="pffc"
+122	151,151	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+131	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+119	39,148	string	GATE_inside	 nested-source="w"
+114	44,56	string	GATE_agent	 nested-source="w,pffc,sh" id="sh"
+127	0,0	string	GATE_agent	 id="implicit"
+130	149,151	string	GATE_split	
+108	215,223	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1" intensity="medium" nested-source="w,pffc,pffc,reg" polarity="positive" subjective-uncertain=""
+128	0,0	string	GATE_agent	 id="w"
+109	183,185	string	GATE_agent	 nested-source="w,pffc,pffc"
+133	266,268	string	GATE_split	
+121	9,38	string	GATE_inside	 nested-source="w"
+110	204,214	string	GATE_agent	 nested-source="w,pffc,pffc,reg" id="reg"
+120	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

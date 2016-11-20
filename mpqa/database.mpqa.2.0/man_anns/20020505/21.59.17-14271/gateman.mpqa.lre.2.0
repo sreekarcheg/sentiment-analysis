@@ -1,0 +1,77 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020505/21.59.17-14271/21.59.17-14271.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+71	815,816	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+70	573,586	string	GATE_target	 id="t3"
+69	2,44	string	GATE_inside	 nested-source="w"
+68	0,0	string	GATE_agent	 id="implicit"
+67	925,925	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+66	700,700	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+65	799,812	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, mark" polarity="positive"
+64	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+63	776,782	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a4" intensity="high" nested-source="w, mark"
+62	380,381	string	GATE_agent	 nested-source="w, vittori, vittori"
+61	1041,1065	string	GATE_agent	 id="isa" nested-source="w, isa"
+60	393,400	string	GATE_target	 id="t2"
+59	0,0	string	GATE_agent	 id="w"
+58	923,924	string	GATE_split	
+57	1865,2007	string	GATE_inside	 nested-source="w"
+56	380,380	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+55	2014,2017	string	GATE_split	
+54	120,336	string	GATE_inside	 nested-source="w"
+53	550,567	string	GATE_agent	 id="officials" nested-source="w, officials"
+52	548,549	string	GATE_split	
+51	1506,1510	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a5" intensity="low" nested-source="w, vittori"
+50	1335,1336	string	GATE_split	
+49	1597,1598	string	GATE_split	
+48	347,367	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, vittori" polarity="uncertain-both"
+47	380,549	string	GATE_inside	 nested-source="w"
+46	337,337	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	1020,1026	string	GATE_objective-speech-event	 nested-source="w, isa"
+44	1865,1865	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+43	799,812	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-pos" intensity="medium-high" id="a4"
+42	1416,1439	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, vittori" polarity="positive"
+41	2006,2007	string	GATE_split	
+40	1337,1410	string	GATE_target	 id="t5"
+39	403,410	string	GATE_agent	 nested-source="w, vittori"
+38	337,379	string	GATE_inside	 nested-source="w"
+37	382,389	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a2" intensity="low" nested-source="w, vittori, vittori" polarity="neutral"
+36	1503,1505	string	GATE_agent	 nested-source="w, vittori"
+35	153,168	string	GATE_agent	 id="vittori"
+34	925,1066	string	GATE_inside	 nested-source="w"
+33	338,340	string	GATE_direct-subjective	 attitude-link="a1" intensity="medium" nested-source="w, vittori" implicit="true"
+32	1067,1336	string	GATE_inside	 nested-source="w"
+31	1540,1598	string	GATE_inside	 nested-source="w"
+30	700,814	string	GATE_inside	 nested-source="w"
+29	1599,1781	string	GATE_inside	 nested-source="w"
+28	338,340	string	GATE_target	 id="t1"
+27	676,698	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w, officials" intensity="low" polarity="uncertain-neutral"
+26	1067,1067	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	1540,1540	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	384,392	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t2" attitude-type="intention-pos" id="a2" intensity="low"
+23	120,121	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	1863,1864	string	GATE_split	
+21	357,378	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="medium" id="a1"
+20	378,379	string	GATE_split	
+19	657,674	string	GATE_agent	 id="mark"
+18	676,698	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-pos" intensity="low" id="a3"
+17	550,550	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	1782,1782	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	815,924	string	GATE_inside	 nested-source="w"
+14	698,699	string	GATE_split	
+13	1337,1539	string	GATE_inside	 nested-source="w"
+12	783,797	string	GATE_target	 id="t4"
+11	411,415	string	GATE_objective-speech-event	 nested-source="w, vittori"
+10	1411,1439	string	GATE_attitude	 target-link="t5" attitude-type="sentiment-pos" intensity="medium" id="a5"
+9	1780,1781	string	GATE_split	
+8	335,336	string	GATE_split	
+7	1337,1337	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	700,712	string	GATE_agent	 nested-source="w, mark"
+5	1065,1066	string	GATE_split	
+4	1599,1599	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	568,572	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a3" intensity="low" nested-source="w, officials"
+2	1782,1864	string	GATE_inside	 nested-source="w"
+1	550,699	string	GATE_inside	 nested-source="w"
+0	1538,1539	string	GATE_split	

@@ -1,0 +1,95 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0661/wsj_0661.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+607	1166,1175	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreement" nested-source="w,dpo,suit,dpca"
+635	380,380	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+620	1399,1400	string	GATE_split	
+588	0,0	string	GATE_expressive-subjectivity	
+556	625,659	string	GATE_target	 id="obtain"
+581	252,254	string	GATE_split	
+571	1457,1461	string	GATE_objective-speech-event	 nested-source="w,dp"
+576	1327,1331	string	GATE_objective-speech-event	 nested-source="w,dpb"
+553	1216,1217	string	GATE_split	
+608	1082,1135	string	GATE_agent	 nested-source="w,dpo,suit" id="suit"
+609	1136,1141	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="seekn" nested-source="w,dpo,suit"
+601	921,925	string	GATE_objective-speech-event	 nested-source="w,dpca"
+569	1335,1343	string	GATE_attitude	 target-link="15offer" intensity="medium" id="reject" attitude-type="agree-neg"
+554	1005,1007	string	GATE_split	
+610	532,533	string	GATE_split	
+625	1007,1007	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+598	938,1003	string	GATE_target	 id="repay"
+634	357,379	string	GATE_inside	 nested-source="w"
+619	1482,1484	string	GATE_split	
+587	9,43	string	GATE_agent	 nested-source="w,dpca" id="dpca"
+582	457,458	string	GATE_split	
+555	744,751	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="expneed" nested-source="w,dpca,dpca"
+560	586,595	string	GATE_attitude	 target-link="obtain" intensity="low" sarcastic="" id="assurance" attitude-type="other-attitude"
+592	142,152	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="seek" nested-source="w,dpca,dpca"
+575	1308,1326	string	GATE_agent	 nested-source="w,dpb" id="dpb"
+596	736,740	string	GATE_objective-speech-event	 nested-source="w,dpca"
+603	1007,1029	string	GATE_agent	 nested-source="w,dpo" id="dpo"
+549	661,663	string	GATE_split	
+613	254,254	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+631	534,534	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+626	663,836	string	GATE_inside	 nested-source="w"
+594	837,852	string	GATE_agent	 nested-source="w,dpca"
+616	9,128	string	GATE_inside	 nested-source="w"
+611	130,251	string	GATE_inside	 nested-source="w"
+572	1401,1413	string	GATE_agent	 nested-source="w,dp"
+562	153,192	string	GATE_target	 id="liquid"
+605	929,937	string	GATE_attitude	 target-link="repay" intensity="low" inferred="" id="exprep" attitude-type="other-attitude"
+615	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+578	1332,1334	string	GATE_agent	 nested-source="w,dpb,dpb" id=""
+566	1184,1199	string	GATE_agent	 nested-source="w,dpo,suit,dpca" id=""
+630	461,533	string	GATE_inside	 nested-source="w"
+591	550,554	string	GATE_objective-speech-event	 nested-source="w,dpca"
+559	599,624	string	GATE_agent	 nested-source="w,dpca,chase" id="chase"
+565	1204,1216	string	GATE_agent	 nested-source="w,dpo,suit,dp" id=""
+550	659,660	string	GATE_split	
+614	1,6	string	GATE_inside	 nested-source="w"
+629	663,663	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+628	534,660	string	GATE_inside	 nested-source="w"
+568	744,751	string	GATE_attitude	 target-link="exp215" intensity="low" id="expneed" attitude-type="other-attitude"
+632	380,458	string	GATE_inside	 nested-source="w"
+627	837,837	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+612	254,356	string	GATE_inside	 nested-source="w"
+600	926,928	string	GATE_agent	 nested-source="w,dpca,dpca"
+580	7,9	string	GATE_split	
+617	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+548	459,461	string	GATE_split	
+589	0,0	string	GATE_direct-subjective	
+563	1166,1175	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreement" nested-source="w,dpo,suit,dpo"
+599	929,937	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="exprep" nested-source="w,dpca,dpca"
+579	378,379	string	GATE_split	
+618	1480,1481	string	GATE_split	
+633	461,461	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+590	534,549	string	GATE_agent	 nested-source="w,dpca"
+593	139,141	string	GATE_agent	 nested-source="w,dpca,dpca"
+561	586,595	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,dpca,chase" attitude-link="assurance" target-speech-link=""
+606	1166,1175	string	GATE_attitude	 target-link="stand" intensity="low" id="agreement" attitude-type="agree-pos"
+570	1260,1279	string	GATE_target	 id="15offer"
+624	837,1004	string	GATE_inside	 nested-source="w"
+564	1155,1165	string	GATE_target	 id="stand"
+595	853,858	string	GATE_objective-speech-event	 nested-source="w,dpca"
+585	250,251	string	GATE_split	
+557	741,743	string	GATE_agent	 nested-source="w,dpca,dpca" id=""
+636	1401,1481	string	GATE_inside	 nested-source="w"
+621	1220,1400	string	GATE_inside	 nested-source="w"
+552	835,836	string	GATE_split	
+604	1030,1049	string	GATE_objective-speech-event	 nested-source="w,dpo" insubstantial="c1"
+567	1136,1141	string	GATE_attitude	 target-link="nullify" intensity="low" inferred="" id="seekn" attitude-type="intention-pos"
+577	1335,1343	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,dpb,dpb" polarity="" attitude-link="reject"
+584	0,0	string	GATE_agent	 id="implicit"
+573	142,152	string	GATE_attitude	 target-link="liquid" intensity="low" id="seek" attitude-type="intention-pos"
+558	752,783	string	GATE_target	 id="exp215"
+586	134,138	string	GATE_objective-speech-event	 nested-source="w,dpca"
+622	1220,1220	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+637	1401,1401	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+551	1003,1004	string	GATE_split	
+583	0,0	string	GATE_agent	 id="w"
+602	1055,1059	string	GATE_objective-speech-event	 nested-source="w,dpo"
+623	1007,1217	string	GATE_inside	 nested-source="w"
+574	1142,1175	string	GATE_target	 target-uncertain="" id="nullify"
+597	720,735	string	GATE_agent	 nested-source="w,dpca"

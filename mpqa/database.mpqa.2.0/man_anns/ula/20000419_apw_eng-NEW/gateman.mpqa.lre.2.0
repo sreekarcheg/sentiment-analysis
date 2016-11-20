@@ -1,0 +1,65 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/20000419_apw_eng-NEW/20000419_apw_eng-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+543	463,467	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" attitude-link="shouldity" nested-source="w,h"
+588	747,875	string	GATE_inside	 nested-source="w"
+556	763,790	string	GATE_target	 id="ic"
+581	742,747	string	GATE_split	
+571	546,547	string	GATE_split	
+544	211,219	string	GATE_expressive-subjectivity	 nested-source="w,h" polarity="neutral" intensity="medium"
+576	1324,1325	string	GATE_split	
+553	701,703	string	GATE_agent	 nested-source="w,h"
+569	880,1014	string	GATE_attitude	 target-link="unprog" intensity="low" id="oneway" attitude-type="sentiment-pos"
+554	468,486	string	GATE_target	 id="un"
+598	0,0	string	GATE_expressive-subjectivity	
+542	0,0	string	GATE_direct-subjective	
+587	1027,1027	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+582	741,742	string	GATE_split	
+555	560,580	string	GATE_expressive-subjectivity	 nested-source="w,h" intensity="high"
+592	346,547	string	GATE_inside	 nested-source="w"
+560	370,382	string	GATE_attitude	 target-link="lift" intensity="low-medium" id="nocall" attitude-type="arguing-pos"
+596	0,0	string	GATE_agent	 id="w"
+575	1325,1327	string	GATE_split	
+549	487,493	string	GATE_expressive-subjectivity	 nested-source="w,h"
+594	0,341	string	GATE_inside	 nested-source="w"
+540	346,369	string	GATE_agent	 nested-source="w,h" id=""
+572	547,552	string	GATE_split	
+562	1019,1023	string	GATE_direct-subjective	 nested-source="w,h"
+541	117,132	string	GATE_agent	 nested-source="w,h" id="h"
+578	1023,1024	string	GATE_split	
+566	553,698	string	GATE_attitude	 target-link="compel" intensity="medium-high" id="impish" attitude-type="arguing-pos"
+591	747,747	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+559	754,762	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" attitude-link="insistence" nested-source="w,h"
+565	585,641	string	GATE_target	 id="compel"
+550	195,340	string	GATE_attitude	 target-link="domore" intensity="medium" id="easeup" attitude-type="arguing-pos"
+568	987,1014	string	GATE_target	 id="unprog"
+580	874,875	string	GATE_split	
+589	880,880	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+548	387,409	string	GATE_target	 id="lift"
+563	1016,1018	string	GATE_agent	 nested-source="w,h"
+599	0,0	string	GATE_agent	 id="implicit"
+545	280,288	string	GATE_expressive-subjectivity	 nested-source="w,h" intensity="medium"
+579	875,880	string	GATE_split	
+590	553,742	string	GATE_inside	 nested-source="w"
+547	201,210	string	GATE_expressive-subjectivity	 nested-source="w,h" polarity="" intensity="medium"
+593	553,553	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+561	292,340	string	GATE_target	 id="domore"
+546	180,184	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" attitude-link="easeup" nested-source="w,h"
+570	880,896	string	GATE_expressive-subjectivity	 nested-source="w,h" intensity="low"
+564	754,874	string	GATE_attitude	 target-link="ic" intensity="medium-high" id="insistence" attitude-type="arguing-pos"
+595	346,346	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+585	1027,1167	string	GATE_inside	 nested-source="w"
+557	800,815	string	GATE_expressive-subjectivity	 nested-source="w,h" polarity="positive" intensity="high"
+552	704,708	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" attitude-link="impish" nested-source="w,h"
+567	487,546	string	GATE_attitude	 target-link="un" intensity="medium" id="shouldity" attitude-type="arguing-pos"
+577	1166,1167	string	GATE_split	
+584	1168,1168	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+573	341,346	string	GATE_split	
+558	751,753	string	GATE_agent	 nested-source="w,h"
+586	880,1024	string	GATE_inside	 nested-source="w"
+551	370,382	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" intensity="" nested-source="w,h" polarity="positive" attitude-link="nocall"
+583	1168,1325	string	GATE_inside	 nested-source="w"
+574	340,341	string	GATE_split	
+597	0,0	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

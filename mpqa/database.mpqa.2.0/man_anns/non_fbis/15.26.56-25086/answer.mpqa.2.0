@@ -1,0 +1,8 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/68.ctc.annotated
+#  on Thu Sep 09 14:17:05 EDT 2004
+#  by ves
+
+388	65,77	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="refers to implementation not adoption; also future" questionnumber="2" topic="kyoto"
+363	356,370	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="see other comments" questionnumber="2" topic="kyoto"

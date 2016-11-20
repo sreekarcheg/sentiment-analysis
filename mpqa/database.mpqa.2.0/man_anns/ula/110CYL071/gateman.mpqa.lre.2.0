@@ -1,0 +1,172 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/110CYL071/110CYL071.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+1417	608,665	string	GATE_attitude	 id="toSurvive" attitude-type="other-attitude" intensity="medium-high"
+1367	2086,2104	string	GATE_target	 id="theAccomplishment"
+1303	1414,1549	string	GATE_inside	 nested-source="w"
+1280	1,7	string	GATE_split	
+1341	247,284	string	GATE_inside	 nested-source="w"
+1368	2081,2104	string	GATE_attitude	 target-link="theAccomp" intensity="medium-high" id="feelAccomp" attitude-type="sentiment-pos"
+1304	2323,2324	string	GATE_split	
+1339	19,19	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1344	559,559	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="for"
+1408	1163,1168	string	GATE_attitude	 target-link="simsJob" intensity="medium" id="lovesJob" attitude-type="sentiment-pos"
+1403	751,754	string	GATE_target	 id="feltDemeanor"
+1301	286,286	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1419	676,683	string	GATE_agent	 nested-source="w, sims"
+1397	109,112	string	GATE_attitude	 annotation-uncertain="" target-link="" intensity="medium-high" attitude-link="" id="joy" attitude-type="sentiment-pos"
+1270	400,459	string	GATE_inside	 nested-source="w"
+1407	1163,1168	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w, sims" polarity="positive" attitude-link="lovesJob"
+1343	559,607	string	GATE_inside	 nested-source="w"
+1306	1170,1226	string	GATE_inside	 nested-source="w"
+1398	109,112	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w, implicit" polarity="positive" attitude-link="joy"
+1362	1414,1447	string	GATE_target	 id="people"
+1279	239,240	string	GATE_split	
+1313	1548,1549	string	GATE_split	
+1342	247,247	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1269	400,400	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1268	893,894	string	GATE_split	
+1357	2394,2403	string	GATE_target	 id="yourGift"
+1363	1449,1548	string	GATE_attitude	 target-link="people" intensity="medium" id="support" attitude-type="arguing-pos"
+1314	1839,1957	string	GATE_inside	 nested-source="w"
+1335	2264,2265	string	GATE_split	
+1308	2519,2520	string	GATE_split	
+1316	608,666	string	GATE_inside	 nested-source="w"
+1420	755,774	string	GATE_expressive-subjectivity	 intensity="medium"
+1340	19,95	string	GATE_inside	 nested-source="w"
+1364	1432,1447	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+1307	1340,1341	string	GATE_split	
+1393	79,94	string	GATE_target	 id="accomplish"
+1297	392,393	string	GATE_split	
+1361	1454,1548	string	GATE_attitude	 target-link="barriers" intensity="medium-high" id="overcome" attitude-type="sentiment-pos"
+1394	56,94	string	GATE_direct-subjective	 expression-intensity="neutral" insubstantial="C2" intensity="medium" nested-source="w, implicit" polarity="" attitude-link="greatAccomplish"
+1302	286,393	string	GATE_inside	 nested-source="w"
+1366	2404,2519	string	GATE_attitude	 target-link="yourGift" intensity="medium-high" id="newMeaning" attitude-type="sentiment-pos"
+1320	1956,1957	string	GATE_split	
+1261	1342,1342	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1353	2585,2594	string	GATE_target	 id="giftTwo"
+1317	176,240	string	GATE_inside	 nested-source="w"
+1336	1233,1233	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1400	868,881	string	GATE_attitude	 target-link="shine" intensity="medium" id="peopleSkills" attitude-type="sentiment-pos"
+1376	247,254	string	GATE_agent	 nested-source="w, sims"
+1375	189,202	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, sims" polarity="" attitude-link="felt"
+1365	1399,1406	string	GATE_target	 id="workWant"
+1296	96,169	string	GATE_inside	 nested-source="w"
+1405	70,94	string	GATE_attitude	 id="greatAccomplish" attitude-type="sentiment-pos" intensity="high"
+1377	224,239	string	GATE_attitude	 target-link="job" intensity="medium" sarcastic="" id="earned" attitude-type="sentiment-pos"
+1283	901,901	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1379	224,226	string	GATE_agent	 nested-source="w, sims"
+1347	1964,2033	string	GATE_inside	 nested-source="w"
+1406	1160,1162	string	GATE_agent	 nested-source="w, sims"
+1411	1393,1406	string	GATE_attitude	 target-link="workWant" intensity="medium" id="wantWork" attitude-type="intention-pos"
+1315	1839,1839	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1399	868,881	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w, coun" nested-source-uncertain=""
+1346	2392,2393	string	GATE_split	
+1380	418,420	string	GATE_agent	 nested-source="w, sims" id=""
+1294	2527,2527	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="difference"
+1385	578,585	string	GATE_agent	 nested-source="w, sims"
+1412	578,606	string	GATE_target	 id="notFind"
+1284	1283,1341	string	GATE_inside	 nested-source="w"
+1285	1281,1282	string	GATE_split	
+1356	2480,2519	string	GATE_attitude	 target-link="" intensity="medium" id="seldom" attitude-type="sentiment-neg"
+1374	176,188	string	GATE_agent	 nested-source="sims" id="w, sims"
+1318	176,176	string	GATE_direct-subjective	 intensity="low" implicit="true" polarity="positive" nested-source="w"
+1328	1616,1721	string	GATE_inside	 nested-source="w"
+1338	2619,2797	string	GATE_inside	 nested-source="w"
+1327	1616,1616	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1354	2595,2617	string	GATE_attitude	 target-link="giftTwo" intensity="medium" inferred="" id="difference" attitude-type="sentiment-pos"
+1305	1170,1170	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1295	96,96	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1337	2619,2619	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1416	667,674	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+1352	1550,1550	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="payoff"
+1288	2040,2040	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="mayFeel"
+1289	988,1109	string	GATE_inside	 nested-source="w"
+1381	460,463	string	GATE_agent	 nested-source="w, sims" id=""
+1325	1720,1721	string	GATE_split	
+1286	901,987	string	GATE_inside	 nested-source="w"
+1414	608,610	string	GATE_agent	 nested-source="w, sims"
+1291	460,552	string	GATE_inside	 nested-source="w"
+1387	0,0	string	GATE_agent	 id="implicit"
+1355	2595,2617	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+1345	1108,1109	string	GATE_split	
+1373	227,239	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="low"
+1323	1225,1226	string	GATE_split	
+1386	533,536	string	GATE_agent	 nested-source="w, sims"
+1378	189,202	string	GATE_attitude	 target-link="" intensity="high" inferred="yes" id="felt" contrast="" attitude-type="sentiment-pos"
+1348	1964,1964	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1326	606,607	string	GATE_split	
+1421	684,699	string	GATE_target	 id="called"
+1390	70,94	string	GATE_expressive-subjectivity	 nested-source="w, implicit" polarity="positive" intensity="high"
+1262	1342,1407	string	GATE_inside	 nested-source="w"
+1396	158,163	string	GATE_attitude	 target-link="ones" intensity="medium-high" id="loved" attitude-type="sentiment-pos"
+1293	665,666	string	GATE_split	
+1388	0,0	string	GATE_agent	 id="w"
+1263	1116,1116	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1266	2272,2324	string	GATE_inside	 nested-source="w"
+1292	460,460	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1329	707,707	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1425	781,807	string	GATE_attitude	 target-link="demeanor" attitude-uncertain="" intensity="medium" id="attribute" attitude-type="speculation"
+1392	96,168	string	GATE_direct-subjective	 expression-intensity="neutral" insubstantial="C2" attitude-link="loved" nested-source="w, implicit" intensity="medium" implicit="" polarity=""
+1415	611,665	string	GATE_expressive-subjectivity	 nested-source="w" polarity="both" intensity="medium"
+1319	699,700	string	GATE_split	
+1287	2040,2265	string	GATE_inside	 nested-source="w"
+1264	1116,1169	string	GATE_inside	 nested-source="w"
+1330	707,894	string	GATE_inside	 nested-source="w"
+1391	56,56	string	GATE_objective-speech-event	 implicit="true" nested-source="w" insubstantial=""
+1359	1432,1447	string	GATE_attitude	 id="peopleLike" attitude-type="sentiment-pos" intensity="medium-high"
+1265	2272,2272	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1331	986,987	string	GATE_split	
+1384	566,577	string	GATE_expressive-subjectivity	 intensity="medium" polarity="negative" nested-source="w" nested-source-uncertain=""
+1395	164,168	string	GATE_target	 id="ones"
+1272	667,700	string	GATE_inside	 nested-source="w"
+1267	1406,1407	string	GATE_split	
+1277	2032,2033	string	GATE_split	
+1312	2325,2325	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1389	1831,1832	string	GATE_split	
+1278	1608,1609	string	GATE_split	
+1333	1233,1282	string	GATE_inside	 nested-source="w"
+1324	458,459	string	GATE_split	
+1424	751,754	string	GATE_agent	 nested-source="w, sims" id=""
+1360	1449,1453	string	GATE_target	 id="barriers"
+1350	7,19	string	GATE_split	
+1281	1283,1283	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1370	2077,2104	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="C2" intensity="medium" nested-source="w, families" polarity="positive" attitude-link="feelAccomp"
+1311	2325,2393	string	GATE_inside	 nested-source="w"
+1334	283,284	string	GATE_split	
+1409	1151,1154	string	GATE_target	 id="simsJob"
+1298	1414,1414	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="overcome, support, peopleLike"
+1426	864,867	string	GATE_agent	 nested-source="w, sims"
+1422	741,745	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w, coun" polarity="" attitude-link="attribute, peopleSkills, feltPersonable"
+1322	2394,2394	string	GATE_direct-subjective	 expression-intensity="" intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="seldom, newMeaning"
+1299	2527,2618	string	GATE_inside	 nested-source="w"
+1410	1389,1406	string	GATE_direct-subjective	 annotation-uncertain="" expression-intensity="medium" intensity="medium" nested-source="w, implicit" polarity="positive" attitude-link="wantWork"
+1309	608,608	string	GATE_direct-subjective	 implicit="true" nested-source="w" attitude-link="toSurvive"
+1276	1722,1832	string	GATE_inside	 nested-source="w"
+1321	2394,2520	string	GATE_inside	 nested-source="w"
+1427	751,774	string	GATE_target	 id="demeanor"
+1404	56,56	string	GATE_direct-subjective	 expression-intensity="" intensity="medium" implicit="true" nested-source="w" polarity="positive"
+1372	1565,1608	string	GATE_attitude	 id="payoff" attitude-type="sentiment-pos" intensity="medium-high"
+1358	1565,1608	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+1300	1168,1169	string	GATE_split	
+1413	559,606	string	GATE_attitude	 target-link="notFind" intensity="medium-high" id="for" attitude-type="sentiment-neg"
+1282	551,552	string	GATE_split	
+1349	2797,2827	string	GATE_split	
+1371	2040,2076	string	GATE_agent	 nested-source="w, families" id="families"
+1271	667,667	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="finally"
+1332	2796,2797	string	GATE_split	
+1273	2617,2618	string	GATE_split	
+1382	227,239	string	GATE_target	 id="job"
+1402	755,774	string	GATE_attitude	 target-link="feltDemeanor" intensity="medium-high" id="feltPersonable" attitude-type="sentiment-pos"
+1423	720,740	string	GATE_agent	 nested-source="w, coun" id="coun"
+1274	168,169	string	GATE_split	
+1351	1550,1609	string	GATE_inside	 nested-source="w"
+1418	667,699	string	GATE_attitude	 target-link="called" intensity="medium-high" id="finally" attitude-type="sentiment-pos"
+1383	316,318	string	GATE_agent	 nested-source="w, sims"
+1275	1722,1722	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1310	94,95	string	GATE_split	
+1401	864,867	string	GATE_target	 id="shine"
+1290	988,988	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1369	2040,2264	string	GATE_attitude	 target-link="theAccomplishment" intensity="medium-high" id="mayFeel" attitude-type="sentiment-pos"

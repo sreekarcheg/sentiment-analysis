@@ -1,0 +1,62 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020403/21.25.24-12160/21.25.24-12160.tw.attitudes.xml
+#  on Mon Jul 31 20:19:25 EDT 2006
+#  by twilson
+56	807,807	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+55	9,10	string	GATE_split	
+54	515,524	string	GATE_agent	 nested-source="w,mat"
+53	1319,1497	string	GATE_inside	 nested-source="w"
+52	875,1021	string	GATE_inside	 nested-source="w"
+51	529,530	string	GATE_split	
+50	531,639	string	GATE_inside	 nested-source="w"
+49	638,639	string	GATE_split	
+48	1496,1497	string	GATE_split	
+47	180,393	string	GATE_inside	 nested-source="w"
+46	1413,1428	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" nested-source="w,iraq,rusmin" intensity="low" polarity="neutral"
+45	805,806	string	GATE_split	
+44	394,530	string	GATE_inside	 nested-source="w"
+43	640,806	string	GATE_inside	 nested-source="w"
+42	640,640	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	1334,1345	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a30" nested-source="w,iraq" intensity="medium" polarity="positive"
+40	1110,1110	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	917,925	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+38	869,873	string	GATE_objective-speech-event	 nested-source="w,mat"
+37	866,868	string	GATE_agent	 nested-source="w,mat"
+36	178,179	string	GATE_split	
+35	1504,1507	string	GATE_split	
+34	1217,1218	string	GATE_split	
+33	1022,1022	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	764,774	string	GATE_objective-speech-event	 nested-source="w,memo"
+31	180,240	string	GATE_agent	 id="mat" nested-source="w,mat"
+30	1319,1319	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	394,394	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	11,11	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	1022,1109	string	GATE_inside	 nested-source="w"
+26	241,263	string	GATE_objective-speech-event	 nested-source="w,mat" insubstantial="c1"
+25	0,0	string	GATE_agent	 id="implicit"
+24	1020,1021	string	GATE_split	
+23	873,874	string	GATE_split	
+22	1219,1318	string	GATE_inside	 nested-source="w"
+21	875,875	string	GATE_direct-subjective	 attitude-link="a10" intensity="low" nested-source="w" implicit="true"
+20	1350,1373	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,iraq" polarity="neutral"
+19	1219,1219	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	0,0	string	GATE_agent	 id="w"
+17	778,805	string	GATE_agent	 id="memo" nested-source="w,memo" agent-uncertain="somewhat-uncertain"
+16	525,529	string	GATE_objective-speech-event	 nested-source="w,mat"
+15	392,393	string	GATE_split	
+14	2,179	string	GATE_inside	 nested-source="w"
+13	1110,1218	string	GATE_inside	 nested-source="w"
+12	531,531	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	807,874	string	GATE_inside	 nested-source="w"
+10	1319,1333	string	GATE_agent	 id="iraq" nested-source="w,iraq"
+9	1108,1109	string	GATE_split	
+8	180,180	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	1374,1410	string	GATE_agent	 id="rusmin" nested-source="w,iraq,rusmin"
+6	1317,1318	string	GATE_split	
+5	912,991	string	GATE_attitude	 target-link="t10" attitude-type="speculation" id="a10" intensity="low"
+4	885,911	string	GATE_target	 id="t10"
+3	1441,1496	string	GATE_target	 id="t20"
+2	1413,1440	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" id="a20" intensity="low"
+1	1334,1348	string	GATE_attitude	 target-link="t30" attitude-type="intention-pos" id="a30" intensity="low-medium"
+0	1350,1496	string	GATE_target	 id="t30"

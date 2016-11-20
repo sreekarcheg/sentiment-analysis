@@ -1,0 +1,13 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/88.ves.annotated
+#  on Thu Sep 09 14:17:13 EDT 2004
+#  by ves
+
+1378	2546,2595	string	answer	annotator="ves" questionnumber="8" topic="kyoto" confidence="3"
+1357	242,257	string	answer	annotator="ves" confidence="2" confidencecomment="not clear whether they talk about the Kyoto protocol" questionnumber="8" topic="kyoto"
+1346	2341,2349	string	answer	annotator="ves" confidence="2" confidencecomment="" questionnumber="8" topic="kyoto"
+1266	242,257	string	answer	annotator="ves" confidence="5" partial="true" questionnumber="7" topic="kyoto"
+1309	2983,2995	string	answer	annotator="ves" questionnumber="2" topic="kyoto" confidence="3"
+1390	3353,3397	string	answer	annotator="ves" questionnumber="8" topic="kyoto" confidence="3"
+1298	498,576	string	answer	annotator="ves" questionnumber="1" topic="kyoto" confidence="5"

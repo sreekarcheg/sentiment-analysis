@@ -1,0 +1,136 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/RindnerBonnie/RindnerBonnie.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+1014	1679,1720	string	GATE_inside	 nested-source="w"
+1088	545,546	string	GATE_split	
+1085	0,8	string	GATE_split	
+1049	988,1002	string	GATE_expressive-subjectivity	 nested-source="w,br" intensity="high"
+1112	187,187	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1048	1255,1265	string	GATE_target	 id="selves"
+1086	8,25	string	GATE_split	
+1050	1231,1241	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,br,children" polarity="positive" attitude-link="happiness"
+1060	1602,1629	string	GATE_expressive-subjectivity	 polarity="positive" nested-source="w,br,br"
+1111	25,25	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1106	656,733	string	GATE_inside	 nested-source="w"
+1047	1246,1251	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" attitude-link="pride" nested-source="w,br,children"
+1057	378,461	string	GATE_target	 id="knownthings"
+1087	461,462	string	GATE_split	
+1024	373,377	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,br" polarity="" attitude-link="knowledge"
+1045	1073,1075	string	GATE_agent	 nested-source="w,br,grandfather"
+1101	472,472	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="true" nested-source="w,br" attitude-link="app"
+1108	743,743	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" implicit="true" nested-source="w,br,grandparents" attitude-link="diff"
+1084	176,177	string	GATE_split	
+1052	773,779	string	GATE_target	 id="matters"
+1015	1679,1679	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1107	660,664	string	GATE_agent	 id="grandparents"
+1058	327,337	string	GATE_attitude	 target-link="farmers" intensity="low" id="ignorance" attitude-type="other-attitude"
+1064	1596,1601	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="high" nested-source="w,br" polarity="positive" attitude-link="howwonderful"
+1012	1744,1790	string	GATE_inside	 nested-source="w"
+1051	780,805	string	GATE_attitude	 target-link="matters" attitude-uncertain="very-uncertain" intensity="medium-high" id="diff" attitude-type="sentiment-neg"
+1013	816,816	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w,br" attitude-link="mustabin"
+1046	1076,1080	string	GATE_objective-speech-event	 nested-source="w,br,grandfather"
+1041	1298,1379	string	GATE_target	 id="donice"
+1110	985,1025	string	GATE_target	 id="bepos"
+1105	656,656	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1083	136,137	string	GATE_split	
+1120	1208,1212	string	GATE_target	 id="this"
+1097	2010,2011	string	GATE_split	
+1098	1976,1990	string	GATE_split	
+1061	1637,1639	string	GATE_target	 id="myg"
+1080	321,321	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1011	1800,1800	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1007	2000,2000	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1121	816,816	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1027	505,515	string	GATE_expressive-subjectivity	 nested-source="w,br" intensity="low"
+1079	321,462	string	GATE_inside	 nested-source="w"
+1123	1246,1251	string	GATE_attitude	 target-link="selves" intensity="medium" id="pride" attitude-type="sentiment-pos"
+1091	1975,1976	string	GATE_split	
+1119	656,656	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1109	988,1002	string	GATE_attitude	 target-link="bepos" intensity="high" id="mustabin" attitude-type="speculation"
+1040	1278,1282	string	GATE_agent	 nested-source="w,br,children"
+1132	1744,1744	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1059	338,365	string	GATE_target	 id="farmers"
+1129	1496,1496	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1062	1602,1654	string	GATE_attitude	 target-link="myg" intensity="high" id="howwonderful" attitude-type="sentiment-pos"
+1008	1850,1976	string	GATE_inside	 nested-source="w"
+1038	1396,1400	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" attitude-link="waytogo" nested-source="w,br"
+1081	265,311	string	GATE_inside	 nested-source="w"
+1029	0,0	string	GATE_direct-subjective	
+1117	472,472	string	GATE_objective-speech-event	 implicit="true" nested-source="w" objective-uncertain=""
+1090	310,311	string	GATE_split	
+1124	1273,1297	string	GATE_attitude	 target-link="donice" intensity="medium" id="goodfeeling" attitude-type="sentiment-pos"
+1071	1654,1655	string	GATE_split	
+1039	1394,1395	string	GATE_agent	 nested-source="w,br"
+1028	327,337	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="ignorance" nested-source="w,br"
+1082	265,265	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1118	743,743	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1006	2000,2011	string	GATE_inside	 nested-source="w"
+1072	1485,1486	string	GATE_split	
+1100	556,646	string	GATE_inside	 nested-source="w"
+1005	1744,1744	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1009	1496,1496	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1069	1379,1380	string	GATE_split	
+1019	1390,1390	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1033	1850,1850	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1130	1539,1559	string	GATE_attitude	 target-link="thatstory" intensity="medium" id="alwaysremember" attitude-type="other-attitude"
+1034	0,0	string	GATE_expressive-subjectivity	
+1125	1411,1485	string	GATE_attitude	 target-link="thatthere" intensity="medium" id="waytogo" attitude-type="sentiment-pos"
+1035	0,0	string	GATE_agent	 id="implicit"
+1131	1679,1679	string	GATE_objective-speech-event	 implicit="true" nested-source="w,personb"
+1099	556,556	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1089	254,255	string	GATE_split	
+1096	2011,2022	string	GATE_split	
+1032	0,0	string	GATE_agent	 id="w"
+1067	732,733	string	GATE_split	
+1037	1539,1559	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" attitude-link="alwaysremember" nested-source="w,br"
+1030	36,50	string	GATE_agent	 id="br"
+1010	1800,1840	string	GATE_inside	 nested-source="w"
+1094	1720,1734	string	GATE_split	
+1070	805,806	string	GATE_split	
+1134	1850,1850	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1122	1213,1241	string	GATE_attitude	 target-link="this" intensity="medium" id="happiness" attitude-type="sentiment-pos"
+1092	1839,1840	string	GATE_split	
+1135	2000,2000	string	GATE_objective-speech-event	 nested-source="w,personb"
+1103	743,743	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1074	1655,1669	string	GATE_split	
+1063	1594,1595	string	GATE_agent	 nested-source="w,br"
+1073	1719,1720	string	GATE_split	
+1036	1444,1485	string	GATE_expressive-subjectivity	 nested-source="w,br,implicit" polarity="positive" intensity="high"
+1031	325,326	string	GATE_agent	 nested-source="w,br"
+1056	373,377	string	GATE_attitude	 target-link="knownthings" intensity="low" id="knowledge" attitude-type="other-attitude"
+1133	1800,1800	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1077	147,177	string	GATE_inside	 nested-source="w"
+1113	147,147	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1066	1560,1570	string	GATE_target	 id="thatstory"
+1022	785,805	string	GATE_expressive-subjectivity	 nested-source="w,br,implicit" polarity="negative" intensity="high"
+1114	321,321	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1016	1496,1655	string	GATE_inside	 nested-source="w"
+1017	25,25	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1042	1218,1230	string	GATE_agent	 nested-source="w,br,children" id="children"
+1104	743,806	string	GATE_inside	 nested-source="w"
+1055	505,515	string	GATE_attitude	 target-link="losemoney" intensity="low" id="app" attitude-type="speculation"
+1078	147,147	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1068	645,646	string	GATE_split	
+1093	1789,1790	string	GATE_split	
+1065	1537,1538	string	GATE_agent	 nested-source="w,br" id=""
+1116	556,556	string	GATE_objective-speech-event	 nested-source="w,br"
+1126	1406,1410	string	GATE_target	 id="thatthere"
+1023	709,710	string	GATE_agent	 nested-source="w,br,br"
+1053	711,716	string	GATE_attitude	 target-link="7c" intensity="low" id="unsure" attitude-type="speculation"
+1025	371,372	string	GATE_agent	 nested-source="w,br" id=""
+1018	1390,1486	string	GATE_inside	 nested-source="w"
+1076	187,187	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1102	472,546	string	GATE_inside	 nested-source="w"
+1044	598,603	string	GATE_agent	 id="grandfather"
+1043	1273,1297	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,br,children" polarity="positive" attitude-link="goodfeeling"
+1026	516,545	string	GATE_target	 id="losemoney"
+1054	699,732	string	GATE_target	 id="7c"
+1075	187,255	string	GATE_inside	 nested-source="w"
+1128	1317,1336	string	GATE_expressive-subjectivity	 nested-source="w,br" polarity="positive" intensity="high"
+1021	711,716	string	GATE_direct-subjective	 nested-source="w,br,br"
+1020	816,1380	string	GATE_inside	 nested-source="w"
+1115	265,265	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1127	1390,1390	string	GATE_objective-speech-event	 implicit="true" nested-source="w,br"
+1095	25,137	string	GATE_inside	 nested-source="w"

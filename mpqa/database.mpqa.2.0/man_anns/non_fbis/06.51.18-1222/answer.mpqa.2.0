@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/46.ctc.annotated
+#  on Thu Sep 09 14:16:55 EDT 2004
+#  by ves
+
+1727	3946,3969	string	answer	annotator="ctc" confidence="5" confidencecomment="" questionnumber="6" topic="mugabe"
+1798	1645,1680	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="partial..." questionnumber="1" topic="mugabe"
+1809	1913,1950	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="partial" questionnumber="1" topic="mugabe"
+1832	1714,1785	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="partial..." questionnumber="1" topic="mugabe"
+1719	3152,3203	string	answer	annotator="ctc" questionnumber="4" confidence="5" topic="mugabe"
+1824	1432,1491	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="'foreign govts' equals? brit/am" questionnumber="1" topic="mugabe"

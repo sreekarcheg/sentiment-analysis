@@ -1,0 +1,54 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020113/03.19.43-8352/03.19.43-8352.jlw.attitudes.xml
+#  on Thu Jun  8 15:39:28 EDT 2006
+#  by twilson
+48	554,636	string	GATE_inside	 nested-source="w"
+47	798,821	string	GATE_target	 id="t5"
+46	836,845	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w,cubagov"
+45	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+44	821,822	string	GATE_split	
+43	635,636	string	GATE_split	
+42	199,203	string	GATE_objective-speech-event	 nested-source="w,cubagov"
+41	178,198	string	GATE_agent	 id="cubagov" nested-source="w,cubagov"
+40	554,554	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	847,867	string	GATE_agent	 nested-source="w,cubagov"
+38	1173,1174	string	GATE_split	
+37	0,0	string	GATE_agent	 id="w"
+36	299,302	string	GATE_agent	 nested-source="w,cubagov,cubagov"
+35	655,669	string	GATE_attitude	 target-link="t4" attitude-type="agree-neg" intensity="medium-high" id="a4"
+34	829,829	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	285,298	string	GATE_objective-speech-event	 nested-source="w,cubagov"
+32	973,1174	string	GATE_inside	 nested-source="w"
+31	76,84	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w,cubagov, us" polarity="neutral"
+30	0,0	string	GATE_agent	 id="implicit"
+29	779,784	string	GATE_agent	 nested-source="w,cubagov"
+28	539,541	string	GATE_agent	 nested-source="w,cubagov"
+27	88,176	string	GATE_target	 id="t1"
+26	637,637	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	655,666	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" intensity="medium" nested-source="w,us" polarity="negative"
+24	76,87	string	GATE_attitude	 target-link="t1" attitude-type="intention-pos" intensity="low" id="a1"
+23	388,389	string	GATE_split	
+22	637,654	string	GATE_agent	 id="us" nested-source="w,us"
+21	965,966	string	GATE_split	
+20	396,547	string	GATE_inside	 nested-source="w"
+19	303,316	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t3" attitude-type="arguing-pos" id="a3" intensity="low"
+18	317,388	string	GATE_target	 id="t3"
+17	670,690	string	GATE_target	 id="t4"
+16	542,546	string	GATE_objective-speech-event	 nested-source="w,cubagov"
+15	785,797	string	GATE_attitude	 target-link="t5" attitude-type="agree-neg" intensity="medium" id="a5"
+14	546,547	string	GATE_split	
+13	396,396	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	973,973	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	1175,1178	string	GATE_split	
+10	228,229	string	GATE_split	
+9	303,311	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a3" annotation-uncertain="somewhat-uncertain" insubstantial="c1" nested-source="w,cubagov,cubagov" intensity="low" polarity="neutral"
+8	785,794	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a5" nested-source="w,cubagov" intensity="medium" polarity="negative"
+7	2,229	string	GATE_inside	 nested-source="w"
+6	264,284	string	GATE_agent	 nested-source="w,cubagov"
+5	868,872	string	GATE_objective-speech-event	 nested-source="w,cubagov"
+4	236,389	string	GATE_inside	 nested-source="w"
+3	71,75	string	GATE_agent	 nested-source="w,cubagov,us"
+2	236,236	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+1	829,966	string	GATE_inside	 nested-source="w"
+0	637,822	string	GATE_inside	 nested-source="w"

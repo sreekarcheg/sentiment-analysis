@@ -1,0 +1,51 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010705/01.24.22-5235/01.24.22-5235.jlw.attitudes.xml
+#  on Thu Jun  8 15:39:28 EDT 2006
+#  by twilson
+45	256,257	string	GATE_split	
+44	280,290	string	GATE_target	 id="t1"
+43	622,622	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	720,915	string	GATE_inside	 nested-source="w"
+41	335,348	string	GATE_objective-speech-event	 nested-source="w, vet"
+40	916,916	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	720,720	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	103,104	string	GATE_split	
+37	594,607	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a2" intensity="high" nested-source="w, vet" polarity="negative"
+36	544,545	string	GATE_split	
+35	217,217	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	996,997	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	399,400	string	GATE_split	
+32	620,621	string	GATE_split	
+31	718,719	string	GATE_split	
+30	608,620	string	GATE_target	 id="t2"
+29	586,593	string	GATE_agent	 nested-source="w, vet"
+28	996,1186	string	GATE_inside	 nested-source="w"
+27	258,400	string	GATE_inside	 nested-source="w"
+26	546,546	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	914,915	string	GATE_split	
+24	105,152	string	GATE_inside	 nested-source="w"
+23	622,719	string	GATE_inside	 nested-source="w"
+22	268,274	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="medium" nested-source="w, owner" polarity="neutral"
+21	1185,1186	string	GATE_split	
+20	153,153	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	0,0	string	GATE_agent	 id="implicit"
+18	401,401	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	401,545	string	GATE_inside	 nested-source="w"
+16	268,327	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t1" attitude-type="arguing-pos" id="a1" intensity="low"
+15	594,607	string	GATE_attitude	 attitude-uncertain="very-uncertain" target-link="t2" attitude-type="agree-neg" id="a2" intensity="high"
+14	217,257	string	GATE_inside	 nested-source="w"
+13	295,327	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, owner" polarity="negative"
+12	546,621	string	GATE_inside	 nested-source="w"
+11	2,104	string	GATE_inside	 nested-source="w"
+10	151,152	string	GATE_split	
+9	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	916,993	string	GATE_inside	 nested-source="w"
+7	1187,1190	string	GATE_split	
+6	105,105	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	153,216	string	GATE_inside	 nested-source="w"
+4	0,0	string	GATE_agent	 id="w"
+3	215,216	string	GATE_split	
+2	258,267	string	GATE_agent	 id="owner" nested-source="w, owner"
+1	357,373	string	GATE_agent	 id="vet" nested-source="w, vet"
+0	258,258	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

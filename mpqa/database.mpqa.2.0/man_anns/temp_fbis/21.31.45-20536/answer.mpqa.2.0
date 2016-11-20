@@ -1,0 +1,15 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/93.ctc.annotated
+#  on Thu Sep 09 14:17:14 EDT 2004
+#  by ves
+
+1050	2495,2510	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1028	2130,2153	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1074	2534,2542	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1070	1773,1781	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1018	2240,2299	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1066	7,16	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1015	2208,2228	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1080	78,85	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1024	2342,2349	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"

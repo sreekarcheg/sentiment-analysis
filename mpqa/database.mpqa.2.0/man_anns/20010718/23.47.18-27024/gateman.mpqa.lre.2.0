@@ -1,0 +1,40 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010718/23.47.18-27024/23.47.18-27024.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+34	1089,1100	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, milexperts" polarity="neutral"
+33	803,815	string	GATE_objective-speech-event	 nested-source="w, anotherreport"
+32	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	964,964	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	1106,1162	string	GATE_target	 id="t1"
+29	795,796	string	GATE_split	
+28	1055,1055	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	179,179	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+26	1068,1084	string	GATE_agent	 id="milexperts" nested-source="w, milexperts"
+25	611,612	string	GATE_split	
+24	1055,1228	string	GATE_inside	 nested-source="w"
+23	179,424	string	GATE_inside	 nested-source="w"
+22	832,875	string	GATE_agent	 id="nafis" nested-source="w, anotherreport, nafis"
+21	613,796	string	GATE_inside	 nested-source="w"
+20	171,172	string	GATE_split	
+19	1047,1048	string	GATE_split	
+18	613,613	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	876,890	string	GATE_objective-speech-event	 nested-source="w, anotherreport, nafis" objective-uncertain="somewhat-uncertain"
+16	964,1048	string	GATE_inside	 nested-source="w"
+15	423,424	string	GATE_split	
+14	1227,1228	string	GATE_split	
+13	1055,1067	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" intensity="low" nested-source="w, milexperts"
+12	816,830	string	GATE_agent	 id="anotherreport" nested-source="w, anotherreport"
+11	803,963	string	GATE_inside	 nested-source="w"
+10	2,172	string	GATE_inside	 nested-source="w"
+9	0,0	string	GATE_agent	 id="implicit"
+8	803,803	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	179,191	string	GATE_objective-speech-event	 nested-source="w, afreports"
+6	1086,1227	string	GATE_attitude	 target-link="t1" attitude-type="speculation" intensity="low" id="a1"
+5	431,431	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	0,0	string	GATE_agent	 id="w"
+3	962,963	string	GATE_split	
+2	192,219	string	GATE_agent	 id="afreports" nested-source="w, afreports"
+1	1253,1256	string	GATE_split	
+0	431,612	string	GATE_inside	 nested-source="w"

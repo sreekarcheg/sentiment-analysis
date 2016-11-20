@@ -1,0 +1,9 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/72.ctc.annotated
+#  on Thu Sep 09 14:17:06 EDT 2004
+#  by ves
+
+361	175,255	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="Brazil equals? US ally; reaction to Bush's decision?" questionnumber="7" topic="kyoto"
+398	329,373	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="Brazil equals? US ally; not directly answering how decision is 'looked upon'?" questionnumber="7" topic="kyoto"
+389	4,72	string	answer	annotator="ctc" confidence="2" partial="true" confidencecomment="Brazil equals? ally; reaction to Bush's decision?" questionnumber="7" topic="kyoto"

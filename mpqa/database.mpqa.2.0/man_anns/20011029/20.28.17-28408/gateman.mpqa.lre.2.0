@@ -1,0 +1,28 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011029/20.28.17-28408/20.28.17-28408.tw.attitudes.xml
+#  on Thu Nov 13 11:10:15 EST 2008
+#  by twilson
+22	0,0	string	GATE_agent	 id="implicit"
+21	0,0	string	GATE_agent	 id="w"
+20	302,302	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	302,390	string	GATE_inside	 nested-source="w"
+18	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	2,123	string	GATE_inside	 nested-source="w"
+16	389,390	string	GATE_split	
+15	122,123	string	GATE_split	
+14	130,130	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	130,295	string	GATE_inside	 nested-source="w"
+12	391,394	string	GATE_split	
+11	294,295	string	GATE_split	
+10	28,39	string	GATE_agent	 id="taliban" nested-source="w, taliban"
+9	50,54	string	GATE_objective-speech-event	 nested-source="w, taliban"
+8	188,205	string	GATE_agent	 id="abdul" nested-source="w, abdul"
+7	206,210	string	GATE_objective-speech-event	 nested-source="w, abdul"
+6	239,244	string	GATE_objective-speech-event	 nested-source="w, implicit" implicit="true"
+5	382,384	string	GATE_agent	 nested-source="w, abdul"
+4	385,389	string	GATE_objective-speech-event	 nested-source="w, abdul"
+3	303,304	string	GATE_agent	 nested-source="w, abdul, abdul"
+2	305,315	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, abdul, abdul" intensity="low" polarity="neutral"
+1	305,315	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+0	316,379	string	GATE_target	 id="t10"

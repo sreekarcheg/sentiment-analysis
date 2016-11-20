@@ -1,0 +1,109 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0928/wsj_0928.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+800	1523,1531	string	GATE_objective-speech-event	 nested-source="w,sun"
+832	581,768	string	GATE_inside	 nested-source="w"
+748	1512,1514	string	GATE_split	
+768	418,420	string	GATE_split	
+827	896,898	string	GATE_agent	 nested-source="w,mcnealy"
+758	577,578	string	GATE_split	
+799	1468,1474	string	GATE_expressive-subjectivity	 nested-source="w,mcnealy"
+825	1112,1139	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="extreme"
+798	1430,1432	string	GATE_agent	 nested-source="w,mcnealy"
+747	7,9	string	GATE_split	
+796	1729,1729	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+828	579,581	string	GATE_split	
+759	196,295	string	GATE_inside	 nested-source="w"
+831	420,420	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+792	1852,1888	string	GATE_target	 id="introduce"
+757	474,474	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+756	474,578	string	GATE_inside	 nested-source="w"
+821	899,903	string	GATE_objective-speech-event	 nested-source="w,mcnealy"
+770	9,30	string	GATE_inside	 nested-source="w"
+797	1643,1646	string	GATE_target	 id="sonne"
+755	769,769	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+801	1514,1517	string	GATE_agent	 nested-source="w,sun"
+835	0,0	string	GATE_agent	 id="implicit"
+771	1208,1209	string	GATE_split	
+836	0,0	string	GATE_expressive-subjectivity	
+804	1770,1780	string	GATE_expressive-subjectivity	 nested-source="w,analysts" polarity="negative" intensity="medium"
+772	341,342	string	GATE_split	
+745	32,193	string	GATE_inside	 nested-source="w"
+824	1317,1328	string	GATE_agent	 nested-source="w,mcnealy"
+746	192,193	string	GATE_split	
+793	1560,1727	string	GATE_attitude	 target-link="sonne" intensity="low-medium" id="while" attitude-type="arguing-pos"
+774	998,1209	string	GATE_inside	 nested-source="w"
+802	1748,1757	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" nested-source="w,analysts" polarity="negative" attitude-link="vulnerable"
+841	1571,1580	string	GATE_attitude	 target-link="demand" intensity="low" id="indic" attitude-type="other-attitude"
+803	1739,1747	string	GATE_agent	 nested-source="w,analysts" id="analysts"
+752	996,998	string	GATE_split	
+833	472,473	string	GATE_split	
+813	439,454	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="low"
+749	300,342	string	GATE_inside	 nested-source="w"
+795	1448,1467	string	GATE_target	 id="profit"
+823	511,513	string	GATE_agent	 nested-source="w,sun,sun"
+784	1514,1559	string	GATE_inside	 nested-source="w"
+826	643,647	string	GATE_objective-speech-event	 nested-source="w,mcnealy"
+750	416,417	string	GATE_split	
+773	998,998	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="extdiff" nested-source="w" annotation-uncertain="" intensity="extreme" implicit="true" polarity="negative"
+794	1846,1851	string	GATE_attitude	 target-link="introduce" intensity="low" id="plans" attitude-type="intention-pos"
+783	1317,1317	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+842	1581,1641	string	GATE_target	 id="demand"
+751	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+814	9,30	string	GATE_agent	 nested-source="w,sun" id="sun"
+807	1758,1761	string	GATE_target	 id="suncorp"
+763	1558,1559	string	GATE_split	
+781	994,995	string	GATE_split	
+844	506,510	string	GATE_objective-speech-event	 nested-source="w,sun"
+812	514,522	string	GATE_attitude	 target-link="breakeven" intensity="low" id="expectation" attitude-type="other-attitude"
+780	1315,1317	string	GATE_split	
+843	1329,1333	string	GATE_objective-speech-event	 annotation-uncertain="somewhat-uncertain" nested-source="w,mcnealy"
+743	1,6	string	GATE_inside	 nested-source="w"
+779	1510,1511	string	GATE_split	
+753	1918,1919	string	GATE_split	
+810	1448,1510	string	GATE_target	 id="increase"
+838	0,0	string	GATE_agent	 id="w"
+785	1317,1320	string	GATE_inside	 nested-source="w"
+782	1514,1514	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+762	1560,1560	string	GATE_direct-subjective	 annotation-uncertain="" expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" attitude-link="while,indic"
+777	343,343	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+809	1433,1442	string	GATE_direct-subjective	 intensity="low" attitude-link="shouldincrease" polarity="" nested-source="w,mcnealy"
+775	1705,1838	string	GATE_inside	 nested-source="w"
+818	494,505	string	GATE_agent	 nested-source="w,sun"
+786	194,196	string	GATE_split	
+744	905,905	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+776	767,768	string	GATE_split	
+754	769,904	string	GATE_inside	 nested-source="w"
+811	1468,1510	string	GATE_attitude	 target-link="profit" intensity="low" id="shouldincrease" attitude-type="speculation"
+816	1729,1729	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+787	1112,1139	string	GATE_attitude	 target-link="problems" intensity="high-extreme" id="extdiff" attitude-type="sentiment-neg"
+805	1846,1851	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="plans" nested-source="w,analysts,ibm"
+742	1313,1314	string	GATE_split	
+815	112,116	string	GATE_objective-speech-event	 nested-source="w,sun"
+806	1801,1838	string	GATE_agent	 nested-source="w,analysts,ibm" id="ibm"
+834	420,473	string	GATE_inside	 nested-source="w"
+741	905,995	string	GATE_inside	 nested-source="w"
+822	597,642	string	GATE_agent	 nested-source="w,mcnealy" id="mcnealy"
+790	1002,1111	string	GATE_target	 id="problems"
+791	1560,1565	string	GATE_expressive-subjectivity	 nested-source="w"
+819	439,472	string	GATE_attitude	 target-link="sunrez" intensity="low" id="slightlybetter" attitude-type="sentiment-pos"
+788	523,552	string	GATE_target	 target-uncertain="" id="breakeven"
+761	1560,1704	string	GATE_inside	 nested-source="w"
+817	514,522	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" nested-source="w,sun,sun" attitude-link="expectation" target-speech-link=""
+760	196,196	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+839	0,0	string	GATE_direct-subjective	
+767	1920,1922	string	GATE_split	
+840	1727,1728	string	GATE_split	
+808	1770,1795	string	GATE_attitude	 target-link="suncorp" intensity="low" id="vulnerable" attitude-type="sentiment-neg"
+769	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+764	1210,1314	string	GATE_inside	 nested-source="w"
+765	1210,1210	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+837	581,581	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+830	1840,1919	string	GATE_inside	 nested-source="w"
+778	343,417	string	GATE_inside	 nested-source="w"
+820	420,433	string	GATE_target	 id="sunrez"
+766	1321,1511	string	GATE_inside	 nested-source="w"
+789	1571,1580	string	GATE_expressive-subjectivity	 nested-source="w"
+829	903,904	string	GATE_split	

@@ -1,0 +1,45 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011225/20.43.49-8525/20.43.49-8525.tw.attitudes.xml
+#  on Tue Aug  1 17:46:45 EDT 2006
+#  by twilson
+39	144,148	string	GATE_objective-speech-event	 nested-source="w, afp, dor"
+38	598,598	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	704,704	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	373,377	string	GATE_objective-speech-event	 nested-source="w, dor"
+35	598,697	string	GATE_inside	 nested-source="w"
+34	152,158	string	GATE_objective-speech-event	 nested-source="w, afp"
+33	197,197	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	338,340	string	GATE_agent	 nested-source="w, dor"
+31	823,824	string	GATE_split	
+30	590,591	string	GATE_split	
+29	704,824	string	GATE_inside	 nested-source="w"
+28	189,190	string	GATE_split	
+27	320,324	string	GATE_objective-speech-event	 nested-source="w, dor"
+26	0,0	string	GATE_agent	 id="w"
+25	338,591	string	GATE_inside	 nested-source="w"
+24	350,360	string	GATE_objective-speech-event	 insubstantial="c1, c2" nested-source="w, dor, dor"
+23	118,143	string	GATE_agent	 id="dor" nested-source="w, afp, dor"
+22	715,724	string	GATE_agent	 id="arg" nested-source="w, arg"
+21	378,389	string	GATE_agent	 nested-source="w, dor, indo"
+20	211,222	string	GATE_agent	 id="journalists" nested-source="w, journalists"
+19	231,240	string	GATE_agent	 id="indo" nested-source="w, journalists, indo"
+18	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	202,207	string	GATE_objective-speech-event	 nested-source="w, journalists"
+16	390,428	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" intensity="low" nested-source="w, dor, indo" polarity="positive"
+15	2,190	string	GATE_inside	 nested-source="w"
+14	241,254	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" insubstantial="c2" intensity="low" nested-source="w, journalists, indo" polarity="uncertain-both"
+13	162,165	string	GATE_agent	 id="afp" nested-source="w, afp"
+12	197,331	string	GATE_inside	 nested-source="w"
+11	825,828	string	GATE_split	
+10	341,349	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" nested-source="w, dor" intensity="low" polarity="negative"
+9	309,319	string	GATE_agent	 nested-source="w, dor"
+8	725,733	string	GATE_objective-speech-event	 nested-source="w, arg"
+7	696,697	string	GATE_split	
+6	0,0	string	GATE_agent	 id="implicit"
+5	338,339	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	241,254	string	GATE_attitude	 target-link="t10" attitude-type="intention-pos" id="a10" intensity="low"
+3	255,307	string	GATE_target	 id="t10"
+2	341,349	string	GATE_attitude	 target-link="t20" attitude-type="agree-neg" id="a20" intensity="low"
+1	350,368	string	GATE_target	 id="t20"
+0	390,433	string	GATE_attitude	 target-link="none" attitude-type="intention-pos" id="a30" intensity="low-medium"

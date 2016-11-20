@@ -1,0 +1,33 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020510/21.56.20-863/21.56.20-863.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+27	481,499	string	GATE_agent	 nested-source="w, farah"
+26	0,0	string	GATE_agent	 id="w"
+25	590,593	string	GATE_split	
+24	301,339	string	GATE_agent	 id="somali" nested-source="w, farah, somali"
+23	141,145	string	GATE_objective-speech-event	 nested-source="w, farah"
+22	576,577	string	GATE_split	
+21	426,437	string	GATE_objective-speech-event	 nested-source="w,farah" insubstantial="c1"
+20	138,138	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	389,418	string	GATE_target	 id="t1"
+18	426,577	string	GATE_inside	 nested-source="w"
+17	389,418	string	GATE_agent	 id="somaligov"
+16	138,292	string	GATE_inside	 nested-source="w"
+15	426,426	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	344,388	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="medium" id="a1"
+13	138,140	string	GATE_agent	 nested-source="w, farah"
+12	0,0	string	GATE_agent	 id="implicit"
+11	344,384	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a1" nested-source="w, farah, somali" intensity="high" polarity="positive"
+10	293,293	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+9	500,504	string	GATE_objective-speech-event	 nested-source="w, farah"
+8	291,292	string	GATE_split	
+7	2,35	string	GATE_agent	 id="farah"
+6	136,137	string	GATE_split	
+5	293,295	string	GATE_agent	 nested-source="w, farah"
+4	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	418,419	string	GATE_split	
+2	296,300	string	GATE_objective-speech-event	 nested-source="w, farah"
+1	2,137	string	GATE_inside	 nested-source="w"
+0	293,419	string	GATE_inside	 nested-source="w"

@@ -1,0 +1,93 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/117CWL009/117CWL009.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+807	1297,1309	string	GATE_target	 id="yourcompany"
+735	737,756	string	GATE_agent	 nested-source="w,youandguests" agent-uncertain="" id="youandguests"
+800	19,35	string	GATE_inside	 nested-source="w"
+763	418,426	string	GATE_attitude	 target-link="thisevent" intensity="medium-high" id="fabled" attitude-type="sentiment-pos"
+748	777,784	string	GATE_target	 id="eve"
+781	489,489	string	GATE_direct-subjective	 expression-intensity="high" intensity="high" implicit="true" nested-source="w" attitude-link="grate"
+812	1326,1363	string	GATE_attitude	 target-link="yourcompany" intensity="high" id="bevisible" attitude-type="sentiment-pos"
+768	983,983	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="generousness"
+780	1651,1659	string	GATE_split	
+799	1429,1430	string	GATE_split	
+758	496,507	string	GATE_direct-subjective	 expression-intensity="high" intensity="high" nested-source="w,jcc" polarity="positive" attitude-link="grate"
+737	492,538	string	GATE_attitude	 target-link="yourcontrib" intensity="high" id="grate" attitude-type="sentiment-pos"
+736	598,615	string	GATE_attitude	 target-link="continued" intensity="high" id="vip" attitude-type="sentiment-pos"
+743	1234,1242	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w" es-uncertain="somewhat-uncertain"
+738	512,538	string	GATE_target	 id="yourcontrib"
+779	1527,1528	string	GATE_split	
+753	0,0	string	GATE_agent	 id="implicit"
+810	1535,1538	string	GATE_target	 id="you2"
+798	310,310	string	GATE_direct-subjective	 expression-intensity="neutral" insubstantial="" intensity="high" implicit="true" nested-source="w" attitude-link="youcare,fabled"
+785	7,19	string	GATE_split	
+782	975,976	string	GATE_split	
+747	935,942	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+762	418,426	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+809	1234,1242	string	GATE_attitude	 target-link="yoursup" intensity="medium" id="generousness" attitude-type="sentiment-pos"
+777	1578,1579	string	GATE_split	
+775	1586,1586	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" implicit="true" nested-source="w" polarity="" attitude-link="sincere"
+796	1258,1430	string	GATE_inside	 nested-source="w"
+818	42,52	string	GATE_inside	 nested-source="w" inside-uncertain=""
+786	723,976	string	GATE_inside	 nested-source="w"
+759	517,525	string	GATE_expressive-subjectivity	 nested-source="w,jcc" polarity="positive" intensity="medium"
+744	322,352	string	GATE_attitude	 target-link="you1" intensity="medium" id="youcare" attitude-type="sentiment-pos"
+739	601,615	string	GATE_direct-subjective	 expression-intensity="high" intensity="high" nested-source="w,jcc" polarity="positive" attitude-link="vip"
+776	1586,1651	string	GATE_inside	 nested-source="w"
+754	0,0	string	GATE_expressive-subjectivity	
+816	1586,1595	string	GATE_attitude	 intensity="low-medium" inferred="" id="sincere" attitude-type="sentiment-pos"
+811	1529,1538	string	GATE_attitude	 target-link="you2" intensity="medium" id="thankyou" attitude-type="sentiment-pos"
+787	1431,1523	string	GATE_inside	 nested-source="w"
+733	569,597	string	GATE_target	 id="continued"
+805	792,799	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="ken" nested-source="w,youandguests"
+792	1529,1529	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" polarity="" attitude-link="thankyou"
+742	943,958	string	GATE_target	 id="culturalevents"
+757	358,375	string	GATE_attitude	 target-link="becomepart" intensity="medium" id="invitation" attitude-type="sentiment-pos"
+815	1586,1595	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+806	1338,1363	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+756	413,432	string	GATE_target	 id="thisevent"
+770	1522,1523	string	GATE_split	
+797	1258,1258	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="bevisible"
+741	935,942	string	GATE_attitude	 target-link="culturalevents" intensity="medium" id="quals" attitude-type="sentiment-pos"
+755	0,0	string	GATE_direct-subjective	
+740	489,491	string	GATE_agent	 nested-source="w,jcc"
+801	47,51	string	GATE_target	 id="rdr"
+790	155,155	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+771	0,0	string	GATE_agent	 id="w"
+791	1529,1579	string	GATE_inside	 nested-source="w"
+804	800,975	string	GATE_target	 id="inyourken"
+819	35,42	string	GATE_split	
+772	153,154	string	GATE_split	
+745	757,784	string	GATE_attitude	 target-link="eve" intensity="medium-high" id="havespecial" attitude-type="sentiment-pos"
+788	1431,1431	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+746	757,784	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,youandguests" polarity="positive" attitude-link="havespecial"
+793	567,568	string	GATE_split	
+761	390,426	string	GATE_target	 id="becomepart"
+734	623,626	string	GATE_agent	 nested-source="w,jcc" id=""
+774	721,722	string	GATE_split	
+817	59,154	string	GATE_inside	 nested-source="w" inside-uncertain=""
+802	1603,1614	string	GATE_agent	 nested-source="w"
+760	358,375	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="" attitude-link="invitation" nested-source="w,implicit" annotation-uncertain="" intensity="medium" polarity="positive"
+803	792,799	string	GATE_attitude	 target-link="inyourken" intensity="low" id="ken" attitude-type="other-attitude"
+767	1,7	string	GATE_split	
+752	318,321	string	GATE_target	 id="you1"
+813	1529,1538	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w" nested-source-uncertain=""
+808	1229,1250	string	GATE_target	 id="yoursup"
+795	310,482	string	GATE_inside	 nested-source="w"
+749	42,46	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+769	983,1251	string	GATE_inside	 nested-source="w"
+784	489,568	string	GATE_inside	 nested-source="w"
+764	1250,1251	string	GATE_split	
+750	242,281	string	GATE_agent	 id="jcc"
+794	308,309	string	GATE_split	
+765	569,569	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+773	481,482	string	GATE_split	
+783	723,723	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="quals"
+820	52,59	string	GATE_split	
+778	19,19	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+766	569,722	string	GATE_inside	 nested-source="w"
+789	155,309	string	GATE_inside	 nested-source="w"
+751	326,352	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+814	42,42	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" implicit="true" nested-source="w" attitude-link="cher"

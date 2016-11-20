@@ -1,0 +1,35 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0324/wsj_0324.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+227	521,522	string	GATE_split	
+222	109,194	string	GATE_target	 id="pay"
+232	9,25	string	GATE_inside	 nested-source="w"
+246	96,98	string	GATE_split	
+235	98,98	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+223	98,101	string	GATE_agent	 nested-source="w,qvc"
+241	289,374	string	GATE_inside	 nested-source="w"
+240	375,375	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+230	26,71	string	GATE_inside	 nested-source="w"
+244	196,198	string	GATE_split	
+225	102,108	string	GATE_attitude	 target-link="pay" intensity="low-medium" sarcastic="" id="agreepay" attitude-type="agree-pos"
+224	26,30	string	GATE_objective-speech-event	 nested-source="w,qvc"
+233	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+243	194,195	string	GATE_split	
+221	102,108	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreepay" nested-source="w,qvc"
+234	1,6	string	GATE_inside	 nested-source="w"
+242	375,522	string	GATE_inside	 nested-source="w"
+239	198,287	string	GATE_inside	 nested-source="w"
+218	9,25	string	GATE_agent	 nested-source="w,qvc" agent-uncertain="" id="qvc"
+231	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+226	523,525	string	GATE_split	
+245	94,95	string	GATE_split	
+219	0,0	string	GATE_agent	 id="implicit"
+236	0,0	string	GATE_agent	 id="w"
+237	198,198	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+229	72,95	string	GATE_inside	 nested-source="w"
+220	0,0	string	GATE_expressive-subjectivity	
+238	98,195	string	GATE_inside	 nested-source="w"
+228	373,374	string	GATE_split	
+217	0,0	string	GATE_direct-subjective	

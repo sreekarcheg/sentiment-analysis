@@ -1,0 +1,23 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010813/22.41.16-14236/22.41.16-14236.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+17	0,0	string	GATE_agent	 id="implicit"
+16	272,272	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	272,394	string	GATE_inside	 nested-source="w"
+14	157,161	string	GATE_objective-speech-event	 nested-source="w, province"
+13	236,245	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w, province, iranians" polarity="neutral"
+12	395,396	string	GATE_split	
+11	393,394	string	GATE_split	
+10	2,265	string	GATE_inside	 nested-source="w"
+9	397,400	string	GATE_split	
+8	246,264	string	GATE_target	 id="t1"
+7	0,0	string	GATE_agent	 id="w"
+6	95,145	string	GATE_agent	 id="province" nested-source="w, province"
+5	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	236,245	string	GATE_attitude	 target-link="t1" attitude-type="intention-pos" intensity="low" id="a1"
+3	272,274	string	GATE_agent	 nested-source="w, province"
+2	264,265	string	GATE_split	
+1	223,231	string	GATE_agent	 id="iranians" nested-source="w, province, iranians"
+0	280,286	string	GATE_objective-speech-event	 nested-source="w, province"

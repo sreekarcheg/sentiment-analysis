@@ -1,0 +1,26 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020328/21.16.02-13111/21.16.02-13111.tw.attitudes.xml
+#  on Mon Jul 31 22:37:51 EDT 2006
+#  by twilson
+20	30,31	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	30,245	string	GATE_inside	 nested-source="w"
+18	218,222	string	GATE_objective-speech-event	 nested-source="w, official"
+17	194,217	string	GATE_agent	 id="official" nested-source="w, official"
+16	0,0	string	GATE_agent	 id="w"
+15	0,0	string	GATE_agent	 id="implicit"
+14	252,382	string	GATE_inside	 nested-source="w"
+13	252,252	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	683,686	string	GATE_split	
+11	681,682	string	GATE_split	
+10	549,550	string	GATE_split	
+9	381,382	string	GATE_split	
+8	244,245	string	GATE_split	
+7	557,682	string	GATE_inside	 nested-source="w"
+6	557,557	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	383,550	string	GATE_inside	 nested-source="w"
+4	383,383	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	62,100	string	GATE_agent	 id="spaceagency" nested-source="w, official, spaceagency"
+2	101,112	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, official, spaceagency" intensity="low" polarity="neutral"
+1	101,112	string	GATE_attitude	 target-link="t10" attitude-type="intention-pos" id="a10" intensity="low"
+0	113,192	string	GATE_target	 id="t10"

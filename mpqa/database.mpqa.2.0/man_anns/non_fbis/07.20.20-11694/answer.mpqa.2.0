@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/50.ctc.annotated
+#  on Thu Sep 09 14:16:57 EDT 2004
+#  by ves
+
+791	1267,1298	string	answer	annotator="ctc" questionnumber="8" confidence="5" topic="mugabe"
+822	1396,1416	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="western countries" questionnumber="1" topic="mugabe"
+728	1507,1517	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="partial" questionnumber="1" topic="mugabe"
+759	162,189	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="western countries" questionnumber="1" topic="mugabe"
+760	1609,1659	string	answer	annotator="ctc" confidence="5" partial="true" confidencecomment="partial" questionnumber="1" topic="mugabe"
+727	230,258	string	answer	annotator="ctc" confidence="3" partial="true" confidencecomment="western countries" questionnumber="1" topic="mugabe"

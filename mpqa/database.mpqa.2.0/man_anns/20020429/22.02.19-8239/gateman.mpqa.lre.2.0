@@ -1,0 +1,55 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020429/22.02.19-8239/22.02.19-8239.jlw.attitudes.xml
+#  on Wed Jun 14 16:20:39 EDT 2006
+#  by twilson
+49	600,606	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, yu" polarity="positive"
+48	69,76	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w, hariri" polarity="positive"
+47	2,172	string	GATE_inside	 nested-source="w"
+46	887,887	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	179,452	string	GATE_inside	 nested-source="w"
+44	69,76	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-pos" intensity="low-medium" id="a1"
+43	600,638	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-pos" intensity="low-medium" id="a4"
+42	748,880	string	GATE_inside	 nested-source="w"
+41	261,268	string	GATE_agent	 id="lebanon" nested-source="w, hariri, lebanon"
+40	840,879	string	GATE_target	 id="t8"
+39	740,741	string	GATE_split	
+38	459,459	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	391,403	string	GATE_expressive-subjectivity	 nested-source-uncertain="very-uncertain" intensity="low" nested-source="w, hariri" polarity="neutral"
+36	77,123	string	GATE_target	 id="t1"
+35	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	954,957	string	GATE_split	
+33	459,741	string	GATE_inside	 nested-source="w"
+32	751,761	string	GATE_attitude	 target-link="t7" attitude-type="sentiment-pos" intensity="low-medium" id="a7"
+31	179,179	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	186,190	string	GATE_objective-speech-event	 nested-source="w, hariri"
+29	171,172	string	GATE_split	
+28	269,274	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-pos" intensity="medium" id="a2"
+27	748,750	string	GATE_agent	 nested-source="w, yu"
+26	451,452	string	GATE_split	
+25	748,748	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	553,557	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a4, a6" intensity="medium" nested-source="w, yu"
+23	726,731	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, yu" polarity="positive"
+22	835,839	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a8" intensity="low" nested-source="w, yu, lebinv" polarity="positive"
+21	281,315	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, hariri, lebanon" polarity="positive"
+20	813,831	string	GATE_agent	 id="lebinv" nested-source="w, yu, lebinv"
+19	382,388	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-pos" intensity="medium-high" id="a3"
+18	887,947	string	GATE_inside	 nested-source="w"
+17	572,589	string	GATE_agent	 id="chinaleb" nested-source="w, yu, chinaleb"
+16	644,711	string	GATE_target	 id="t6"
+15	179,185	string	GATE_agent	 nested-source="w, hariri"
+14	459,551	string	GATE_agent	 id="yu" nested-source="w, yu"
+13	32,68	string	GATE_agent	 id="hariri" nested-source="w, hariri"
+12	751,761	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a7" intensity="low" nested-source="w, yu" polarity="positive"
+11	382,388	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a3" intensity="medium" nested-source="w, hariri" polarity="positive"
+10	835,839	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-pos" intensity="low-medium" id="a8"
+9	0,0	string	GATE_agent	 id="implicit"
+8	712,740	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-pos" intensity="low-medium" id="a6"
+7	275,380	string	GATE_target	 id="t2"
+6	762,807	string	GATE_target	 id="t7"
+5	946,947	string	GATE_split	
+4	269,274	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2" intensity="medium" nested-source="w, hariri, lebanon" polarity="positive"
+3	0,0	string	GATE_agent	 id="w"
+2	558,599	string	GATE_target	 id="t4"
+1	879,880	string	GATE_split	
+0	389,451	string	GATE_target	 id="t3"

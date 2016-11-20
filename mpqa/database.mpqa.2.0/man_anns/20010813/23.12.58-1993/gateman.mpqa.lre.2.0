@@ -1,0 +1,30 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010813/23.12.58-1993/23.12.58-1993.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+24	0,0	string	GATE_agent	 id="implicit"
+23	864,864	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	862,863	string	GATE_split	
+21	771,771	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	984,985	string	GATE_split	
+19	992,995	string	GATE_split	
+18	131,481	string	GATE_inside	 nested-source="w"
+17	2,77	string	GATE_inside	 nested-source="w"
+16	482,639	string	GATE_inside	 nested-source="w"
+15	640,640	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	482,482	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	769,770	string	GATE_split	
+12	0,0	string	GATE_agent	 id="w"
+11	738,741	string	GATE_target	 id="t1"
+10	864,985	string	GATE_inside	 nested-source="w"
+9	771,863	string	GATE_inside	 nested-source="w"
+8	480,481	string	GATE_split	
+7	395,455	string	GATE_agent	 id="FDSEA" nested-source="w, FDSEA"
+6	724,734	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w, implicit" polarity="negative"
+5	131,132	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	456,480	string	GATE_objective-speech-event	 nested-source="w, FDSEA"
+3	638,639	string	GATE_split	
+2	724,737	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-neg" intensity="low-medium" id="a1"
+1	640,770	string	GATE_inside	 nested-source="w"
+0	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

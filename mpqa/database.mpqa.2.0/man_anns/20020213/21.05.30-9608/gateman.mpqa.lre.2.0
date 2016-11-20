@@ -1,0 +1,57 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020213/21.05.30-9608/21.05.30-9608.tw.attitudes.xml
+#  on Mon Jul 31 22:37:51 EDT 2006
+#  by twilson
+51	204,208	string	GATE_objective-speech-event	 nested-source="w, employer"
+50	449,450	string	GATE_split	
+49	650,666	string	GATE_objective-speech-event	 nested-source="w, salmah" insubstantial="c2"
+48	226,450	string	GATE_inside	 nested-source="w"
+47	636,636	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+46	0,0	string	GATE_agent	 id="w"
+45	784,861	string	GATE_inside	 nested-source="w"
+44	189,203	string	GATE_agent	 id="employer" nested-source="w, employer"
+43	940,940	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	711,737	string	GATE_agent	 id="official" nested-source="w, official"
+41	636,777	string	GATE_inside	 nested-source="w"
+40	932,933	string	GATE_split	
+39	784,784	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	226,226	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	636,649	string	GATE_agent	 nested-source="w, salmah"
+36	776,777	string	GATE_split	
+35	968,989	string	GATE_objective-speech-event	 nested-source="w, salmah"
+34	738,742	string	GATE_objective-speech-event	 nested-source="w, official"
+33	1088,1262	string	GATE_inside	 nested-source="w"
+32	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	27,42	string	GATE_agent	 id="rebels" nested-source="w, employer, rebels"
+30	860,861	string	GATE_split	
+29	862,933	string	GATE_inside	 nested-source="w"
+28	784,807	string	GATE_agent	 id="gov" nested-source="w, gov"
+27	1263,1266	string	GATE_split	
+26	570,589	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a10,a15" intensity="medium" nested-source="w, salmah"
+25	1261,1262	string	GATE_split	
+24	264,268	string	GATE_objective-speech-event	 nested-source="w, salmah"
+23	481,499	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, salmah" polarity="positive"
+22	940,967	string	GATE_agent	 nested-source="w, salmah"
+21	218,219	string	GATE_split	
+20	226,263	string	GATE_agent	 id="salmah" nested-source="w, salmah"
+19	634,635	string	GATE_split	
+18	0,0	string	GATE_agent	 id="implicit"
+17	940,1081	string	GATE_inside	 nested-source="w"
+16	122,130	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" nested-source="w, employer, rebels" intensity="low" polarity="neutral"
+15	457,457	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	2,219	string	GATE_inside	 nested-source="w"
+13	607,626	string	GATE_objective-speech-event	 nested-source="w, salmah" insubstantial="c2, c1"
+12	457,635	string	GATE_inside	 nested-source="w"
+11	862,862	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	558,569	string	GATE_agent	 nested-source="w, salmah"
+9	808,825	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a40" intensity="medium" nested-source="w, gov" polarity="negative"
+8	1088,1089	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	470,555	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" id="a10" intensity="medium"
+6	458,469	string	GATE_target	 id="t10"
+5	470,502	string	GATE_attitude	 target-link="t15" attitude-type="sentiment-pos" id="a15" intensity="medium-high"
+4	503,555	string	GATE_target	 id="t15"
+3	122,187	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" id="a30" intensity="low"
+2	136,146	string	GATE_target	 id="t30"
+1	808,860	string	GATE_attitude	 target-link="t40" attitude-type="arguing-neg" id="a40" intensity="medium"
+0	831,839	string	GATE_target	 id="t40"

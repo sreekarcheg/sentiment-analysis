@@ -1,0 +1,69 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/110CYL072/110CYL072.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+469	0,0	string	GATE_agent	 id="w"
+486	740,754	string	GATE_attitude	 target-link="welfareNeg" intensity="medium" id="negWelfare" attitude-type="sentiment-neg"
+491	932,932	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+496	123,124	string	GATE_split	
+464	862,863	string	GATE_split	
+497	313,314	string	GATE_split	
+470	0,0	string	GATE_agent	 id="implicit"
+463	729,729	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="both" attitude-link="notAnswer, negWelfare"
+502	643,722	string	GATE_inside	 nested-source="w"
+508	19,19	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+457	760,774	string	GATE_target	 id="welRef"
+507	924,925	string	GATE_split	
+480	564,593	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+475	131,265	string	GATE_inside	 nested-source="w"
+460	781,835	string	GATE_attitude	 target-link="welRef" intensity="medium-high" id="refWel" attitude-type="sentiment-neg"
+481	131,136	string	GATE_agent	 nested-source="w, critics" id="critics"
+459	781,835	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+501	414,414	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+506	272,314	string	GATE_inside	 nested-source="w"
+465	970,978	string	GATE_split	
+482	137,146	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w, critics" polarity="negative" attitude-link="complaint"
+487	532,560	string	GATE_target	 id="theDebate"
+466	754,755	string	GATE_split	
+503	518,519	string	GATE_split	
+519	853,863	string	GATE_inside	 nested-source="w"
+461	835,836	string	GATE_split	
+484	740,754	string	GATE_attitude	 target-link="welfare" intensity="medium" id="notAnswer" attitude-type="arguing-pos"
+514	7,19	string	GATE_split	
+485	729,736	string	GATE_target	 id="welfareNeg"
+504	756,836	string	GATE_inside	 nested-source="w"
+479	601,641	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+468	526,526	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="reform, needJobs"
+510	721,722	string	GATE_split	
+478	148,178	string	GATE_attitude	 target-link="theSystem" intensity="medium" sarcastic="" id="complaint" attitude-type="sentiment-neg"
+517	870,870	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+516	853,853	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+505	756,756	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="refWel, welArg"
+477	148,158	string	GATE_target	 id="theSystem"
+462	729,755	string	GATE_inside	 nested-source="w"
+483	729,736	string	GATE_target	 id="welfare"
+494	1,7	string	GATE_split	
+515	412,413	string	GATE_split	
+488	532,593	string	GATE_attitude	 target-link="theDebate" intensity="medium-high" id="reform" attitude-type="sentiment-neg"
+489	526,593	string	GATE_target	 id="while"
+499	272,272	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+467	526,642	string	GATE_inside	 nested-source="w"
+472	0,0	string	GATE_direct-subjective	
+500	414,519	string	GATE_inside	 nested-source="w"
+518	870,925	string	GATE_inside	 nested-source="w"
+474	315,315	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+495	643,643	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+473	315,413	string	GATE_inside	 nested-source="w"
+458	760,835	string	GATE_attitude	 target-link="welRef" intensity="medium-high" id="welArg" attitude-type="arguing-pos"
+490	601,641	string	GATE_attitude	 target-link="while" attitude-uncertain="" intensity="medium" id="needJobs" attitude-type="sentiment-neg"
+509	851,852	string	GATE_split	
+498	932,970	string	GATE_inside	 nested-source="w"
+513	19,124	string	GATE_inside	 nested-source="w"
+476	131,131	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+471	0,0	string	GATE_expressive-subjectivity	
+456	837,851	string	GATE_attitude	 target-link="goodwill" intensity="medium" id="works" attitude-type="sentiment-pos"
+493	837,837	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="works"
+512	641,642	string	GATE_split	
+492	837,852	string	GATE_inside	 nested-source="w"
+511	264,265	string	GATE_split	

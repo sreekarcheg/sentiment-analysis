@@ -1,0 +1,24 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020415/21.31.55-5725/21.31.55-5725.jlw.attitudes.xml
+#  on Wed Jun 14 16:08:23 EDT 2006
+#  by twilson
+18	304,305	string	GATE_split	
+17	0,0	string	GATE_agent	 id="implicit"
+16	197,205	string	GATE_objective-speech-event	 nested-source="w,sources"
+15	306,322	string	GATE_agent	 id="palestinians" nested-source="w,palestinians"
+14	176,305	string	GATE_inside	 nested-source="w"
+13	176,196	string	GATE_agent	 id="sources" nested-source="w,sources"
+12	0,0	string	GATE_agent	 id="w"
+11	2,106	string	GATE_inside	 nested-source="w"
+10	449,450	string	GATE_split	
+9	176,176	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	168,169	string	GATE_split	
+7	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	306,306	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	328,336	string	GATE_objective-speech-event	 nested-source="w,palestinians"
+4	306,450	string	GATE_inside	 nested-source="w"
+3	107,107	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+2	107,169	string	GATE_inside	 nested-source="w"
+1	105,106	string	GATE_split	
+0	451,454	string	GATE_split	

@@ -1,0 +1,37 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011116/20.46.37-70/20.46.37-70.tw.attitudes.xml
+#  on Tue Aug  1 17:46:45 EDT 2006
+#  by twilson
+31	81,323	string	GATE_inside	 nested-source="w"
+30	0,0	string	GATE_agent	 id="implicit"
+29	0,0	string	GATE_agent	 id="w"
+28	675,676	string	GATE_split	
+27	324,324	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+26	324,477	string	GATE_inside	 nested-source="w"
+25	476,477	string	GATE_split	
+24	93,93	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	322,323	string	GATE_split	
+22	91,92	string	GATE_split	
+21	1420,1423	string	GATE_split	
+20	1141,1141	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	1141,1405	string	GATE_inside	 nested-source="w"
+18	1404,1405	string	GATE_split	
+17	943,943	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	943,1140	string	GATE_inside	 nested-source="w"
+15	1139,1140	string	GATE_split	
+14	766,766	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	766,942	string	GATE_inside	 nested-source="w"
+12	941,942	string	GATE_split	
+11	677,677	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	677,765	string	GATE_inside	 nested-source="w"
+9	764,765	string	GATE_split	
+8	478,478	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	478,676	string	GATE_inside	 nested-source="w"
+6	273,310	string	GATE_agent	 id="nso" nested-source="w,nso"
+5	311,315	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a10" intensity="medium" nested-source="w,nso"
+4	185,196	string	GATE_expressive-subjectivity	 nested-source="w,nso" intensity="medium" polarity="neutral"
+3	921,936	string	GATE_agent	 id="nsooff" nested-source="w,nsooff"
+2	937,941	string	GATE_objective-speech-event	 nested-source="w,nsooff"
+1	170,196	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-neg" id="a10" intensity="medium-high"
+0	108,169	string	GATE_target	 id="t10"

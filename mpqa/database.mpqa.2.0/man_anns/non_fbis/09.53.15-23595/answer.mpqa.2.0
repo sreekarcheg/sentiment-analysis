@@ -1,0 +1,12 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/61.ves.annotated
+#  on Thu Sep 09 14:17:02 EDT 2004
+#  by ves
+
+1495	1251,1279	string	answer	annotator="ves" confidence="3" confidencecomment="The country equals ordinary venezuelans??" questionnumber="6" topic="venezuela"
+1546	1007,1019	string	answer	annotator="ves" confidence="1" confidencecomment="Is it talking about the ordinalry venezuelans and the coup???" questionnumber="6" topic="venezuela"
+1493	3379,3429	string	answer	annotator="ves" questionnumber="6" confidence="4" topic="venezuela"
+1442	3379,3429	string	answer	annotator="ves" confidence="4" confidencecomment="people equals most venezuelans?" questionnumber="5" topic="venezuela"
+1596	3024,3193	string	answer	annotator="ves" questionnumber="4" confidence="3" topic="venezuela"
+1544	3431,3473	string	answer	annotator="ves" questionnumber="6" confidence="4" topic="venezuela"

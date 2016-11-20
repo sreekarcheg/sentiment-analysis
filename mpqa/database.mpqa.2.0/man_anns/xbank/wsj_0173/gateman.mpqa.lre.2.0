@@ -1,0 +1,66 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0173/wsj_0173.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+496	475,575	string	GATE_inside	 nested-source="w"
+491	1,6	string	GATE_inside	 nested-source="w"
+454	892,929	string	GATE_expressive-subjectivity	 nested-source="w"
+469	219,221	string	GATE_split	
+486	0,0	string	GATE_expressive-subjectivity	
+464	862,862	string	GATE_direct-subjective	 intensity="low" implicit="true" nested-source="w" polarity="negative" attitude-link="failure"
+497	367,367	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+446	40,61	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+463	862,983	string	GATE_inside	 nested-source="w"
+441	692,713	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="high"
+470	365,366	string	GATE_split	
+444	1041,1077	string	GATE_agent	 id="bc"
+457	135,149	string	GATE_target	 target-uncertain=""
+443	688,713	string	GATE_attitude	 target-link="adam" intensity="high" inferred="" id="plagued" attitude-type="sentiment-neg"
+475	984,986	string	GATE_split	
+480	592,593	string	GATE_split	
+460	934,943	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="" intensity="low" nested-source="w,coleco" attitude-link="filing"
+481	576,578	string	GATE_split	
+501	578,593	string	GATE_inside	 nested-source="w"
+459	944,969	string	GATE_target	 id="blp"
+442	676,687	string	GATE_target	 id="adam"
+447	40,61	string	GATE_attitude	 target-link="coleco" intensity="high" id="hifly" attitude-type="sentiment-pos"
+465	986,1112	string	GATE_inside	 nested-source="w"
+450	885,891	string	GATE_target	
+482	9,30	string	GATE_target	 id="coleco"
+487	0,0	string	GATE_direct-subjective	
+466	986,986	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+461	750,861	string	GATE_inside	 nested-source="w"
+484	0,0	string	GATE_agent	 id="w"
+485	0,0	string	GATE_agent	 id="implicit"
+448	1090,1098	string	GATE_attitude	 target-link="plan" id="approval" attitude-type="agree-pos"
+468	574,575	string	GATE_split	
+479	748,749	string	GATE_split	
+478	860,861	string	GATE_split	
+455	1082,1098	string	GATE_direct-subjective	 intensity="medium" nested-source="w,bc" polarity="positive" attitude-link="approval" target-speech-link=""
+494	33,218	string	GATE_inside	 nested-source="w"
+462	750,750	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+477	982,983	string	GATE_split	
+483	986,994	string	GATE_target	 target-uncertain="" id="plan"
+488	9,9	string	GATE_direct-subjective	 expression-intensity="neutral" implicit="true" nested-source="w" polarity="" attitude-link="highfly"
+489	9,31	string	GATE_inside	 nested-source="w"
+499	595,749	string	GATE_inside	 nested-source="w"
+467	473,474	string	GATE_split	
+452	873,878	string	GATE_direct-subjective	 expression-intensity="high" insubstantial="c2" implicit="" nested-source="w,implicit" attitude-link="craze"
+500	578,578	string	GATE_direct-subjective	 expression-intensity="neutral" implicit="true" nested-source="w" polarity="negative" attitude-link="plagued"
+472	217,218	string	GATE_split	
+449	892,929	string	GATE_attitude	 target-link="co" intensity="low-medium" id="w" attitude-type="sentiment-neg"
+474	7,9	string	GATE_split	
+495	475,475	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+490	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+458	150,154	string	GATE_attitude	 target-link="reorg" id="cplan" attitude-type="intention-pos"
+473	1113,1115	string	GATE_split	
+451	116,154	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" implicit="" nested-source="w,coleco" polarity="" attitude-link="cplan"
+498	367,474	string	GATE_inside	 nested-source="w"
+445	1102,1111	string	GATE_agent	 nested-source="w,bc"
+471	30,31	string	GATE_split	
+476	1111,1112	string	GATE_split	
+493	221,366	string	GATE_inside	 nested-source="w"
+456	934,943	string	GATE_attitude	 target-link="blp" intensity="low" id="filing" attitude-type="intention-pos"
+453	873,878	string	GATE_attitude	 target-link="" id="craze" attitude-type="sentiment-pos"
+492	221,221	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

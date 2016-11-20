@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/48.ves.annotated
+#  on Thu Sep 09 14:16:56 EDT 2004
+#  by ves
+
+359	671,701	string	answer	annotator="ves" confidence="3" partial="true" questionnumber="6" topic="kyoto"
+412	744,761	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="1" topic="kyoto"
+374	671,701	string	answer	annotator="ves" confidence="3" confidencecomment="It is not clear whether this concerns US allies" questionnumber="7" topic="kyoto"
+372	671,701	string	answer	annotator="ves" confidence="5" confidencecomment="It is not clear whether this concerns EU countries" questionnumber="8" topic="kyoto"
+365	724,728	string	answer	annotator="ves" questionnumber="2" topic="kyoto" confidence="5"

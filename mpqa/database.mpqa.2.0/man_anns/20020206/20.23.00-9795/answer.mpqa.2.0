@@ -1,0 +1,8 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/15.ctc.annotated
+#  on Thu Sep 09 14:16:46 EDT 2004
+#  by ves
+
+1672	2927,2931	string	answer	annotator="ctc" questionnumber="1" topic="venezuela" confidence="4"
+1730	2739,2760	string	answer	annotator="ctc" confidence="3" confidencecomment="'ordinary Venezuelans'?" questionnumber="6" topic="venezuela"

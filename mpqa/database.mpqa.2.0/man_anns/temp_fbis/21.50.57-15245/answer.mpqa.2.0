@@ -1,0 +1,16 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/97.ves.annotated
+#  on Thu Sep 09 14:17:15 EDT 2004
+#  by ves
+
+1791	2214,2259	string	answer	annotator="ves" confidence="2" confidencecomment="not clear whether it talks about foreign policy" questionnumber="7" topic="venezuela"
+1903	265,308	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="4" topic="venezuela"
+1901	1220,1391	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="7" topic="venezuela"
+1845	2625,2725	string	answer	annotator="ves" confidence="3" confidencecomment="foreign policies subset of policies?" questionnumber="7" topic="venezuela"
+1847	1072,1096	string	answer	annotator="ves" questionnumber="1" confidence="5" topic="venezuela"
+1958	313,409	string	answer	annotator="ves" questionnumber="4" confidence="3" topic="venezuela"
+1954	4614,4661	string	answer	annotator="ves" confidence="3" confidencecomment="indirect" questionnumber="4" topic="venezuela"
+1793	917,921	string	answer	annotator="ves" questionnumber="1" confidence="5" topic="venezuela"
+1899	3017,3183	string	answer	annotator="ves" confidence="3" confidencecomment="indirect" questionnumber="7" topic="venezuela"
+1956	1940,2006	string	answer	annotator="ves" confidence="1" confidencecomment="very indirect" questionnumber="7" topic="venezuela"

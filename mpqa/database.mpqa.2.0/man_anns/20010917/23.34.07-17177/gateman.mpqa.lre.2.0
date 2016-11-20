@@ -1,0 +1,35 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20010917/23.34.07-17177/23.34.07-17177.jlw.attitudes.xml
+#  on Mon May 22 12:28:11 EDT 2006
+#  by twilson
+29	664,777	string	GATE_inside	 nested-source="w"
+28	343,343	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	29,58	string	GATE_attitude	 attitude-uncertain="somewhat-uncertain" target-link="t1" attitude-type="speculation" id="a1" intensity="medium-high"
+26	260,261	string	GATE_split	
+25	667,679	string	GATE_objective-speech-event	 nested-source="w, implicit"
+24	784,787	string	GATE_split	
+23	200,247	string	GATE_agent	 id="press" nested-source="w, press"
+22	776,777	string	GATE_split	
+21	262,262	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	29,37	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="neutral"
+19	341,342	string	GATE_split	
+18	664,664	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	248,260	string	GATE_objective-speech-event	 nested-source="w, press"
+16	0,0	string	GATE_agent	 id="implicit"
+15	455,501	string	GATE_inside	 nested-source="w"
+14	500,501	string	GATE_split	
+13	502,663	string	GATE_inside	 nested-source="w"
+12	2,28	string	GATE_target	 id="t1"
+11	662,663	string	GATE_split	
+10	127,128	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+9	502,502	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	2,2	string	GATE_direct-subjective	 attitude-link="a1" intensity="medium" nested-source="w" implicit="true"
+7	262,342	string	GATE_inside	 nested-source="w"
+6	127,261	string	GATE_inside	 nested-source="w"
+5	2,58	string	GATE_inside	 nested-source="w"
+4	343,454	string	GATE_inside	 nested-source="w"
+3	46,58	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w" intensity="low" polarity="neutral"
+2	0,0	string	GATE_agent	 id="w"
+1	453,454	string	GATE_split	
+0	455,455	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

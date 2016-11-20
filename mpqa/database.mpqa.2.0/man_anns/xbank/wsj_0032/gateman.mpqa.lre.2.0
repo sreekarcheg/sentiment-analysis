@@ -1,0 +1,39 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0032/wsj_0032.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+222	454,455	string	GATE_split	
+215	539,552	string	GATE_agent	 nested-source="w,twocomp" id="twocomp"
+227	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+232	511,520	string	GATE_objective-speech-event	 nested-source="w,implicit"
+214	521,530	string	GATE_direct-subjective	 nested-source="w,twocomp" expression-intensity="low" insubstantial="c2"
+235	0,0	string	GATE_agent	 id="w"
+241	379,379	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+223	377,379	string	GATE_split	
+240	379,455	string	GATE_inside	 nested-source="w"
+213	142,196	string	GATE_target	 id="shares"
+230	552,553	string	GATE_split	
+244	256,257	string	GATE_split	
+225	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+224	375,376	string	GATE_split	
+233	0,0	string	GATE_expressive-subjectivity	
+243	458,458	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+221	456,458	string	GATE_split	
+216	260,269	string	GATE_direct-subjective	 nested-source="w,implicit" expression-intensity="low" insubstantial="c2"
+234	0,0	string	GATE_direct-subjective	
+242	458,553	string	GATE_inside	 nested-source="w"
+239	260,260	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+218	9,50	string	GATE_agent	 nested-source="w,m" id="m"
+231	271,281	string	GATE_objective-speech-event	 nested-source="w,implicit"
+226	9,47	string	GATE_inside	 nested-source="w"
+245	258,260	string	GATE_split	
+219	136,141	string	GATE_attitude	 target-link="shares" intensity="low" id="off" attitude-type="other-attitude"
+236	0,0	string	GATE_agent	 id="implicit"
+237	48,257	string	GATE_inside	 nested-source="w"
+212	136,141	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="off" nested-source="w,m"
+229	554,556	string	GATE_split	
+220	7,9	string	GATE_split	
+238	260,376	string	GATE_inside	 nested-source="w"
+228	1,6	string	GATE_inside	 nested-source="w"
+217	458,467	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c2" implicit="" nested-source="w,implicit"

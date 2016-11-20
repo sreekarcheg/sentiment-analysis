@@ -1,0 +1,48 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0923/wsj_0923.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+200	235,235	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+190	180,185	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" nested-source="w,spokes,investor" polarity="" attitude-link="plan"
+168	206,210	string	GATE_objective-speech-event	 nested-source="w,spokes"
+207	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+171	0,0	string	GATE_direct-subjective	
+199	144,145	string	GATE_split	
+177	343,383	string	GATE_inside	 nested-source="w"
+182	235,250	string	GATE_target	 id="transaction"
+198	148,148	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+187	186,204	string	GATE_target	 id="run"
+176	343,343	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+180	180,185	string	GATE_attitude	 target-link="run" intensity="low" id="plan" attitude-type="intention-pos"
+193	85,144	string	GATE_target	 id="buy"
+169	0,0	string	GATE_expressive-subjectivity	
+188	272,284	string	GATE_agent	 nested-source="w,board" id="board"
+201	148,232	string	GATE_inside	 nested-source="w"
+206	1,6	string	GATE_inside	 nested-source="w"
+179	382,383	string	GATE_split	
+189	251,268	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,board" polarity="positive" attitude-link="approved"
+196	233,235	string	GATE_split	
+170	0,0	string	GATE_agent	 id="implicit"
+178	9,30	string	GATE_inside	 nested-source="w"
+195	235,342	string	GATE_inside	 nested-source="w"
+183	303,311	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" intensity="low" nested-source="w,shareholders" polarity="positive"
+186	148,179	string	GATE_agent	 target-uncertain="" nested-source="w,spokes,investor"
+203	341,342	string	GATE_split	
+175	31,31	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+194	29,30	string	GATE_split	
+167	211,231	string	GATE_agent	 nested-source="w,spokes" id="spokes"
+172	31,145	string	GATE_inside	 nested-source="w"
+181	251,268	string	GATE_attitude	 target-link="transaction" intensity="low" id="approved" attitude-type="sentiment-pos"
+204	146,148	string	GATE_split	
+191	36,54	string	GATE_agent	 nested-source="w,ktc,investor" id="investor"
+166	31,35	string	GATE_objective-speech-event	 nested-source="w,kyle"
+205	7,9	string	GATE_split	
+173	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+197	231,232	string	GATE_split	
+192	55,84	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" nested-source="w,ktc,investor" polarity="" attitude-link="sign"
+165	9,30	string	GATE_agent	 nested-source="w,ktc" id="ktc"
+184	315,341	string	GATE_agent	 nested-source="w,shareholders" id="shareholders"
+174	0,0	string	GATE_agent	 id="w"
+185	55,84	string	GATE_attitude	 target-link="buy" intensity="low" id="sign" attitude-type="intention-pos"
+202	384,386	string	GATE_split	

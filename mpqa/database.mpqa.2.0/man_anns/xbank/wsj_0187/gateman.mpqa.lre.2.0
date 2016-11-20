@@ -1,0 +1,74 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0187/wsj_0187.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+607	537,539	string	GATE_split	
+635	1706,1708	string	GATE_split	
+620	871,891	string	GATE_agent	 nested-source="w,govoff" id="govoff"
+652	1405,1483	string	GATE_inside	 nested-source="w"
+640	1216,1217	string	GATE_split	
+653	1405,1405	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+608	292,293	string	GATE_split	
+609	379,380	string	GATE_split	
+601	105,111	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreeincprinciple" nested-source="w,fingov"
+657	381,381	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+654	1220,1402	string	GATE_inside	 nested-source="w"
+610	210,211	string	GATE_split	
+625	105,111	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreeinprinciple" nested-source="w,creditors"
+598	125,210	string	GATE_target	 id="formnew"
+634	1,6	string	GATE_inside	 nested-source="w"
+619	892,896	string	GATE_objective-speech-event	 nested-source="w,govoff"
+651	295,295	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+659	1085,1086	string	GATE_split	
+603	0,0	string	GATE_expressive-subjectivity	
+613	1376,1396	string	GATE_agent	 nested-source="w,govoff"
+648	1087,1217	string	GATE_inside	 nested-source="w"
+658	295,380	string	GATE_inside	 nested-source="w"
+626	288,292	string	GATE_objective-speech-event	 nested-source="w,participants"
+631	692,692	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+616	1290,1302	string	GATE_attitude	 target-link="subscribe" intensity="low" id="expectationsub" attitude-type="other-attitude"
+611	212,214	string	GATE_split	
+647	1220,1220	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+605	0,0	string	GATE_agent	 id="w"
+642	1626,1628	string	GATE_split	
+615	1306,1374	string	GATE_target	 id="subscribe"
+630	539,691	string	GATE_inside	 nested-source="w"
+614	1397,1401	string	GATE_objective-speech-event	 nested-source="w,govoff"
+628	692,897	string	GATE_inside	 nested-source="w"
+629	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+644	1628,1705	string	GATE_inside	 nested-source="w"
+664	690,691	string	GATE_split	
+632	214,214	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+627	105,111	string	GATE_attitude	 target-link="formnew" intensity="low" id="agreeinprinciple" attitude-type="agree-pos"
+612	7,9	string	GATE_split	
+600	9,31	string	GATE_agent	 nested-source="w,fingov" id="fingov"
+643	900,900	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+663	896,897	string	GATE_split	
+617	740,776	string	GATE_target	 id="swift"
+599	36,90	string	GATE_agent	 nested-source="w,creditors" id="creditors"
+618	1290,1302	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expectationsub" nested-source="w,govoff,implicit"
+662	1401,1402	string	GATE_split	
+633	214,293	string	GATE_inside	 nested-source="w"
+665	707,722	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" intensity="low" nested-source="w,govoff,implicit" attitude-link="soffer"
+660	898,900	string	GATE_split	
+646	1484,1625	string	GATE_inside	 nested-source="w"
+606	535,536	string	GATE_split	
+639	1218,1220	string	GATE_split	
+624	437,456	string	GATE_agent	 nested-source="w,ca" id="ca"
+656	381,536	string	GATE_inside	 nested-source="w"
+636	1624,1625	string	GATE_split	
+621	777,788	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="expectation" nested-source="w,govoff, implicit"
+649	1087,1087	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+604	0,0	string	GATE_agent	 id="implicit"
+641	1704,1705	string	GATE_split	
+622	777,788	string	GATE_attitude	 target-link="swift" intensity="low" id="expectation" attitude-type="other-attitude"
+637	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+650	900,1086	string	GATE_inside	 nested-source="w"
+661	1403,1405	string	GATE_split	
+602	0,0	string	GATE_direct-subjective	
+623	275,287	string	GATE_agent	 nested-source="w,participants" id="participants"
+638	9,211	string	GATE_inside	 nested-source="w"
+655	539,539	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+666	432,436	string	GATE_objective-speech-event	 nested-source="w,ca"
+645	1628,1628	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

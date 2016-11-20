@@ -1,0 +1,14 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/91.ves.annotated
+#  on Thu Sep 09 14:17:14 EDT 2004
+#  by ves
+
+1500	2388,2506	string	answer	annotator="ves" confidence="5" confidencecomment="" questionnumber="7" topic="venezuela"
+1442	2971,3135	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="7" topic="venezuela"
+1444	2161,2193	string	answer	annotator="ves" confidence="1" confidencecomment="extreamly indirect" questionnumber="7" topic="venezuela"
+1498	3181,3198	string	answer	annotator="ves" confidence="2" confidencecomment="indirect" questionnumber="7" topic="venezuela"
+1555	2661,2769	string	answer	annotator="ves" confidence="4" confidencecomment="" questionnumber="7" topic="venezuela"
+1557	1195,1199	string	answer	annotator="ves" questionnumber="1" confidence="5" topic="venezuela"
+1386	2867,2891	string	answer	annotator="ves" confidence="2" confidencecomment="indirect" questionnumber="7" topic="venezuela"
+1388	2015,2159	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="7" topic="venezuela"

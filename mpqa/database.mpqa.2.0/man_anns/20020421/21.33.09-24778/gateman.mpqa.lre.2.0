@@ -1,0 +1,28 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020421/21.33.09-24778/21.33.09-24778.tw.attitudes.xml
+#  on Mon Jul 31 18:44:11 EDT 2006
+#  by twilson
+22	597,614	string	GATE_objective-speech-event	 nested-source="w, implicit" insubstantial="c2"
+21	622,838	string	GATE_inside	 nested-source="w"
+20	622,622	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	334,335	string	GATE_split	
+18	0,0	string	GATE_agent	 id="w"
+17	0,0	string	GATE_agent	 id="implicit"
+16	163,164	string	GATE_split	
+15	614,615	string	GATE_split	
+14	2,164	string	GATE_inside	 nested-source="w"
+13	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	837,838	string	GATE_split	
+11	839,842	string	GATE_split	
+10	171,335	string	GATE_inside	 nested-source="w"
+9	171,171	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	342,615	string	GATE_inside	 nested-source="w"
+7	342,342	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	200,280	string	GATE_agent	 id="countries"
+5	463,474	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, implicit" intensity="low" polarity="neutral"
+4	475,489	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" insubstantial="c2" nested-source="w, implicit, countries" intensity="low" polarity="neutral"
+3	463,474	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+2	342,504	string	GATE_target	 id="t10"
+1	475,489	string	GATE_attitude	 target-link="t20" attitude-type="agree-pos" id="a20" intensity="low"
+0	342,462	string	GATE_target	 id="t20"

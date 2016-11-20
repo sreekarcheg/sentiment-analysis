@@ -1,0 +1,89 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020314/20.38.10-27533/20.38.10-27533.tw.attitudes.xml
+#  on Tue Aug  1 17:46:45 EDT 2006
+#  by twilson
+83	1461,1462	string	GATE_split	
+82	1300,1301	string	GATE_split	
+81	1080,1173	string	GATE_inside	 nested-source="w"
+80	208,344	string	GATE_inside	 nested-source="w"
+79	1643,1657	string	GATE_agent	 nested-source="w, mozd"
+78	845,846	string	GATE_split	
+77	1565,1635	string	GATE_agent	 id="mozd" nested-source="w, mozd"
+76	2255,2258	string	GATE_split	
+75	878,886	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" intensity="low" nested-source="w, implicit" polarity="neutral"
+74	2021,2021	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+73	1078,1079	string	GATE_split	
+72	763,846	string	GATE_inside	 nested-source="w"
+71	2162,2197	string	GATE_expressive-subjectivity	 nested-source="w, anotherpolice" intensity="medium" polarity="positive"
+70	2121,2122	string	GATE_split	
+69	1643,1643	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+68	1469,1469	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+67	1838,1843	string	GATE_objective-speech-event	 nested-source="w, mozd"
+66	0,0	string	GATE_agent	 id="w"
+65	2037,2041	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a20" subjective-uncertain="somewhat-uncertain" nested-source="w, anotherpolice" intensity="medium"
+64	1635,1636	string	GATE_split	
+63	427,427	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+62	995,995	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+61	498,499	string	GATE_split	
+60	2021,2122	string	GATE_inside	 nested-source="w"
+59	345,426	string	GATE_inside	 nested-source="w"
+58	1938,1956	string	GATE_agent	 id="police" nested-source="w, police"
+57	847,988	string	GATE_inside	 nested-source="w"
+56	987,988	string	GATE_split	
+55	218,221	string	GATE_objective-speech-event	 nested-source="w, officials"
+54	2123,2123	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+53	1329,1338	string	GATE_objective-speech-event	 nested-source="w, implicit" objective-uncertain="somewhat-uncertain"
+52	995,1079	string	GATE_inside	 nested-source="w"
+51	573,574	string	GATE_split	
+50	1560,1564	string	GATE_objective-speech-event	 nested-source="w, mozd"
+49	1227,1227	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+48	1172,1173	string	GATE_split	
+47	2123,2125	string	GATE_agent	 nested-source="w, anotherpolice"
+46	208,208	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+45	343,344	string	GATE_split	
+44	1080,1080	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+43	1925,1937	string	GATE_objective-speech-event	 nested-source="w, police"
+42	1225,1226	string	GATE_split	
+41	1835,1837	string	GATE_agent	 nested-source="w, mozd"
+40	2253,2254	string	GATE_split	
+39	847,847	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	0,0	string	GATE_agent	 id="implicit"
+37	1925,1925	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	1923,1924	string	GATE_split	
+35	1174,1226	string	GATE_inside	 nested-source="w"
+34	1835,1924	string	GATE_inside	 nested-source="w"
+33	500,500	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	1658,1662	string	GATE_objective-speech-event	 nested-source="w, mozd"
+31	1308,1308	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	2084,2121	string	GATE_expressive-subjectivity	 nested-source="w, anotherpolice" intensity="medium" polarity="negative"
+29	763,763	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	208,217	string	GATE_agent	 id="officials" nested-source="w, officials"
+27	2,201	string	GATE_inside	 nested-source="w"
+26	581,581	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	500,574	string	GATE_inside	 nested-source="w"
+24	1925,2014	string	GATE_inside	 nested-source="w"
+23	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+22	761,762	string	GATE_split	
+21	2021,2036	string	GATE_agent	 id="anotherpolice" nested-source="w, anotherpolice"
+20	2123,2254	string	GATE_inside	 nested-source="w"
+19	1227,1301	string	GATE_inside	 nested-source="w"
+18	345,345	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	2149,2161	string	GATE_expressive-subjectivity	 nested-source="w, anotherpolice" intensity="low" polarity="neutral"
+16	427,499	string	GATE_inside	 nested-source="w"
+15	425,426	string	GATE_split	
+14	2126,2130	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a30" intensity="medium" nested-source="w, anotherpolice"
+13	1308,1462	string	GATE_inside	 nested-source="w"
+12	1835,1836	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	1643,1834	string	GATE_inside	 nested-source="w"
+10	2013,2014	string	GATE_split	
+9	200,201	string	GATE_split	
+8	1469,1636	string	GATE_inside	 nested-source="w"
+7	1174,1174	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	581,762	string	GATE_inside	 nested-source="w"
+5	878,927	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" id="a10" intensity="low-medium"
+4	861,874	string	GATE_target	 id="t10"
+3	2042,2083	string	GATE_target	 id="t20"
+2	2084,2121	string	GATE_attitude	 target-link="t20" attitude-type="arguing-pos" id="a20" intensity="low-medium"
+1	2136,2144	string	GATE_target	 id="t30"
+0	2145,2253	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" id="a30" intensity="medium-high"

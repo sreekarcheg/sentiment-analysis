@@ -1,0 +1,7 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/51.ves.annotated
+#  on Thu Sep 09 14:16:57 EDT 2004
+#  by ves
+
+2347	2104,2198	string	answer	annotator="ves" confidence="2" partial="true" confidencecomment="very indirect" questionnumber="1" topic="mugabe"

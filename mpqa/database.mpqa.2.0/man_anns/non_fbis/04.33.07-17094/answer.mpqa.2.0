@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/36.ves.annotated
+#  on Thu Sep 09 14:16:51 EDT 2004
+#  by ves
+
+1869	2565,2707	string	answer	annotator="ves" confidence="4" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+1831	19,41	string	answer	annotator="ves" confidence="3" confidencecomment="the West !equals US and GB?" questionnumber="1" topic="mugabe"
+1816	2776,2876	string	answer	annotator="ves" confidence="5" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+1953	572,618	string	answer	annotator="ves" confidence="4" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+1924	81,110	string	answer	annotator="ves" confidence="3" confidencecomment="Western countries equals US and GB?" questionnumber="1" topic="mugabe"

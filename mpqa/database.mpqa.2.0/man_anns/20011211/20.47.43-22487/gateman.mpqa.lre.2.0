@@ -1,0 +1,22 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011211/20.47.43-22487/20.47.43-22487.tw.attitudes.xml
+#  on Tue Aug  1 15:10:15 EDT 2006
+#  by twilson
+16	0,0	string	GATE_agent	 id="implicit"
+15	0,0	string	GATE_agent	 id="w"
+14	122,123	string	GATE_split	
+13	355,356	string	GATE_split	
+12	357,357	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	357,620	string	GATE_inside	 nested-source="w"
+10	283,295	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" annotation-uncertain="somewhat-uncertain" nested-source="w, implicit" intensity="low" polarity="neutral"
+9	124,124	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	124,225	string	GATE_inside	 nested-source="w"
+7	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	2,123	string	GATE_inside	 nested-source="w"
+5	226,226	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	226,356	string	GATE_inside	 nested-source="w"
+3	627,630	string	GATE_split	
+2	224,225	string	GATE_split	
+1	283,322	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"
+0	250,275	string	GATE_target	 id="t10"

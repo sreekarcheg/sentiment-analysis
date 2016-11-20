@@ -1,0 +1,11 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/22.ves.annotated
+#  on Thu Sep 09 14:16:48 EDT 2004
+#  by ves
+
+1183	780,787	string	answer	annotator="ves" confidence="2" partial="true" questionnumber="1" topic="mugabe"
+1213	586,641	string	answer	annotator="ves" confidence="2" partial="true" questionnumber="1" topic="mugabe"
+1175	92,100	string	answer	annotator="ves" confidence="2" partial="true" confidencecomment="" questionnumber="1" topic="mugabe"
+1180	506,516	string	answer	annotator="ves" confidence="2" partial="true" questionnumber="1" topic="mugabe"
+1154	1891,1933	string	answer	annotator="ves" confidence="3" confidencecomment="not clear that 'the West' neceessarily means US and GB" questionnumber="1" topic="mugabe"

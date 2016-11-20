@@ -1,0 +1,10 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/11.ctc.annotated
+#  on Thu Sep 09 14:16:46 EDT 2004
+#  by ves
+
+2339	3435,3478	string	answer	annotator="ctc" confidence="4" partial="true" confidencecomment="requires inference" questionnumber="7" topic="kyoto"
+2359	3551,3593	string	answer	annotator="ctc" questionnumber="1" confidence="5" topic="kyoto"
+2406	3630,3661	string	answer	annotator="ctc" confidence="4" confidencecomment="assumed 'int'l media' covers EU countries" questionnumber="8" topic="kyoto"
+2512	3630,3661	string	answer	annotator="ctc" confidence="2" partial="false" confidencecomment="assumed that int'l media covers Japan and US allies" questionnumber="7" topic="kyoto"

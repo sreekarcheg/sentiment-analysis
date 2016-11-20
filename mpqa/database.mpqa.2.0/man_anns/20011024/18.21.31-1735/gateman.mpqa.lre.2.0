@@ -1,0 +1,62 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011024/18.21.31-1735/18.21.31-1735.tw.attitudes.xml
+#  on Tue Aug  1 20:23:44 EDT 2006
+#  by twilson
+56	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+55	2,280	string	GATE_inside	 nested-source="w"
+54	1587,1588	string	GATE_split	
+53	925,926	string	GATE_split	
+52	1717,1718	string	GATE_split	
+51	1092,1092	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+50	1092,1315	string	GATE_inside	 nested-source="w"
+49	1084,1085	string	GATE_split	
+48	279,280	string	GATE_split	
+47	281,281	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+46	281,611	string	GATE_inside	 nested-source="w"
+45	1607,1619	string	GATE_objective-speech-event	 nested-source="w, aznar, ba" insubstantial="c1"
+44	1428,1450	string	GATE_objective-speech-event	 nested-source="w, aznar"
+43	0,0	string	GATE_agent	 id="implicit"
+42	0,0	string	GATE_agent	 id="w"
+41	1725,1728	string	GATE_split	
+40	1322,1322	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	1322,1588	string	GATE_inside	 nested-source="w"
+38	1314,1315	string	GATE_split	
+37	618,618	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	618,926	string	GATE_inside	 nested-source="w"
+35	610,611	string	GATE_split	
+34	1595,1595	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	1595,1718	string	GATE_inside	 nested-source="w"
+32	933,933	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	933,1085	string	GATE_inside	 nested-source="w"
+30	38,54	string	GATE_agent	 id="aznar" nested-source="w, sources, aznar"
+29	56,60	string	GATE_objective-speech-event	 nested-source="w, sources, aznar"
+28	105,110	string	GATE_agent	 id="spain" nested-source="w, sources, aznar, spain"
+27	111,134	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a10" intensity="high" nested-source="w, sources, aznar, spain" polarity="positive"
+26	168,174	string	GATE_agent	 nested-source="w, sources, aznar, spain"
+25	249,253	string	GATE_objective-speech-event	 nested-source="w, sources"
+24	254,279	string	GATE_agent	 id="sources" nested-source="w, sources"
+23	138,147	string	GATE_agent	 id="argentina"
+22	554,566	string	GATE_objective-speech-event	 nested-source="w, sources"
+21	567,610	string	GATE_agent	 nested-source="w, sources"
+20	933,937	string	GATE_agent	 id="rato" nested-source="w, rato"
+19	938,947	string	GATE_objective-speech-event	 nested-source="w, rato"
+18	1031,1055	string	GATE_agent	 id="argov" nested-source="w, argov"
+17	1056,1069	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" annotation-uncertain="somewhat-uncertain" intensity="low" nested-source="w, argov" polarity="neutral"
+16	1092,1104	string	GATE_objective-speech-event	 nested-source="w, sources"
+15	1105,1133	string	GATE_agent	 nested-source="w, sources"
+14	1135,1154	string	GATE_agent	 id="adlr" nested-source="w, sources, adlr"
+13	1160,1165	string	GATE_objective-speech-event	 nested-source="w, sources, adlr"
+12	1377,1384	string	GATE_objective-speech-event	 nested-source="w, aznar"
+11	1322,1340	string	GATE_agent	 nested-source="w, aznar"
+10	1621,1635	string	GATE_agent	 id="ba" nested-source="w, aznar, ba"
+9	1641,1646	string	GATE_objective-speech-event	 nested-source="w, aznar, ba"
+8	1681,1702	string	GATE_agent	 nested-source="w, aznar"
+7	1703,1707	string	GATE_objective-speech-event	 nested-source="w, aznar"
+6	111,137	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="high"
+5	138,157	string	GATE_target	 id="t10"
+4	175,203	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a20" intensity="medium" nested-source="w, sources, aznar, spain" polarity="neutral"
+3	175,246	string	GATE_attitude	 target-link="t20" attitude-type="speculation" id="a20" intensity="medium"
+2	207,216	string	GATE_target	 id="t20"
+1	1056,1069	string	GATE_attitude	 target-link="t30" attitude-type="intention-pos" id="a30" intensity="medium"
+0	1070,1084	string	GATE_target	 id="t30"

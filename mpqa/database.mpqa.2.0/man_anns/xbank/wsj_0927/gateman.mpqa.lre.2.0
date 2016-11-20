@@ -1,0 +1,161 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0927/wsj_0927.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+1417	2468,2469	string	GATE_split	
+1367	1012,1013	string	GATE_split	
+1431	1421,1422	string	GATE_split	
+1341	1002,1012	string	GATE_target	 target-uncertain="" id="theunwashed"
+1432	1708,1709	string	GATE_split	
+1368	2286,2286	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1344	885,893	string	GATE_attitude	 target-link="competition" intensity="medium" id="flattery" contrast="" attitude-type="sentiment-pos"
+1339	1988,1992	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" nested-source="w,schwarz" polarity="positive" attitude-link="reasonably"
+1408	1497,1501	string	GATE_objective-speech-event	 nested-source="w,schwarz"
+1403	503,741	string	GATE_inside	 nested-source="w"
+1451	3067,3067	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1429	1,6	string	GATE_inside	 nested-source="w"
+1419	1242,1242	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1397	2102,2128	string	GATE_attitude	 target-link="costs" intensity="low" id="beadrag" attitude-type="sentiment-neg"
+1407	1016,1029	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="" intensity="medium" polarity="negative" attitude-link="lackofculture,ithinknot"
+1343	811,819	string	GATE_attitude	 target-link="thecompetition" intensity="medium" id="welcome" attitude-type="sentiment-pos"
+1470	740,741	string	GATE_split	
+1362	3168,3170	string	GATE_split	
+1398	0,0	string	GATE_direct-subjective	
+1342	1106,1110	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,schwarz" polarity="negative" attitude-link="lackofculture"
+1469	2805,2805	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1463	2161,2285	string	GATE_inside	 nested-source="w"
+1357	1014,1014	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1363	1302,1304	string	GATE_split	
+1335	1943,1963	string	GATE_target	 target-uncertain="" id="flatyear"
+1316	793,795	string	GATE_split	
+1420	896,896	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1340	1002,1012	string	GATE_attitude	 target-link="theunwashed" intensity="low-medium" id="masses" attitude-type="sentiment-neg"
+1364	1585,1587	string	GATE_split	
+1393	885,893	string	GATE_expressive-subjectivity	 nested-source="w,schwarz"
+1361	7,9	string	GATE_split	
+1457	316,500	string	GATE_inside	 nested-source="w"
+1394	1994,2005	string	GATE_agent	 nested-source="w,schwarz"
+1430	2153,2154	string	GATE_split	
+1366	2948,2948	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1458	795,894	string	GATE_inside	 nested-source="w"
+1320	972,1013	string	GATE_inside	 nested-source="w"
+1440	1587,1709	string	GATE_inside	 nested-source="w"
+1353	913,928	string	GATE_target	 id="dacompe"
+1317	1305,1305	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1336	985,1012	string	GATE_attitude	 target-link="otherfirms" inferred="yes" id="dealmasses" attitude-type="sentiment-neg"
+1400	9,28	string	GATE_agent	 id="schwarz"
+1439	177,235	string	GATE_inside	 nested-source="w"
+1376	1424,1502	string	GATE_inside	 nested-source="w"
+1461	795,795	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1375	316,316	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1365	1992,1993	string	GATE_split	
+1377	2658,2658	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1405	0,0	string	GATE_agent	 id="w"
+1347	1002,1012	string	GATE_expressive-subjectivity	 nested-source="w,schwarz" polarity="negative" intensity="medium"
+1379	1857,1857	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1462	2161,2161	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1443	2903,2947	string	GATE_inside	 nested-source="w"
+1437	1928,1928	string	GATE_objective-speech-event	 nested-source="w"
+1406	1417,1421	string	GATE_objective-speech-event	 nested-source="w,schwarz"
+1411	799,810	string	GATE_agent	 nested-source="w,schwarz" id=""
+1399	0,0	string	GATE_expressive-subjectivity	
+1346	873,880	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,schwarz" polarity="positive" attitude-link="flattery"
+1380	1857,1875	string	GATE_inside	 nested-source="w"
+1385	1976,1987	string	GATE_agent	 nested-source="w,schwarz"
+1412	1103,1105	string	GATE_agent	 nested-source="w,schwarz"
+1471	1503,1503	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1356	1014,1111	string	GATE_inside	 nested-source="w"
+1374	2284,2285	string	GATE_split	
+1466	499,500	string	GATE_split	
+1318	2450,2469	string	GATE_inside	 nested-source="w"
+1328	2946,2947	string	GATE_split	
+1438	1928,1993	string	GATE_inside	 nested-source="w"
+1338	929,969	string	GATE_attitude	 target-link="dacompe" intensity="low" id="broaden" attitude-type="arguing-pos"
+1433	1855,1856	string	GATE_split	
+1465	1879,1926	string	GATE_inside	 nested-source="w"
+1354	791,792	string	GATE_split	
+1327	2470,2657	string	GATE_inside	 nested-source="w"
+1337	820,835	string	GATE_target	 id="thecompetition"
+1416	1587,1587	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1352	1016,1101	string	GATE_attitude	 target-link="others" intensity="low-medium" id="ithinknot" attitude-type="agree-neg"
+1453	742,792	string	GATE_inside	 nested-source="w"
+1467	2805,2902	string	GATE_inside	 nested-source="w"
+1325	173,173	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1381	501,503	string	GATE_split	
+1434	3063,3064	string	GATE_split	
+1414	893,894	string	GATE_split	
+1355	2286,2343	string	GATE_inside	 nested-source="w"
+1387	1579,1583	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="allowus" nested-source="w,schwarz"
+1345	881,883	string	GATE_target	 id="competition"
+1373	97,170	string	GATE_inside	 nested-source="w"
+1323	1710,1856	string	GATE_inside	 nested-source="w"
+1441	314,315	string	GATE_split	
+1386	1494,1496	string	GATE_agent	 nested-source="w,schwarz" id=""
+1468	1503,1584	string	GATE_inside	 nested-source="w"
+1378	2658,2802	string	GATE_inside	 nested-source="w"
+1436	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1348	1503,1519	string	GATE_target	 id="newservices"
+1444	2656,2657	string	GATE_split	
+1442	2903,2903	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1326	2470,2470	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1421	1240,1241	string	GATE_split	
+1390	2016,2063	string	GATE_target	 id="costs"
+1435	169,170	string	GATE_split	
+1396	2011,2015	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="beadrag" polarity="negative" nested-source="w,schwarz"
+1388	1567,1578	string	GATE_agent	 nested-source="w,schwarz"
+1329	1994,2154	string	GATE_inside	 nested-source="w"
+1425	2426,2426	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1392	1030,1034	string	GATE_target	 id="others"
+1447	969,970	string	GATE_split	
+1415	896,970	string	GATE_inside	 nested-source="w"
+1319	972,972	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="dealmasses,masses"
+1330	1994,1994	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1359	2801,2802	string	GATE_split	
+1391	1016,1101	string	GATE_attitude	 target-link="others" attitude-uncertain="" intensity="medium" id="lackofculture" attitude-type="sentiment-neg"
+1454	742,742	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1331	173,176	string	GATE_inside	 nested-source="w"
+1384	1014,1015	string	GATE_agent	 nested-source="w,schwarz,schwarz" id=""
+1395	2122,2128	string	GATE_expressive-subjectivity	 nested-source="w,schwarz"
+1459	1501,1502	string	GATE_split	
+1448	1583,1584	string	GATE_split	
+1445	1112,1241	string	GATE_inside	 nested-source="w"
+1464	239,315	string	GATE_inside	 nested-source="w"
+1389	1520,1525	string	GATE_expressive-subjectivity	 nested-source="w,schwarz"
+1333	1943,1953	string	GATE_expressive-subjectivity	 nested-source="w,schwarz" polarity="positive" intensity="low"
+1324	2803,2805	string	GATE_split	
+1424	2426,2449	string	GATE_inside	 nested-source="w"
+1360	1424,1424	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1350	972,972	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1370	2346,2422	string	GATE_inside	 nested-source="w"
+1450	3067,3167	string	GATE_inside	 nested-source="w"
+1334	1943,1953	string	GATE_attitude	 target-link="flatyear" attitude-uncertain="" intensity="low" id="reasonably" attitude-type="sentiment-pos"
+1409	1405,1416	string	GATE_agent	 nested-source="w,schwarz" id=""
+1426	2155,2157	string	GATE_split	
+1422	2344,2346	string	GATE_split	
+1322	1710,1710	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1449	2901,2902	string	GATE_split	
+1410	908,912	string	GATE_direct-subjective	 nested-source="w,schwarz" attitude-link="broaden" intensity="low"
+1321	1305,1422	string	GATE_inside	 nested-source="w"
+1427	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1358	2424,2425	string	GATE_split	
+1372	2157,2160	string	GATE_inside	 nested-source="w"
+1404	0,0	string	GATE_agent	 id="implicit"
+1452	1925,1926	string	GATE_split	
+1413	896,907	string	GATE_agent	 nested-source="w,schwarz"
+1460	171,173	string	GATE_split	
+1349	1520,1566	string	GATE_attitude	 target-link="newservices" intensity="low-medium" id="allowus" attitude-type="arguing-pos"
+1428	3065,3067	string	GATE_split	
+1332	2342,2343	string	GATE_split	
+1371	2157,2157	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1456	3166,3167	string	GATE_split	
+1382	1110,1111	string	GATE_split	
+1446	1112,1112	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1402	503,503	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1423	9,95	string	GATE_inside	 nested-source="w"
+1351	972,983	string	GATE_target	 id="otherfirms"
+1418	1242,1301	string	GATE_inside	 nested-source="w"
+1383	2346,2346	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+1455	1300,1301	string	GATE_split	
+1401	811,819	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,schwarz" polarity="positive" attitude-link="welcome"
+1369	2948,3064	string	GATE_inside	 nested-source="w"

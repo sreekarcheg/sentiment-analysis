@@ -1,0 +1,14 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/6.ctc.annotated
+#  on Thu Sep 09 14:17:01 EDT 2004
+#  by ves
+
+1004	97,149	string	answer	annotator="ctc" confidence="1" partial="true" confidencecomment="not sure that this indicates how Jordan felt; also not sure if jordan is an ally" questionnumber="7" topic="kyoto"
+928	2044,2048	string	answer	annotator="ctc" confidence="5" confidencecomment="" questionnumber="2" topic="kyoto"
+933	665,762	string	answer	annotator="ctc" confidence="1" partial="true" confidencecomment="weak indicator of how ally? Jordan felt" questionnumber="7" topic="kyoto"
+995	1177,1256	string	answer	annotator="ctc" confidence="5" confidencecomment="" questionnumber="1" topic="kyoto"
+1008	329,413	string	answer	annotator="ctc" confidence="1" partial="true" confidencecomment="weak indicator of how ally? Jordan felt" questionnumber="7" topic="kyoto"
+993	2077,2147	string	answer	annotator="ctc" confidence="3" confidencecomment="less direct a statement of what the Kyoto Protocol is about than elsewhere" questionnumber="1" topic="kyoto"
+966	567,662	string	answer	annotator="ctc" confidence="1" partial="true" confidencecomment="weak indicator of how ally? Jordan felt" questionnumber="7" topic="kyoto"
+964	153,167	string	answer	annotator="ctc" questionnumber="1" confidence="5" topic="kyoto"

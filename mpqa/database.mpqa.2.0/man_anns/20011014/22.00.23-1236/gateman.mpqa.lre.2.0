@@ -1,0 +1,60 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011014/22.00.23-1236/22.00.23-1236.jlw.attitudescheck.xml
+#  on Mon Jul 31 16:05:03 EDT 2006
+#  by twilson
+54	590,604	string	GATE_attitude	 target-link="t4" attitude-type="sentiment-pos" intensity="low" id="a4"
+53	999,1000	string	GATE_split	
+52	452,463	string	GATE_target	 id="t2"
+51	825,831	string	GATE_agent	 id="Europe" nested-source="w, Verhofstadt, Europe"
+50	347,552	string	GATE_inside	 nested-source="w"
+49	268,346	string	GATE_inside	 nested-source="w"
+48	0,0	string	GATE_agent	 id="w"
+47	730,751	string	GATE_attitude	 target-link="t5" attitude-type="sentiment-neg" intensity="medium-high" id="a6"
+46	228,255	string	GATE_agent	 id="ruling-party" nested-source="w, ruling-party"
+45	712,716	string	GATE_target	 id="t5"
+44	268,281	string	GATE_agent	 id="senators" nested-source="w, senators"
+43	0,0	string	GATE_agent	 id="implicit"
+42	2,17	string	GATE_agent	 id="premier" nested-source="w, premier"
+41	590,618	string	GATE_attitude	 target-link="t40" attitude-type="sentiment-neg" intensity="medium" id="a40"
+40	753,783	string	GATE_agent	 id="Verhofstadt" nested-source="w, Verhofstadt"
+39	1007,1010	string	GATE_split	
+38	619,645	string	GATE_target	 id="t40"
+37	347,431	string	GATE_agent	 id="parties" nested-source="w, parties"
+36	677,696	string	GATE_agent	 id="Cornil" nested-source="w, Cornil"
+35	137,267	string	GATE_inside	 nested-source="w"
+34	551,552	string	GATE_split	
+33	218,224	string	GATE_attitude	 target-link="none" attitude-type="sentiment-neg" intensity="low-medium" id="a1"
+32	432,451	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-pos" intensity="medium" id="a2"
+31	697,711	string	GATE_attitude	 target-link="t5" attitude-type="sentiment-pos" intensity="medium" id="a5"
+30	2,73	string	GATE_inside	 nested-source="w"
+29	478,551	string	GATE_target	 id="t3"
+28	753,1000	string	GATE_inside	 nested-source="w"
+27	645,646	string	GATE_split	
+26	647,752	string	GATE_inside	 nested-source="w"
+25	345,346	string	GATE_split	
+24	23,33	string	GATE_agent	 id="EU-leaders" nested-source="w, premier, EU-leaders"
+23	553,589	string	GATE_agent	 id="pro-eco" nested-source="w, pro-eco"
+22	468,477	string	GATE_attitude	 target-link="t3" attitude-type="sentiment-neg" intensity="medium" id="a3"
+21	553,646	string	GATE_inside	 nested-source="w"
+20	266,267	string	GATE_split	
+19	605,645	string	GATE_target	 id="t4"
+18	751,752	string	GATE_split	
+17	753,753	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	18,22	string	GATE_objective-speech-event	 nested-source="w, premier"
+15	268,268	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	432,451	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2" nested-source="w, parties" intensity="medium" polarity="positive"
+13	697,711	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a5" nested-source="w, Cornil" intensity="medium" polarity="positive"
+12	553,553	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	832,844	string	GATE_objective-speech-event	 nested-source="w, Europe"
+10	784,797	string	GATE_objective-speech-event	 nested-source="w, Verhofstadt"
+9	34,46	string	GATE_objective-speech-event	 nested-source="w, premier, EU-leaders"
+8	647,647	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	218,224	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1" nested-source="w, ruling-party" intensity="medium" polarity="negative"
+6	137,138	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	468,477	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a3" intensity="medium" nested-source="w, parties" polarity="negative"
+4	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	590,604	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4, a40" nested-source="w, pro-eco" intensity="medium" polarity="positive"
+2	282,287	string	GATE_objective-speech-event	 nested-source="w, senators" insubstantial="c1"
+1	347,347	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+0	730,751	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" intensity="medium" nested-source="w, Cornil" polarity="negative"

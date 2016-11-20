@@ -1,0 +1,68 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011121/21.21.46-15196/21.21.46-15196.tw.attitudes.xml
+#  on Mon Jul 31 20:19:25 EDT 2006
+#  by twilson
+62	56,63	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10" insubstantial="c2" intensity="medium" nested-source="w, implicit, sasians" polarity="positive"
+61	43,55	string	GATE_agent	 id="sasians" nested-source="w, implicit, sasians"
+60	1262,1271	string	GATE_agent	 id="australia" nested-source="w, australia"
+59	1087,1114	string	GATE_objective-speech-event	 nested-source="w, news, implicit"
+58	1055,1059	string	GATE_objective-speech-event	 nested-source="w, news"
+57	1052,1054	string	GATE_agent	 nested-source="w, news"
+56	1040,1044	string	GATE_objective-speech-event	 nested-source="w, news"
+55	1029,1039	string	GATE_agent	 nested-source="w, news"
+54	939,950	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a30" intensity="medium" nested-source="w, news, mgmt" polarity="negative"
+53	910,921	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a20" nested-source="w, news, mgmt" intensity="high" polarity="negative"
+52	850,899	string	GATE_agent	 id="mgmt" nested-source="w, news, mgmt"
+51	765,769	string	GATE_objective-speech-event	 nested-source="w, spokesman"
+50	729,764	string	GATE_agent	 id="spokesman" nested-source="w, spokesman"
+49	492,496	string	GATE_objective-speech-event	 nested-source="w, news"
+48	437,491	string	GATE_agent	 id="news" nested-source="w, news"
+47	202,218	string	GATE_agent	 id="200" nested-source="w, news, 200"
+46	225,233	string	GATE_objective-speech-event	 nested-source="w, news, 200"
+45	167,179	string	GATE_objective-speech-event	 nested-source="w, implicit"
+44	197,497	string	GATE_inside	 nested-source="w"
+43	197,197	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	504,607	string	GATE_inside	 nested-source="w"
+41	504,504	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+40	1383,1519	string	GATE_inside	 nested-source="w"
+39	1383,1383	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	189,190	string	GATE_split	
+37	1520,1636	string	GATE_inside	 nested-source="w"
+36	1520,1520	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+35	1643,1702	string	GATE_inside	 nested-source="w"
+34	1643,1643	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	496,497	string	GATE_split	
+32	606,607	string	GATE_split	
+31	1518,1519	string	GATE_split	
+30	721,722	string	GATE_split	
+29	1635,1636	string	GATE_split	
+28	842,843	string	GATE_split	
+27	1701,1702	string	GATE_split	
+26	729,843	string	GATE_inside	 nested-source="w"
+25	729,729	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+24	1709,1712	string	GATE_split	
+23	1375,1376	string	GATE_split	
+22	1044,1045	string	GATE_split	
+21	1161,1162	string	GATE_split	
+20	850,1045	string	GATE_inside	 nested-source="w"
+19	850,850	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	2,190	string	GATE_inside	 nested-source="w"
+17	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	1052,1162	string	GATE_inside	 nested-source="w"
+15	1052,1052	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	1169,1376	string	GATE_inside	 nested-source="w"
+13	1169,1169	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+12	608,722	string	GATE_inside	 nested-source="w"
+11	608,608	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	0,0	string	GATE_agent	 id="w"
+9	0,0	string	GATE_agent	 id="implicit"
+8	56,63	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="low-medium"
+7	64,93	string	GATE_target	 id="t10"
+6	910,924	string	GATE_attitude	 target-link="t20" attitude-uncertain="somewhat-uncertain" attitude-type="other-attitude" id="a20" intensity="high"
+5	925,934	string	GATE_target	 id="t20"
+4	939,950	string	GATE_attitude	 target-link="t30" attitude-type="sentiment-neg" id="a30" intensity="medium"
+3	956,1027	string	GATE_target	 id="t30"
+2	1274,1281	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a40" nested-source="w, australia" intensity="medium" polarity="negative"
+1	1274,1281	string	GATE_attitude	 target-link="t40" attitude-type="agree-neg" id="a40" intensity="medium"
+0	1282,1375	string	GATE_target	 id="t40"

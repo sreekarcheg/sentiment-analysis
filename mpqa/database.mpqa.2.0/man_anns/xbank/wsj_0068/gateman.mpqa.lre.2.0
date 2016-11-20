@@ -1,0 +1,35 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0068/wsj_0068.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+222	103,139	string	GATE_inside	 nested-source="w"
+215	7,9	string	GATE_split	
+227	336,430	string	GATE_inside	 nested-source="w"
+232	9,28	string	GATE_agent	 nested-source="w,goody" id="goody"
+214	373,381	string	GATE_objective-speech-event	 nested-source="w,goody"
+235	0,0	string	GATE_agent	 id="w"
+241	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+223	29,102	string	GATE_inside	 nested-source="w"
+240	9,28	string	GATE_inside	 nested-source="w"
+230	361,372	string	GATE_agent	 nested-source="w,goody"
+225	431,478	string	GATE_inside	 nested-source="w"
+224	431,431	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+233	0,0	string	GATE_expressive-subjectivity	
+243	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+221	103,103	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+216	479,481	string	GATE_objective-speech-event	 nested-source="w,goody"
+234	0,0	string	GATE_direct-subjective	
+242	1,6	string	GATE_inside	 nested-source="w"
+239	168,169	string	GATE_split	
+218	170,170	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+231	247,251	string	GATE_objective-speech-event	 nested-source="w,goody"
+226	336,336	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+219	170,335	string	GATE_inside	 nested-source="w"
+236	0,0	string	GATE_agent	 id="implicit"
+237	334,335	string	GATE_split	
+229	170,246	string	GATE_agent	 nested-source="w,goody"
+220	142,165	string	GATE_inside	 nested-source="w"
+238	429,430	string	GATE_split	
+228	101,102	string	GATE_split	
+217	477,478	string	GATE_split	

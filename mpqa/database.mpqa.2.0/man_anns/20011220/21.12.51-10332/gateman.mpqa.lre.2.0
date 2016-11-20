@@ -1,0 +1,54 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20011220/21.12.51-10332/21.12.51-10332.tw.attitudes.xml
+#  on Mon Jul 31 22:37:51 EDT 2006
+#  by twilson
+48	194,242	string	GATE_agent	 id="zhang" nested-source="w, zhang"
+47	704,937	string	GATE_inside	 nested-source="w"
+46	629,634	string	GATE_objective-speech-event	 nested-source="w, zhang"
+45	625,697	string	GATE_inside	 nested-source="w"
+44	704,704	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+43	189,193	string	GATE_objective-speech-event	 nested-source="w, zhang"
+42	384,384	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	640,664	string	GATE_agent	 id="arg" nested-source="w, zhang, arg"
+40	696,697	string	GATE_split	
+39	384,618	string	GATE_inside	 nested-source="w"
+38	936,937	string	GATE_split	
+37	625,628	string	GATE_agent	 nested-source="w, zhang"
+36	376,377	string	GATE_split	
+35	617,618	string	GATE_split	
+34	665,677	string	GATE_objective-speech-event	 nested-source="w, zhang, arg"
+33	926,931	string	GATE_agent	 nested-source="w, zhang"
+32	264,264	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+31	264,269	string	GATE_agent	 nested-source="w, zhang"
+30	625,625	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	710,727	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a30" nested-source="w, zhang, china" intensity="high" polarity="negative"
+28	0,0	string	GATE_agent	 id="w"
+27	35,40	string	GATE_agent	 id="china" nested-source="w, zhang, china"
+26	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	384,389	string	GATE_agent	 nested-source="w, zhang"
+24	41,49	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10,a11" nested-source="w, zhang, china" intensity="medium" polarity="neutral"
+23	751,783	string	GATE_agent	 id="embassy" nested-source="w, zhang, embassy"
+22	409,416	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, zhang" polarity="negative"
+21	322,327	string	GATE_objective-speech-event	 nested-source="w, implicit"
+20	256,257	string	GATE_split	
+19	91,187	string	GATE_expressive-subjectivity	 intensity="high" nested-source="w, zhang, china" polarity="positive"
+18	784,793	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a40" subjective-uncertain="very-uncertain" nested-source="w, zhang, embassy" intensity="low"
+17	270,286	string	GATE_objective-speech-event	 nested-source="w, zhang" insubstantial="c1"
+16	328,338	string	GATE_objective-speech-event	 insubstantial="c1, c2" nested-source="w, implicit, zhang"
+15	264,377	string	GATE_inside	 nested-source="w"
+14	938,941	string	GATE_split	
+13	0,0	string	GATE_agent	 id="implicit"
+12	2,257	string	GATE_inside	 nested-source="w"
+11	390,394	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a20" nested-source="w, zhang" intensity="low"
+10	704,709	string	GATE_agent	 nested-source="w, zhang, china"
+9	932,936	string	GATE_objective-speech-event	 nested-source="w, zhang"
+8	41,187	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" id="a10" intensity="medium"
+7	41,187	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" inferred="yes" id="a11" intensity="low-medium"
+6	55,90	string	GATE_target	 id="t10"
+5	409,416	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-neg" id="a20" intensity="medium"
+4	417,475	string	GATE_target	 id="t20"
+3	710,733	string	GATE_attitude	 target-link="t30" attitude-type="sentiment-neg" id="a30" intensity="high"
+2	734,745	string	GATE_target	 id="t30"
+1	784,793	string	GATE_attitude	 target-link="t40" attitude-type="sentiment-pos" id="a40" intensity="low"
+0	794,924	string	GATE_target	 id="t40"

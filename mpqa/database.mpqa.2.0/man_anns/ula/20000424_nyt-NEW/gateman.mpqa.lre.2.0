@@ -1,0 +1,31 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/20000424_nyt-NEW/20000424_nyt-NEW.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+136	0,0	string	GATE_agent	 id="w"
+151	75,146	string	GATE_target	 id="unallow"
+143	3,3	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+150	75,93	string	GATE_target	 id="una"
+135	146,147	string	GATE_split	
+144	305,307	string	GATE_split	
+149	202,225	string	GATE_target	 id="sanctions"
+134	285,285	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+137	0,0	string	GATE_agent	 id="implicit"
+132	281,282	string	GATE_split	
+147	148,264	string	GATE_inside	 nested-source="w"
+152	69,74	string	GATE_attitude	 target-link="unallow" intensity="medium" id="us" attitude-type="sentiment-pos"
+157	69,146	string	GATE_attitude	 target-link="una" intensity="low-medium" id="ua" attitude-type="arguing-pos"
+142	3,147	string	GATE_inside	 nested-source="w"
+146	265,265	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+139	0,0	string	GATE_direct-subjective	
+154	226,263	string	GATE_attitude	 target-link="sanctions" intensity="low-medium" id="hurt" attitude-type="arguing-pos"
+145	265,282	string	GATE_inside	 nested-source="w"
+140	45,68	string	GATE_agent	 nested-source="w,h" id="h"
+155	197,201	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="neutral" intensity="low" nested-source="w,h" polarity="" attitude-link="hurt"
+148	148,148	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+141	263,264	string	GATE_split	
+156	148,152	string	GATE_agent	 nested-source="w,h"
+133	285,305	string	GATE_inside	 nested-source="w"
+153	69,74	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,h" polarity="positive" attitude-link="ua,us"
+138	0,0	string	GATE_expressive-subjectivity	

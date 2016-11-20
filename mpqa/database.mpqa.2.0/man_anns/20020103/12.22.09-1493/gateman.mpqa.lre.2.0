@@ -1,0 +1,26 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020103/12.22.09-1493/12.22.09-1493.tw.attitudes.xml
+#  on Tue Aug  1 21:31:06 EDT 2006
+#  by twilson
+20	369,370	string	GATE_split	
+19	508,511	string	GATE_split	
+18	371,507	string	GATE_inside	 nested-source="w"
+17	371,371	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+16	0,0	string	GATE_agent	 id="w"
+15	391,395	string	GATE_objective-speech-event	 nested-source="w, agminhead"
+14	0,0	string	GATE_agent	 id="implicit"
+13	143,153	string	GATE_agent	 id="uzbek" nested-source="w, IRNA, agminhead, uzbek"
+12	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	266,296	string	GATE_agent	 id="IRNA" nested-source="w, IRNA"
+10	143,144	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+9	154,165	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" nested-source="w, IRNA, agminhead, uzbek" intensity="low" polarity="neutral"
+8	2,72	string	GATE_inside	 nested-source="w"
+7	304,349	string	GATE_agent	 id="agminhead" nested-source="w, IRNA, agminhead"
+6	297,303	string	GATE_objective-speech-event	 nested-source="w, IRNA"
+5	371,390	string	GATE_agent	 nested-source="w, agminhead"
+4	353,359	string	GATE_objective-speech-event	 nested-source="w, IRNA, agminhead"
+3	143,370	string	GATE_inside	 nested-source="w"
+2	506,507	string	GATE_split	
+1	154,168	string	GATE_attitude	 target-link="t10" attitude-type="intention-pos" id="a10" intensity="low"
+0	169,210	string	GATE_target	 id="t10"

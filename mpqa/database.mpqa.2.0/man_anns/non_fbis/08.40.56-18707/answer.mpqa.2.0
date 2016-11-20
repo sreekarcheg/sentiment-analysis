@@ -1,0 +1,22 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/57.ctc.annotated
+#  on Thu Sep 09 14:17:00 EDT 2004
+#  by ves
+
+1033	1817,1882	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="5" topic="humanrights"
+1077	420,472	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="6" topic="humanrights"
+1015	96,127	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1113	1732,1765	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="5" topic="humanrights"
+983	10,20	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+986	238,244	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1026	1940,1953	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+984	337,363	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="6" topic="humanrights"
+1096	2117,2227	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+989	271,335	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="6" topic="humanrights"
+1059	2318,2356	string	answer	annotator="ctc" confidence="3" confidencecomment="weak reference to the report?" questionnumber="6" topic="humanrights"
+1055	206,214	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1095	1767,1811	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="5" topic="humanrights"
+1068	1991,2009	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1024	22,28	string	answer	annotator="ctc" questionnumber="6" confidence="5" topic="humanrights"
+1083	1668,1730	string	answer	annotator="ctc" confidence="5" partial="false" questionnumber="5" topic="humanrights"

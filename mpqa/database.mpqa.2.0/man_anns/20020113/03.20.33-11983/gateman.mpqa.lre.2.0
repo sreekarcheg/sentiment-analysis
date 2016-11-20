@@ -1,0 +1,32 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020113/03.20.33-11983/03.20.33-11983.jlw.attitudes.xml
+#  on Thu Jun  8 15:39:28 EDT 2006
+#  by twilson
+26	114,130	string	GATE_agent	 id="io" nested-source="w,io"
+25	460,464	string	GATE_objective-speech-event	 nested-source="w,ob"
+24	143,349	string	GATE_inside	 nested-source="w"
+23	135,136	string	GATE_split	
+22	348,349	string	GATE_split	
+21	356,369	string	GATE_agent	 id="forces" nested-source="w,forces"
+20	370,380	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-neg" intensity="high" id="a1"
+19	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	2,136	string	GATE_inside	 nested-source="w"
+17	131,135	string	GATE_objective-speech-event	 nested-source="w,io"
+16	449,450	string	GATE_split	
+15	179,275	string	GATE_target	 id="t1"
+14	0,0	string	GATE_agent	 id="implicit"
+13	143,173	string	GATE_agent	 id="ob" nested-source="w,ob"
+12	457,457	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	356,356	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	395,404	string	GATE_target	 id="t2"
+9	457,570	string	GATE_inside	 nested-source="w"
+8	569,570	string	GATE_split	
+7	143,143	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	0,0	string	GATE_agent	 id="w"
+5	370,380	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a1, a2" annotation-uncertain="very-uncertain" nested-source="w,forces" intensity="medium" polarity="negative"
+4	457,459	string	GATE_agent	 nested-source="w,ob"
+3	174,178	string	GATE_objective-speech-event	 nested-source="w,ob"
+2	370,440	string	GATE_attitude	 target-link="t2" attitude-type="sentiment-neg" intensity="high" id="a2"
+1	577,580	string	GATE_split	
+0	356,450	string	GATE_inside	 nested-source="w"

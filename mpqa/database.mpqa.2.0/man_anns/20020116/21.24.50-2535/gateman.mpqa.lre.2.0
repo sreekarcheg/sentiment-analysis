@@ -1,0 +1,33 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020116/21.24.50-2535/21.24.50-2535.tw.attitudes.xml
+#  on Mon Jul 31 20:19:25 EDT 2006
+#  by twilson
+27	137,380	string	GATE_inside	 nested-source="w"
+26	381,381	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	381,531	string	GATE_inside	 nested-source="w"
+24	530,531	string	GATE_split	
+23	645,646	string	GATE_split	
+22	532,532	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+21	532,646	string	GATE_inside	 nested-source="w"
+20	774,775	string	GATE_split	
+19	1,3	string	GATE_split	
+18	776,779	string	GATE_split	
+17	686,696	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" insubstantial="c2" nested-source="w,deladmin" intensity="low" polarity="neutral"
+16	310,379	string	GATE_agent	 id="deladmin" nested-source="w,tusi,deladmin"
+15	252,260	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" annotation-uncertain="somewhat-uncertain" nested-source="w,tusi,deladmin" intensity="low" polarity="neutral"
+14	228,232	string	GATE_objective-speech-event	 nested-source="w,tusi"
+13	195,204	string	GATE_agent	 id="tusi" nested-source="w,tusi"
+12	0,0	string	GATE_agent	 id="implicit"
+11	0,0	string	GATE_agent	 id="w"
+10	135,136	string	GATE_split	
+9	647,647	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+8	647,775	string	GATE_inside	 nested-source="w"
+7	379,380	string	GATE_split	
+6	8,8	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+5	8,136	string	GATE_inside	 nested-source="w"
+4	137,137	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	686,699	string	GATE_attitude	 target-link="t20" attitude-type="agree-pos" id="a20" intensity="low"
+2	700,774	string	GATE_target	 id="t20"
+1	248,260	string	GATE_attitude	 target-link="t10" attitude-uncertain="somewhat-uncertain" attitude-type="intention-pos" id="a10" intensity="low"
+0	30,84	string	GATE_target	 id="t10"

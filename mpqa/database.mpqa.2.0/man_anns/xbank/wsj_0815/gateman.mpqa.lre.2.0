@@ -1,0 +1,44 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0815/wsj_0815.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+254	333,334	string	GATE_split	
+232	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+222	227,263	string	GATE_target	 id="tender"
+227	138,196	string	GATE_agent	 nested-source="w,gio" id=""
+235	391,393	string	GATE_split	
+246	1,6	string	GATE_inside	 nested-source="w"
+223	208,288	string	GATE_target	 id="alternatives"
+241	200,207	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,gio" polarity="both" attitude-link="seek,avoid"
+251	138,138	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+240	9,25	string	GATE_agent	 nested-source="w,gio" id="gio"
+230	566,567	string	GATE_split	
+244	26,135	string	GATE_inside	 nested-source="w"
+225	452,463	string	GATE_target	 id="dacom"
+252	290,290	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+224	200,207	string	GATE_attitude	 target-link="alternatives" intensity="low" id="seek" attitude-type="sentiment-pos"
+260	134,135	string	GATE_split	
+233	0,0	string	GATE_agent	 id="implicit"
+243	452,566	string	GATE_attitude	 target-link="dacom" intensity="low" id="reap" attitude-type="speculation"
+253	389,390	string	GATE_split	
+257	335,335	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+234	0,0	string	GATE_expressive-subjectivity	
+239	0,0	string	GATE_direct-subjective	
+242	447,451	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="low" attitude-link="reap" nested-source="w,mellor"
+258	7,9	string	GATE_split	
+250	138,288	string	GATE_inside	 nested-source="w"
+231	9,25	string	GATE_inside	 nested-source="w"
+255	290,334	string	GATE_inside	 nested-source="w"
+226	97,121	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c1" attitude-link="" nested-source="w,gio" annotation-uncertain="" intensity="low" polarity=""
+245	136,138	string	GATE_split	
+236	0,0	string	GATE_agent	 id="w"
+259	26,26	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+237	393,446	string	GATE_agent	 nested-source="w,mellor" id="mellor"
+256	335,390	string	GATE_inside	 nested-source="w"
+229	568,570	string	GATE_split	
+248	393,567	string	GATE_inside	 nested-source="w"
+238	26,30	string	GATE_objective-speech-event	 nested-source="w,gio"
+228	200,223	string	GATE_attitude	 target-link="tender" intensity="low" inferred="yes" id="avoid" attitude-type="sentiment-neg"
+247	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+249	393,393	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

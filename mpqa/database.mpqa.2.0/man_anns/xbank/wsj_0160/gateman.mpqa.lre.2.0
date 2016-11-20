@@ -1,0 +1,46 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0160/wsj_0160.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+341	217,221	string	GATE_objective-speech-event	 nested-source="w,spoke"
+326	740,741	string	GATE_inside	 nested-source="w"
+315	626,740	string	GATE_inside	 nested-source="w"
+351	380,407	string	GATE_target	 id="ava"
+336	21,165	string	GATE_inside	 nested-source="w"
+327	7,9	string	GATE_split	
+342	430,437	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,spoke" nested-source-uncertain="" es-uncertain="somewhat-uncertain"
+318	440,440	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+350	632,637	string	GATE_objective-speech-event	 nested-source="w,sc"
+313	553,625	string	GATE_inside	 nested-source="w"
+335	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+339	624,625	string	GATE_split	
+317	168,438	string	GATE_inside	 nested-source="w"
+324	0,0	string	GATE_agent	 id="w"
+329	739,740	string	GATE_split	
+349	626,631	string	GATE_agent	 nested-source="w,sc"
+334	9,20	string	GATE_inside	 nested-source="w"
+321	0,0	string	GATE_direct-subjective	
+316	168,168	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+344	542,544	string	GATE_agent	 nested-source="w,spoke" id=""
+352	430,437	string	GATE_attitude	 target-link="ava" intensity="low-medium" id="unusual" attitude-type="sentiment-neg"
+347	416,425	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" attitude-link="unusual" nested-source="w,spoke"
+337	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+322	0,0	string	GATE_expressive-subjectivity	
+332	437,438	string	GATE_split	
+346	168,216	string	GATE_agent	 nested-source="w,spoke" id="spoke"
+319	440,550	string	GATE_inside	 nested-source="w"
+314	626,626	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+338	742,744	string	GATE_split	
+331	551,553	string	GATE_split	
+345	9,19	string	GATE_agent	 nested-source="w,sc" id="sc"
+323	0,0	string	GATE_agent	 id="implicit"
+330	166,168	string	GATE_split	
+343	545,549	string	GATE_objective-speech-event	 nested-source="w,spoke"
+328	549,550	string	GATE_split	
+312	553,553	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+348	413,415	string	GATE_agent	 nested-source="w,spoke"
+325	740,740	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+320	21,29	string	GATE_objective-speech-event	 nested-source="w,sc"
+340	1,6	string	GATE_inside	 nested-source="w"
+333	164,165	string	GATE_split	

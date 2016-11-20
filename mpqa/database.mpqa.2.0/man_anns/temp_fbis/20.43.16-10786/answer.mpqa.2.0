@@ -1,0 +1,13 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/80.ves.annotated
+#  on Thu Sep 09 14:17:09 EDT 2004
+#  by ves
+
+1500	2438,2493	string	answer	annotator="ves" questionnumber="8" confidence="3" topic="kyoto"
+1473	2887,2914	string	answer	annotator="ves" questionnumber="8" confidence="3" topic="kyoto"
+1525	3690,3916	string	answer	annotator="ves" questionnumber="7" confidence="3" topic="kyoto"
+1546	3690,3916	string	answer	annotator="ves" questionnumber="8" confidence="5" topic="kyoto"
+1600	2887,2914	string	answer	annotator="ves" confidence="4" partial="true" questionnumber="6" topic="kyoto"
+1641	2438,2493	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="7" topic="kyoto"
+1562	2887,2914	string	answer	annotator="ves" confidence="3" confidencecomment="" questionnumber="7" topic="kyoto"

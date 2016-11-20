@@ -1,0 +1,71 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/16.01.44-19040/16.01.44-19040.tw.attitudes4.xml
+#  on Mon Feb 20 19:05:51 EST 2006
+#  by twilson
+65	531,539	string	GATE_agent	 id="congress" nested-source="w,Cardoso, congress"
+64	11,16	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="medium"
+63	550,562	string	GATE_attitude	 target-link="t60" attitude-type="sentiment-pos" intensity="medium" id="a60"
+62	624,684	string	GATE_target	 id="t70"
+61	612,622	string	GATE_attitude	 target-link="t70" attitude-type="intention-pos" intensity="medium" id="a70"
+60	472,490	string	GATE_target	 id="t50"
+59	448,471	string	GATE_attitude	 target-link="t50" attitude-type="sentiment-neg" intensity="medium-high" id="a50"
+58	349,431	string	GATE_target	 id="t40"
+57	336,348	string	GATE_attitude	 target-link="t40" attitude-type="intention-pos" intensity="medium" id="a40"
+56	17,72	string	GATE_target	 id="t10"
+55	172,174	string	GATE_agent	 nested-source="w,Cardoso,Cardoso"
+54	298,305	string	GATE_agent	 nested-source="w,Cardoso"
+53	316,318	string	GATE_agent	 nested-source="w,Cardoso,Cardoso"
+52	329,335	string	GATE_agent	 nested-source="w,Cardoso,Cardoso,US"
+51	443,447	string	GATE_agent	 nested-source="w,US"
+50	523,525	string	GATE_agent	 nested-source="w,Cardoso"
+49	495,502	string	GATE_agent	 nested-source="w,Cardoso"
+48	17,19	string	GATE_agent	 id="US"
+47	0,0	string	GATE_agent	 id="implicit"
+46	0,0	string	GATE_agent	 id="w"
+45	490,491	string	GATE_split	
+44	878,880	string	GATE_split	
+43	495,685	string	GATE_inside	 nested-source="w"
+42	296,297	string	GATE_split	
+41	872,873	string	GATE_split	
+40	298,491	string	GATE_inside	 nested-source="w"
+39	75,81	string	GATE_split	
+38	684,685	string	GATE_split	
+37	81,297	string	GATE_inside	 nested-source="w"
+36	72,75	string	GATE_split	
+35	491,495	string	GATE_split	
+34	4,72	string	GATE_inside	 nested-source="w"
+33	687,873	string	GATE_inside	 nested-source="w"
+32	4,10	string	GATE_agent	 id="Brazil" nested-source="w,Brazil"
+31	119,155	string	GATE_agent	 id="Cardoso" nested-source="w,Cardoso"
+30	472,490	string	GATE_agent	 id="kyoto"
+29	4,72	string	GATE_target-speech	 id="ta1"
+28	81,296	string	GATE_target-speech	 id="ta2"
+27	172,296	string	GATE_target-speech	 id="ta3"
+26	298,490	string	GATE_target-speech	 id="ta4"
+25	316,490	string	GATE_target-speech	 id="ta5"
+24	495,684	string	GATE_target-speech	 id="ta6"
+23	563,684	string	GATE_target-speech	 id="ta7"
+22	687,872	string	GATE_target-speech	 id="ta8"
+21	612,622	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a70" insubstantial="c2" nested-source="w, Cardoso, congress" intensity="medium" polarity="neutral"
+20	526,562	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a60" target-speech-link="ta7" intensity="low" nested-source="w, Cardoso" polarity="positive"
+19	448,471	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a50" intensity="medium" nested-source="w, US" polarity="negative"
+18	336,348	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a40" nested-source="w, Cardoso, Cardoso, US" intensity="low" polarity="neutral"
+17	311,315	string	GATE_objective-speech-event	 target-speech-link="ta5" nested-source="w,Cardoso"
+16	320,328	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a30" intensity="medium" nested-source="w,Cardoso,Cardoso" polarity="neutral"
+15	503,519	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w,Cardoso" target-speech-link="none"
+14	495,495	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta6" implicit="true"
+13	298,298	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta4" implicit="true"
+12	81,81	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta2" implicit="true"
+11	4,4	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta1" implicit="true"
+10	687,687	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta8" implicit="true"
+9	11,16	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10" intensity="medium" nested-source="w,Brazil" polarity="positive"
+8	156,160	string	GATE_objective-speech-event	 target-speech-link="ta3" nested-source="w,Cardoso"
+7	175,191	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a20" nested-source="w,Cardoso,Cardoso" intensity="medium" polarity="neutral"
+6	25,38	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w, Brazil" polarity="positive"
+5	216,225	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,Cardoso,Cardoso" polarity="negative"
+4	175,296	string	GATE_attitude	 target-link="t20" attitude-type="arguing-neg" id="a20" intensity="medium"
+3	192,210	string	GATE_target	 id="t20"
+2	320,431	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" id="a30" intensity="medium"
+1	329,335	string	GATE_target	 id="t30"
+0	563,607	string	GATE_target	 id="t60"

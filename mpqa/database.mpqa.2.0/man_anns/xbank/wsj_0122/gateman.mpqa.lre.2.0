@@ -1,0 +1,35 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0122/wsj_0122.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+200	196,205	string	GATE_direct-subjective	 expression-intensity="low" insubstantial="c2" intensity="low" nested-source="w,implicit" attitude-link="agreement"
+190	317,317	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+207	0,0	string	GATE_direct-subjective	
+182	0,0	string	GATE_agent	 id="implicit"
+199	9,76	string	GATE_agent	 nested-source="w,ym" id="ym"
+198	77,81	string	GATE_objective-speech-event	 nested-source="w,ym"
+208	338,342	string	GATE_objective-speech-event	 nested-source="w,uwf"
+187	9,174	string	GATE_inside	 nested-source="w"
+180	173,174	string	GATE_split	
+193	456,457	string	GATE_split	
+188	177,177	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+201	317,337	string	GATE_agent	 nested-source="w,uwf" id="uwf"
+206	0,0	string	GATE_expressive-subjectivity	
+189	177,316	string	GATE_inside	 nested-source="w"
+196	348,407	string	GATE_agent	 nested-source="w,uwf,majority" id="majority"
+195	175,177	string	GATE_split	
+183	0,0	string	GATE_agent	 id="w"
+186	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+203	295,303	string	GATE_attitude	 target-link="closing" intensity="low" id="expectation" attitude-type="other-attitude"
+209	413,421	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" attitude-link="approval" nested-source="w,uwf,majority"
+194	315,316	string	GATE_split	
+181	7,9	string	GATE_split	
+191	317,457	string	GATE_inside	 nested-source="w"
+204	277,284	string	GATE_target	 id="closing"
+205	295,303	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="expectation" nested-source="w,implicit"
+197	413,421	string	GATE_attitude	 target-link="transaction" intensity="low-medium" id="approval" attitude-type="agree-pos"
+192	458,460	string	GATE_split	
+184	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+185	1,6	string	GATE_inside	 nested-source="w"
+202	422,437	string	GATE_target	 id="transaction"

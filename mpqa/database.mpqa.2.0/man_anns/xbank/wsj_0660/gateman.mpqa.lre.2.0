@@ -1,0 +1,30 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0660/wsj_0660.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+15	41,47	string	GATE_attitude	 target-link="pur" intensity="low" id="agreement" attitude-type="agree-pos"
+8	653,666	string	GATE_agent	 nested-source="w,comps" id=""
+23	317,317	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+16	48,116	string	GATE_target	 id="pur"
+7	667,671	string	GATE_objective-speech-event	 nested-source="w,comps"
+22	414,415	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+9	200,204	string	GATE_objective-speech-event	 nested-source="w,comps"
+21	185,185	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+6	9,117	string	GATE_inside	 nested-source="w"
+1	653,836	string	GATE_inside	 nested-source="w"
+14	41,47	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="agreement" nested-source="w,mont"
+24	8,8	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+4	318,414	string	GATE_inside	 nested-source="w"
+19	539,539	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+11	244,263	string	GATE_agent	 nested-source="w,committee" id="committee"
+18	205,215	string	GATE_target	 id="acc"
+3	415,539	string	GATE_inside	 nested-source="w"
+12	220,240	string	GATE_direct-subjective	 expression-intensity="low" intensity="high" nested-source="w,comps,committee" polarity="positive" attitude-link="unapp"
+17	220,240	string	GATE_attitude	 target-link="acc" intensity="high" id="unapp" attitude-type="agree-pos"
+2	540,650	string	GATE_inside	 nested-source="w"
+13	9,27	string	GATE_agent	 nested-source="w,mont" id="mont"
+20	652,652	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+10	186,199	string	GATE_agent	 nested-source="w,comps"
+5	186,315	string	GATE_inside	 nested-source="w"
+0	120,183	string	GATE_inside	 nested-source="w"

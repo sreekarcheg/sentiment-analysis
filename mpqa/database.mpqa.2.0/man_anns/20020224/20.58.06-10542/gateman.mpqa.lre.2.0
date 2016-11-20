@@ -1,0 +1,40 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020224/20.58.06-10542/20.58.06-10542.tw.attitudes.xml
+#  on Tue Aug  1 15:10:15 EDT 2006
+#  by twilson
+34	51,52	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	51,252	string	GATE_inside	 nested-source="w"
+32	2,44	string	GATE_inside	 nested-source="w"
+31	698,699	string	GATE_split	
+30	458,458	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+29	458,600	string	GATE_inside	 nested-source="w"
+28	599,600	string	GATE_split	
+27	259,259	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+26	259,451	string	GATE_inside	 nested-source="w"
+25	450,451	string	GATE_split	
+24	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	251,252	string	GATE_split	
+22	1245,1248	string	GATE_split	
+21	1161,1161	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	1161,1244	string	GATE_inside	 nested-source="w"
+19	1243,1244	string	GATE_split	
+18	1064,1064	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+17	1064,1160	string	GATE_inside	 nested-source="w"
+16	1159,1160	string	GATE_split	
+15	860,860	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+14	887,891	string	GATE_objective-speech-event	 nested-source="w, observers"
+13	1173,1185	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" intensity="low" nested-source="w, implicit" polarity="neutral"
+12	119,149	string	GATE_agent	 id="observers"
+11	860,886	string	GATE_agent	 nested-source="w,observers"
+10	860,1057	string	GATE_inside	 nested-source="w"
+9	1056,1057	string	GATE_split	
+8	706,706	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+7	706,853	string	GATE_inside	 nested-source="w"
+6	852,853	string	GATE_split	
+5	601,601	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+4	601,699	string	GATE_inside	 nested-source="w"
+3	0,0	string	GATE_agent	 id="implicit"
+2	0,0	string	GATE_agent	 id="w"
+1	1161,1172	string	GATE_target	 id="t10"
+0	1173,1243	string	GATE_attitude	 target-link="t10" attitude-type="other-attitude" id="a10" intensity="low"

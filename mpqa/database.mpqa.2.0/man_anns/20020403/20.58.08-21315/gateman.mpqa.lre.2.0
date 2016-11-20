@@ -1,0 +1,57 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020403/20.58.08-21315/20.58.08-21315.tw.attitudes.xml
+#  on Tue Aug  1 15:10:15 EDT 2006
+#  by twilson
+51	276,283	string	GATE_agent	 id="reports" nested-source="w, reports"
+50	784,798	string	GATE_agent	 nested-source="w, students"
+49	55,66	string	GATE_agent	 id="palestine"
+48	288,289	string	GATE_split	
+47	0,0	string	GATE_agent	 id="implicit"
+46	296,522	string	GATE_inside	 nested-source="w"
+45	776,777	string	GATE_split	
+44	139,140	string	GATE_split	
+43	1063,1063	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+42	1004,1004	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	784,1003	string	GATE_inside	 nested-source="w"
+40	646,665	string	GATE_objective-speech-event	 insubstantial="c2" nested-source="w, implicit"
+39	296,296	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	529,529	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	1141,1141	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+36	1004,1056	string	GATE_inside	 nested-source="w"
+35	1017,1024	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a30" nested-source="w, students" intensity="low" polarity="negative"
+34	43,51	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" intensity="low" nested-source="w, reports, students" polarity="positive"
+33	1139,1140	string	GATE_split	
+32	573,583	string	GATE_agent	 nested-source="w, students"
+31	638,639	string	GATE_split	
+30	0,0	string	GATE_agent	 id="w"
+29	439,454	string	GATE_agent	 id="radio" nested-source="w, radio"
+28	784,784	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+27	710,720	string	GATE_objective-speech-event	 nested-source="w, implicit"
+26	1205,1208	string	GATE_split	
+25	1055,1056	string	GATE_split	
+24	284,288	string	GATE_objective-speech-event	 nested-source="w, reports"
+23	2,289	string	GATE_inside	 nested-source="w"
+22	799,825	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a20" nested-source="w, students" intensity="medium" polarity="positive"
+21	455,463	string	GATE_objective-speech-event	 nested-source="w, radio"
+20	16,42	string	GATE_agent	 id="students" nested-source="w, reports, students"
+19	529,639	string	GATE_inside	 nested-source="w"
+18	1203,1204	string	GATE_split	
+17	1141,1204	string	GATE_inside	 nested-source="w"
+16	1004,1016	string	GATE_agent	 nested-source="w, students"
+15	646,777	string	GATE_inside	 nested-source="w"
+14	499,500	string	GATE_split	
+13	1063,1140	string	GATE_inside	 nested-source="w"
+12	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	646,646	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	1002,1003	string	GATE_split	
+9	1192,1203	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a40" insubstantial="c1" nested-source="w, students" intensity="medium" polarity="negative"
+8	521,522	string	GATE_split	
+7	43,54	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" id="a10" intensity="low-medium"
+6	55,77	string	GATE_target	 id="t10"
+5	799,828	string	GATE_attitude	 target-link="t20" attitude-type="sentiment-pos" id="a20" intensity="medium"
+4	829,841	string	GATE_target	 id="t20"
+3	1017,1055	string	GATE_attitude	 target-link="t30" attitude-type="arguing-pos" intensity="low-medium" id="a30"
+2	1025,1033	string	GATE_target	 id="t30"
+1	1192,1203	string	GATE_attitude	 target-link="t40" attitude-type="sentiment-neg" id="a40" intensity="medium"
+0	852,894	string	GATE_target	 id="t40"

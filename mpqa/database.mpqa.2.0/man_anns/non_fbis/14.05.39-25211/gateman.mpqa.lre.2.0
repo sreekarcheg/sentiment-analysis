@@ -1,0 +1,28 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/14.05.39-25211/14.05.39-25211.tw.attitudes.xml
+#  on Tue Aug  1 20:23:44 EDT 2006
+#  by twilson
+22	379,388	string	GATE_objective-speech-event	 nested-source="w,RFM"
+21	709,713	string	GATE_split	
+20	402,621	string	GATE_inside	 nested-source="w"
+19	339,378	string	GATE_agent	 id="RFM" nested-source="w,RFM"
+18	89,90	string	GATE_split	
+17	0,0	string	GATE_agent	 id="implicit"
+16	91,398	string	GATE_inside	 nested-source="w"
+15	398,402	string	GATE_split	
+14	622,709	string	GATE_inside	 nested-source="w"
+13	731,733	string	GATE_split	
+12	588,600	string	GATE_objective-speech-event	 nested-source="w,USinfo"
+11	70,76	string	GATE_split	
+10	416,426	string	GATE_objective-speech-event	 nested-source="w,RFM"
+9	397,398	string	GATE_split	
+8	708,709	string	GATE_split	
+7	402,415	string	GATE_agent	 nested-source="w,RFM"
+6	25,26	string	GATE_split	
+5	26,32	string	GATE_split	
+4	601,619	string	GATE_agent	 id="USinfo" nested-source="w,USinfo"
+3	622,627	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+2	0,0	string	GATE_agent	 id="w"
+1	91,91	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+0	402,402	string	GATE_objective-speech-event	 nested-source="w" implicit="true"

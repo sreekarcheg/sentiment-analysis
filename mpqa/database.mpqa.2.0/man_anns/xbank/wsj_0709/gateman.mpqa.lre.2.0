@@ -1,0 +1,45 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0709/wsj_0709.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+254	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+277	295,360	string	GATE_inside	 nested-source="w"
+262	379,464	string	GATE_inside	 nested-source="w"
+272	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+263	197,294	string	GATE_inside	 nested-source="w"
+278	463,464	string	GATE_split	
+251	9,22	string	GATE_inside	 nested-source="w"
+271	45,52	string	GATE_attitude	 target-link="report" intensity="low" id="exprep" attitude-type="other-attitude"
+286	595,597	string	GATE_split	
+285	117,117	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+252	465,465	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+275	23,116	string	GATE_inside	 nested-source="w"
+260	0,0	string	GATE_agent	 id="w"
+270	195,197	string	GATE_split	
+280	193,194	string	GATE_split	
+265	593,594	string	GATE_split	
+253	137,144	string	GATE_attitude	 target-link="release" intensity="low" id="exprel" attitude-type="other-attitude"
+257	0,0	string	GATE_agent	 id="implicit"
+283	293,294	string	GATE_split	
+268	115,116	string	GATE_split	
+273	42,44	string	GATE_agent	 nested-source="w,sc,sc"
+258	137,144	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" implicit="" attitude-link="exprel" nested-source="w,sc,sc"
+250	0,0	string	GATE_expressive-subjectivity	
+282	37,41	string	GATE_objective-speech-event	 nested-source="w,sc"
+255	197,197	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+267	0,0	string	GATE_direct-subjective	
+274	145,193	string	GATE_target	 id="release"
+281	134,136	string	GATE_agent	 nested-source="w,sc,sc"
+259	53,115	string	GATE_target	 id="report"
+279	365,378	string	GATE_inside	 nested-source="w"
+264	295,295	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+266	9,36	string	GATE_agent	 nested-source="w,sc" id="sc"
+256	117,128	string	GATE_agent	 nested-source="w,sc"
+248	129,133	string	GATE_objective-speech-event	 nested-source="w,sc"
+284	56,62	string	GATE_objective-speech-event	 nested-source="w,sc,sc,sc" insubstantial="c1"
+261	45,52	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,sc,sc" attitude-link="exprep"
+276	7,9	string	GATE_split	
+247	1,6	string	GATE_inside	 nested-source="w"
+269	117,194	string	GATE_inside	 nested-source="w"
+249	465,594	string	GATE_inside	 nested-source="w"

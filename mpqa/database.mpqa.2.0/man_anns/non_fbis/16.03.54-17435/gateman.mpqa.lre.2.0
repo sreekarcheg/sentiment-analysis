@@ -1,0 +1,62 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/16.03.54-17435/16.03.54-17435.jw.attitudes.xml
+#  on Wed Feb  8 16:30:07 EST 2006
+#  by twilson
+56	427,534	string	GATE_target	 id="t4"
+55	519,522	string	GATE_target	 id="t8"
+54	384,384	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+53	536,536	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+52	22,45	string	GATE_target	 id="t1"
+51	427,442	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w, chavez, chavez" polarity="negative"
+50	310,318	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a30" subjective-uncertain="very-uncertain" nested-source="w,cardoso" intensity="medium"
+49	452,474	string	GATE_agent	 id="military persons" nested-source="w,chavez,chavez,military persons"
+48	617,623	string	GATE_agent	 nested-source="w,carter,chavez"
+47	407,423	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" intensity="medium" nested-source="w,chavez,chavez" polarity="neutral"
+46	590,616	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-pos" intensity="medium" id="a6"
+45	479,534	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-neg" id="a8" inferred="yes" intensity="medium-high"
+44	407,426	string	GATE_attitude	 target-link="t4" attitude-type="intention-neg" intensity="low-medium" id="a4"
+43	590,613	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" intensity="medium" nested-source="w,carter" polarity="positive"
+42	302,302	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+41	180,237	string	GATE_target	 id="t2"
+40	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	0,0	string	GATE_agent	 id="implicit"
+38	479,488	string	GATE_attitude	 target-link="t5" attitude-type="sentiment-pos" intensity="medium" id="a5"
+37	534,535	string	GATE_split	
+36	479,488	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a5, a8" intensity="medium" nested-source="w,chavez,chavez,military persons" polarity="positive"
+35	156,160	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a2" intensity="low" nested-source="w,cardoso"
+34	319,379	string	GATE_target	 id="t30"
+33	0,0	string	GATE_agent	 id="w"
+32	404,406	string	GATE_agent	 nested-source="w,chavez,chavez"
+31	17,72	string	GATE_attitude	 target-link="t1" attitude-type="arguing-pos" intensity="low-medium" id="a1"
+30	81,301	string	GATE_inside	 nested-source="w"
+29	380,384	string	GATE_split	
+28	627,637	string	GATE_attitude	 target-link="t7" attitude-type="intention-pos" intensity="medium" id="a7"
+27	536,588	string	GATE_agent	 id="carter" nested-source="w,carter"
+26	310,318	string	GATE_attitude	 attitude-uncertain="very-uncertain" target-link="t30" attitude-type="intention-pos" id="a30" intensity="low"
+25	197,237	string	GATE_agent	 id="chavez"
+24	384,390	string	GATE_agent	 nested-source="w,chavez"
+23	302,309	string	GATE_agent	 nested-source="w,cardoso"
+22	638,660	string	GATE_target	 id="t7"
+21	384,535	string	GATE_inside	 nested-source="w"
+20	4,11	string	GATE_agent	 nested-source="w,cardoso"
+19	119,155	string	GATE_agent	 id="cardoso" nested-source="w,cardoso"
+18	170,179	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" nested-source="w,cardoso" intensity="low" polarity="neutral"
+17	300,301	string	GATE_split	
+16	302,380	string	GATE_inside	 nested-source="w"
+15	716,717	string	GATE_split	
+14	75,81	string	GATE_split	
+13	4,72	string	GATE_inside	 nested-source="w"
+12	12,16	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a1" intensity="low" nested-source="w,cardoso"
+11	166,262	string	GATE_attitude	 target-link="t2" attitude-type="arguing-pos" intensity="low-medium" id="a2"
+10	500,534	string	GATE_target	 id="t5"
+9	617,660	string	GATE_target	 id="t6"
+8	627,634	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a7" intensity="medium" nested-source="w,carter,chavez" polarity="neutral"
+7	81,81	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+6	355,379	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,cardoso" polarity="positive"
+5	72,75	string	GATE_split	
+4	536,717	string	GATE_inside	 nested-source="w"
+3	722,724	string	GATE_split	
+2	379,380	string	GATE_split	
+1	17,21	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,cardoso" polarity="neutral"
+0	391,395	string	GATE_objective-speech-event	 nested-source="w,chavez"

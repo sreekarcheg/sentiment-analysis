@@ -1,0 +1,47 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020207/20.37.46-24515/20.37.46-24515.tw.attitudes.xml
+#  on Thu Nov 13 11:14:29 EST 2008
+#  by twilson
+41	1023,1150	string	GATE_inside	 nested-source="w"
+40	1225,1225	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	708,708	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	1394,1394	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	1225,1339	string	GATE_inside	 nested-source="w"
+36	1338,1339	string	GATE_split	
+35	2,299	string	GATE_inside	 nested-source="w"
+34	1023,1023	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+33	1340,1340	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	708,937	string	GATE_inside	 nested-source="w"
+31	1015,1016	string	GATE_split	
+30	1340,1393	string	GATE_inside	 nested-source="w"
+29	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+28	490,611	string	GATE_inside	 nested-source="w"
+27	1531,1532	string	GATE_split	
+26	1149,1150	string	GATE_split	
+25	1709,1712	string	GATE_split	
+24	488,489	string	GATE_split	
+23	0,0	string	GATE_agent	 id="w"
+22	52,60	string	GATE_objective-speech-event	 nested-source="w, baoarticle"
+21	700,701	string	GATE_split	
+20	490,490	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+19	612,612	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+18	306,489	string	GATE_inside	 nested-source="w"
+17	1151,1224	string	GATE_inside	 nested-source="w"
+16	428,487	string	GATE_agent	 id="survey" nested-source="w, survey"
+15	938,1016	string	GATE_inside	 nested-source="w"
+14	936,937	string	GATE_split	
+13	612,701	string	GATE_inside	 nested-source="w"
+12	1394,1532	string	GATE_inside	 nested-source="w"
+11	938,938	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	415,427	string	GATE_objective-speech-event	 nested-source="w, survey"
+9	1707,1708	string	GATE_split	
+8	0,0	string	GATE_agent	 id="implicit"
+7	1634,1635	string	GATE_split	
+6	1223,1224	string	GATE_split	
+5	2,51	string	GATE_agent	 id="baoarticle" nested-source="w, baoarticle"
+4	1151,1151	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+3	306,306	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+2	610,611	string	GATE_split	
+1	1392,1393	string	GATE_split	
+0	298,299	string	GATE_split	

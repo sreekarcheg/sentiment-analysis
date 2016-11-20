@@ -1,0 +1,580 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/ula/HistoryJerusalem/HistoryJerusalem.xml
+#  on Sun Dec 21 20:15:35 EST 2008
+#  by twilson
+8348	1440,1449	string	GATE_objective-speech-event	 nested-source="w,bible"
+8493	14544,14557	string	GATE_agent	 nested-source="w,herzl" id="herzl"
+8236	15380,15380	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8621	10906,10907	string	GATE_split	
+8299	9155,9244	string	GATE_inside	 nested-source="w"
+8744	4821,4888	string	GATE_inside	 nested-source="w"
+8689	8827,8827	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8556	3228,3234	string	GATE_attitude	 target-link="t_sacrifice" intensity="medium" id="a_called" attitude-type="sentiment-pos"
+8495	14377,14383	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,jews" polarity="positive" attitude-link="a_sought"
+8234	15448,15448	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8746	4460,4461	string	GATE_split	
+8623	9108,9109	string	GATE_split	
+8421	13405,13644	string	GATE_inside	 nested-source="w"
+8411	11753,11753	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8293	17593,17594	string	GATE_split	
+8748	5353,5579	string	GATE_inside	 nested-source="w"
+8603	10614,10628	string	GATE_attitude	 target-link="t_roman_temple" intensity="high" id="a_most_beautiful" attitude-type="sentiment-pos"
+8583	15595,15605	string	GATE_attitude	 target-link="t_jewish_immigration" intensity="medium" id="a_opposition" attitude-type="sentiment-neg"
+8303	14528,14529	string	GATE_split	
+8465	18331,18339	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c1,c3" intensity="medium" nested-source="w,jerusalem" polarity="negative"
+8368	12651,12651	string	GATE_split	
+8710	10733,10907	string	GATE_inside	 nested-source="w"
+8240	15578,15578	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8401	12442,12442	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="a_slaughtering"
+8431	12745,12936	string	GATE_inside	 nested-source="w"
+8230	15287,15287	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8358	12660,12660	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8491	18078,18088	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,residents" polarity="negative" attitude-link="a_protesting"
+8712	10587,10732	string	GATE_inside	 nested-source="w"
+8742	4889,5005	string	GATE_inside	 nested-source="w"
+8289	18454,18466	string	GATE_split	
+8532	4327,4336	string	GATE_agent	 nested-source="w,bible"
+8753	3507,3508	string	GATE_split	
+8752	3269,3270	string	GATE_split	
+8670	6156,6157	string	GATE_split	
+8628	7908,7909	string	GATE_split	
+8469	569,623	string	GATE_target	 id="t_meant_shalim"
+8457	3519,3523	string	GATE_attitude	 target-link="t_reign" intensity="medium" id="a_wise" attitude-type="sentiment-pos"
+8340	3901,3921	string	GATE_agent	 nested-source="w,readers" id="readers"
+8413	11474,11474	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8244	18453,18454	string	GATE_split	
+8301	10173,10254	string	GATE_inside	 nested-source="w"
+8708	9688,9831	string	GATE_inside	 nested-source="w"
+8626	9153,9154	string	GATE_split	
+8467	211,240	string	GATE_attitude	 target-link="t_settlements" intensity="medium" id="a_millenia" attitude-type="speculation"
+8403	12355,12355	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8518	8081,8090	string	GATE_agent	 nested-source="w,jerusalem" id="jerusalem"
+8664	11342,11343	string	GATE_split	
+8242	16114,16114	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8232	15102,15102	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="negative" attitude-link="a_problem"
+8538	5708,5732	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w" es-uncertain="very-uncertain"
+8489	18029,18040	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,palestinians" polarity="positive" attitude-link="a_calling_for"
+8520	7641,7649	string	GATE_objective-speech-event	 implicit="true" nested-source="w,implicit"
+8617	8715,8716	string	GATE_split	
+8666	4677,4678	string	GATE_split	
+8579	17364,17416	string	GATE_target	 id="t_incidents"
+8295	9450,9597	string	GATE_inside	 nested-source="w"
+8409	11846,11846	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8560	1069,1076	string	GATE_objective-speech-event	 nested-source="w,genesis"
+8281	840,999	string	GATE_inside	 nested-source="w"
+8376	17253,17301	string	GATE_inside	 nested-source="w"
+8577	17615,17635	string	GATE_target	 id="t_kollek"
+8668	4819,4820	string	GATE_split	
+8479	15240,15277	string	GATE_agent	 nested-source="w,arabs" id="arabs"
+8558	2653,2665	string	GATE_objective-speech-event	 nested-source="w,bib_trad"
+8366	6371,6371	string	GATE_split	
+8755	3944,3945	string	GATE_split	
+8405	12175,12175	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8305	13752,13753	string	GATE_split	
+8427	13102,13151	string	GATE_inside	 nested-source="w"
+8706	9832,9996	string	GATE_inside	 nested-source="w"
+8716	10263,10385	string	GATE_inside	 nested-source="w"
+8761	6380,6572	string	GATE_inside	 nested-source="w"
+8364	1026,1026	string	GATE_split	
+8350	16727,16933	string	GATE_inside	 nested-source="w"
+8477	1790,1905	string	GATE_attitude	 target-link="t_made_capital" intensity="medium" id="a_because_neutral" attitude-type="speculation"
+8763	6765,6829	string	GATE_inside	 nested-source="w"
+8652	12173,12174	string	GATE_split	
+8561	2666,2692	string	GATE_agent	 nested-source="w,bib_trad" id="bib_trad"
+8662	11751,11752	string	GATE_split	
+8572	17970,17984	string	GATE_target	 id="t_religious_jews"
+8250	2915,2915	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8362	14340,14340	string	GATE_split	
+8759	5996,6157	string	GATE_inside	 nested-source="w"
+8352	1008,1026	string	GATE_inside	 nested-source="w"
+8252	3116,3116	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8224	14804,15101	string	GATE_inside	 nested-source="w"
+8475	1907,2149	string	GATE_target	 id="t_made_capital"
+8570	18029,18040	string	GATE_attitude	 target-link="t_independence" intensity="medium" id="a_calling_for" attitude-type="sentiment-pos"
+8309	9598,9687	string	GATE_inside	 nested-source="w"
+8589	14377,14383	string	GATE_attitude	 target-link="t_religious_freedom" intensity="medium" id="a_sought" attitude-type="sentiment-pos"
+8565	18206,18296	string	GATE_target	 id="t_ideas_and_mystique"
+8757	6270,6347	string	GATE_inside	 nested-source="w"
+8387	16519,16519	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8311	13331,13332	string	GATE_split	
+8567	18078,18088	string	GATE_attitude	 target-link="t_development" intensity="medium" id="a_protesting" attitude-type="sentiment-neg"
+8287	18192,18193	string	GATE_split	
+8714	10386,10586	string	GATE_inside	 nested-source="w"
+8630	6571,6572	string	GATE_split	
+8481	17821,17831	string	GATE_expressive-subjectivity	 intensity="medium" polarity="positive" nested-source="w" es-uncertain="somewhat-uncertain"
+8246	2915,3103	string	GATE_inside	 nested-source="w"
+8511	13417,13421	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+8374	17049,17244	string	GATE_inside	 nested-source="w"
+8650	1780,1781	string	GATE_split	
+8639	1428,1429	string	GATE_split	
+8415	15930,15930	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8574	17985,18001	string	GATE_attitude	 target-link="t_secular_jews" intensity="medium" id="a_conflict_with_secular" attitude-type="sentiment-neg"
+8781	4470,4470	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8228	14655,14655	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8285	491,621	string	GATE_inside	 nested-source="w"
+8644	489,490	string	GATE_split	
+8291	17300,17301	string	GATE_split	
+8485	17985,18001	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,religious_jews" polarity="negative" attitude-link="a_conflict_with_secular"
+8502	15106,15113	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+8718	11352,11473	string	GATE_inside	 nested-source="w"
+8307	13951,13952	string	GATE_split	
+8390	0,0	string	GATE_agent	 id="w"
+8429	12937,13093	string	GATE_inside	 nested-source="w"
+8226	14655,14795	string	GATE_inside	 nested-source="w"
+8554	7348,7353	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,herod" polarity="positive" attitude-link="a_honor"
+8738	5142,5250	string	GATE_inside	 nested-source="w"
+8563	1038,1068	string	GATE_agent	 nested-source="w,genesis" id="genesis"
+8646	2913,2914	string	GATE_split	
+8648	2358,2359	string	GATE_split	
+8720	11284,11284	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8721	11284,11343	string	GATE_inside	 nested-source="w"
+8267	15576,15577	string	GATE_split	
+8392	18194,18194	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="positive" attitude-link="a_rise_above,a_extra_special"
+8248	2653,2914	string	GATE_inside	 nested-source="w"
+8637	7267,7268	string	GATE_split	
+8473	1597,1612	string	GATE_target	 id="t_shaft"
+8740	5018,5141	string	GATE_inside	 nested-source="w"
+8581	14938,14948	string	GATE_attitude	 target-link="t_national_home" intensity="medium" id="a_supporting" attitude-type="sentiment-pos"
+8425	13152,13332	string	GATE_inside	 nested-source="w"
+8576	17821,17831	string	GATE_attitude	 target-link="t_kollek" attitude-uncertain="somewhat-uncertain" intensity="medium" id="a_tirelessly" attitude-type="sentiment-pos"
+8346	1322,1360	string	GATE_agent	 nested-source="w,david" id="david"
+8642	838,839	string	GATE_split	
+8483	17843,17863	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" polarity="negative" nested-source="w,communities"
+8779	4327,4327	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8504	14938,14948	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,british" polarity="positive" attitude-link="a_supporting"
+8385	13754,13754	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8380	16205,16301	string	GATE_inside	 nested-source="w"
+8773	3509,3509	string	GATE_direct-subjective	 intensity="low" implicit="true" nested-source="w" polarity="positive" attitude-link="a_wise"
+8268	15732,15733	string	GATE_split	
+8433	7494,7499	string	GATE_attitude	 target-link="t_herod" intensity="high" id="a_hated" attitude-type="sentiment-neg"
+8391	0,0	string	GATE_agent	 id="implicit"
+8327	626,634	string	GATE_agent	 nested-source="w,scholars" id="scholars"
+8524	9610,9618	string	GATE_agent	 nested-source="w,jews" id="jews"
+8332	117,131	string	GATE_agent	 nested-source="w,egyptians" id="egyptians"
+8378	17302,17452	string	GATE_inside	 nested-source="w"
+8775	6955,6955	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8455	4363,4382	string	GATE_attitude	 target-link="t_rulers" intensity="medium" id="a_cruelty" attitude-type="sentiment-neg"
+8636	7432,7433	string	GATE_split	
+8443	8620,8653	string	GATE_target	 id="t_rel_leader"
+8526	10386,10406	string	GATE_agent	 nested-source="w,helena" id="helena"
+8654	11844,11845	string	GATE_split	
+8699	5580,5793	string	GATE_inside	 nested-source="w"
+8546	4434,4438	string	GATE_attitude	 target-link="t_cruelty" intensity="high-extreme" id="a_fury" attitude-type="sentiment-neg"
+8680	5140,5141	string	GATE_split	
+8722	11030,11030	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8634	8897,8898	string	GATE_split	
+8552	7376,7387	string	GATE_attitude	 target-link="t_antony" intensity="medium" id="a_honor" attitude-type="sentiment-pos"
+8528	8608,8619	string	GATE_expressive-subjectivity	 nested-source="w" polarity="neutral" intensity="medium"
+8657	10171,10172	string	GATE_split	
+8782	4470,4583	string	GATE_inside	 nested-source="w"
+8269	16517,16518	string	GATE_split	
+8656	10253,10254	string	GATE_split	
+8777	7442,7442	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_despite_acc"
+8771	7269,7269	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8609	12126,12173	string	GATE_attitude	 target-link="t_dome_of_the_rock" intensity="high-extreme" id="a_most_beautiful_buildings" attitude-type="sentiment-pos"
+8587	15021,15030	string	GATE_attitude	 target-link="t_rights" intensity="medium" id="a_respected" attitude-type="sentiment-pos"
+8550	1165,1172	string	GATE_attitude	 target-link="t_abraham" intensity="medium" id="a_blessed" attitude-type="sentiment-pos"
+8522	7746,7754	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,herod" polarity="negative" attitude-link="a_paranoia"
+8678	4887,4888	string	GATE_split	
+8330	2944,2951	string	GATE_agent	 nested-source="w,solomon"
+8266	14794,14795	string	GATE_split	
+8596	10614,10628	string	GATE_expressive-subjectivity	 nested-source="w,helena" polarity="positive" intensity="high"
+8548	15106,15113	string	GATE_attitude	 target-link="t_british_promise" intensity="medium" id="a_problem" attitude-type="sentiment-neg"
+8585	14775,14780	string	GATE_attitude	 target-link="t_jewish_state" intensity="medium" id="a_hopes" attitude-type="sentiment-pos"
+8726	7803,7803	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8676	6953,6954	string	GATE_split	
+8441	8759,8769	string	GATE_target	 id="t_roman_rule"
+8372	16934,17048	string	GATE_inside	 nested-source="w"
+8313	12440,12441	string	GATE_split	
+8212	13953,14019	string	GATE_inside	 nested-source="w"
+8497	14197,14213	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,christian_pilgrims" polarity="positive" attitude-link="a_renewed_interest"
+8697	9110,9154	string	GATE_inside	 nested-source="w"
+8591	14621,14653	string	GATE_target	 id="t_jewish_state"
+8262	2360,2360	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8275	15378,15379	string	GATE_split	
+8499	15590,15594	string	GATE_agent	 nested-source="w,arabs"
+8724	10908,10908	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8334	2803,2809	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" implicit="true" nested-source="w,bib_trad,implicit" polarity="neutral" attitude-link="a_unworthy,a_man_of_war"
+8613	9830,9831	string	GATE_split	
+8397	17906,18193	string	GATE_inside	 nested-source="w"
+8659	253,254	string	GATE_split	
+8214	13847,13952	string	GATE_inside	 nested-source="w"
+8487	18002,18014	string	GATE_agent	 nested-source="w,secular_jews" id="secular_jews"
+8370	9441,9441	string	GATE_split	
+8271	15100,15101	string	GATE_split	
+8784	3707,3945	string	GATE_inside	 nested-source="w"
+8264	2151,2151	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8453	2978,3045	string	GATE_attitude	 target-link="t_g_d" intensity="high-extreme" id="a_cannot_contain" attitude-type="sentiment-pos"
+8336	2869,2913	string	GATE_expressive-subjectivity	 nested-source="w,bib_trad,implicit" polarity="negative" intensity="high"
+8509	10873,10885	string	GATE_objective-speech-event	 implicit="true" nested-source="w,implicit"
+8701	5802,5995	string	GATE_inside	 nested-source="w"
+8323	16300,16301	string	GATE_split	
+8445	9601,9608	string	GATE_attitude	 target-link="t_jupiter_town" intensity="high" id="a_outrage" attitude-type="sentiment-neg"
+8407	12030,12030	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_most_striking"
+8451	3052,3073	string	GATE_attitude	 target-link="t_temple" intensity="medium" id="a_less" attitude-type="sentiment-neg"
+8321	16104,16105	string	GATE_split	
+8703	6158,6269	string	GATE_inside	 nested-source="w"
+8632	6268,6269	string	GATE_split	
+8785	3946,3946	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8705	9997,9997	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8447	2869,2913	string	GATE_attitude	 target-link="a_unworthy" intensity="high" id="a_man_of_war" attitude-type="sentiment-neg"
+8277	28,43	string	GATE_inside	 nested-source="w"
+8606	12761,12771	string	GATE_attitude	 target-link="t_churches" intensity="medium" id="a_impressive" attitude-type="sentiment-pos"
+8533	4345,4353	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,bible" polarity="neutral" attitude-link="a_cruelty"
+8734	4687,4820	string	GATE_inside	 nested-source="w"
+8449	2796,2798	string	GATE_target	 id="t_david"
+8505	14862,14892	string	GATE_agent	 nested-source="w,british" id="british"
+8254	3271,3271	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_splendid"
+8684	8336,8510	string	GATE_inside	 nested-source="w"
+8222	14349,14529	string	GATE_inside	 nested-source="w"
+8480	17345,17360	string	GATE_direct-subjective	 expression-intensity="medium" insubstantial="c3" attitude-link="a_aggravated" nested-source="w,implicit" intensity="medium" implicit="true" polarity="negative"
+8732	8170,8170	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8768	6573,6573	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8608	10410,10416	string	GATE_attitude	 target-link="t_christianity" attitude-uncertain="somewhat-uncertain" intensity="high" id="a_devout" attitude-type="sentiment-pos"
+8418	13405,13405	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="both" attitude-link="a_best,a_taken_toll"
+8674	6763,6764	string	GATE_split	
+8315	12743,12744	string	GATE_split	
+8283	626,839	string	GATE_inside	 nested-source="w"
+8507	11742,11751	string	GATE_agent	 nested-source="w,koran" id="koran"
+8273	18466,18470	string	GATE_split	
+8437	8152,8168	string	GATE_target	 id="t_roman_domination"
+8216	14125,14307	string	GATE_inside	 nested-source="w"
+8529	4434,4438	string	GATE_direct-subjective	 expression-intensity="extreme" intensity="extreme" nested-source="w,bible,prophets" polarity="negative" attitude-link="a_fury"
+8693	8725,8725	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_harsh" subjective-uncertain="somewhat-uncertain"
+8461	5182,5190	string	GATE_attitude	 target-link="t_jerusalem" attitude-uncertain="somewhat-uncertain" intensity="low" id="a_tolerant" attitude-type="other-attitude"
+8344	1161,1172	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,melchzedik" polarity="positive" attitude-link="a_blessed"
+8728	7918,7918	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8393	17453,17594	string	GATE_inside	 nested-source="w"
+8439	7442,7469	string	GATE_attitude	 target-link="t_herod_hated" intensity="medium" id="a_despite_acc" contrast="yes" attitude-type="sentiment-pos"
+8594	14125,14138	string	GATE_target	 id="t_holy_city"
+8619	10585,10586	string	GATE_split	
+8459	5734,5792	string	GATE_target	 target-uncertain="very-uncertain" id="t_restored_judaism"
+8384	16519,16650	string	GATE_inside	 nested-source="w"
+8220	14530,14654	string	GATE_inside	 nested-source="w"
+8543	3296,3312	string	GATE_target	 id="t_house_worship"
+8671	5994,5995	string	GATE_split	
+8256	1430,1596	string	GATE_inside	 nested-source="w"
+8695	8899,9040	string	GATE_inside	 nested-source="w"
+8338	3228,3234	string	GATE_direct-subjective	 expression-intensity="low" intensity="medium" implicit="true" nested-source="w,implicit" polarity="positive" attitude-link="a_called"
+8611	9596,9597	string	GATE_split	
+8516	7940,7948	string	GATE_objective-speech-event	 nested-source="w,bible"
+8399	18194,18454	string	GATE_inside	 nested-source="w"
+8260	1790,2150	string	GATE_inside	 nested-source="w"
+8598	12080,12093	string	GATE_attitude	 target-link="t_dome_of_the_rock" intensity="high" id="a_most_striking" attitude-type="sentiment-pos"
+8541	7511,7523	string	GATE_agent	 nested-source="w,subjects" id="subjects"
+8355	52,254	string	GATE_inside	 nested-source="w"
+8435	5816,5824	string	GATE_attitude	 target-link="t_idols" intensity="medium" id="a_cleansed" attitude-type="sentiment-neg"
+8691	9041,9041	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8615	8334,8335	string	GATE_split	
+8472	554,567	string	GATE_attitude	 target-link="t_meant_shalim" intensity="medium" id="a_perhaps_meant" attitude-type="speculation"
+8342	98,105	string	GATE_objective-speech-event	 nested-source="w,egyptians"
+8298	9245,9245	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8682	8014,8169	string	GATE_inside	 nested-source="w"
+8463	18139,18144	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,residents" polarity="neutral" attitude-link="a_megalopolis"
+8730	7667,7667	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8395	17595,17897	string	GATE_inside	 nested-source="w"
+8769	6830,6954	string	GATE_inside	 nested-source="w"
+8602	10591,10596	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,helena" polarity="neutral" attitude-link="a_most_beautiful"
+8317	14018,14019	string	GATE_split	
+8218	14028,14124	string	GATE_inside	 nested-source="w"
+8750	5251,5344	string	GATE_inside	 nested-source="w"
+8688	8827,8898	string	GATE_inside	 nested-source="w"
+8279	1035,1246	string	GATE_inside	 nested-source="w"
+8258	2151,2359	string	GATE_inside	 nested-source="w"
+8319	17047,17048	string	GATE_split	
+8535	4442,4460	string	GATE_agent	 nested-source="w,bible,prophets" id="prophets"
+8382	16302,16518	string	GATE_inside	 nested-source="w"
+8686	8519,8716	string	GATE_inside	 nested-source="w"
+8514	12761,12771	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+8412	11753,11845	string	GATE_inside	 nested-source="w"
+8237	15578,15733	string	GATE_inside	 nested-source="w"
+8745	4821,4821	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8300	9155,9155	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8492	14775,14780	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,herzl" polarity="positive" attitude-link="a_hopes"
+8711	10733,10733	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8290	17896,17897	string	GATE_split	
+8559	3235,3269	string	GATE_target	 id="t_sacrifice"
+8690	9041,9109	string	GATE_inside	 nested-source="w"
+8743	4889,4889	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8687	8519,8519	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_yet_another"
+8645	2651,2652	string	GATE_split	
+8582	15609,15661	string	GATE_target	 id="t_jewish_immigration"
+8365	43,43	string	GATE_split	
+8347	1430,1439	string	GATE_agent	 nested-source="w,bible" id="bible"
+8367	6356,6371	string	GATE_inside	 nested-source="w"
+8647	2525,2526	string	GATE_split	
+8239	16136,16204	string	GATE_inside	 nested-source="w"
+8667	4582,4583	string	GATE_split	
+8490	18063,18077	string	GATE_agent	 nested-source="w,residents" id="residents"
+8519	7729,7734	string	GATE_agent	 nested-source="w,herod"
+8741	5018,5018	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8424	13102,13102	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8754	3705,3706	string	GATE_split	
+8296	9410,9410	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8584	14600,14653	string	GATE_attitude	 target-link="t_jewish_state" intensity="medium" id="a_create_jewish_state" attitude-type="intention-pos"
+8231	15448,15577	string	GATE_inside	 nested-source="w"
+8496	14372,14376	string	GATE_agent	 nested-source="w,jews"
+8466	18256,18296	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+8624	9039,9040	string	GATE_split	
+8359	9450,9450	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8713	10587,10587	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8422	13152,13152	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8294	17243,17244	string	GATE_split	
+8604	12576,12588	string	GATE_attitude	 target-link="t_crusaders" intensity="high" id="a_slaughtering" attitude-type="sentiment-neg"
+8235	15734,15929	string	GATE_inside	 nested-source="w"
+8515	12107,12125	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,implicit" polarity="neutral" attitude-link="a_most_beautiful_buildings"
+8747	5353,5353	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8353	6380,6380	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8402	12442,12611	string	GATE_inside	 nested-source="w"
+8758	6270,6270	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8241	15930,16105	string	GATE_inside	 nested-source="w"
+8557	7342,7347	string	GATE_agent	 nested-source="w,herod"
+8420	13333,13333	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8292	840,840	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8669	5792,5793	string	GATE_split	
+8625	9243,9244	string	GATE_split	
+8404	12355,12441	string	GATE_inside	 nested-source="w"
+8470	161,206	string	GATE_target	 id="t_settlements"
+8580	14949,15100	string	GATE_target	 id="t_national_home"
+8531	5182,5190	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="low" intensity="low" nested-source="w,persians" polarity="positive" attitude-link="a_tolerant"
+8339	3519,3523	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+8414	11474,11752	string	GATE_inside	 nested-source="w"
+8243	2535,2652	string	GATE_inside	 nested-source="w"
+8627	8012,8013	string	GATE_split	
+8600	13417,13421	string	GATE_attitude	 target-link="t_islamic_architecture" intensity="medium" id="a_best" attitude-type="sentiment-pos"
+8357	14349,14349	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8709	9688,9688	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8304	14306,14307	string	GATE_split	
+8707	9832,9832	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8537	6477,6482	string	GATE_agent	 nested-source="w,herod" id="herod"
+8517	8134,8146	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,jerusalem" polarity="negative" attitude-link="a_dissatisfied"
+8665	11282,11283	string	GATE_split	
+8361	16114,16127	string	GATE_inside	 nested-source="w"
+8410	11846,12029	string	GATE_inside	 nested-source="w"
+8223	14316,14316	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8282	1008,1008	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8736	4584,4678	string	GATE_inside	 nested-source="w"
+8756	4325,4326	string	GATE_split	
+8375	16934,16934	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8233	15380,15447	string	GATE_inside	 nested-source="w"
+8302	10173,10173	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8468	18343,18372	string	GATE_agent	 nested-source="w,jerusalem"
+8578	17350,17363	string	GATE_attitude	 target-link="t_incidents" intensity="medium" id="a_aggravated" attitude-type="sentiment-neg"
+8622	11020,11021	string	GATE_split	
+8663	11472,11473	string	GATE_split	
+8363	14316,14340	string	GATE_inside	 nested-source="w"
+8510	10587,10590	string	GATE_agent	 nested-source="w,helena"
+8478	15595,15605	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,arabs" polarity="negative" attitude-link="a_opposition"
+8649	2149,2150	string	GATE_split	
+8638	1595,1596	string	GATE_split	
+8766	7158,7158	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8428	12745,12745	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_impressive"
+8661	7,19	string	GATE_split	
+8249	3116,3270	string	GATE_inside	 nested-source="w"
+8566	18251,18255	string	GATE_target	 id="t_jerusalem2"
+8349	16725,16726	string	GATE_split	
+8251	3271,3508	string	GATE_inside	 nested-source="w"
+8562	18206,18453	string	GATE_attitude	 target-link="t_ideas_and_mystique" intensity="low" id="a_rise_above" attitude-type="arguing-pos"
+8306	13643,13644	string	GATE_split	
+8406	12175,12346	string	GATE_inside	 nested-source="w"
+8416	13653,13653	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8717	10263,10263	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8571	18049,18061	string	GATE_target	 id="t_independence"
+8539	5816,5824	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="medium"
+8288	17451,17452	string	GATE_split	
+8245	2653,2653	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8643	620,621	string	GATE_split	
+8373	17302,17302	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8501	15131,15150	string	GATE_agent	 nested-source="w,british"
+8312	13403,13404	string	GATE_split	
+8715	10386,10386	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8629	7801,7802	string	GATE_split	
+8512	13532,13556	string	GATE_expressive-subjectivity	 intensity="medium" polarity="negative" nested-source="w" es-uncertain="very-uncertain"
+8764	6765,6765	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8329	2978,3045	string	GATE_expressive-subjectivity	 nested-source="w,solomon" polarity="positive" intensity="extreme"
+8476	1719,1780	string	GATE_attitude	 target-link="t_shaft" intensity="medium" id="a_tunnel" attitude-type="speculation"
+8640	1245,1246	string	GATE_split	
+8310	9598,9598	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8225	14804,14804	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8568	18089,18192	string	GATE_attitude	 target-link="t_development" intensity="medium" id="a_megalopolis" attitude-type="arguing-pos"
+8737	4584,4584	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8484	17970,17984	string	GATE_agent	 nested-source="w,religious_jews" id="religious_jews"
+8388	52,52	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_millenia"
+8547	4359,4413	string	GATE_target	 id="t_cruelty"
+8564	18256,18296	string	GATE_attitude	 target-link="t_jerusalem2" intensity="high" id="a_extra_special" attitude-type="sentiment-pos"
+8719	11352,11352	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8308	13845,13846	string	GATE_split	
+8227	15287,15379	string	GATE_inside	 nested-source="w"
+8286	626,626	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8760	5996,5996	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8482	17867,17896	string	GATE_agent	 nested-source="w,communities" id="communities"
+8655	10384,10385	string	GATE_split	
+8229	15102,15278	string	GATE_inside	 nested-source="w"
+8426	12937,12937	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8325	13092,13093	string	GATE_split	
+8553	1082,1089	string	GATE_target	 id="t_abraham"
+8780	4327,4461	string	GATE_inside	 nested-source="w"
+8474	650,680	string	GATE_attitude	 target-link="t_semitic_deity" intensity="medium" id="a_shalim_might" attitude-type="speculation"
+8345	1271,1280	string	GATE_objective-speech-event	 annotation-uncertain="somewhat-uncertain" nested-source="w,david" insubstantial="c1"
+8573	17985,18001	string	GATE_attitude	 target-link="t_religious_jews" intensity="medium" id="a_conflict_with_religious" attitude-type="sentiment-neg"
+8432	7471,7523	string	GATE_target	 id="t_herod_hated"
+8762	6356,6356	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8641	998,999	string	GATE_split	
+8739	5142,5142	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8247	2535,2535	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8351	16727,16727	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8555	7388,7432	string	GATE_target	 id="t_antony"
+8651	12345,12346	string	GATE_split	
+8386	16651,16726	string	GATE_inside	 nested-source="w"
+8503	15021,15030	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,british" polarity="positive" attitude-link="a_respected"
+8575	18002,18014	string	GATE_target	 id="t_secular_jews"
+8494	14766,14771	string	GATE_agent	 nested-source="w,herzl"
+8430	12620,12620	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8444	10116,10161	string	GATE_target	 id="t_christianity"
+8521	7931,7939	string	GATE_agent	 nested-source="w,bible"
+8377	16302,16302	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8263	2360,2526	string	GATE_inside	 nested-source="w"
+8776	6955,7157	string	GATE_inside	 nested-source="w"
+8588	14384,14401	string	GATE_target	 id="t_religious_freedom"
+8633	8825,8826	string	GATE_split	
+8549	15131,15277	string	GATE_target	 id="t_british_promise"
+8326	13150,13151	string	GATE_split	
+8677	7156,7157	string	GATE_split	
+8700	5802,5802	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="both" attitude-link="a_cleansed"
+8270	16649,16650	string	GATE_split	
+8774	3509,3706	string	GATE_inside	 nested-source="w"
+8261	1597,1597	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_tunnel"
+8454	3074,3102	string	GATE_target	 id="t_temple"
+8379	17253,17253	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8389	17595,17595	string	GATE_direct-subjective	 attitude-link="a_tirelessly" nested-source="w" annotation-uncertain="" intensity="medium" implicit="true" polarity="neutral" subjective-uncertain="somewhat-uncertain"
+8635	7657,7658	string	GATE_split	
+8434	7471,7476	string	GATE_target	 id="t_herod"
+8398	17906,17906	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8525	10410,10416	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="high" intensity="high" nested-source="w,helena" polarity="positive" attitude-link="a_devout"
+8328	635,644	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,scholars" polarity="neutral" attitude-link="a_shalim_might"
+8653	12028,12029	string	GATE_split	
+8400	12660,12744	string	GATE_inside	 nested-source="w"
+8272	15277,15278	string	GATE_split	
+8698	5580,5580	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_against_odds" subjective-uncertain="very-uncertain"
+8331	2952,2961	string	GATE_direct-subjective	 expression-intensity="neutral" intensity="medium" nested-source="w,solomon" polarity="neutral" attitude-link="a_cannot_contain,a_less"
+8772	7269,7433	string	GATE_inside	 nested-source="w"
+8456	5142,5150	string	GATE_target	 id="t_jerusalem"
+8259	1790,1790	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_because_neutral"
+8614	9686,9687	string	GATE_split	
+8658	9995,9996	string	GATE_split	
+8545	3825,3876	string	GATE_target	 id="t_glories"
+8778	7442,7658	string	GATE_inside	 nested-source="w"
+8265	14653,14654	string	GATE_split	
+8486	17985,18001	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,secular_jews" polarity="negative" attitude-link="a_conflict_with_religious"
+8586	15031,15100	string	GATE_target	 id="t_rights"
+8723	11030,11283	string	GATE_inside	 nested-source="w"
+8702	6158,6158	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8213	13953,13953	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8660	1,7	string	GATE_split	
+8324	16203,16204	string	GATE_split	
+8369	12620,12651	string	GATE_inside	 nested-source="w"
+8725	10908,11021	string	GATE_inside	 nested-source="w"
+8569	18089,18120	string	GATE_target	 id="t_development"
+8276	15446,15447	string	GATE_split	
+8452	3524,3540	string	GATE_target	 id="t_reign"
+8527	8753,8758	string	GATE_expressive-subjectivity	 intensity="medium" polarity="negative" nested-source="w" es-uncertain="somewhat-uncertain"
+8442	8608,8619	string	GATE_attitude	 target-link="t_rel_leader" intensity="medium" id="a_yet_another" attitude-type="other-attitude"
+8314	12610,12611	string	GATE_split	
+8371	9410,9441	string	GATE_inside	 nested-source="w"
+8783	3707,3707	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8727	7803,7909	string	GATE_inside	 nested-source="w"
+8595	14197,14213	string	GATE_attitude	 target-link="t_holy_city" intensity="medium" id="a_renewed_interest" attitude-type="sentiment-pos"
+8590	14600,14610	string	GATE_direct-subjective	 expression-intensity="neutral" insubstantial="c3" nested-source="w,herzl,implicit" attitude-link="a_create_jewish_state" annotation-uncertain="very-uncertain" intensity="medium" implicit="true" polarity="positive"
+8500	15205,15226	string	GATE_objective-speech-event	 nested-source="w,british"
+8335	2810,2818	string	GATE_expressive-subjectivity	 nested-source="w,bib_trad,implicit" polarity="negative" intensity="medium"
+8551	3287,3295	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+8253	1247,1429	string	GATE_inside	 nested-source="w"
+8488	18016,18028	string	GATE_agent	 nested-source="w,palestinians" id="palestinians"
+8448	3046,3050	string	GATE_target	 id="t_g_d"
+8498	14220,14238	string	GATE_agent	 nested-source="w,christian_pilgrims" id="christian_pilgrims"
+8592	13504,13527	string	GATE_target	 id="t_thousand_years"
+8408	12030,12174	string	GATE_inside	 nested-source="w"
+8322	15928,15929	string	GATE_split	
+8704	9997,10172	string	GATE_inside	 nested-source="w"
+8631	6346,6347	string	GATE_split	
+8446	9493,9596	string	GATE_target	 id="t_jupiter_town"
+8540	7442,7469	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="medium"
+8284	255,255	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8765	7158,7268	string	GATE_inside	 nested-source="w"
+8450	2810,2818	string	GATE_attitude	 target-link="t_david" intensity="medium" id="a_unworthy" attitude-type="sentiment-neg"
+8460	5839,5898	string	GATE_target	 id="t_idols"
+8221	14530,14530	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8316	12935,12936	string	GATE_split	
+8396	17049,17049	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8735	4687,4687	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8620	10731,10732	string	GATE_split	
+8605	12512,12525	string	GATE_target	 id="t_crusaders"
+8534	4363,4382	string	GATE_expressive-subjectivity	 nested-source="w,bible" polarity="negative" intensity="medium"
+8333	2639,2651	string	GATE_agent	 nested-source="w,solomon" id="solomon"
+8219	14028,14028	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8544	3890,3900	string	GATE_attitude	 target-link="t_glories" intensity="medium" id="a_captivated" attitude-type="sentiment-pos"
+8672	5343,5344	string	GATE_split	
+8508	11701,11710	string	GATE_objective-speech-event	 nested-source="w,koran"
+8278	28,28	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8618	8509,8510	string	GATE_split	
+8786	3946,4326	string	GATE_inside	 nested-source="w"
+8506	12126,12173	string	GATE_expressive-subjectivity	 nested-source="w,implicit" polarity="positive" intensity="extreme"
+8337	3052,3073	string	GATE_expressive-subjectivity	 nested-source="w,solomon" polarity="negative" intensity="medium"
+8729	7918,8013	string	GATE_inside	 nested-source="w"
+8696	9110,9110	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8593	13532,13556	string	GATE_attitude	 target-link="t_thousand_years" attitude-uncertain="very-uncertain" intensity="medium" id="a_taken_toll" attitude-type="sentiment-neg"
+8440	8753,8758	string	GATE_attitude	 target-link="t_roman_rule" intensity="medium" id="a_harsh" attitude-type="sentiment-neg"
+8767	6573,6764	string	GATE_inside	 nested-source="w"
+8215	13847,13847	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8673	5578,5579	string	GATE_split	
+8599	12080,12093	string	GATE_expressive-subjectivity	 nested-source="w" polarity="positive" intensity="high"
+8458	4386,4413	string	GATE_target	 id="t_rulers"
+8383	16205,16205	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8694	8899,8899	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8471	681,714	string	GATE_target	 id="t_semitic_deity"
+8530	5199,5211	string	GATE_agent	 nested-source="w,persians" id="persians"
+8255	1597,1781	string	GATE_inside	 nested-source="w"
+8343	1176,1213	string	GATE_agent	 nested-source="w,melchzedik" id="melchzedik"
+8274	255,490	string	GATE_inside	 nested-source="w"
+8438	7746,7754	string	GATE_attitude	 id="a_paranoia" attitude-type="sentiment-neg" intensity="medium"
+8394	17453,17453	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8733	8170,8335	string	GATE_inside	 nested-source="w"
+8417	13754,13846	string	GATE_inside	 nested-source="w"
+8685	8336,8336	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8692	8725,8826	string	GATE_inside	 nested-source="w"
+8675	6828,6829	string	GATE_split	
+8542	3287,3295	string	GATE_attitude	 target-link="t_house_worship" intensity="medium" id="a_splendid" attitude-type="sentiment-pos"
+8341	3890,3900	string	GATE_direct-subjective	 expression-intensity="medium" intensity="medium" nested-source="w,readers" polarity="positive" attitude-link="a_captivated"
+8356	16136,16136	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8612	9400,9401	string	GATE_split	
+8419	13653,13753	string	GATE_inside	 nested-source="w"
+8436	8134,8151	string	GATE_attitude	 target-link="t_roman_domination" intensity="medium" id="a_dissatisfied" attitude-type="sentiment-neg"
+8318	14123,14124	string	GATE_split	
+8597	10637,10649	string	GATE_target	 id="t_roman_temple"
+8354	1035,1035	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8462	5708,5732	string	GATE_attitude	 target-link="t_restored_judaism" attitude-uncertain="very-uncertain" intensity="medium" id="a_against_odds" attitude-type="other-attitude"
+8751	3102,3103	string	GATE_split	
+8610	12030,12058	string	GATE_target	 id="t_dome_of_the_rock"
+8536	7494,7499	string	GATE_direct-subjective	 expression-intensity="high" intensity="high" nested-source="w,subjects" polarity="negative" attitude-link="a_hated"
+8616	8168,8169	string	GATE_split	
+8749	5251,5251	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8681	5249,5250	string	GATE_split	
+8360	16127,16127	string	GATE_split	
+8679	5004,5005	string	GATE_split	
+8464	18134,18138	string	GATE_agent	 nested-source="w,residents"
+8731	7667,7802	string	GATE_inside	 nested-source="w"
+8280	491,491	string	GATE_direct-subjective	 intensity="medium" implicit="true" nested-source="w" polarity="neutral" attitude-link="a_perhaps_meant"
+8423	13333,13404	string	GATE_inside	 nested-source="w"
+8601	13422,13442	string	GATE_target	 id="t_islamic_architecture"
+8381	16651,16651	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8217	14125,14125	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8238	15734,15734	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8297	9245,9401	string	GATE_inside	 nested-source="w"
+8683	8014,8014	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8513	12576,12588	string	GATE_expressive-subjectivity	 nested-source="w" polarity="negative" intensity="high"
+8523	9601,9608	string	GATE_direct-subjective	 expression-intensity="high" intensity="high" nested-source="w,jews" polarity="negative" attitude-link="a_outrage"
+8770	6830,6830	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8257	1247,1247	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+8320	16932,16933	string	GATE_split	
+8607	12772,12780	string	GATE_target	 id="t_churches"

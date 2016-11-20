@@ -1,0 +1,131 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/17.41.39-5995/17.41.39-5995.jlw.attitudes.xml
+#  on Sun Dec 10 07:48:07 EST 2006
+#  by twilson
+125	2165,2167	string	GATE_agent	 nested-source="w,israel,israel"
+123	1975,2363	string	GATE_inside	 nested-source="w"
+121	0,0	string	GATE_agent	 id="w"
+119	1618,1632	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w" polarity="neutral"
+117	2028,2041	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a20" intensity="low" nested-source="w,parties" polarity="neutral"
+115	872,878	string	GATE_agent	 nested-source="w,eu,israel"
+113	1387,1389	string	GATE_agent	 nested-source="w,israel,eu"
+111	850,852	string	GATE_agent	 nested-source="w,eu"
+109	1358,1362	string	GATE_split	
+107	609,610	string	GATE_split	
+105	1807,1974	string	GATE_inside	 nested-source="w"
+103	42,45	string	GATE_split	
+101	673,679	string	GATE_agent	 id="israel"
+99	2170,2188	string	GATE_direct-subjective	 expression-intensity="high" attitude-link="a18" intensity="high" nested-source="w,israel,israel" polarity="negative"
+97	1368,1374	string	GATE_agent	 nested-source="w,israel"
+95	638,656	string	GATE_agent	 nested-source="w,eu"
+93	2403,2405	string	GATE_split	
+91	610,614	string	GATE_split	
+89	1575,1575	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+87	51,420	string	GATE_inside	 nested-source="w"
+85	158,201	string	GATE_agent	 id="eu" nested-source="w,eu"
+83	856,866	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a6" nested-source="w,eu" intensity="medium" polarity="negative"
+81	129,136	string	GATE_expressive-subjectivity	 nested-source="w" intensity="low" polarity="negative"
+79	1573,1574	string	GATE_split	
+77	659,671	string	GATE_attitude	 target-link="t2" attitude-type="agree-neg" intensity="high" id="a2"
+75	807,816	string	GATE_attitude	 target-link="t3" attitude-type="agree-neg" intensity="medium" id="a4"
+73	856,871	string	GATE_attitude	 target-link="t6" attitude-type="sentiment-neg" intensity="low-medium" id="a6"
+71	1038,1254	string	GATE_attitude	 target-link="t8" attitude-type="sentiment-neg" intensity="low-medium" id="a8"
+69	1390,1394	string	GATE_attitude	 target-link="none" attitude-type="intention-pos" intensity="low" id="a10"
+67	1479,1573	string	GATE_target	 id="t12"
+65	1772,1802	string	GATE_target	 id="t14"
+63	2148,2154	string	GATE_target	 id="t17"
+61	1001,1005	string	GATE_split	
+59	0,0	string	GATE_agent	 id="implicit"
+57	799,806	string	GATE_agent	 nested-source="w,israel"
+55	420,424	string	GATE_split	
+53	1375,1382	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a9" intensity="medium" nested-source="w,israel" polarity="negative"
+51	1807,1807	string	GATE_direct-subjective	 attitude-link="a16" subjective-uncertain="somewhat-uncertain" intensity="low" nested-source="w" implicit="true"
+49	1439,1446	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a11" intensity="low" nested-source="w,eu" polarity="neutral"
+47	1721,1739	string	GATE_agent	 id="israeliofficials" nested-source="w,israeliofficials"
+45	1807,1840	string	GATE_agent	 id="genevaconv" nested-source="w,genevaconv"
+43	1755,1760	string	GATE_agent	 nested-source="w,israeliofficials,israeliofficials"
+41	1005,1005	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+39	1390,1394	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a10" annotation-uncertain="somewhat-uncertain" insubstantial="c1" nested-source="w,israel,eu" intensity="low" polarity="uncertain-positive"
+37	1362,1574	string	GATE_inside	 nested-source="w"
+35	1038,1058	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a8" nested-source="w,eu" intensity="medium" polarity="negative"
+33	257,270	string	GATE_objective-speech-event	 nested-source="w,eu"
+31	1255,1259	string	GATE_split	
+29	1357,1358	string	GATE_split	
+27	1984,2009	string	GATE_agent	 id="parties" nested-source="w,parties"
+25	614,614	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+23	1259,1358	string	GATE_inside	 nested-source="w"
+21	1973,1974	string	GATE_split	
+19	614,829	string	GATE_inside	 nested-source="w"
+17	1259,1259	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+15	86,124	string	GATE_attitude	 target-link="t1" attitude-type="sentiment-neg" intensity="medium" id="a1"
+13	614,622	string	GATE_target	 id="t3"
+11	872,1000	string	GATE_target	 id="t6"
+9	1099,1195	string	GATE_target	 id="t8"
+7	1439,1446	string	GATE_attitude	 target-link="t11" attitude-uncertain="very-uncertain" attitude-type="agree-pos" intensity="low-medium" id="a11"
+5	1451,1573	string	GATE_attitude	 target-link="t13" attitude-type="arguing-neg" intensity="medium-high" id="a13"
+3	1789,1802	string	GATE_attitude	 target-link="none" attitude-type="other-attitude" intensity="low" id="a15"
+1	1975,2362	string	GATE_attitude	 target-link="t17" attitude-type="sentiment-neg" intensity="medium" id="a17"
+124	2028,2041	string	GATE_attitude	 target-link="t20" attitude-type="agree-pos" intensity="low-medium" id="a20"
+122	1761,1766	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a14" nested-source="w,israeliofficials,israeliofficials" intensity="medium" polarity="negative"
+120	424,438	string	GATE_objective-speech-event	 insubstantial="c1" nested-source="w,eu"
+118	419,420	string	GATE_split	
+116	1772,1785	string	GATE_agent	 nested-source="w,israel,eu"
+114	4,42	string	GATE_inside	 nested-source="w"
+112	807,816	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a4" nested-source="w,israel" intensity="medium" polarity="negative"
+110	2155,2164	string	GATE_objective-speech-event	 nested-source="w,israel" objective-uncertain="somewhat-uncertain"
+108	833,845	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+106	2148,2154	string	GATE_agent	 nested-source="w,israel"
+104	1802,1803	string	GATE_split	
+102	1740,1754	string	GATE_objective-speech-event	 nested-source="w,israeliofficials"
+100	424,610	string	GATE_inside	 nested-source="w"
+98	2363,2367	string	GATE_split	
+96	787,793	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a3" annotation-uncertain="somewhat-uncertain" intensity="medium" nested-source="w,eu" polarity="neutral"
+94	1849,1855	string	GATE_objective-speech-event	 nested-source="w,genevaconv"
+92	1975,1975	string	GATE_direct-subjective	 attitude-link="a17" implicit="true" intensity="medium" nested-source="w"
+90	2170,2204	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="negative"
+88	45,51	string	GATE_split	
+86	1447,1449	string	GATE_agent	 nested-source="w,eu,eu"
+84	1451,1478	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a12, a13" intensity="medium" nested-source="w,eu,eu" polarity="negative"
+82	881,888	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a7" nested-source="w,eu,israel" intensity="medium" polarity="negative"
+80	1575,1803	string	GATE_inside	 nested-source="w"
+78	125,156	string	GATE_target	 id="t1"
+76	787,793	string	GATE_attitude	 target-link="t3" attitude-type="other-attitude" intensity="low-medium" id="a3"
+74	830,832	string	GATE_target	 id="t5"
+72	881,891	string	GATE_attitude	 target-link="t7" attitude-type="agree-neg" intensity="medium-high" id="a7"
+70	1375,1382	string	GATE_attitude	 target-link="t9" attitude-type="agree-neg" intensity="high" id="a9"
+68	1447,1573	string	GATE_target	 id="t11"
+66	1479,1541	string	GATE_target	 id="t13"
+64	1807,1973	string	GATE_attitude	 target-link="t16" attitude-type="sentiment-neg" intensity="low-medium" id="a16" inferred="yes"
+62	2170,2188	string	GATE_attitude	 target-link="t18" attitude-type="agree-neg" intensity="medium-high" id="a18"
+60	2042,2146	string	GATE_target	 id="t20"
+58	830,830	string	GATE_direct-subjective	 expression-intensity="neutral" attitude-link="a5" implicit="true" nested-source="w" intensity="medium"
+56	1789,1802	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a15" insubstantial="c1" nested-source="w,israel,eu" intensity="low" polarity="neutral"
+54	1031,1037	string	GATE_agent	 nested-source="w,eu"
+52	1083,1093	string	GATE_objective-speech-event	 nested-source="w,eu"
+50	1005,1255	string	GATE_inside	 nested-source="w"
+48	1063,1081	string	GATE_agent	 id="importers"
+46	1000,1001	string	GATE_split	
+44	1254,1255	string	GATE_split	
+42	830,1001	string	GATE_inside	 nested-source="w"
+40	4,4	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+38	2362,2363	string	GATE_split	
+36	1803,1807	string	GATE_split	
+34	1362,1362	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+32	424,424	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	828,829	string	GATE_split	
+28	659,671	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a2" intensity="medium" nested-source="w,eu" polarity="negative"
+26	1841,1848	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w" polarity="neutral"
+24	86,115	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a1" intensity="low" nested-source="w,eu" polarity="negative"
+22	778,786	string	GATE_agent	 nested-source="w,eu"
+20	2272,2279	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w" polarity="negative"
+18	51,51	string	GATE_objective-speech-event	 objective-uncertain="somewhat-uncertain" nested-source="w" implicit="true"
+16	1432,1438	string	GATE_agent	 nested-source="w,eu"
+14	673,757	string	GATE_target	 id="t2"
+12	833,1000	string	GATE_attitude	 target-link="t5" attitude-type="arguing-pos" intensity="low-medium" id="a5"
+10	892,1000	string	GATE_target	 id="t7"
+8	1383,1394	string	GATE_target	 id="t9"
+6	1451,1478	string	GATE_attitude	 target-link="t12" attitude-type="agree-neg" intensity="medium" id="a12"
+4	1761,1771	string	GATE_attitude	 target-link="t14" attitude-type="sentiment-neg" intensity="medium" id="a14"
+2	1671,1677	string	GATE_target	 id="t16"
+0	2189,2226	string	GATE_target	 id="t18"

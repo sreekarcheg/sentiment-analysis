@@ -1,0 +1,10 @@
+#  Answer annotation file
+#  Created by AnswerToMpqaFormat.java
+#  from file:/X:/nlp/corpora/mpqa/database/annotated/30.ctc.annotated
+#  on Thu Sep 09 14:16:49 EDT 2004
+#  by ves
+
+1119	421,462	string	answer	annotator="ctc" questionnumber="4" topic="venezuela" confidence="5"
+1129	1303,1343	string	answer	annotator="ctc" confidence="3" confidencecomment="counts as 'most Venezuelans'??" questionnumber="4" topic="venezuela"
+1144	1543,1559	string	answer	annotator="ctc" questionnumber="8" topic="venezuela" confidence="5"
+1107	1676,1696	string	answer	annotator="ctc" confidence="3" confidencecomment="feeling of 'ordinary Venezuelans'??" questionnumber="6" topic="venezuela"

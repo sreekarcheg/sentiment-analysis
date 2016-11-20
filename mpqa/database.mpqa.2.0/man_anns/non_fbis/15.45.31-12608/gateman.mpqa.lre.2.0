@@ -1,0 +1,77 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/non_fbis/15.45.31-12608/15.45.31-12608.jw.attitudes.xml
+#  on Wed Feb  8 16:30:07 EST 2006
+#  by twilson
+71	4,9	string	GATE_agent	 nested-source="w,annan"
+70	68,68	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta2" implicit="true"
+69	94,138	string	GATE_agent	 id="annan" nested-source="w,annan"
+68	351,472	string	GATE_target-speech	 id="ta4"
+67	199,222	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a11" target-speech-link="cbt" nested-source="w,annan" intensity="medium" polarity="positive"
+66	19,59	string	GATE_target	 id="t10"
+65	4,4	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta1" implicit="true"
+64	745,869	string	GATE_target-speech	 id="ta11"
+63	518,521	string	GATE_agent	
+62	490,506	string	GATE_agent	 nested-source="w,chavez"
+61	10,18	string	GATE_attitude	 target-link="t10" attitude-type="sentiment-pos" intensity="medium" id="a10"
+60	745,748	string	GATE_agent	 nested-source="w,annan,annan"
+59	0,0	string	GATE_agent	 id="w"
+58	62,68	string	GATE_split	
+57	787,797	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,annan,annan" polarity="neutral"
+56	522,532	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a14" nested-source="w,chavez,chavez" intensity="medium" polarity="neutral"
+55	300,301	string	GATE_split	
+54	664,668	string	GATE_split	
+53	663,664	string	GATE_split	
+52	473,477	string	GATE_split	
+51	305,473	string	GATE_inside	 nested-source="w"
+50	354,362	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a13" target-speech-link="cbt" nested-source="w,un,annan" intensity="low" polarity="positive"
+49	377,391	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,un,annan" polarity="positive"
+48	749,771	string	GATE_attitude	 target-link="t17" attitude-type="intention-pos" intensity="medium" id="a17"
+47	869,870	string	GATE_split	
+46	368,391	string	GATE_target	 id="t13"
+45	522,535	string	GATE_attitude	 target-link="t14" attitude-type="intention-pos" intensity="medium" id="a14"
+44	518,574	string	GATE_target-speech	 id="ta9"
+43	507,517	string	GATE_objective-speech-event	 nested-source="w,chavez" target-speech-link="ta9"
+42	228,300	string	GATE_target	 id="t11"
+41	10,18	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a10" nested-source="w,annan" intensity="medium" polarity="positive"
+40	301,305	string	GATE_split	
+39	690,698	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a16" nested-source="w,annan" intensity="medium" polarity="positive"
+38	305,305	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta5" implicit="true"
+37	305,472	string	GATE_target-speech	 id="ta5"
+36	305,317	string	GATE_objective-speech-event	 nested-source="w,un" target-speech-link="ta4"
+35	472,473	string	GATE_split	
+34	668,668	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta10" implicit="true"
+33	150,185	string	GATE_agent	 id="chavez"
+32	608,621	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a15" nested-source="w,chavez,chavez" intensity="medium" polarity="neutral"
+31	396,472	string	GATE_attitude	 target-link="t12" attitude-type="arguing-pos" intensity="medium" id="a12"
+30	608,631	string	GATE_attitude	 target-link="t15" attitude-type="intention-pos" intensity="medium" id="a15"
+29	690,698	string	GATE_attitude	 target-link="t16" attitude-type="sentiment-pos" intensity="medium" id="a16"
+28	827,838	string	GATE_expressive-subjectivity	 intensity="low" nested-source="w,annan,annan" polarity="neutral"
+27	668,869	string	GATE_target-speech	 id="ta10"
+26	68,301	string	GATE_inside	 nested-source="w"
+25	426,472	string	GATE_target	 id="t12"
+24	749,768	string	GATE_direct-subjective	 expression-intensity="low" attitude-link="a17" nested-source="w,annan,annan" intensity="medium" polarity="neutral"
+23	94,300	string	GATE_target-speech	 id="ta2"
+22	536,598	string	GATE_target	 id="t14"
+21	351,353	string	GATE_agent	
+20	632,663	string	GATE_target	 id="t15"
+19	354,366	string	GATE_attitude	 target-link="t13" attitude-type="sentiment-pos" intensity="low-medium" id="a13"
+18	0,0	string	GATE_agent	 id="implicit"
+17	477,663	string	GATE_target-speech	 id="ta8"
+16	412,422	string	GATE_expressive-subjectivity	 intensity="medium" nested-source="w,un,annan" polarity="neutral"
+15	604,607	string	GATE_agent	 nested-source="w,chavez,chavez"
+14	668,870	string	GATE_inside	 nested-source="w"
+13	59,62	string	GATE_split	
+12	880,882	string	GATE_split	
+11	739,744	string	GATE_objective-speech-event	 nested-source="w,annan" target-speech-link="ta11"
+10	699,733	string	GATE_target	 id="t16"
+9	202,222	string	GATE_attitude	 target-link="t11" attitude-type="sentiment-pos" intensity="medium" id="a11"
+8	668,689	string	GATE_agent	 nested-source="w,annan"
+7	772,869	string	GATE_target	 id="t17"
+6	318,349	string	GATE_agent	 id="un" nested-source="w,un"
+5	860,869	string	GATE_agent	 id="ven" agent-uncertain="somewhat-uncertain"
+4	477,664	string	GATE_inside	 nested-source="w"
+3	396,407	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a12" annotation-uncertain="very-uncertain" target-speech-link="cbt" nested-source="w,un,annan" intensity="medium" polarity="neutral"
+2	4,59	string	GATE_inside	 nested-source="w"
+1	4,59	string	GATE_target-speech	 id="ta1"
+0	477,477	string	GATE_objective-speech-event	 nested-source="w" target-speech-link="ta8" implicit="true"

@@ -1,0 +1,58 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/xbank/wsj_0175/wsj_0175.mpqa.xml
+#  on Sun Dec 21 16:06:26 EST 2008
+#  by twilson
+369	537,538	string	GATE_split	
+341	647,659	string	GATE_agent	 nested-source="w,gp" id="gp"
+358	225,339	string	GATE_inside	 nested-source="w"
+351	439,441	string	GATE_split	
+363	647,647	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+368	7,9	string	GATE_split	
+336	725,735	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" attitude-link="attempt" nested-source="w,gp"
+342	736,794	string	GATE_target	 id="outta"
+374	9,19	string	GATE_inside	 nested-source="w"
+335	468,474	string	GATE_direct-subjective	 annotation-uncertain="somewhat-uncertain" expression-intensity="low" intensity="high" nested-source="w,sony" attitude-link="effort"
+380	796,796	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+353	645,646	string	GATE_split	
+385	841,842	string	GATE_split	
+379	796,842	string	GATE_inside	 nested-source="w"
+352	437,438	string	GATE_split	
+347	468,474	string	GATE_attitude	 target-link="hire" intensity="low" id="effort" attitude-type="intention-pos"
+354	0,0	string	GATE_expressive-subjectivity	
+337	475,537	string	GATE_target	 id="hire"
+373	20,87	string	GATE_inside	 nested-source="w"
+378	89,189	string	GATE_inside	 nested-source="w"
+338	461,467	string	GATE_agent	 nested-source="w,sony" id="sony"
+359	441,441	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+375	9,9	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+356	0,0	string	GATE_agent	 id="w"
+376	192,223	string	GATE_inside	 nested-source="w"
+357	338,339	string	GATE_split	
+340	830,841	string	GATE_direct-subjective	 insubstantial="c2" intensity="medium" nested-source="w,both" polarity="negative" attitude-link="dispute"
+333	796,806	string	GATE_agent	 nested-source="w,both" id="both"
+355	0,0	string	GATE_agent	 id="implicit"
+377	192,192	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+382	1,6	string	GATE_inside	 nested-source="w"
+350	554,599	string	GATE_target	 id="acq"
+360	441,538	string	GATE_inside	 nested-source="w"
+371	190,192	string	GATE_split	
+339	725,735	string	GATE_attitude	 target-link="outta" intensity="low-medium" id="attempt" attitude-type="intention-pos"
+361	340,340	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+349	546,553	string	GATE_attitude	 target-link="acq" intensity="low" id="plan" attitude-type="intention-pos"
+334	830,841	string	GATE_attitude	 id="dispute" attitude-type="sentiment-neg" intensity="medium"
+381	722,795	string	GATE_inside	 nested-source="w"
+344	334,338	string	GATE_objective-speech-event	 nested-source="w,spoke"
+372	188,189	string	GATE_split	
+364	647,721	string	GATE_inside	 nested-source="w"
+383	1,1	string	GATE_objective-speech-event	 implicit="true" nested-source="w"
+346	0,0	string	GATE_direct-subjective	
+370	794,795	string	GATE_split	
+345	322,333	string	GATE_agent	 nested-source="w,spoke" id="spoke"
+367	720,721	string	GATE_split	
+362	340,438	string	GATE_inside	 nested-source="w"
+343	546,553	string	GATE_direct-subjective	 expression-intensity="low" intensity="low" nested-source="w,sony" polarity="" attitude-link="plan"
+366	539,646	string	GATE_inside	 nested-source="w"
+348	539,545	string	GATE_agent	 nested-source="w,sony" id=""
+384	843,845	string	GATE_split	
+365	539,539	string	GATE_objective-speech-event	 implicit="true" nested-source="w"

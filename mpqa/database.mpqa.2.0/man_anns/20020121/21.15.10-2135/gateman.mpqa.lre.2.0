@@ -1,0 +1,48 @@
+# MPQA annotation file
+#  Created by /afs/cs.pitt.edu/projects/wiebe/opin/bin/mkman_anns.pl
+#  from gate_anns/20020121/21.15.10-2135/21.15.10-2135.tw.attitudes.xml
+#  on Mon Jul 31 22:37:51 EDT 2006
+#  by twilson
+42	839,1076	string	GATE_inside	 nested-source="w"
+41	451,452	string	GATE_split	
+40	433,446	string	GATE_agent	 nested-source="w, spokesman"
+39	856,866	string	GATE_expressive-subjectivity	 es-uncertain="somewhat-uncertain" intensity="low" nested-source="w" polarity="neutral"
+38	1140,1140	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+37	197,327	string	GATE_inside	 nested-source="w"
+36	839,839	string	GATE_direct-subjective	 attitude-link="a10" subjective-uncertain="somewhat-uncertain" nested-source="w" intensity="low" implicit="true"
+35	334,334	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+34	447,451	string	GATE_objective-speech-event	 nested-source="w, spokesman"
+33	1140,1169	string	GATE_inside	 nested-source="w"
+32	334,452	string	GATE_inside	 nested-source="w"
+31	197,197	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+30	270,326	string	GATE_agent	 id="spokesman" nested-source="w, spokesman"
+29	658,659	string	GATE_split	
+28	189,190	string	GATE_split	
+27	0,0	string	GATE_agent	 id="implicit"
+26	2,2	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+25	1138,1139	string	GATE_split	
+24	1273,1276	string	GATE_split	
+23	1183,1187	string	GATE_objective-speech-event	 nested-source="w, newsreports"
+22	831,832	string	GATE_split	
+21	1083,1083	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+20	1170,1266	string	GATE_inside	 nested-source="w"
+19	150,163	string	GATE_objective-speech-event	 nested-source="w, implicit"
+18	1083,1139	string	GATE_inside	 nested-source="w"
+17	1207,1221	string	GATE_direct-subjective	 expression-intensity="medium" attitude-link="a20" intensity="medium" nested-source="w, newsreports, implicit" polarity="neutral"
+16	1075,1076	string	GATE_split	
+15	666,832	string	GATE_inside	 nested-source="w"
+14	1170,1170	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+13	1168,1169	string	GATE_split	
+12	666,666	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+11	459,459	string	GATE_objective-speech-event	 nested-source="w" implicit="true"
+10	2,190	string	GATE_inside	 nested-source="w"
+9	1265,1266	string	GATE_split	
+8	459,659	string	GATE_inside	 nested-source="w"
+7	326,327	string	GATE_split	
+6	265,269	string	GATE_objective-speech-event	 nested-source="w, spokesman"
+5	1170,1182	string	GATE_agent	 id="newsreports" nested-source="w, newsreports"
+4	0,0	string	GATE_agent	 id="w"
+3	839,852	string	GATE_target	 id="t10"
+2	856,907	string	GATE_attitude	 target-link="t10" attitude-type="arguing-pos" id="a10" intensity="low"
+1	1188,1206	string	GATE_target	 id="t20"
+0	1207,1265	string	GATE_attitude	 target-link="t20" attitude-type="speculation" id="a20" intensity="low"
