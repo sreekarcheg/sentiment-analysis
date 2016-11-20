@@ -5,10 +5,10 @@
 Implementation of "Recognising contextual polarity in Phrase Level Sentiment Analysis", Wilson et al.  
 
 ## Setting up
-Download and place dataset.pqa.2.0 and place it in this directory.  
+Download and place database.mpqa.2.0 and place it in this directory.  
 
 To extract the features:  
-`python mpqa.py mkfeat --mpqa <dataset_folder_name> --subclues subjclues.tff --intensifiers intensifiers.tff --doclist doclist.combinedUnique --output feats.pkl`  
+`python mpqa.py mkfeat --mpqa  database.mpqa.2.0 --subclues subjclues.tff --intensifiers intensifiers.tff --doclist doclist.combinedUnique --output feats.pkl`  
   
 To extract labels:  
 `python mpqa/mpqa.py mkdata --featdf feats.pkl --data data1.pkl --labels labels1.pkl --maps map.json`  
